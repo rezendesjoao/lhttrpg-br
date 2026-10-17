@@ -1,0 +1,485 @@
+=== kBbADCGy4EATaILU/description
+# Area Heal
+<p>O alvo recupera [3D + (Poder Mágico) + (Recuperação)] PV.</p>
+<hr>
+<p>Magia que espalha um campo de força de energia curativa por uma área ampla e cura os ferimentos de todos os aliados ao alcance.</p>
+
+=== fempQNCP4RZnudzE/description
+# Assist Attack
+<p>O alvo recebe [Perseguição] com valor igual ao seu [Poder de Ataque].</p>
+<hr>
+<p>Uma técnica especial que, com um ataque de contenção, abre uma brecha na guarda do inimigo e apoia os ataques dos aliados.</p>
+
+=== OUsjguFdFAeectnG/description
+# Break Enchantment
+<p>Escolha um dos efeitos a seguir: [Teste: Oposto (Precisão vs Resistência) / Efeito: Remova todos os Estados de Combate] ou [Teste: Básico (Precisão vs. Dificuldade de Desarme) / Efeito: Remova um Objeto de cena com a tag [Mágico].]</p>
+<p>(Destino 1): O momento desta habilidade passa a ser [Momento: Abertura].</p>
+<hr>
+<p>Um poderoso feitiço de desencantamento que anula os diversos feitiços de encantamento aplicados ao alvo. Também é possível usá-lo para deter dispositivos mágicos.</p>
+
+=== VjBHjepSAUm4N9I9/description
+# Bug's Light
+<p>Todos os efeitos de [Penumbra] [Noite] e [Escuridão] dentro do alcance terminam imediatamente. Este efeito termina quando a cena terminar.</p>
+<hr>
+<p>Uma magia que invoca bestas míticas em forma de vaga-lume nas proximidades e ilumina intensamente a área.</p>
+
+=== 7J7AigH6UAdb9PLn/description
+# Crosier Style
+<p>Você passa a poder equipar armas com a tag [Cajado]. Você só pode equipar armas [Cajado] cujo Nível do Item seja igual ou inferior a [NP-2 (mínimo 1)].</p>
+<p>(NH2): Você pode equipar armas [Cajado] com Nível do Item igual ao seu NP.</p>
+<hr>
+<p>Um estilo de luta que extrai poder de um báculo cerimonial para empunhar magias poderosas.</p>
+
+=== I2uCIJvlrOMnRPCY/description
+# Cure
+<p>O alvo remove todos os Estados Negativos que o afetam no momento.</p>
+<p>(Destino 1): Esta habilidade pode ser usada com [Momento: Instantânea].</p>
+<hr>
+<p>Uma magia que envolve você em magia pura e cura os males dos seus aliados.</p>
+
+=== 6NVcZ3MqL9IPr3Fx/description
+# Dismissal
+<p>Esta habilidade só produz efeito se tiver como alvo inimigos com [Lacaio]. O alvo fica [Incapacitado] ou [Morto] (à sua escolha).</p>
+<hr>
+<p>Uma magia que, por meio de preces ao ser que protege o conjurador, toma emprestada sua autoridade e neutraliza um oponente de categoria inferior.</p>
+
+=== uke1JlWM3yvUs0j4/description
+# Divine Favor
+<p>Use esta habilidade logo depois que o alvo rolar na [Tabela de Exaustão: Estamina, Energia]. O resultado da rolagem passa a ser 0.</p>
+<p>(Bônus): Você recebe +1 [Ponto de Destino Inicial].</p>
+<hr>
+<p>Magia que recebe a proteção de seres divinos para evitar os infortúnios do caminho.</p>
+
+=== kYcjYkV1dvFZT19W/description
+# Divine Might
+<p>Durante este Processo Principal, você recebe um bônus de +2D nas rolagens de dano de [Ataque com Arma].</p>
+<p>(NP11): O bônus passa a ser +4D.<br>(NP21): O bônus passa a ser +6D.</p>
+<hr>
+<p>Uma técnica especial que oferece preces aos seres sagrados e recebe o poder de uma proteção divina capaz de repelir os inimigos.</p>
+
+=== tmQvt74NpcznKwK9/description
+# Energy Protection
+<p>Escolha uma das tags a seguir: [Chama] [Frio] [Choque] [Corrupção] [Sagrado] [Espírito]. O alvo recebe [Anulação (Tag escolhida)] com valor igual a [NHx5].</p>
+<hr>
+<p>Uma magia que projeta um campo de força de um atributo específico, com você no centro, e concede diversas resistências aos aliados ao redor.</p>
+
+=== xTfdDUPxNTG1hbxt/description
+# Energy Protection Ⅱ
+<p>Adquirida com NP 11 ou mais. Escolha uma das tags a seguir: [Chama] [Frio] [Choque] [Corrupção] [Sagrado] [Espírito]. O alvo recebe [Anulação (Tag escolhida)] com valor igual a [[mod. de INT]xNH].</p>
+<p>(Destino 1): Se você já tiver atingido o Limite desta habilidade, pode pagar este custo para usá-la novamente.</p>
+<hr>
+<p>Uma magia que projeta ao seu redor um poderoso campo de força que se opõe a atributos específicos e concede diversas resistências aos aliados próximos.</p>
+
+=== rJa0TVvri5OVaT5z/description
+# Favored Weapon Style
+<p>Esta habilidade só produz efeito quando você tem uma única arma [Uma Mão] equipada em um [espaço de mão]. Seu [Poder de Ataque] passa a ser [(Poder de Ataque) da arma x2]. Durante a primeira rodada de uma cena, reduza em -1 o custo de [Ódio] dos seus [Ataques com Arma] (mínimo 0).</p>
+<p>(NH2): Em vez de apenas durante a primeira rodada de uma cena, você sempre aplica a redução do custo de [Ódio].</p>
+<hr>
+<p>Um estilo de combate que equilibra ataque e defesa, usando uma arma de uma mão para atacar e a outra mão para lançar magias de cura.</p>
+
+=== Lnq7NAy2wBvsz6qd/description
+# God Speed
+<p>Use esta habilidade imediatamente depois que o alvo fizer uma rolagem em uma tabela de exploração. Você pode refazer essa rolagem.</p>
+<p>(Destino 1): Se você já tiver atingido o Limite desta habilidade, pode pagar este custo para usá-la novamente.</p>
+<hr>
+<p>Uma técnica especial que lança bênçãos contra a má sorte no caminho. Seu efeito é incerto, mas preces sinceras ajudarão você e seus companheiros em suas viagens.</p>
+
+=== lnQdXjvLnxpLoqTd/description
+# Heal
+<p>O alvo recupera ⟦r1⟧{[3D + (Poder Mágico) + (Recuperação) PV.]}&nbsp;</p>
+<p>(Destino 1): Aumente em +10 a quantidade de PV recuperados.</p>
+<hr>
+<p>Magia que faz chover partículas de luz e cura os ferimentos dos aliados. É a magia de recuperação mais básica.</p>
+
+=== xvUUA6VFPqQxdLPW/description
+# Heal II
+<p>Com NP 11 ou mais, substitua &laquo;Cura&raquo; por esta habilidade. O alvo recupera [3D + (Poder Mágico) + (Recuperação)] PV.</p>
+<p>(Destino 1): Aumente em +[valor de POD] a quantidade de PV recuperados.</p>
+<hr>
+<p>Magia que faz chover partículas de luz e cura os ferimentos dos aliados. Embora seja a magia de cura mais básica, a proficiência aumenta muito o seu poder curativo.</p>
+
+=== TCrdDeWwuBtDBpca/description
+# Healing Mastery
+<p>Você recebe um bônus de +[NHx3] em [Recuperação].</p>
+<hr>
+<p>Você se dedica ao estudo da magia de recuperação. Acima de tudo, esse poder, ligado diretamente à vida e à morte dos seus aliados, nunca é suficiente, por mais que você o aprimore.</p>
+
+=== oNe73obWaX8f00Vy/description
+# Holy Hit
+<p>Durante este Processo Principal, você recebe um bônus de +1D em [Testes de Acerto].</p>
+<hr>
+<p>Uma técnica especial que usa a revelação divina para encontrar a trajetória capaz de atravessar o inimigo e aumenta a precisão do ataque.</p>
+
+=== wnr7Uv0qqeEBz4vX/description
+# Keep the Team
+<p>Quando o alvo rolar na [Tabela de Exaustão: Estamina ou Energia], reduza em -1 o resultado dessa rolagem.</p>
+<p>(Bônus): Você recebe +10 em [PV Máx.].</p>
+<hr>
+<p>Você sabe administrar grupos com eficiência e alivia o esgotamento físico e mental causado pelas mais diversas dificuldades.</p>
+
+=== vxWZY8BP2adLjPnN/description
+# Legend's Cape
+<p>O alvo recebe a tag [Proteção de Alto Nível]. Esta tag dura até o fim da cena.&nbsp;</p>
+<p>(Destino 2): Se você já tiver atingido o Limite desta habilidade, pode pagar este custo para usá-la novamente.</p>
+<hr>
+<p>Uma técnica que concede aos aliados uma proteção mágica superior, que os resguarda de calamidades mágicas ou naturais. Um feitiço indispensável em aventuras de alto nível.</p>
+
+=== Tle1HlO70v5iwCrx/description
+# Pacification
+<p>O alvo pode reduzir seu [Ódio] em -3.</p>
+<hr>
+<p>Uma magia que acalma a hostilidade ao redor e diminui a atenção voltada a você e aos seus amigos.</p>
+
+=== qI59j2bqkHnXHZ8g/description
+# Preacher
+<p>Você recebe um bônus de +1D em [Testes de Negociação].</p>
+<hr>
+<p>Você tem o talento narrativo de um evangelizador. Essa também é uma das qualidades de um curandeiro, independentemente da magia.</p>
+
+=== wKE3Gp1j9H2QzJXS/description
+# Preparation For
+<p>Neste Processo Principal, ao usar &laquo;Ataque de Apoio&raquo;, aplique 2 acúmulos de [Perseguição] em vez de 1.</p>
+<hr>
+<p>Uma técnica especial que, cooperando com eficácia com os aliados e mantendo o inimigo sob controle, quebra o equilíbrio dele com precisão. Atacar o inimigo diretamente e usar magia de recuperação não são suas únicas formas de lutar.</p>
+
+=== fhNMCO0miuwbX2ok/description
+# Resurrection
+<p>Esta habilidade só pode ter como alvo um personagem com [Incapacitado]. O alvo remove sua condição [Incapacitado] e recupera ⟦r1⟧{[(Poder Mágico) + (Recuperação)] PV.}&nbsp;</p>
+<p>(Ódio 1): O alvo pode reduzir seu [Ódio] em -2.</p>
+<hr>
+<p>Magia que reacende a vida com poder mágico e dá aos que caíram a força para se reerguer. É a magia básica de ressurreição.</p>
+
+=== JkbmhOFYYzSV3Jxw/description
+# Revelation
+<p>Esta habilidade tem como alvo a próxima cena. Você descobre o nome, o nível e as tags de todos os Objetos de cena com [Dificuldade de Detecção: Automático] que aparecem na próxima cena.</p>
+<hr>
+<p>Uma técnica especial que vislumbra o futuro e, a partir dessa visão, prevê as provações que aguardam adiante.</p>
+
+=== pqanp2XbfeHlkheP/description
+# Reverse Self
+<p>Use esta habilidade logo depois de ficar [Incapacitado]. Remova imediatamente a condição [Incapacitado] e recupere ⟦r1⟧{[(Recuperação x2) + 1] PV}.</p>
+<p>Depois disso, você pode reduzir seu [Ódio] em -2.</p>
+<hr>
+<p>Magia que, graças a uma proteção mística, mantém você de pé à beira da morte. No instante em que a luz da vida está prestes a se apagar, o poder mágico armazenado em seu corpo é liberado e cura seus ferimentos.</p>
+
+=== 490w9L8hyDYrFOdy/description
+# Saint Style
+<p>Esta habilidade só produz efeito quando você não tem nada equipado em nenhum dos seus [espaços de mão]. Quando você usar uma habilidade com custo de [Ódio] 3 ou maior, reduza em -1 o custo de [Ódio] dessa habilidade (mínimo 0).</p>
+<p>(NH2): Você recebe um bônus de +2 em [Precisão].</p>
+<hr>
+<p>Um estilo de combate em que você não porta armas nem escudos e se concentra em orar de mãos vazias. Fica difícil para o oponente voltar sua hostilidade contra você.</p>
+
+=== ZIvlv66p3fmgXRXi/description
+# Scripture
+<p>Durante este Processo Principal, você recebe um bônus de +[NHx6] em [Recuperação].</p>
+<hr>
+<p>Uma técnica que concede o poder das bênçãos por meio da recitação das escrituras, a fonte do poder de cura.</p>
+
+=== CbiqPCWcAgo5kJuG/description
+# Templar Style
+<p>Esta habilidade só produz efeito quando você está equipado com uma arma [Duas Mãos]. Você recebe um bônus de +1 em [Esquiva] e [Resistência].</p>
+<p>(NH2): Você recebe um bônus de +[mod. de FOR] em [Defesa Física].</p>
+<hr>
+<p>Um estilo de luta em que você se defende empunhando uma arma longa.</p>
+
+=== o3ezOaGmg2w8ZSBG/description
+# Water Breathing
+<p>O alvo recebe a tag [Aquático] e [Anulação (Aquático): 10]. Trate este efeito como um Estado de Combate.</p>
+<p>(Destino 1): Se você já tiver atingido o Limite desta habilidade, pode pagar este custo para usá-la novamente.</p>
+<hr>
+<p>Uma magia que concede a proteção da água a você e aos seus amigos, permitindo que se movam livremente na água, assim como em terra firme.</p>
+
+=== LH0yVkDhv7TrguaQ/description
+# Water Breathing II
+<p>Adquirida com NP 11 ou mais. O alvo recebe a tag [Aquático] e [Anulação (Aquático): 20]. Trate este efeito como um Estado de Combate.</p>
+<p>(NP21): Aumente a [Anulação] para 30.<br>(Destino 1): Se você já tiver atingido o Limite desta habilidade, pode pagar este custo para usá-la novamente.</p>
+<hr>
+<p>Uma magia que concede a proteção da água a você e aos seus amigos, permitindo que se movam na água com a mesma liberdade que em terra firme, se não com mais.</p>
+
+=== wtaXgO9Z284S3uvE/description
+# Akashic Library
+<p>Use esta habilidade logo antes de fazer um [Teste de Conhecimento]. Você recebe um bônus de +2D nesse teste.</p>
+<hr>
+<p>Você consegue recordar conhecimentos profundos e detalhados sobre os mais variados assuntos.</p>
+
+=== r4S1GIpwYYYbZQyH/description
+# Arcane Blade
+<p>Cause [2D + (Poder de Ataque)] &nbsp;de dano físico ou mágico (à sua escolha). Se não houver nenhum inimigo além do alvo no mesmo Qd que você, o alvo também recebe [Perseguição: [mod. de DES] &times; NH].</p>
+<hr>
+<p>Uma técnica especial que cria lâminas mágicas a partir de armas e mãos, retalhando os inimigos em um único lampejo. A cor e o formato da lâmina variam um pouco conforme a preferência do usuário.</p>
+
+=== PZGLhaeELVGcfQQe/description
+# Astral Bind
+<p>O alvo recebe [Rigidez]. Se o alvo não sofrer pelo menos 1 ponto de dano aos PV durante este Processo Principal, ele remove este estado de [Rigidez] ao fim do Processo Principal.</p>
+<hr>
+<p>Magia que restringe os movimentos do inimigo, prendendo-o com uma corrente semimaterial forjada com poder mágico.</p>
+
+=== WNb7zLsl4ZhAsogl/description
+# Blink
+<p>Você pode fazer um [Movimento Seguro] de até [NHx2] Qd.&nbsp;</p>
+<p>(Menor): Aumente em +1 Qd a distância percorrida.</p>
+<hr>
+<p>Uma magia que cria um fluxo de poder mágico e, deixando-se levar por ele, transporta você a outro lugar sem que nada o impeça.</p>
+
+=== Vo3fCffq8mSHXSUZ/description
+# Chain Place
+<p>Escolha até [NH &times; 2] quadrados como alvo. Os quadrados precisam estar conectados e todos devem estar dentro do alcance. Os quadrados-alvo se tornam o Objeto de cena [Lamaçal Aprisionador].</p>
+<hr>
+<p>Uma magia que torna o chão lamacento e estende correntes mágicas, criando uma área em que é difícil manter o equilíbrio.</p>
+
+=== N2CLLwAYcBCWXVaD/description
+# Close Burst
+<p>Durante este Processo Principal, seus ataques passam a ter [Alcance: Corpo a corpo] e você recebe um bônus de +3D nas rolagens de dano.</p>
+<p>(Destino 1): Você recebe um bônus adicional de +2D nas rolagens de dano.</p>
+<hr>
+<p>Uma técnica especial que concentra o poder mágico bem diante dos olhos e aumenta de forma explosiva a força dos ataques.</p>
+
+=== bQEaXJXm7G0Zwmpf/description
+# Concentration
+<p>Durante este Processo Principal, você recebe um bônus de +2D em [Testes de Acerto].</p>
+<hr>
+<p>Uma técnica especial em que você firma os pés e se concentra por um instante para aumentar a precisão dos seus ataques.</p>
+
+=== Hhte5JuHrDPi0pem/description
+# Conserving Aura
+<p>Quando o alvo rolar na [Tabela de Exaustão: Itens, Dinheiro], reduza em -1 o resultado dessa rolagem.&nbsp;</p>
+<p>(Bônus): Você recebe +10 em [PV Máx.].</p>
+<hr>
+<p>Você é especialista em magias que protegem seus itens do desgaste e da deterioração.</p>
+
+=== lhSVIrejFlhD1k07/description
+# Dispel Magic
+<p>Escolha um dos efeitos a seguir: [Teste: Oposto (Precisão vs Resistência) / Efeito: Remova do alvo um número de Estados de Combate igual a [NH] (à sua escolha).] ou [Teste: Básico (Precisão vs. Dificuldade de Desarme) / Efeito: Remova um Objeto de cena com a tag [Mágico].]</p>
+<p>(NH2): Esta habilidade passa a ter [Alcance: 4 Qd.]<br>(NH3): Esta habilidade pode ser usada com [Momento: Instantânea].</p>
+<hr>
+<p>Uma magia que analisa o fluxo do poder mágico, entre outras coisas, e o golpeia com um poder mágico contrário para anular seus efeitos.</p>
+
+=== NJMhQLOfdEjrZNsM/description
+# Elemental Shell
+<p>Escolha uma entre: [Chama] [Frio] [Choque] [Corrupção] [Sagrado] [Espírito]. O alvo recebe [Anulação (Tag escolhida): 40]. Este efeito de Anulação é removido depois de ser aplicado uma vez.</p>
+<p>(Destino 1): Você pode usar esta habilidade com [Momento: Instantânea].</p>
+<hr>
+<p>Uma magia que envolve o alvo em uma barreira que anula diversos atributos. Os ataques que ela consegue deter são limitados, mas contra os ataques correspondentes ela demonstra um grande efeito defensivo.</p>
+
+=== 5k84HbeFTYP9ZMQH/description
+# Energy Weapon
+<p>Escolha uma entre: [Chama] [Frio] [Choque]. O dano de [Ataque com Arma] do alvo passa a ser dano mágico e recebe a tag escolhida. Trate este efeito como um Estado de Combate.</p>
+<p>(Destino 1): Você pode usar esta habilidade com [Alvo: Área (E)].<br>(Destino 1): Se você já tiver atingido o Limite desta habilidade, pode pagar este custo para usá-la novamente.</p>
+<hr>
+<p>Um feitiço lançado sobre a arma de um aliado, envolvendo-a em fogo, frio ou trovão.</p>
+
+=== 0wIxQRQP6sUiMbEC/description
+# Enhance code
+<p>Durante este Processo Principal, você recebe um bônus de +[NHx3] nas rolagens de dano de [Ataque Mágico].</p>
+<hr>
+<p>Uma técnica que, por meio de um encantamento que amplifica o poder mágico, aumenta a força do feitiço lançado logo em seguida.</p>
+
+=== EQimvbdnxThqXH1m/description
+# Enhance Code II
+<p>Adquirida com NP 11 ou mais. Durante este Processo Principal, você recebe um bônus de +[NHx5] nas rolagens de dano de [Ataque Mágico].</p>
+<p>(NP21): Aumente o bônus para +[NHx7].</p>
+<hr>
+<p>Uma técnica que, por meio de um encantamento que amplifica o poder mágico, aumenta a força do feitiço lançado logo em seguida. Ao pôr em palavras a intenção de matar, o golpe demoníaco ganha um poder destrutivo sem igual.</p>
+
+=== syBH0Mn2rSlHhDCB/description
+# Flip Gate
+<p>O alvo desta habilidade precisa estar disposto. Escolha qualquer quadrado a até 5 Qd. de distância. O alvo faz um [Teleporte] até esse quadrado.</p>
+<hr>
+<p>Magia que cria um portal que permite o teleporte a curta distância. Várias pessoas podem atravessá-lo ao mesmo tempo, mas ele desaparece em pouquíssimo tempo.</p>
+
+=== Uss3dkNSqWsaVY9S/description
+# Fly
+<p>O alvo recebe [Voando]. Trate este efeito como um Estado de Combate.</p>
+<p>(NP11 &amp; Destino 1): Esta habilidade pode ser usada com [Alvo: Área (E)].</p>
+<hr>
+<p>Um feitiço que manipula o vento e permite que o alvo voe livremente pelo céu.</p>
+
+=== Rv53XZu2HSV9rIiR/description
+# Foresight
+<p>Use esta habilidade quando o resultado de uma rolagem em uma tabela de exploração exigir que o alvo faça um Teste. O alvo recebe +2 nesse teste.</p>
+<hr>
+<p>Um feitiço que, com a magia da visão à distância, permite prever o que aguarda em seu caminho. Qualquer perigo é fácil de enfrentar quando se sabe dele com antecedência.</p>
+
+=== 9QzlHV7TgzsKGPKA/description
+# Forestall Style
+<p>Esta habilidade só produz efeito quando você não tem nada equipado nos seus [espaços de mão]. Você recebe um bônus de +4 em [Iniciativa].</p>
+<p>(NH2): Você recebe um bônus de +2 em [Precisão].<br>(NH3): Você recebe um bônus de +4 em [Poder Mágico].</p>
+<hr>
+<p>Um estilo de luta em que as duas mãos traçam sinais para estabilizar o poder mágico, permitindo usar a magia com rapidez e precisão.</p>
+
+=== O3L3diVmgmsHeBW4/description
+# Invisibility
+<p>O alvo fica [Oculto].</p>
+<p>(NP11 &amp; Destino 1): O alvo da habilidade muda para [Alvo: Área (E)].</p>
+<hr>
+<p>Um feitiço que apaga a aparência do alvo e o torna invisível. Dependendo do oponente, pode causar verdadeiros estragos.</p>
+
+=== K2vKkXWpgy8TBWve/description
+# Mage Hand
+<p>Use esta habilidade quando fizer um [Teste de Desarme]. Você recebe um bônus de +1D nesse teste. Enquanto estiver sob efeito desta habilidade, você pode usar &laquo;Desarmar Objeto de Cena&raquo; com [Alcance: 4 Qd.]</p>
+<hr>
+<p>Magia que cria uma mão invisível, movida livremente pelo poder mágico, capaz de realizar trabalhos minuciosos. Desarme armadilhas perigosas à distância.</p>
+
+=== b47l7VnNGizgZE6Y/description
+# Mage Howling
+<p>Suas rolagens de dano de [Ataque Mágico] recebem um bônus de +[(NPx2)+10].</p>
+<hr>
+<p>Uma técnica especial que despeja uma enorme quantidade de poder mágico e libera uma magia de força tremenda. Uma torrente de poder à beira do descontrole ruge e engole o inimigo.</p>
+
+=== cO7Wv2vNSizqJXAg/description
+# Magic Missiles
+<p>Cause [(NH + 3)D + (Poder Mágico)] de dano mágico.&nbsp;</p>
+<p>(Crítico): Aumente o dano em +2D.</p>
+<hr>
+<p>Um feitiço que dispara flechas de poder mágico concentrado. Por ser uma técnica simples, o refinamento do poder mágico está diretamente ligado à sua força e, se for invocado com grande precisão, sua eficácia aumenta drasticamente.</p>
+
+=== U1IkTEeoTLVe6ka4/description
+# Magic Torch
+<p>Todos os efeitos de [Penumbra] [Noite] e [Escuridão] dentro do alcance terminam. Este efeito dura até o fim da cena.</p>
+<hr>
+<p>Um feitiço que invoca uma luz mágica e ilumina intensamente a área. A quantidade de luz pode ser controlada livremente, até certo ponto, conforme a vontade de quem o conjura.</p>
+
+=== yPLNVUtl5rfwqSoN/description
+# Magical Pocket
+<p>Use esta habilidade logo depois que o alvo rolar na [Tabela de Exaustão: Itens, Dinheiro]. O resultado da rolagem passa a ser 0.</p>
+<p>(Bônus): Você recebe +1 [Ponto de Destino Inicial].</p>
+<hr>
+<p>Uma habilidade que distorce o espaço e guarda objetos importantes em um bolso mágico, evitando danos ao dinheiro e aos itens em longas jornadas.</p>
+
+=== aXqejZjqAj7eRVnv/description
+# Mass Analyze
+<p>Você pode usar &laquo;Identificar Inimigo&raquo; com [Alvo: Amplo 20 (E)].</p>
+<hr>
+<p>Uma técnica especial que revela as capacidades de muitos inimigos no campo de batalha a partir da força e da natureza do poder mágico que paira ao redor deles.</p>
+
+=== sUA5iVVAsmsVBosr/description
+# Prediction
+<p>Use esta habilidade logo depois de fazer um [Teste de Acerto]. Você pode escolher quantos dados quiser entre os rolados nesse teste e rolá-los novamente.</p>
+<hr>
+<p>Uma técnica especial que prevê os movimentos do inimigo a partir do fluxo do poder mágico e acerta o ataque com precisão.</p>
+
+=== rDvyCowZDMe2anOL/description
+# Release
+<p>Use esta habilidade imediatamente depois que o alvo receber um estado com a tag [Selo]. O estado é removido imediatamente.&nbsp;</p>
+<p>(Destino 1): Esta habilidade pode ser usada com [Alcance: 20 Qd.]</p>
+<hr>
+<p>Uma técnica especial que remove os terríveis males enfrentados por aventureiros de alto nível, como petrificação, paralisia total, amarras poderosas, cegueira e desmaio.</p>
+
+=== DLm85L1NgWK8VP7n/description
+# Scrying
+<p>Você pode usar &laquo;Identificar Inimigo&raquo; contra um inimigo cujo nome você conheça.</p>
+<p>(Destino 1): Se você já tiver atingido o Limite desta habilidade, pode pagar este custo para usá-la novamente.</p>
+<hr>
+<p>Uma técnica especial que, por meio de ilusões mágicas, revela a identidade do inimigo que aguarda em seu caminho.</p>
+
+=== HUzAZSlBsbdRbHEB/description
+# Twilight Mantle
+<p>Reduza seu [Ódio] em -2.</p>
+<hr>
+<p>Uma magia que manipula a luz para ocultar o conjurador, fazendo-o se fundir à escuridão. Embora o efeito seja apenas momentâneo, esse manto de trevas que o torna invisível é eficaz o bastante para distrair os inimigos.</p>
+
+=== MvcPYED8J5ebfOzi/description
+# Ultimagica
+<p>Você recebe um bônus de +1D em [Testes de Acerto].</p>
+<hr>
+<p>Você conhece tudo sobre a arte de manipular a magia. Pode-se dizer que a magia que você tece já alcançou o patamar da arte.</p>
+
+=== s5yFFWyNa0LrpKe2/description
+# Void Spell
+<p>Use esta habilidade quando o alvo usar uma habilidade. Os efeitos da habilidade usada são anulados.</p>
+<hr>
+<p>Magia que anula as ações do inimigo ao manifestar um vazio que neutraliza todo poder. Até um ataque capaz de esmagar montanhas e partir o mar não passa de mais uma existência a ser anulada diante do verdadeiro nada.</p>
+
+=== wg4B96ho65CUr1wH/description
+# Assault Stance
+<p>Enquanto estiver nesta postura, você recebe um bônus de +[NHx4] nas rolagens de dano. Você sofre uma penalidade de -2 em [Testes de Esquiva].</p>
+<hr>
+<p>Uma técnica especial em que você assume uma postura ofensiva, que prioriza a força de um único golpe em vez da esquiva.</p>
+
+=== Zd3xCSt65kIRdWSi/description
+# Aura Saber
+<p>Cause [(NH)D + (mod. de FOR)] de dano penetrante ao alvo. Os efeitos de &laquo;Maestria em Armas&raquo; podem ser aplicados a esta rolagem de dano.</p>
+<p>(Topo de Ódio): Esta habilidade recebe um bônus de +1 em seu [Teste de Acerto].</p>
+<hr>
+<p>Uma técnica especial que ataca com armas e punhos envoltos em uma aura reluzente. Um golpe repleto de espírito de luta e magia atravessa com facilidade armaduras e escamas resistentes.</p>
+
+=== BXch4vwtnw11R2XK/description
+# Bastard Weaponry
+<p>Entre as habilidades que você adquiriu, escolha uma com a tag [Lâmina], [Lança], [Contundente] ou [Artes Marciais].<br>Remova a tag [Lâmina], [Lança], [Contundente] ou [Artes Marciais] da habilidade escolhida. Este efeito dura até o fim do cenário.</p>
+<hr>
+<p>Com inspiração e prática, você desenvolve talentos únicos e consegue usar com outras armas técnicas restritas a um tipo de arma.</p>
+
+=== Clvgte7ozJlPidg7/description
+# Bloody Tolerance
+<p>Seu [Teste de Resistência] recebe +1D.</p>
+        <hr>
+        <p>Seu corpo e sua mente, bem treinados, têm grande resistência a condições extremas.</p>
+
+=== 7E4RSV5xeN1zojlv/description
+# Comfort
+<p>Adicione 1 ao [Teste de Vigor] feito pelo alvo. Você não pode escolher a si mesmo como alvo desta habilidade.</p>
+<hr>
+<p>Uma técnica especial que, com um pouco de incentivo e carinho, reanima os aliados que parecem desanimados em um ambiente hostil. Só de olhar para você, eu já ganho um pouco de coragem.</p>
+
+=== pIUm0etA4FI6He6U/description
+# Cool Defense
+<p>Use esta habilidade quando for atingido por um ataque. Você ignora qualquer Dano de Ódio, ou dano de [Perseguição] ou de [Fraqueza], que esse ataque causaria.</p>
+<hr>
+<p>Uma técnica especial que discerne os ataques do oponente e se defende deles com calma, sem se deixar dominar pela hostilidade dirigida a você. Controlando seu medo e sua raiva, você se torna uma muralha fria e indestrutível.</p>
+
+=== Lg6NK0meDiOqLtNy/description
+# Counter Break
+<p>Use esta habilidade quando você for sofrer dano aos PV. Reduza o dano aos PV que você receberia em um valor igual ao seu [Poder de Ataque].&nbsp;</p>
+<p>(Destino 1): Cause dano direto igual ao seu [Poder de Ataque] ao alvo que causou dano a você.</p>
+<hr>
+<p>Uma técnica especial que neutraliza a força de um ataque que se aproxima lançando um ataque seu em resposta. Para um guerreiro veterano como você, contra-atacar é fácil.</p>
+
+=== ySXNdtNTz3BVoV12/description
+# Covering
+<p>Durante a [Etapa de Aplicação de Dano], você recebe o dano aos PV previsto que um alvo que não seja você receberia. O alvo não recebe dano. Você só pode usar esta habilidade uma vez em resposta a cada ataque.</p>
+<hr>
+<p>Uma habilidade que protege os aliados de ataques.</p>
+
+=== IfTpWMEue8D8TShM/description
+# Detection Attack
+<p>[Poder de Ataque +1D] de dano físico. [Sucesso no Teste de Precisão] O alvo recebe o estado [Identificado]. [Ódio 1] O [Teste de Precisão] desta habilidade recebe +2.</p>
+        <hr>
+        <p>Uma habilidade que desfere um golpe para testar a reação do oponente e avalia com precisão a força do inimigo.</p>
+
+=== T0eEFVI1IucjGZNK/description
+# Disturbing Attack
+<p>Use esta habilidade quando o [Teste de Precisão] de um ataque com [Alvo: Individual] tiver como alvo um aliado que não seja você. Cause dano direto igual ao seu [Poder de Ataque] ao alvo.&nbsp;</p>
+<p>(Topo de Ódio): Este uso não consome um dos usos desta habilidade.</p>
+<hr>
+<p>Uma técnica especial que golpeia imediatamente um inimigo que tenta atacar um aliado. Com o seu orgulho, você não pode deixar passar um inimigo que o ignora.</p>
+
+=== d9E5ZdyG8ARBjo7j/description
+# Faultless Hit
+<p>Durante este Processo Principal, você recebe um bônus de +1D em [Testes de Acerto].</p>
+<hr>
+<p>Uma técnica especial em que você prepara a arma, encontra as brechas do inimigo e acerta com precisão o ataque seguinte.</p>
+
+=== ZooE2Lcm5d7kEFri/description
+# Forcible Recovery
+<p>Use esta habilidade logo depois que o alvo rolar na [Tabela de Exaustão: Estamina, Itens]. O resultado da rolagem passa a ser 0.</p>
+<p>(Bônus): Você recebe +1 [Ponto de Destino Inicial].</p>
+<hr>
+<p>Uma habilidade que protege os amigos e os bens dos perigos do caminho. Você é um escudo para seus aliados, e não apenas em combate.</p>
+
+=== KOO4Tqx4DGB0A665/description
+# Fortress Stance
+<p>Enquanto estiver nesta postura, efeitos de [Perseguição] e [Fraqueza] sobre você nunca são ativados, e você não pode ser submetido a movimento forçado. Você sofre uma penalidade de -2 em [Testes de Acerto].</p>
+<hr>
+<p>Uma técnica especial em que você assume uma postura defensiva, que prioriza uma defesa estável em vez do ataque.</p>
+
+=== dsXP8157Ze7lSFja/description
+# Hate Exchange
+<p>Escolha como alvo um aliado com [Ódio] maior que o seu. Você troca seu valor de [Ódio] com o do alvo.</p>
+<hr>
+<p>Uma técnica especial que intimida o inimigo como se protegesse um aliado que atraiu atenção demais e assume toda a hostilidade no lugar dele.</p>
+
+=== MPttmrTCeOiQVrmP/description
+# Indomitable
+<p>Use esta habilidade logo depois de ficar [Incapacitado]. Remova imediatamente a condição [Incapacitado] e recupere [(Recuperação) + (FOR base x2)] PV.</p>
+<hr>
+<p>Uma técnica especial que, graças a uma vontade indomável, devolve as forças a um corpo mortalmente ferido e o põe de pé outra vez. Um verdadeiro guerreiro não é derrotado só porque seu corpo foi abatido. Até que sua alma se quebre, você continuará cumprindo seu dever de guardião.</p>

@@ -1,0 +1,32 @@
+{
+  "LHTRPG-PTBR": {
+    "Settings": {
+      "Compendiums": {
+        "Name": "Translate the compendiums",
+        "Hint": "Only with the Português (Brasil) language: shows the names, descriptions and rules of the system compendiums in Portuguese."
+      },
+      "Display": {
+        "Name": "Translate tags and skill fields",
+        "Hint": "Only with the Português (Brasil) language: shows tags and the Timing, Range, Target, Cost, Limit and Check fields in Portuguese. The stored values stay in English."
+      }
+    },
+    "World": {
+      "Title": "Translate world documents",
+      "MenuLabel": "Translate world documents",
+      "MenuHint": "Only with the Português (Brasil) language: translates the world actors and items that came from the system compendiums and are still in English.",
+      "Hint": "World documents that came from the system compendiums get their Portuguese name and effect names.",
+      "CountActors": "Monsters: {count}",
+      "CountOwned": "Owned items and skills: {count}",
+      "CountItems": "Items in the directory: {count}",
+      "CountEffects": "Effects: {count}",
+      "Descriptions": "Also translate descriptions",
+      "DescriptionsHint": "Replaces the current description with the translated compendium one.",
+      "Backup": "Back up the world before you continue.",
+      "Apply": "Translate",
+      "Cancel": "Cancel",
+      "Done": "{count} document(s) translated.",
+      "Nothing": "No world document needs translating.",
+      "NoLanguage": "Choose the Português (Brasil) language to use this tool."
+    }
+  }
+}

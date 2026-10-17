@@ -1,0 +1,125 @@
+=== itnBMAz9kK6bc5yG/description
+# Material Gatherer
+<p>Você pode usar esta habilidade se sua subclasse for Coletor, Minerador, Guarda de Fronteira ou Comerciante.</p>
+<p>Você pode fazer uma rolagem na [Tabela de Tesouro: Reagentes Mágicos].&nbsp;</p>
+<p>(Conexão: Espírito Livre, Cartógrafo): Você recebe um bônus de +4 na rolagem.<br>(Conexão: Explorador, Caçador): Você recebe um bônus de +4 na rolagem.</p>
+<hr>
+<p>Uma habilidade que permite reunir materiais mágicos por diversos métodos, como coleta, busca e comércio.</p>
+
+=== vk5TZUE1gZZhaClc/description
+# Mist Maker
+<p>Você pode usar esta habilidade se sua subclasse for Artífice, Sigilomante, Alquimista, Mestre das Varinhas ou Maquinista.</p>
+<p>Você recebe um item básico com a tag [Pedra Mágica] ou [Mágico] cujo Nível do Item seja menor que [NP - 2 (no mínimo 1)].&nbsp;</p>
+<p>(NH2): Você pode receber um item com Nível do Item igual ou inferior ao seu NP.</p>
+<p>(Conexão: Mestre de Ofício, Colecionador, Mago): O custo de Destino é 0 em vez de 1.</p>
+<hr>
+<p>Uma habilidade especial que infunde poder mágico em diversas ferramentas e cria ferramentas mágicas especiais.</p>
+
+=== k0wkRPEH9WGAkyAU/description
+# Noble Aura
+<p>Você pode usar esta habilidade se sua subclasse for Nobre ou Sábio.</p>
+<p>Use esta habilidade quando fizer um [Teste de Negociação]. Você recebe +1D nesse teste.</p>
+<p>(Destino 1): O teste se torna um Crítico.</p>
+<hr>
+<p>Uma habilidade especial que impressiona o coração do oponente com a atmosfera nobre, o charme e a postura que lhe são naturais.</p>
+
+=== TosHEFCa4DAiCsch/description
+# Pharmacist
+<p>Você pode usar esta habilidade se sua subclasse for Herbalista, Farmacêutico ou Médico.</p>
+<p>Você recebe dois itens com a tag [Medicamento] cujo Nível do Item não exceda aquele que você pode usar.</p>
+<p>(Conexão: Artista, Alquimista, Coletor): Você recebe três itens em vez de dois.</p>
+<hr>
+<p>Você costuma misturar poções e se preparar para a aventura.</p>
+
+=== N1zVRK41micME7j9/description
+# Quick Delivery
+<p>Você pode usar esta habilidade se sua subclasse for Mensageiro, Bombardeiro ou Colecionador.</p>
+<p>Mova qualquer item do seu [Espaço de Inventário] para o [Inventário] de um alvo que concorde com isso.</p>
+<hr>
+<p>Uma habilidade que permite entregar itens rapidamente a aliados distantes, arremessando-os ou disparando-os com ferramentas. Com você por perto, o item já estará lá quando a outra pessoa precisar dele.</p>
+
+=== 6az4SQ5FHE4Ytgx1/description
+# Remapping
+<p>Você pode usar esta habilidade se sua subclasse for Cartógrafo, Batedor ou Explorador.</p>
+<p>Afeta a próxima cena de batalha. Você pode ver a ficha de encontro que será usada na próxima batalha. Entre os Objetos de cena que aparecem, você obtém as informações dos Objetos de cena com &ldquo;Dificuldade de Detecção: Automática&rdquo;, como se os tivesse visto.</p>
+<p>(Falha Crítica): O inimigo percebe o reconhecimento.</p>
+<hr>
+<p>Uma habilidade especial que faz o reconhecimento do terreno ao redor e rapidamente esboça um mapa.</p>
+
+=== 8TBzCEusgVNMOSSh/description
+# Ruingling's Words
+<p>Você pode usar esta habilidade se sua subclasse for Negociador, Cortesã ou Lorde Demônio.</p>
+<p>Quando você fizer um [Teste de Negociação] Oposto, use esta habilidade na pessoa que se opõe a você. Escolha um dos estados, [Atordoado] ou [Presunçoso], e aplique-o ao alvo.&nbsp;</p>
+<p>(Conexão: Alvo): Usar esta habilidade contra este alvo não consome o limite dela, e ela pode ser usada contra ele mesmo depois de o limite ter sido atingido.</p>
+<hr>
+<p>Uma habilidade especial que conduz a mente do oponente com um discurso habilidoso e arranca dele a resposta que você deseja.</p>
+
+=== Lxk3xiEDy0xDYOkZ/description
+# Scribe Scroll
+<p>Você pode usar esta habilidade se sua subclasse for Escriba, Arcanista ou Ladrão de Feitiços.</p>
+<p>Você recebe dois itens com a tag [Pergaminho] cujo Nível do Item não exceda aquele que você pode usar.</p>
+<p>(Conexão: Intelectual, Erudito, Aprendiz): Você recebe três itens em vez de dois.</p>
+<hr>
+<p>A proeza de criar pergaminhos mágicos escrevendo feitiços em pergaminhos ou papéis em branco.</p>
+
+=== 0cByTYQaxNCLyDvd/description
+# Spray Potion
+<p>Você pode usar imediatamente um item [Medicamento] com [Alvo: Individual / Alcance: 4 Qd.]</p>
+<p>(Ódio 1 &amp; Destino 1): Mude o alvo para [Alvo: Área (E)].</p>
+<hr>
+<p>Uma habilidade especial que permite borrifar remédio líquido em forma de névoa, capaz de afetar até mesmo amigos distantes.</p>
+
+=== Y20YeS6GTDzLf6e3/description
+# Super Star
+<p>Você pode usar esta habilidade se sua subclasse for Chindon'ya, Ídolo, Acrobata ou Lorde Demônio. Você pode fazer uma rolagem na [Tabela de Tesouro: Objetos de Valor]. Para cada Conexão que você tiver, você recebe um bônus de +1 nessa rolagem (até um máximo de +10).</p>
+<hr>
+<p>Uma proeza que representa alguém dotado de talento e carisma excepcionais. Você receberá presentes de seus fãs.</p>
+
+=== MgebijuT9RC87KQt/description
+# Swear-by-Sword
+<p>Você pode usar esta habilidade se sua subclasse for Cavaleiro, Herói ou Wuxia.</p>
+<p>Só pode ter como alvo um personagem que concorde, exceto você. Quando você usar "Proteger" tendo esse personagem como alvo, a habilidade passa a ter [Alcance: 1 Qd.], você não fica em [Pós-Ação] e ela pode ser usada mesmo se você estiver em [Pós-Ação]. Este efeito dura até o fim do cenário.</p>
+<hr>
+<p>Uma habilidade especial que faz um voto de proteção com a própria espada. Enquanto eu mantiver este juramento, jamais deixarei que lâmina alguma me alcance.</p>
+
+=== l29DgWR4ELIGrWGF/description
+# Table Turning
+<p>Você pode usar esta habilidade se sua subclasse for Apostador, Duelista, Sobrevivente ou Tático. Use esta habilidade quando você e o alvo fizerem um Teste Oposto. Troque todos os dados que você rolou por todos os dados que o alvo rolou para determinar os novos resultados de ambas as partes, assim como quem vence e quem perde.</p>
+<hr>
+<p>Uma habilidade especial que desfere uma jogada para dar a volta por cima.</p>
+
+=== zTcbmcaZ62fM0wEU/description
+# Trap Jack
+<p>Você pode usar esta habilidade se sua subclasse for Mestre de Armadilhas, Designer ou Carpinteiro.</p>
+<p>Você pode ter como alvo um [Artifício] no estado [Processado]. O alvo realiza imediatamente uma ação de [Momento: Maior], uma única vez. Você decide a ação e o alvo dessa ação.</p>
+<hr>
+<p>Uma habilidade especial que compreende instantaneamente a estrutura de armadilhas e mecanismos e manipula temporariamente seus movimentos à vontade.</p>
+
+=== rL0Gm1eWuv8Lm4yC/description
+# Weak Point
+<p>Você pode usar esta habilidade se sua subclasse for Arcanista/Erudito da Magia, Treinador ou Tático/Estrategista.</p>
+<p>Use esta habilidade quando colocar um Inimigo no estado [Identificado]. Aplique a esse inimigo [Perseguição: (mod. de INT)].</p>
+<hr>
+<p>Uma habilidade especial que permite desvendar os hábitos e as fraquezas do inimigo com base em informações. O conhecimento e a experiência acumulados às vezes podem se tornar armas mais poderosas que espadas e magia.</p>
+
+=== zrnebr4ntKEHvwji/description
+# Wheeler Dealer
+<p>Você pode usar esta habilidade se sua subclasse for Mercador/Comerciante, Vendedor ou Contador.</p>
+<p>Você pode usá-la quando quiser, exceto durante um combate. Seu [Teste de Negociação] recebe +2. Além disso, você fica imune aos estados [Atordoado] e [Presunçoso]. Este efeito dura até o fim da cena ou até o início de uma batalha.</p>
+<hr>
+<p>Uma habilidade especial que conduz as negociações a seu favor com a serenidade de uma verdadeira raposa velha. Se você conseguir manter a mente calma mesmo no calor do debate, todas as provocações e tentações serão inúteis.</p>
+
+=== JJ8AOulPtfwzV1Tr/description
+# Wolf Rider
+<p>Você pode usar esta habilidade se sua subclasse for Mercenário, Fora da Lei ou Vingador.</p>
+<p>Você fica no estado [Montado: Lobo Gigante]. Além disso, enquanto estiver no estado [Montado: Lobo Gigante], você pode usar os Poderes EX "Disparada da Fera" e "Pisoteio Selvagem" das habilidades básicas.</p>
+<hr>
+<p>Uma proeza que indica que você possui lobos de grande porte que pode montar. Os lobos carregam você nas costas e lutam ao seu lado.</p>
+
+=== wBbRELHgFSfyR9do/description
+# Woodcraft
+<p>Você pode usar esta habilidade se sua subclasse for Marceneiro ou Luthier. Você recebe um item básico com a tag [Arco], [Cajado] ou [Instrumento] e Nível do Item não superior ao seu [NP-2 (mínimo 1)].</p>
+<p>(NH2): Você pode receber um item com Nível do Item igual ou inferior ao seu NP.</p>
+<p>(Conexão: Mestre de Ofício, Carpinteiro, Colecionador): Reduza o custo de Destino desta habilidade para 1.</p>
+<hr>
+<p>Uma habilidade especial para trabalhar materiais de origem vegetal, como a madeira.</p>

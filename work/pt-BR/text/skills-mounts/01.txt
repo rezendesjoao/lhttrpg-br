@@ -1,0 +1,112 @@
+=== 75gWvGWCuiO5kOJ6/description
+# Jato Aquático
+<p>Você pode fazer um [Movimento Normal] de 2 Qd.</p><p>(Menor): Se houver Objetos de cena com a tag [Submerso] ou efeito semelhante em todos os Qd percorridos do início ao fim do movimento, a distância percorrida é + 4 Qd.</p>
+
+=== BHoOcVSFxzobabEZ/description
+# Carga do Urso
+<p>Disponível quando você está no estado [Montado: Urso-Coruja]. Você pode fazer um [Movimento Normal] de 3 Qd.</p><p>(Menor): Quando você se mover neste Processo Principal, se a diferença entre a [Altura] do Qd antes do movimento e a [Altura] no destino for de 2 Qd ou menos, trate a diferença de [Altura] como 0.</p>
+
+=== lNNqo1pGMktLq1n7/description
+# Disparada da Fera
+<p>Você pode fazer um [Movimento Normal] de 3 Qd.&nbsp;</p>
+<p>(Menor): Você pode fazer um [Movimento Seguro] de 1 Qd antes do [Movimento Normal].</p>
+
+=== GdZKUBAdlNM1ZSga/description
+# Salto da Fera
+<p>Você recebe a tag [Voando] e pode fazer um [Movimento Normal] de 2 Qd. Após o movimento, você perde a tag [Voando].</p><p>(Menor): Após o fim do movimento, você pode fazer um [Movimento Normal] de até 2 Qd.</p>
+
+=== lwdAdE2wShaivWLG/description
+# Onda Gigante
+<p>Como custo, perca imediatamente a Ação Menor. Escolha um Qd com [Submerso] ou com um Objeto de cena de efeito semelhante. Você pode se transferir instantaneamente para o Qd escolhido.</p>
+
+=== mrlBty6R0vYhMAwB/description
+# Rede de Captura
+<p>Faça o alvo realizar um [Teleporte (forçado)] até o Qd em que você está.</p>
+
+=== Cgm8uJ7holHEMd48/description
+# Blindagem da Carruagem
+<p>Você recebe [Barreira: (NP &times; 3) +10] e a tag [Carga]. Se esta [Barreira] for perdida, você também perde a tag [Carga].</p>
+
+=== AjDDO9iniKiGfvZB/description
+# Avanço da Carruagem
+<p>Você pode fazer um [Movimento Normal] de 2 Qd. Você pode aplicar um [Movimento Seguro (forçado)] &nbsp;a [Alvo: Dois / Alcance: Corpo a corpo] alvos voluntários, do ponto de início até o ponto final do seu movimento.&nbsp;</p>
+<p>(Menor): A distância percorrida é +1 Qd.</p>
+
+=== bPFuwHRIBk9sMA0B/description
+# Presa de Arrasto
+<p>Se você fizer um [Ataque com Arma] com [Alvo: Individual / Alcance: Corpo a corpo] neste Processo Principal e o alvo falhar no [Teste de Esquiva], você pode fazer um [Movimento Seguro] de 1 Qd ao fim do Processo Principal. Além disso, ao mesmo tempo, seu alvo faz um [Movimento Seguro (forçado)] para o mesmo quadrado que você.</p>
+
+=== ziAhxPityn297z0S/description
+# Chicotada de Força
+<p>Como custo, perca imediatamente a Ação Menor. Você pode fazer um [Movimento Normal] de 3 Qd. Ao fim do movimento, cause a [Alvo: Individual / Alcance: Corpo a corpo] dano direto igual ao seu [mod. de FOR]. Este dano ativa um acúmulo de [Perseguição] como se o alvo tivesse falhado no [Teste de Esquiva].</p>
+
+=== 0HsWmQG7uwvpbqTj/description
+# Caminhante da Relva
+<p>Você pode fazer um [Movimento Normal] de 3 Qd. Se você estiver em um Objeto de cena de terreno com a tag [Natural], esse movimento passa a ser um [Movimento Seguro].</p><p>(Menor): A distância percorrida é +1 Qd.</p>
+
+=== XHhJN3WbwVjQf2EH/description
+# Coice de Cavalo
+<p>O alvo faz um [Movimento Seguro (forçado)] de até 1 Qd.</p>
+<p>(Menor &amp; Lacaio): O alvo fica [Cambaleante].</p>
+
+=== Fykbnmen1o78WgOg/description
+# Trote de Cavalo
+<p>Você pode fazer um [Movimento Normal] de 3 Qd.&nbsp;</p>
+<p>(Menor): A distância percorrida é + 2 Qd.</p>
+
+=== 9lMFFLX7gfiSkQtk/description
+# Lua Uivante
+<p>Os alvos sofrem [Perseguição: [mod. de POD] + 5] e fazem um [Movimento Seguro (forçado)] de até 2 Qd. Este movimento só pode ter como alvo inimigos que estejam em um quadrado diferente do seu.</p>
+
+=== Cc5q7K33KqMTTKTr/description
+# Movimento de Inseto
+<p>Você pode fazer um [Movimento Normal] de 2 Qd. Durante este movimento, você pode ignorar a [Altura] ao se mover.</p><p>(Menor): A distância percorrida é +1 Qd.</p>
+
+=== 6Ze6juwjRBizcUXv/description
+# Mergulho do Kelpie
+<p>Disponível quando você está no estado [Montado: Kelpie]. Você pode fazer um [Movimento Normal] de 1 Qd.</p><p>(Menor): A distância percorrida é + 2 Qd.</p><p>(Você: Nadando): Você pode passar ao estado [Oculto] no início do movimento e mantê-lo.</p>
+
+=== 9LUil4REDIUt7RHA/description
+# Caminhada da Lhama
+<p>Disponível quando você está no estado [Montado: Lhama]. Você pode fazer um [Movimento Normal] de 2 Qd.<br>Esta ação pode ser feita mesmo no estado [Rigidez].</p>
+
+=== NaFq4RUOxVvLDhG5/description
+# Caçador do Oceano
+<p>Como custo, perca imediatamente a Ação Menor. Você pode fazer um [Movimento Normal] de 2 Qd. Ao fim do movimento, cause a [Alvo: Individual / Alcance: Corpo a corpo] dano direto igual ao seu [mod. de DES].</p><p>(Alvo: Lacaio): Em vez disso, o dano passa a ser [valor de DES].</p>
+
+=== FIwqmMJtZL0TMk7y/description
+# Fora de Fase
+<p>Disponível quando você está no estado [Montado: Cavalo de Fase]. Você pode fazer um [Movimento Normal] de 3 Qd.</p><p>(Menor & Destino 1): Após o fim do movimento, você fica no estado [Ausente da Cena]. Esse estado é removido automaticamente ao fim desta rodada.</p>
+
+=== Fmoi6cS6nsaAT2wo/description
+# Galope Potente
+<p>Disponível quando você está no estado [Montado: Cavalo de Guerra]. Você pode fazer um [Movimento Normal] de 3 Qd.</p><p>(Menor): Se você se mover mais de 1 Qd com esta ação, recebe + NP na Rolagem de Dano de um [Ataque com Arma] que fizer neste Processo Principal.</p>
+
+=== IgxuHdFkHn8GoSMS/description
+# Sentidos Afiados
+<p>Você pode fazer um [Movimento Normal] de 2 Qd. Se você estiver em um Objeto de cena de terreno com a tag [Natural], esse movimento passa a ser um [Movimento Seguro].</p><p>(Menor): Após o fim do movimento, o estado [Oculto] dos Objetos de cena que estejam em [Alvo: Amplo 1 (T) / Alcance: Corpo a corpo] a partir de você é cancelado.</p>
+
+=== hKFqldcHs2b1j2C8/description
+# Investida da Aranha
+<p>Faça um [Movimento Normal] de 1 Qd. Depois, você pode fazer um [Movimento Instantâneo] de 3 Qd.&nbsp;</p>
+<p>Durante esse [Movimento Instantâneo], você é considerado [Voando], mas só pode se mover em linha reta.&nbsp;</p>
+
+=== 5NRJTPHgcgJCXBki/description
+# Ataque Surpresa
+<p>Use esta habilidade logo após ter sucesso em uma ação com a tag [Reconhecimento]. O alvo é 1 inimigo com a tag [Lacaio] que vai aparecer na próxima cena (escolhido pelo Mestre). No início da próxima cena, você aparece no mesmo quadrado que o alvo e, em seguida, pode deixá-lo imediatamente [Morto] ou [Incapacitado]. Se nenhum [Lacaio] aparecer, esta habilidade falha, mas não consome o limite.</p>
+
+=== xd5JVsTpGUH1P9Pe/description
+# Disparada Locomotiva
+<p>Como custo, perca uma Ação Menor logo em seguida. Você pode fazer um [Movimento Normal] de 6 Qd, mas ele deve ser em linha reta.</p>
+
+=== r4CCSA5gFr9xVXOP/description
+# Trote de Guerra
+<p>Você pode fazer um [Movimento Normal] de 3 Qd.</p><p>(Menor): A distância percorrida é + 2 Qd. <br>(Menor): Durante este movimento, você não pode ser alvo da [Obstrução] de inimigos [Lacaio].</p>
+
+=== 07N1chL3x0knBANF/description
+# Pisoteio Selvagem
+<p>Disponível quando você está no estado [Montado: Lobo Gigante]. Se você causar pelo menos 1 de dano em PV ao alvo durante esta rodada, o alvo sofre [Rigidez].</p>
+
+=== xYqaNP3wnCljzQvA/description
+# Avanço do Lobo
+<p>Disponível quando você está no estado [Montado: Lobo Atroz]. Você pode fazer um [Movimento Normal] de 3 Qd.</p><p>(Menor): Quando você se mover mais de 1 Qd com esta ação, após o fim do movimento, escolha [Alvo: Individual / Alcance: Corpo a corpo] e inflija [Perseguição: (valor de DES)].</p>

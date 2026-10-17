@@ -1,0 +1,415 @@
+=== Kd0MgEApWglAutUr/description
+# Presa Acelerada
+<p>Cause ⟦r1⟧{[(NH+1)D + (Poder de Ataque)]}&nbsp; de dano físico ao alvo.</p>
+<p>(Sucesso): Você pode fazer um [Movimento Seguro] de 1 Qd.</p>
+<hr>
+<p>Uma técnica especial que corta o inimigo com rapidez enquanto passa por ele em disparada. Ao acertar o golpe, você mantém o embalo e preserva a distância.</p>
+
+=== ImQ0sqqKTHn4AZjj/description
+# Assassinar
+<p>Ao usar esta habilidade, você pode gastar até três [Pontos de Destino] (0 é permitido). Você recebe um bônus de +[([Pontos de Destino] gastos + NH) x 7] nas rolagens de dano de [Ataque com Arma].</p>
+<p>(NP11): O multiplicador do bônus passa a ser x12.&nbsp;<br>(NP21): O multiplicador do bônus passa a ser x20.</p>
+<hr>
+<p>Uma técnica especial que desfere um golpe letal e preciso, como se costurasse com uma agulha a brecha entre a mente e o corpo do oponente. A rapidez com que ceifa vidas faz jus ao seu nome.</p>
+
+=== LgaGAmXZKLi2J3Zf/description
+# Estilo Viúva-Negra
+<p>Esta habilidade só produz efeito quando você tem equipada em um [espaço de mão] apenas uma única arma de [Uma Mão] com a tag [Leve]. Você recebe um bônus de +[[mod. de DES] x 2] no [Poder de Ataque]. Você recebe um bônus de +[NHx5] nas rolagens de dano feitas enquanto estiver [Oculto].</p>
+<hr>
+<p>Um estilo de luta que maneja armas que você conhece bem e desfere golpes poderosos a partir dos pontos cegos do inimigo.</p>
+
+=== TWnPOoj4dlPPCl0Z/description
+# Estilo Viúva-Negra II
+<p>Adquirida com NP 11 ou mais. Esta habilidade só produz efeito quando você tem equipada em um [espaço de mão] apenas uma única arma de [Uma Mão] com a tag [Leve]. Você recebe um bônus de +[[mod. de DES] x 2] no [Poder de Ataque]. Você recebe um bônus de +[valor de DES] nas rolagens de dano feitas enquanto estiver [Oculto].</p>
+<hr>
+<p>Um estilo de luta que maneja armas que você conhece bem e desfere golpes poderosos a partir dos pontos cegos do inimigo. Quem subestima a leveza da sua arma acaba caindo por terra sem jamais enxergar seu verdadeiro valor.</p>
+
+=== pob9RtVjcTgxtd98/description
+# Olhar Frio
+<p>Você recebe um bônus de +1D nos [Testes de Percepção].</p>
+<hr>
+<p>Você é extremamente observador e concentrado. Esse olhar frio nunca deixa escapar um acontecimento importante.</p>
+
+=== ejfQeEDucifDYvDe/description
+# Sombra da Cripta
+<p>Você fica [Oculto] e pode fazer um [Movimento Seguro] de até [Velocidade] Qd sem perder o estado [Oculto].</p>
+<hr>
+<p>Uma técnica especial em que você desaparece como se afundasse na própria sombra e se desloca como se deslizasse. Nada pode deter você, a sombra.</p>
+
+=== y9MKjmChT0v7zMNa/description
+# Dança Mortal
+<p>Cause [(NH)D + (Poder de Ataque)] de dano físico ao alvo. Se você causou dano ao alvo na rodada anterior, aumente o dano em +15.</p>
+<hr>
+<p>Uma técnica especial que, como se dançasse, desfere um golpe fatal de fora da percepção do inimigo, usando como base o ataque desferido logo antes.</p>
+
+=== tGOvNHUHHJX0pQK9/description
+# Veneno Mortal
+<p>Aumente em +[NHx3] o valor da [Deterioração] que você aplica.</p>
+<hr>
+<p>Você é proficiente no manuseio de diversos venenos. Qualquer veneno em suas mãos se transforma em uma peçonha mortal.</p>
+
+=== qCqUUjEGTneVcstw/description
+# Extermínio
+<p>Cause ⟦r1⟧{[(NH+6)D + (Poder de Ataque)]}&nbsp; de dano físico ao alvo.</p>
+<p>(Extra): Após o fim do Processo Principal atual, se os PV do alvo forem iguais ou menores que o seu [Poder de Ataque], ou se o alvo tiver a tag [Lacaio], o alvo morre.</p>
+<hr>
+<p>Uma técnica especial que brande com o corpo inteiro a arma empunhada com as duas mãos e desfere um golpe poderoso. Seu poder destrutivo, digno de uma execução, basta para matar instantaneamente um inimigo de nível inferior.</p>
+
+=== QvgyQsQU6gKCo36T/description
+# Emboscada Fatal
+<p>Cause [(NH+1)D + (Poder de Ataque)] de dano físico ao alvo. Você só pode usar esta habilidade em uma rodada em que tenha declarado [Espera].</p>
+<p>(Você: Oculto): Role o teste desta habilidade duas vezes e fique com qualquer um dos resultados.<br>(Crítico): O dano se torna penetrante.</p>
+<hr>
+<p>Uma técnica especial que leva tempo para encontrar as brechas do oponente e então desfere um único golpe. Demora um pouco para ser executada, mas, liberada enquanto você está furtivo, é uma surpresa mortal.</p>
+
+=== OmXhtEt1aAUx3pfi/description
+# Fantasma Fugaz
+<p>Você fica [Oculto] ao fim deste Processo Principal.</p>
+<hr>
+<p>Uma técnica especial que usa o movimento de um ataque como isca, deixando para trás uma imagem residual enquanto você se esgueira rapidamente para o ponto cego do inimigo. Como um fantasma, você some de vista, e ao inimigo só resta assistir, atônito, à sua partida.</p>
+
+=== M19PN1rz4kP9h2FG/description
+# Estilo Ceifador
+<p>Esta habilidade só produz efeito quando você tem uma arma de [Duas Mãos] equipada. Trate o valor da [Perseguição] ativada pelos seus ataques como se fosse +[NHx5] maior. Você recebe um bônus de +[(NH+1)D] nos [Testes de Acerto] feitos enquanto estiver [Oculto].</p>
+<hr>
+<p>Um estilo de luta que usa uma arma de duas mãos para desferir, das trevas, um golpe certeiro.</p>
+
+=== DdYjLsTQviaH3GmZ/description
+# Passo da Lufada
+<p>Você pode fazer um [Movimento Seguro] de 1 Qd.</p>
+<p>(Ódio 1): Se você já atingiu o Limite desta habilidade, pode pagar este custo para usá-la novamente.</p>
+<hr>
+<p>Uma habilidade especial de percorrer curtas distâncias com força tremenda, como uma rajada de vento, sem que ninguém consiga impedir.</p>
+
+=== ujp9J7f0WpSnv2KV/description
+# Ocultar-se na Sombra
+<p>Use esta habilidade quando você ficar [Oculto]. Remova todos os estados de [Perseguição] que afetam você ou, em vez disso, reduza seu [Ódio] em -1.</p>
+<hr>
+<p>Uma técnica especial em que você se esconde e apaga qualquer sinal da sua presença. Depois que você se esconde, o oponente o perde de vista e não consegue persegui-lo.</p>
+
+=== bBLO2l1StVdWonwY/description
+# Estilo Abelha Assassina
+<p>Você pode equipar armas de [Arremesso]. Esta habilidade só produz efeito quando você tem uma arma de [Arremesso] equipada. Aumente seu [Poder de Ataque] em +[[mod. de DES] &times; 2].&nbsp;</p>
+<p>(NH2): Você pode usar a habilidade "Trocar Equipamento" com [Momento: Iniciativa], mas somente se for trocar a arma equipada em um dos [espaços de mão] para usá-la em um ataque.</p>
+<hr>
+<p>Um estilo de luta que usa armas de arremesso com destreza e movimentos rápidos.</p>
+
+=== 4jjsPZ3ADjCdpn10/description
+# Ataque Móvel
+<p>Você pode fazer um [Movimento Normal] de até [Velocidade] Qd. Durante este Processo Principal, você recebe um bônus de +[NHx3] nas rolagens de dano de [Ataque com Arma].</p>
+<p>(Menor): Aumente a distância percorrida em +1 Qd.</p>
+<hr>
+<p>Uma habilidade que dá impulso aos ataques seguintes. O embalo da corrida se converte diretamente em força de golpe.</p>
+
+=== NZrXlbsDPLlPCDj4/description
+# Ataque Móvel II
+<p>Adquirida com NP 11 ou mais. Você pode fazer um [Movimento Normal] de até [Velocidade] Qd. Durante este Processo Principal, você recebe um bônus de +[NHx[mod. de DES]] nas rolagens de dano de [Ataque com Arma].</p>
+<p>(Menor): Aumente a distância percorrida em +1 Qd.</p>
+<hr>
+<p>Uma habilidade que dá impulso aos ataques seguintes. O embalo da corrida se converte diretamente em força de golpe. Atravesse o campo de batalha como uma tempestade, com sua lâmina tecendo morte sem cessar.</p>
+
+=== 7UoGB4ml78i9YALe/description
+# Agulha da Dor
+<p>O alvo sofre [Deterioração] com valor igual a [[mod. de INT] x 2]. Quando você usa esta habilidade enquanto está [Oculto], não perde o estado [Oculto].</p>
+<hr>
+<p>Uma técnica especial que pega o inimigo de surpresa e dispara uma arma envenenada.</p>
+
+=== gnBx7SIAgY2RCNVw/description
+# Névoa Venenosa
+<p>Escolha como alvo um número de quadrados de até [NH &times; 2]. Todos os quadrados escolhidos devem ser contíguos e estar dentro do alcance. Instale o Objeto de cena [Névoa Venenosa] nos quadrados escolhidos. O Nível desse Objeto de cena é igual a [NP + NH de "Veneno Mortal"].</p>
+<hr>
+<p>Uma habilidade que preenche um espaço borrifando veneno atomizado.</p>
+
+=== jzHYptHNlL5RUlGo/description
+# Salto Impetuoso
+<p>Você pode fazer um [Movimento Normal] de 2 Qd. Nesse movimento, se a diferença de [Altura] até o destino for de até 2, você pode ignorar o efeito dela e se mover.</p>
+<p>(Menor): A distância percorrida aumenta em +2 Qd. Além disso, se você terminar o movimento em um Qd cuja [Altura] seja pelo menos 3 menor que a do Qd onde o movimento começou, adicione o [mod. de FOR] à rolagem de dano de um [Ataque Corpo a Corpo] feito neste Processo Principal.</p>
+<hr>
+<p>Uma habilidade especial de transpor obstáculos movendo o corpo como se ignorasse a gravidade. O inimigo será pego desprevenido pelo ataque que se aproxima numa trajetória nada convencional.</p>
+
+=== HWDntvn1H3rVoGfQ/description
+# Disparo Rápido
+<p>Cause [(NH)D + (Poder de Ataque)] de dano físico ao alvo.</p>
+<p>(Ódio 1): Aumente o dano em +8.</p>
+<hr>
+<p>Uma técnica especial que realiza ataques contínuos disparando projéteis em rápida sucessão. Você também pode aumentar o número de disparos e acrescentar mais ataques.</p>
+
+=== D24aEfG4cWdf1wwp/description
+# Sombra de Riker
+<p>Use esta habilidade quando você não estiver na Cena atual. Você aparece [Oculto] em qualquer lugar da Cena. Se isso não combinar com a situação da Cena, o Mestre pode limitar o lugar onde você aparece ou anular este efeito. Se o efeito for anulado, você recebe 2 Pontos de Destino.</p>
+<hr>
+<p>Habilidade especial de se infiltrar em diversos lugares sem ser notado por ninguém. Você pode surgir onde quiser, como uma sombra.</p>
+
+=== I22kQdo5J31yDdbp/description
+# Estoque Seguro
+<p>Use esta habilidade logo depois que o alvo rolar na [Tabela de Exaustão: Itens ou Dinheiro]. Reduza o resultado dessa rolagem em -3.</p>
+<p>(Destino 1): Se você já atingiu o Limite desta habilidade, pode pagar este custo para usá-la novamente.</p>
+<hr>
+<p>Habilidade especial de guardar coisas importantes em um local seguro e protegê-las do perigo.</p>
+
+=== sqGoc3lusvBbb4oc/description
+# Amarra das Sombras
+<p>O alvo fica [Atordoado]. Quando você usa esta habilidade enquanto está [Oculto], não perde o estado [Oculto].</p>
+<p>(Ódio 1): Esta habilidade pode ser usada com [Momento: Iniciativa].</p>
+<hr>
+<p>Uma técnica especial que costura a sombra do oponente e sela seus movimentos. Ela não causa dano direto, mas ficar incapaz de se mover, ainda que por um instante, diante de um &lt;Assassino&gt; é fatal.</p>
+
+=== WzzrPzwRZXYvwJaz/description
+# Abate Silencioso
+<p>O ataque que você fizer durante este Processo Principal não pode ser afetado por ações de [Momento: Antes do Dano] nem de [Momento: Após o Dano].</p>
+<hr>
+<p>Uma técnica de assassinato que desfere ataques silenciosos, totalmente imperceptíveis para o inimigo. Você se torna a própria morte, à qual seus inimigos não conseguem resistir.</p>
+
+=== UAbYgymLp9YVfFzn/description
+# Atirador Silencioso
+<p>Durante este Processo Principal, você recebe um bônus de +[NHx5] nas rolagens de dano de [Ataque à Distância].</p>
+<hr>
+<p>Uma técnica especial em que você para no lugar, se concentra e mira em silêncio, sem se deixar distrair pelo inimigo.</p>
+
+=== q2jceZtGL8nUsVZe/description
+# Atirador Silencioso II
+<p>Adquirida com NP 11 ou mais. Durante este Processo Principal, você recebe um bônus de +[NHx7] nas rolagens de dano de [Ataque à Distância].</p>
+<p>(NP21): Aumente o bônus para [NHx9].</p>
+<hr>
+<p>Uma técnica especial em que você para no lugar, se concentra e mira em silêncio, sem se deixar distrair pelo inimigo. Ler o vento, captar o fluxo do campo de batalha e abater com um único disparo: eis o ápice da arte do franco-atirador.</p>
+
+=== cSdWXaKBPSLAN5Ad/description
+# Ameaça Silenciosa
+<p>Use esta habilidade quando o alvo usar uma ação com a tag [Movimento] enquanto você estiver [Oculto]. Anule o efeito da ação usada pelo alvo. O alvo pode anular este efeito gastando 1 Ponto de Destino. Se você estiver usando uma arma com [Alcance: Corpo a corpo], o uso não conta para o Limite desta habilidade.</p>
+<hr>
+<p>Uma técnica especial que, depois de apagar sua presença, impede o deslocamento do inimigo. Para ele, você parecerá uma muralha invisível.</p>
+
+=== 0oaKczKLkCYpwzgl/description
+# Ponto Sensível
+<p>Durante este Processo Principal, você recebe um bônus de +2D nas rolagens de dano de [Ataque Corpo a Corpo].</p>
+<hr>
+<p>Uma técnica especial que prepara o terreno para um golpe profundo, identificando e mirando um ponto vital. Como assassino, você é perito em localizar os pontos fracos de qualquer inimigo.</p>
+
+=== ROlk1N6xbVGBTBhB/description
+# Ponto Sensível II
+<p>Adquirida com NP 11 ou mais. Durante este Processo Principal, você recebe um bônus de +[NP] nas rolagens de dano de [Ataque Corpo a Corpo].</p>
+<hr>
+<p>Uma técnica especial que prepara o terreno para um golpe profundo, identificando e mirando um ponto vital. O segredo do assassinato está em encontrar um único ponto mortal e perfurá-lo no momento perfeito.</p>
+
+=== rEEC5EmwvmU5LVEX/description
+# Disparo Faiscante
+<p>Cause [(NH+1)D + (Poder de Ataque)] de dano físico ao alvo.</p>
+<p>(Extra): Alvos secundários dentro de [Alvo: Área (E) / Alcance: Corpo a corpo] centrado no alvo inicial sofrem [mod. de DES] de dano direto. Esse dano ativa a [Fraqueza] do alvo secundário, como se ele tivesse falhado no [Teste de Esquiva].</p>
+<hr>
+<p>Uma técnica especial que envolve uma flecha em relâmpagos e a dispara. Ao atingir o alvo, os relâmpagos se espalham como uma teia de aranha e atacam os arredores.</p>
+
+=== rtBarwGCEQoE9wfx/description
+# Impacto Súbito
+<p>Cause [(NH+2)D + (Poder de Ataque)] de dano físico ao alvo.</p>
+<p>(Você: Oculto): O alvo fica [Confuso].</p>
+<hr>
+<p>Uma habilidade em que você surge de um ponto cego e desfere um golpe certeiro. O impacto inesperado lança os inimigos em um turbilhão de caos.</p>
+
+=== DmYsaQVJPAlJ35qp/description
+# Disparo de Supressão
+<p>Cause [(NH+1)D + (Poder de Ataque)] de dano físico ao alvo. O alvo não pode se mover para o mesmo Qd de qualquer outro aliado (este efeito é tratado como um Estado Negativo). Se o alvo já estiver nesse mesmo Qd, depois de sair dele não pode voltar a se mover para lá. Porém, este efeito não se aplica a movimentos forçados.</p>
+<hr>
+<p>Uma técnica de arremesso que antecipa o trajeto do inimigo e ataca para bloqueá-lo, impedindo que ele se aproxime dos aliados.</p>
+
+=== YmLp9HanziyKXuhq/description
+# Varredor
+<p>Se os PV do alvo forem iguais ou menores que o seu [[mod. de POD] x 3], ele fica [Incapacitado] ou [Morto] (à sua escolha). Se esta habilidade não conseguir deixar o alvo [Incapacitado] ou [Morto], o custo de [Ódio] desta habilidade é 0.</p>
+<p>(Alvo: Lacaio): Independentemente dos PV, o alvo fica [Incapacitado] ou [Morto] (à sua escolha).</p>
+<hr>
+<p>Uma técnica especial que se aproxima furtivamente com o mínimo de movimentos necessários e desfere o golpe de misericórdia. Neutraliza oponentes moribundos e inimigos de nível inferior.</p>
+
+=== JsniuAY4pkI7PLks/description
+# Saraivada Varredora
+<p>Use ao mesmo tempo que "Varredor&rdquo;. Mude o alvo de "Varredor" para [Alvo: [NH + 1] Lacaios].</p>
+<hr>
+<p>Uma técnica de arremesso letal em que várias armas de arremesso são lançadas ao mesmo tempo para eliminar de uma só vez os inimigos ao redor. Mais inimigos significam mais alvos para você.</p>
+
+=== Y5KGyTu3c8Onznv6/description
+# Ataque Torturante
+<p>Cause [[Poder de Ataque] +2D] de dano físico. Se este ataque ativar a [Fraqueza] do alvo, escolha [NH] estados entre [Atordoado], [Cambaleante] e [Rigidez] para aplicar ao alvo.</p>
+<hr>
+<p>Um golpe de tortura que ataca sem trégua os pontos fracos do inimigo. Uma investida implacável em sequência o deixa completamente amarrado e o priva da liberdade de corpo e mente.</p>
+
+=== ScV0laO95MwY70GM/description
+# Golpe Peçonhento
+<p>Cause [(NH)D + (Poder de Ataque)] de dano físico ao alvo, e o alvo sofre [Deterioração: 6].</p>
+<hr>
+<p>Uma habilidade que ataca com armas e munições envenenadas com toxinas mortais. Os inimigos envenenados perdem as forças aos poucos.</p>
+
+=== NoiURDtNTkgfHOee/description
+# Golpe Peçonhento II
+<p>Adquirida com NP 11 ou mais. Cause [2D + (Poder de Ataque)] de dano físico ao alvo, e o alvo sofre [Deterioração: [mod. de INT]].</p>
+<hr>
+<p>Uma habilidade que ataca com armas e munições envenenadas. O veneno que você manipula se torna ainda mais mortal, enfraquecendo o alvo diante dos seus olhos.</p>
+
+=== OWiivAjUr9LAe61G/description
+# Hino do Afeto Materno
+<p>O alvo recupera [NHx5] PV em cada Processo de Encerramento.</p>
+<p>(Efeito): Enquanto esta [Harmonia] estiver em efeito, aumente seu [Ódio] em +1 no Processo de Encerramento de cada rodada.</p>
+<hr>
+<p>Uma canção de suporte que fecha as feridas dos aliados envolvendo-os no calor de um hino suave, como uma mãe amorosa.</p>
+
+=== EJpNgGslKG3YWoDg/description
+# Hino do Afeto Materno II
+<p>Adquirida com NP 11 ou mais. O alvo recupera [[Recuperação] + (NH x [mod. de POD])] PV em cada Processo de Encerramento.</p>
+<p>(Efeito): Enquanto esta [Harmonia] estiver em efeito, aumente seu [Ódio] em +2 no Processo de Encerramento de cada rodada.</p>
+<hr>
+<p>Uma canção de suporte que fecha as feridas dos aliados envolvendo-os no calor de um hino suave, como uma mãe amorosa. Todos que lutam ao som desta canção se tornam heróis invencíveis.</p>
+
+=== cslORzLmLnJIsCFM/description
+# Arpejo
+<p>Durante este Processo Principal, seus [Ataques com Arma] com [Alvo: Individual] passam a ter [Alvo: Dois].</p>
+<hr>
+<p>Uma técnica especial que imbui a arma em sua mão com uma melodia mágica. Ao atingir um inimigo, a arma espalha notas musicais coloridas que explodem e ferem outros inimigos próximos.</p>
+
+=== ND0nOeqwzpzatGFb/description
+# Estilo Bardo
+<p>Esta habilidade só produz efeito quando você tem um [Instrumento] equipado. Você pode reduzir em -[NH] o custo de [Ódio] das habilidades que têm a tag [Instrumento] (mínimo 0).</p>
+<hr>
+<p>Um estilo de luta em que você empunha um instrumento musical e fortalece seus ataques com canções e melodias. Os sons que você produz às vezes dominam o campo de batalha mais depressa que espadas e magias.</p>
+
+=== nmSNujBPoAKZ6Nq9/description
+# Estilo Cantor da Lâmina
+<p>Esta habilidade só produz efeito quando você tem equipada apenas uma única arma corpo a corpo de [Uma Mão] ou de [Duas Mãos]. No Processo de Encerramento de uma rodada em que você tenha causado dano com um [Ataque Corpo a Corpo], você pode reduzir em -[NH] o custo total de [Ódio] de Encerramento das suas habilidades de [Harmonia] (mínimo 0). Você recebe um bônus de +[[mod. de POD] x 2] na sua arma de [Uma Mão] equipada.</p>
+<hr>
+<p>Um estilo de combate em que você toca música no campo de batalha enquanto empunha armas na linha de frente. Essa figura encoraja os aliados e amedronta os inimigos.</p>
+
+=== ME90unUE8JktwTAD/description
+# Cântico do Recital
+<p>Use esta habilidade quando um aliado que esteja a até 4 quadrados de você declarar o uso de um [Ataque Mágico] com [Alvo: Individual]. Mude esse [Ataque Mágico] para [Alvo: Dois]. Porém, o segundo alvo é escolhido dentro de 4 Qd de você, ignorando o alcance original do [Ataque Mágico]. O custo de [Ódio] desta habilidade é igual ao custo de Ódio do [Ataque Mágico].</p>
+<hr>
+<p>Uma técnica especial que imita a conjuração de um aliado, repetindo-a, e faz a magia ser ativada duas vezes.</p>
+
+=== MxTqn9raDoyVpWMF/description
+# Fuga do Covarde
+<p>Esta habilidade só pode ter como alvo um aliado que não seja você. O alvo pode reduzir seu [Ódio] em -1 em cada Processo de Encerramento.</p>
+<p>(NH2): Esta habilidade recebe a tag [Preparação].<br>(NH3): Você pode escolher a si mesmo como alvo desta habilidade.</p>
+<hr>
+<p>Uma canção de suporte que desvia a hostilidade com habilidade por meio de uma fuga complexa, que sobrepõe várias melodias como se quisesse encobrir o tema.</p>
+
+=== XEEk8vj5qNBcQO93/description
+# Cair das Cortinas
+<p>O alvo pode reduzir seu [Ódio] em -3.</p>
+<p>(Destino 1): Esta habilidade pode ser usada com [Alvo: Individual / Alcance: 2 Qd].</p>
+<hr>
+<p>Uma habilidade que envolve o alvo em um véu mágico e o esconde. Quando a cortina cai sobre o palco, até o inimigo perde o interesse.</p>
+
+=== gFVbECa5FgGPcqBN/description
+# Decrescendo
+<p>Use esta habilidade quando você declarar [Espera]. Reduza seu [Ódio] em -1.</p>
+<hr>
+<p>Uma técnica especial que abranda a hostilidade do oponente: você interrompe as ações hostis e toca uma melodia suave que vai sumindo aos poucos.</p>
+
+=== hFcjS44ORIqhIKZl/description
+# Lamento do Leão Enjaulado
+<p>Cause 5 de dano direto ao alvo. O custo de [Ódio] desta habilidade é igual a [Número de Alvos + 1].&nbsp;</p>
+<p>(Alvo: Lacaio &amp; Pós-Ação): O alvo fica [Incapacitado] ou [Morto] (à sua escolha).</p>
+<p>(Alvo: Lacaio &amp; Pré-Ação): O alvo passa para [Pós-Ação].</p>
+<hr>
+<p>Uma técnica especial que consome a alma do alvo tocando uma melodia carregada de sentimentos de clausura e opressão. Quem não tem uma vontade firme terá dificuldade para se mover sob o lamento que ressoa.</p>
+
+=== CpUYrgLa5LQZWyFk/description
+# Devaneio do Ursinho Sonhador
+<p>Cause [(NH)D] de dano penetrante ao alvo. Você pode fazer o alvo realizar um [Movimento Seguro (forçado)] de até 2 Qd. O custo de [Ódio] desta habilidade é igual a [Número de Alvos + 2].</p>
+<hr>
+<p>Uma técnica especial que encanta o coração do alvo tocando uma melodia de confusão e fantasia. O alvo se move cambaleante, guiado pelo som, ainda como se estivesse sonhando.</p>
+
+=== zQZGHCACmrINNAMN/description
+# Dueto
+<p>Use esta habilidade logo antes de um ataque que não seja seu causar Dano de PV, e somente quando você tiver uma arma corpo a corpo equipada. Aumente em +[NHx3] o Dano de PV previsto que o alvo receberia.</p>
+<hr>
+<p>Uma técnica especial que desfere um golpe relâmpago numa combinação sincronizada com os ataques dos aliados, como se executasse um dueto.</p>
+
+=== MKIdzMUNeeLLh833/description
+# Dueto II
+<p>Adquirida com NP 16 ou mais. Use esta habilidade logo antes de um ataque que não seja seu causar Dano de PV, e somente quando você tiver uma arma corpo a corpo equipada. Aumente em +[NHx8] o Dano de PV previsto que o alvo receberia.</p>
+<hr>
+<p>Uma técnica especial que desfere um golpe relâmpago numa combinação sincronizada com os ataques dos aliados, como se executasse um dueto. Com essa parceria em perfeita sintonia, o campo de batalha se torna um palco para dois protagonistas.</p>
+
+=== bzwvn1KiSn6ERJBs/description
+# Ato Elegante
+<p>Cause ⟦r1⟧{ [(NH)D + (Poder de Ataque)]} de dano físico ao alvo.</p>
+<p>(Efeito): Você recebe um bônus de +1D no seu próximo [Teste de Esquiva]. Trate este efeito como um Estado de Combate que é removido após ser aplicado uma vez.</p>
+<hr>
+<p>Uma técnica especial que desfere um golpe elegante a partir de um movimento belo. Com movimentos refinados e eficientes, é possível reagir com folga ao ataque que vier logo em seguida.</p>
+
+=== ZBm93Vyk2ZFvAznq/description
+# Estudo da Lâmina Veloz
+<p>O alvo recebe um bônus de +[NH] nos [Testes de Acerto].&nbsp;</p>
+<p>(Efeito): Enquanto esta [Harmonia] estiver em efeito, aumente seu [Ódio] em +1 no Processo de Encerramento de cada rodada.</p>
+<hr>
+<p>Como o nome sugere, é uma canção de suporte que desperta as habilidades dos seus companheiros tal como foram treinadas e aguça a precisão dos ataques.</p>
+
+=== EHCgGfG76ZpM3DU4/description
+# Marcha do Cervinho
+<p>A [Velocidade] do alvo aumenta em 1.&nbsp;</p>
+<p>(Efeito): Enquanto esta [Harmonia] estiver em efeito, aumente seu [Ódio] em +1 no Processo de Encerramento de cada rodada.</p>
+<hr>
+<p>Uma canção de suporte que toca uma marcha leve para ajudar os aliados em seu avanço.</p>
+
+=== 69wOj1Djx5Mi4CYY/description
+# Gran Finale
+<p>Cause [(NH+3)D + (Poder de Ataque)] de dano físico ao alvo.</p>
+<p>(Alvo: Atordoado, Rigidez, Cambaleante): Aumente o dano em +15.</p>
+<hr>
+<p>Uma técnica especial digna de fechar as cortinas, que desfere um golpe com toda a força ao som de um acompanhamento estrondoso. É uma técnica cheia de brechas, que privilegia o espetáculo, mas, se o inimigo perder a postura, você pode esperar um golpe em cheio.</p>
+
+=== 3nc0kaX9HUM66T6C/description
+# Gran Finale II
+<p>Adquirida com NP 16 ou mais. Cause [(NHx2)D + (Poder de Ataque)] de dano físico ao alvo.</p>
+<p>(Alvo: Atordoado, Rigidez, Cambaleante): Aumente o dano em +[valor de INT].</p>
+<hr>
+<p>Uma técnica especial digna de fechar as cortinas, que desfere um golpe com toda a força ao som de um acompanhamento estrondoso. Uma técnica esplêndida que fascina quem a vê; se acertar em cheio, certamente anunciará o fim do inimigo.</p>
+
+=== e0pXqAOcOPoTJS20/description
+# Estilo Arco-Harpa
+<p>Esta habilidade só produz efeito quando você tem um [Arco] equipado. Você pode reduzir a 0 o custo de [Ódio] de &laquo;Eco do Maestro&raquo; e de &laquo;Golpe Excepcional&raquo;.</p>
+<p>(NH2): Aumente em +1 o alcance dos [Arcos] que você tem equipados.<br>(NH3): Você pode usar &laquo;Nota Repetida&raquo; com [Alcance: 4 Qd].</p>
+<hr>
+<p>Um estilo de luta em que o arco é manejado com a elegância de quem dedilha uma lira. O som puro das cordas ecoa a cada flecha disparada, inspirando os aliados.</p>
+
+=== TN1SsUbJ5bVBofWC/description
+# Improviso
+<p>Você pode usar imediatamente uma habilidade de [Harmonia].&nbsp;</p>
+<p>(Destino 1): Se você já atingiu o Limite desta habilidade, pode pagar este custo para usá-la novamente.</p>
+<hr>
+<p>Uma técnica especial que improvisa e troca a melodia, mudando rapidamente a canção de suporte.</p>
+
+=== nfCj0251aVqMNTK9/description
+# Canção do Saqueador
+<p>Use esta habilidade logo depois que o alvo rolar na [Tabela de Exaustão: Estamina ou Dinheiro]. Reduza o resultado dessa rolagem em -3.</p><p>(Destino 1): Se você já atingiu o Limite desta habilidade, pode pagar este custo para usá-la novamente.</p>
+
+=== zV2r1VtDZHH8StoB/description
+# Acalanto da Sereia Enluarada
+<p>Cause [(NH)D] de dano penetrante ao alvo, e o alvo fica [Atordoado]. O custo de [Ódio] desta habilidade é igual a [Número de Alvos + 1].</p>
+<hr>
+<p>Uma técnica especial que toca uma melodia de tranquilidade e acalanto e rouba do alvo o espírito de luta. A consciência dele adormece, e ele perde a capacidade de reagir com rapidez.</p>
+
+=== bUDC9Yn5VSpyhmyj/description
+# Eco do Maestro
+<p>Você não pode escolher a si mesmo como alvo desta habilidade. Ao usar esta habilidade, você pode gastar até três [Pontos de Destino] (0 é permitido). O alvo recebe um bônus de +[([Pontos de Destino] gastos + NH) x 5] em qualquer rolagem de dano.</p>
+<p>(NP11): O multiplicador do bônus passa a ser x10.<br>(NP21): O multiplicador do bônus passa a ser x15.</p>
+<hr>
+<p>Uma técnica especial que cria ilusões de magias e de armas ao reproduzir, por meio de improviso e canto, o "som" dos ataques dos aliados. As ilusões sonoras que você comanda perfuram seus inimigos no encalço dos ataques dos seus aliados.</p>
+
+=== wMWesJicp23s88Hw/description
+# Espetáculo
+<p>Você faz uma Rolagem de Tesouro na [Tabela de Tesouro: Dinheiro].</p>
+<p>(Bônus): Você recebe um bônus de +1 em [Atletismo].</p>
+<hr>
+<p>Habilidade especial de ganhar dinheiro tocando e cantando nas ruas e em bares. Quanto você ganha depende do seu virtuosismo e da sua sorte.</p>
+
+=== KtlqqCG053RUQ7cV/description
+# Prelúdio da Arremetida
+<p>O alvo recebe um bônus de +[NHx3] nas rolagens de dano.&nbsp;</p>
+<p>(Efeito): Enquanto esta [Harmonia] estiver em efeito, aumente seu [Ódio] em +1 no Processo de Encerramento de cada rodada.</p>
+<hr>
+<p>Uma canção de suporte que toca uma abertura prenunciando um avanço irrefreável e eleva com fervor o moral dos companheiros.</p>
+
+=== 5AhpB0zGzwxdV48u/description
+# Prelúdio da Arremetida II
+<p>Adquirida com NP 21 ou mais. O alvo recebe um bônus de +[mod. de POD] nas rolagens de dano.&nbsp;</p>
+<p>(Efeito): Enquanto esta [Harmonia] estiver em efeito, aumente seu [Ódio] em +3 no Processo de Encerramento de cada rodada.</p>
+<p>(NH2): Você recebe +2 de [Ódio] em vez de +3 no Processo de Encerramento.</p>
+<hr>
+<p>Uma canção de suporte que toca uma abertura prenunciando um avanço irrefreável e eleva com fervor o moral dos companheiros. Cada pessoa que ouve esta canção se torna um guerreiro poderoso.</p>

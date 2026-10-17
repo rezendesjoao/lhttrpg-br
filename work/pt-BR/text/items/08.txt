@@ -1,0 +1,135 @@
+=== t4X8e1MbrZLpkeJm/description
+# Soft Glove
+<p>Uma manopla de couro curtido com pequenas peças de metal costuradas.</p>
+
+=== NPKQRUkSZ0nHYwWv/description
+# Spiked Club
+<p>Uma clava perigosa, cravejada de muitos espigões de metal afiados.</p>
+
+=== cgYveLQb90SanmxK/description
+# Spirit Rod
+<p>[Momento: Instantânea] Só é ativado se você tiver a tag [Natureza] ou [Fera]. Causa 10 pontos de dano direto a um único alvo a até 4Qd. 2 vezes por cenário.
+Um cajado que permite ao portador "carregar" feitiços do tipo planta, ajustando o momento em que um único feitiço lançado previamente faz efeito ou deslocando no tempo sua restrição de reutilização. Pode ser considerado o equipamento básico do Druida. Versões de nível mais alto comportam mais feitiços e mais cargas.</p><hr><p>Semente do Sono Eterno [Material-Base] (100G) + Cajado de Bambu (180G) ×2 + [Catalisador Mágico 7] (60G) ×4 + Custo de Fabricação (300G)</p>
+
+=== eyL8F64sGlgptt2Z/description
+# Spirit Sword: Toki no Tamashii
+<p>Quando você usar "Percepção Instantânea" estando em [Topo de Ódio], você recebe +20 na sua próxima rolagem de dano.
+Um cavaleiro leal, que jurou a vida a uma princesa, recebeu esta espada espiritual diretamente das mãos dela. Ela cria um instante de quietude na estreita fresta do tempo, concedendo ao portador a oportunidade ideal.</p><hr><p>[Material-Base](40G)+ (130G)+[ 3](25G)×4+Custo de Fabricação(130G)</p>
+
+=== R0Y6kltTf5vKDnKM/description
+# Staff of Polonia
+<p>Um cajado longo, polido e com a superfície gravada com prata mágica.</p>
+
+=== rsRlsAdGdpUeskrv/description
+# Stalker's Mark
+<p>Você recebe +2D no [Teste de Precisão] do seu primeiro [Ataque à Distância] na cena de combate imediatamente posterior a uma ação de [Reconhecimento] bem-sucedida sua na cena de briefing.
+Um arco longo com a função de marcar sinais invisíveis que só o usuário reconhece. Se os inimigos forem marcados com antecedência ao entrarem no campo de visão, o arco pode disparar automaticamente, durante o combate, flechas que rastreiam esses inimigos. Uma arma favorita da furtiva classe Assassino. Marca Invisível Marca sinais invisíveis que só o usuário reconhece. Se os inimigos forem marcados com antecedência ao entrarem no campo de visão, o arco pode disparar automaticamente, durante o combate, flechas que rastreiam esses inimigos.</p><hr><p>Osso Adamantino [Material-Base] (340G) + Arco Longo (740G) + Brinco da Acuidade (40G) + [Catalisador Mágico 13] (170G) ×3 + Custo de Fabricação (810G)</p>
+
+=== hd9Bv0uUEXaOoGqr/description
+# Stiletto
+<p>Uma adaga dedicada a perfurar, sem fio nos lados esquerdo e direito da lâmina.</p>
+
+=== 2TmfESYCTPT0I1ph/description
+# Strong Bow: Beat Claw
+<p>Exclusivo para Samurais. [Momento: Movimento] Neste Processo Principal, o [Ataque à Distância] que você fizer com esta arma recebe +2Qd de alcance. Além disso, o alvo desse [Ataque à Distância] não pode rolar dois ou mais dados no [Teste de Defesa].
+Um arco retorcido feito com os ossos de um monstro. Possui uma habilidade amaldiçoada que lhe permite trespassar alvos a qualquer distância, prendendo-os.</p><hr><p>Chifre Retorcido [Material-Base] (120G) + Arco Composto (230G) + [Catalisador Mágico 7] (60G) × 3 + Custo de Fabricação (230G)</p>
+
+=== e9bxrPm1FaUzF0wE/description
+# Suigetsu
+<p>[Momento: Abertura] Escolha um Qd a até 2Qd de você. Coloque o objeto de cena 【Piso da Mente】 no Qd escolhido, com PR9. A tag do objeto de cena é [Mágico]. Este efeito dura até o fim da rodada.
+Uma arma de arremesso feita de um metal exposto continuamente ao brilho da lua refletida em uma fonte espiritual. Além de ser uma arma poderosa, ela pode liberar o poder mágico do reflexo da lua na água, criando uma barreira ilusória que confunde os inimigos.</p><hr><p>Escama Dourada do Luar [Material-Base] (140G) + Cata-Vento (230G) ×2 + Joia do Vaga-Lume (40G) ×4 + [Catalisador Mágico 9] (90G) ×2 + Custo de Fabricação (370G)</p>
+
+=== SgkfLbmJ23riHKOA/description
+# Sword of Adversity
+<p>[Momento: Abertura] Usado com "Alvo: Área Ampla 20 (Escolha)/Alcance: Corpo a corpo" em aliados que não sejam você. Os alvos cujos [PV] estejam abaixo da metade dos seus [PV Máx.] recebem 1 ponto de [Destino]. Uma vez por cena.
+A espada que, segundo dizem, foi herdada de um espadachim desafortunado. Sua lâmina é polida até ficar lisa, refletindo a luz como um espelho. Dizem que, quando ela reflete uma cena de infortúnio, quem a vê atrai o próprio destino, como se o infortúnio fosse espelhado. No entanto, é proibido olhar para si mesmo nesta espada. O motivo é desconhecido.</p><hr><p>Placa de Espelho Rachada [Material-Base] (180G) + Sabre (230G) + [Catalisador Mágico 9] (90G) ×3 + Custo de Fabricação (320G)</p>
+
+=== uMXswZfzVw5xV9sX/description
+# Throwing Ax
+<p>Um machado pequeno cujo peso e equilíbrio foram ajustados para arremesso.</p>
+
+=== dJ4tL2mkHMKGN6UY/description
+# Throwing Knife
+<p>Uma adaga de formato peculiar, com muitas lâminas.</p>
+
+=== nJDZhUimhLcsFgcX/description
+# Toge o no nigiri-te
+<p>(Você: Topo de Ódio) [Anulação (Choque)] não tem efeito contra o dano de [Ataques Corpo a Corpo] com esta arma. [Momento: Imediatamente Após o Dano] Mova um dos alvos do ataque até 2 Qd com [Movimento Instantâneo (Forçado)] e cause a ele 15 de dano direto. Este dano ativa [Fraqueza] como se o alvo secundário tivesse falhado no [Teste de Defesa]. Uma vez por cena.
+Picareta de Espinho da Cauda de Aço da Serpe Uma picareta em forma de punho que agarra os espinhos de uma Serpe de Cauda de Aço. Quando um guerreiro verdadeiramente ousado a empunha, os espinhos liberam uma descarga de relâmpagos púrpura, trespassando os inimigos como se fossem reais.</p><hr><p>Espinho do Relâmpago Púrpura [Material-Base] (180G) + Maça-Estrela (200G) + Agente Explosivo (Intermediário) (100G) ×3 + [Catalisador Mágico 10] (110G) ×3 + Custo de Fabricação (540G)</p>
+
+=== lIzeO62fEgpGemzr/description
+# Tonfa
+<p>Uma arma em forma de bastão, com um cabo.</p>
+
+=== Y84MeQWbtvzGb7R3/description
+# Torch Piercer
+<p>Quando um [Ataque Corpo a Corpo] com esta arma atingir um alvo com [Fraqueza (Chama, Morto-Vivo, Natureza)], você pode usar "Cura" ao fim desse Processo Principal.
+Uma maça de prata com flanges em forma de chamas purificadoras ardentes. À primeira vista parece comum, mas, se derrotar um monstro que tenha uma fraqueza, reduz muito o tempo de recarga dos feitiços de cura. Por causa desse efeito raro, até curandeiros de alto nível costumam usá-la como arma secundária.</p><hr><p>Material-Base da Fada do Fogo[Material-Base](680G)+Clava Cravejada(730G)+Água Benta III(250G)×3+[Catalisador Mágico 20](370G)×3+Custo de Fabricação(1230G)</p>
+
+=== GKFRGvNl2JWSVm3D/description
+# Trident
+<p>Uma lança de uma mão com a ponta dividida em três.</p>
+
+=== MzHkO5IDq1PMLs0v/description
+# Tsubaki
+<p>Uma espada robusta capaz de perfurar qualquer armadura.</p>
+
+=== O2wuuj1UhZS1D6Sm/description
+# Twin Star Crossbow
+<p>[Momento: Imediatamente Após o Dano] Usado quando você causa dano com um [Ataque com Arma] usando esta arma. Gasta 1 ponto de [Destino]. Escolha um alvo que tenha sofrido dano e aplique [Perseguição:10].
+</p><hr><p>[Material-Base](50G)+ (130G)+[ 4](30G)×4+Custo de Fabricação(130G)</p>
+
+=== kcVa7zT5MVg5zDzR/description
+# Uchigatana
+<p>Uma espada de curvatura primorosa. O corte é razoável.</p>
+
+=== UpcWeJJkSOkak9KD/description
+# Urumi
+<p>Um estranho misto de espada longa e chicote, forjado a partir de uma fina tira de metal altamente flexível.</p>
+
+=== v6uZ9DG1OsvUrClL/description
+# Vacuum fan
+<p>[Momento: Movimento] Escolha um inimigo [Voando] a até 6Qd de você e teleporte-o para o mesmo Qd que você com [Movimento Instantâneo (Forçado)]. Além disso, durante este Processo Principal, os efeitos de [Anulação] e [Barreira] que esse inimigo tiver não são ativados. Uma vez por cena.
+Martelo Oco da Tempestade Um martelo de batalha de uma mão com um misterioso vão oco no centro. Ao apertar o botão no cabo, ele gera um ciclone dentro do vão, puxando os inimigos que estão no ar. É o único martelo que mantém o poder de sucção mesmo após longo uso. É muito elogiado por muitos usuários por sua capacidade de puxar sem falhar até mesmo inimigos pequenos.</p><hr><p>[Material-Base](80G)+ (90G)+[ 6](50G)×4+Custo de Fabricação(140G)</p>
+
+=== 8xk03pvzx80jLJlQ/description
+# Victor's Glory
+<p>[Momento: Ver texto] Use quando acertar um [Ataque Corpo a Corpo] e deixar seu alvo [Incapacitado]. Sua [Recuperação] aumenta em +20. Este efeito é tratado como um Estado de Combate e dura até o fim da próxima rodada.
+Nome: Grande Espada de Prata Tipo: Espada Classe: Arma Peso: 10 kg Poder de Ataque: 150 Defesa Física: 50 Velocidade: 8 Uma espada montante de prata belamente decorada. Esta espada cerimonial é usada em rituais em homenagem a cavaleiros e guerreiros sagrados que conquistaram a fama, mas seu poder pode ser plenamente aproveitado com a força de um aventureiro.</p><hr><p>[Material-Base](440G)+ (1000G)+[ 16](250G)×5+Custo de Fabricação(810G)</p>
+
+=== 1FTwdGLsOWl9qBOS/description
+# Wand of Millenia
+<p>Suas habilidades adquiridas "Invocação de Servo: Unicórnio" e "Invocação de Servo: Alraune" têm o NH aumentado em +1 (pode exceder o NH Máximo), e o Efeito Garantido delas passa a ter "Alcance: 2Qd".
+Um bastão curto feito de um galho da Árvore Milenar, que floresce uma vez a cada milênio e traz esperança a Celdecia. Graças ao grande poder natural que mantém o equilíbrio do mundo, ele fortalece as criaturas curadoras invocadas pelo usuário.</p><hr><p>Semente da Árvore-Rei Milenar [Material-Base] (560G) + Varinha de Cipreste (810G) + [Catalisador Mágico 18] (310G) ×4 + Custo de Fabricação (1070G)</p>
+
+=== jSgCEFY2tpHy9yBZ/description
+# Wand of Polonia
+<p>Uma varinha polida e com a superfície gravada com prata mágica.</p>
+
+=== 42JIT4Ak3z0R3R3U/description
+# Warhammer
+<p>Um malho de combate com uma cabeça compacta, projetada para desferir um impacto forte.</p>
+
+=== gakPwUie03WYfKZb/description
+# Whip
+<p>Uma arma em forma de corda, trançada em couro.</p>
+
+=== tL35rjwKTgzmlAr5/description
+# Wild Butte
+<p>Um chicote flexível feito do couro de uma fera demoníaca.</p>
+
+=== cLiwnZEmK7QNdRg1/description
+# Yumi
+<p>Um arco longo de equilíbrio primoroso.</p>
+
+=== xXWxw7tjzJmlPxmn/description
+# Yumi Shigefuji (Shigeto Bow)
+<p>Um arco japonês feito unindo várias peças de madeira, envolvendo-as com ramos de glicínia e revestindo-as com laca.</p>
+
+=== Lz5S9SqZe7FGK5qc/description
+# Zanbatō
+<p>Uma espada grande feita para combater guerreiros a cavalo.</p>
+
+=== xqO5Wd6SOuyG9JUR/description
+# Zweihander
+<p>Uma espada de lâmina longa que só pode ser empunhada com as duas mãos.</p>

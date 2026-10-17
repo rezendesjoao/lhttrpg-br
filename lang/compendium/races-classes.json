@@ -1,0 +1,453 @@
+{
+  "LHTRPG-PTBR-COMPENDIUM": {
+    "races-classes": {
+      "label": "Raças e Classes",
+      "documentName": "Item",
+      "folders": {
+        "hurBWR1sa0VcfDpc": "Classes",
+        "eaCC6bYflF5Xl5sD": "Raças",
+        "FCm8xr0sbISmPa9B": "Subclasses"
+      },
+      "byName": {
+        "Accountant": "FIu4I416PkhviIn9",
+        "Acrobat": "1Ew22DhJrTnd1dEr",
+        "Admiral": "dkqd8VUwubViWdFR",
+        "Alchemist": "LyXy2v4s4BOPXZgZ",
+        "Apprentice": "dNTIl3nY4hMs0hAQ",
+        "Arcanist": "bnWCJb1oEpfBBEe8",
+        "Armorer": "kAk9MdUfxhLHKRXh",
+        "Artificer": "ZlQpphQfmyiEv2sv",
+        "Artisan": "4Tl376nftql9IOCj",
+        "Assassin": "krL2eq8R6b1ukYwI",
+        "Astrologer": "4Pnhl0Rf3SWinzR8",
+        "Avenger": "MmztGygHNJ3MDt43",
+        "Bard": "EUSlGkT1FOSVsJaD",
+        "Berserker": "AoHwkt1SPzOppZDM",
+        "Blacksmith": "xgRfRzd8REEWP6gf",
+        "Bombardier": "13GThBVrmp8HX5Rt",
+        "Carpenter": "Ku8YkwcH8jqszgVf",
+        "Cartographer": "GQXDMvAHVndisEQQ",
+        "Champion": "wWklWqFJHfYR8aYl",
+        "Chef": "JuiYhBOvxSAPf9wE",
+        "Chindon'ya": "XKOPfbB3HmTzz00f",
+        "Cleric": "gKJ4i7orbpCAeM3N",
+        "Coachman": "9b1ovzY37RiCMkZJ",
+        "Collector": "Je51rBJFC1wYd0bB",
+        "Connoisseur": "SQHkkPGqKBcFmNRP",
+        "Counterfeiter": "NzDsbobN1XqM8jab",
+        "Courier": "Z86h5bNe3JLfZm3D",
+        "Courtesan": "ZeKY10PZgBH5qAx7",
+        "Cursed Blade": "yWWgeqGc3oGxb0eo",
+        "Demon Lord": "uU6amFzZW2oO7Nkn",
+        "Designer": "tB447bQpFF6y0oAk",
+        "Detective": "dCaYqNnQ8yAUizvN",
+        "Devotee": "ebHweV50nA1uQtp0",
+        "Doctor": "E93wgLyqnksMysMf",
+        "Druid": "LmompW7lVAJNKqhY",
+        "Duelist": "lNy9UaEPJmKR6U9X",
+        "Dwarf": "V53JFQ0AQlTO2dkN",
+        "Elder Maid": "MHjx9dzWiTrxR3ql",
+        "Elf": "lghcspq89n3axusT",
+        "Enchanter": "tme79wuP6wHx1vCh",
+        "Explorer": "w9Wip56WNc21br8D",
+        "Fisherman": "VyiXIa9JqqA2a6OF",
+        "Food Fighter": "Tl6qft7q8QvjZcJD",
+        "Forager": "QPc9Tup0y2GCw1sC",
+        "Fortune Teller": "v8f4MtqOoFUJpLtD",
+        "Foxtail": "mT85nFgnI6XEjd3v",
+        "Frontier Guard": "LoIbv5kiWu2cVvFJ",
+        "Gambler": "zHuxqDyTdCwuLlE2",
+        "Gemsmith": "gbD6lMTjTYxWiIYt",
+        "Gladiator": "GtK8oE5pIMdmTOgU",
+        "Guardian": "SRwCcct42dzSGXhD",
+        "Half Alv": "ZBIlnmR1gm2Fhal9",
+        "Herbalist": "m0uVYKGfbi9Hkmqy",
+        "Hero": "ztkN1eQI0eIiG2B6",
+        "Human": "nwWzuGRxl8p7vTkj",
+        "Hunter": "G77vfMAZEhfqvyh6",
+        "Idol": "B6ng6P4GAuhbtfD3",
+        "Instrument Craftsman": "PIqFT4GuqdljOSsu",
+        "Jeweler": "m4Vi8o1NnXPbMrCs",
+        "Kannagi": "sbPUZ7aKIPFr1Wyf",
+        "Knight": "omH3bg5MeuIkgEdw",
+        "Leatherworker": "6yHhPBvANvQlCGdQ",
+        "Machinist": "xkNu1xj37HNdqbEe",
+        "Magical Girl": "Clq2LbdBOJecDbQU",
+        "Maid": "3Kc5wpZzE70uMaQ0",
+        "Mercenary": "xk4h8Oseuwe28Jg5",
+        "Merchant": "J1DiuBHH5y0WqQm9",
+        "Miner": "nDA4ils1C2TrPemM",
+        "Monk": "NG4KmNyHeOmB8bUq",
+        "Negotiator": "11HQhQJojsD9GLsL",
+        "Noble": "iAkL96RHTPy1zocM",
+        "Nomad": "c07ryMhUG7gkYJ2Q",
+        "Novelist": "yz9T3B0fE4YRDcb1",
+        "Outlaw": "V8ajH8BtlwZRfWTX",
+        "Painter": "sNvFroddfJKaTHqQ",
+        "Phantom Thief": "VNxdrYy1MZ1dwHll",
+        "Pharmacist": "aAvJniwRUoxh4vhZ",
+        "Pirate": "xPjd0Wfufe61Udps",
+        "Race of Ritual": "M3s4mLhpwDwsfBdc",
+        "Sage": "Pg7rseZtuwwWGmU9",
+        "Samurai": "v7i21Mvwa9Kb3zxa",
+        "Scholar": "JbL9F5Zckdvo1I1N",
+        "Scout": "3uWxZmUqqQ2gBJ0F",
+        "Scribe": "ZOubGFa6BG50mLMI",
+        "Sigilmancer": "yCB1RpIvE9uA7QMG",
+        "Sorcerer": "cRLhBYjRus27sJhU",
+        "Spellthief": "1A7PdL5aG61UsIka",
+        "Spy": "wQP2VbDGqy0W7xyq",
+        "Summoner": "2C2xUXUmeGAfMuYw",
+        "Survivor": "OOuKwVjEPG7PCNej",
+        "Swashbuckler": "tdKl23JQHnTdPeNd",
+        "Tactician": "qCsTYcKRvNE8tPHN",
+        "Tailor": "kXzaRWYgpI6BeG12",
+        "Tamer": "RVYmFyODnZkJtkb0",
+        "Tracker": "T7G0gkwIFuY3BlIU",
+        "Trader": "SiIkdUyouLMNhNED",
+        "Trainer": "fGXvGn9UUpOb7xmX",
+        "Trap Master": "ZLav6nbRIKG3DqJR",
+        "Vampnella": "2JsJw53URuWOKLTb",
+        "Vendor": "KFieErygCpmzcgz8",
+        "Wand Master": "tAfVfk1c3jej9qZl",
+        "War Priest": "Q6yo7HxkpRlMqsHz",
+        "Weaponsmith": "Vnw8H6IBsmi34BCk",
+        "Werecat": "GmXhr09FYI6VOIM5",
+        "Wolf Fang": "2XQepCkFj3TMPje3",
+        "Woodworker": "DDG13aQjnj9jdssh",
+        "Wuxia": "UO69aXQKQiEE3xve"
+      },
+      "entries": {
+        "FIu4I416PkhviIn9": {
+          "name": "Contador"
+        },
+        "1Ew22DhJrTnd1dEr": {
+          "name": "Acrobata"
+        },
+        "dkqd8VUwubViWdFR": {
+          "name": "Almirante"
+        },
+        "LyXy2v4s4BOPXZgZ": {
+          "name": "Alquimista"
+        },
+        "dNTIl3nY4hMs0hAQ": {
+          "name": "Aprendiz"
+        },
+        "bnWCJb1oEpfBBEe8": {
+          "name": "Arcanista",
+          "description": "<p>Também conhecido como: Erudito da Magia.</p>"
+        },
+        "kAk9MdUfxhLHKRXh": {
+          "name": "Armadureiro"
+        },
+        "ZlQpphQfmyiEv2sv": {
+          "name": "Artífice"
+        },
+        "4Tl376nftql9IOCj": {
+          "name": "Artesão"
+        },
+        "krL2eq8R6b1ukYwI": {
+          "name": "Assassino"
+        },
+        "4Pnhl0Rf3SWinzR8": {
+          "name": "Astrólogo"
+        },
+        "MmztGygHNJ3MDt43": {
+          "name": "Vingador"
+        },
+        "EUSlGkT1FOSVsJaD": {
+          "name": "Bardo"
+        },
+        "AoHwkt1SPzOppZDM": {
+          "name": "Berserker"
+        },
+        "xgRfRzd8REEWP6gf": {
+          "name": "Ferreiro"
+        },
+        "13GThBVrmp8HX5Rt": {
+          "name": "Bombardeiro"
+        },
+        "Ku8YkwcH8jqszgVf": {
+          "name": "Carpinteiro"
+        },
+        "GQXDMvAHVndisEQQ": {
+          "name": "Cartógrafo"
+        },
+        "wWklWqFJHfYR8aYl": {
+          "name": "Campeão"
+        },
+        "JuiYhBOvxSAPf9wE": {
+          "name": "Chef"
+        },
+        "XKOPfbB3HmTzz00f": {
+          "name": "Chindon'ya"
+        },
+        "gKJ4i7orbpCAeM3N": {
+          "name": "Clérigo"
+        },
+        "9b1ovzY37RiCMkZJ": {
+          "name": "Cocheiro"
+        },
+        "Je51rBJFC1wYd0bB": {
+          "name": "Colecionador"
+        },
+        "SQHkkPGqKBcFmNRP": {
+          "name": "Conhecedor"
+        },
+        "NzDsbobN1XqM8jab": {
+          "name": "Falsificador"
+        },
+        "Z86h5bNe3JLfZm3D": {
+          "name": "Mensageiro"
+        },
+        "ZeKY10PZgBH5qAx7": {
+          "name": "Cortesã"
+        },
+        "yWWgeqGc3oGxb0eo": {
+          "name": "Lâmina Amaldiçoada"
+        },
+        "uU6amFzZW2oO7Nkn": {
+          "name": "Lorde Demônio"
+        },
+        "tB447bQpFF6y0oAk": {
+          "name": "Designer"
+        },
+        "dCaYqNnQ8yAUizvN": {
+          "name": "Detetive"
+        },
+        "ebHweV50nA1uQtp0": {
+          "name": "Devoto",
+          "description": "<p>Também conhecido como: Orante.</p>"
+        },
+        "E93wgLyqnksMysMf": {
+          "name": "Médico"
+        },
+        "LmompW7lVAJNKqhY": {
+          "name": "Druida"
+        },
+        "lNy9UaEPJmKR6U9X": {
+          "name": "Duelista"
+        },
+        "V53JFQ0AQlTO2dkN": {
+          "name": "Anão"
+        },
+        "MHjx9dzWiTrxR3ql": {
+          "name": "Governanta"
+        },
+        "lghcspq89n3axusT": {
+          "name": "Elfo"
+        },
+        "tme79wuP6wHx1vCh": {
+          "name": "Encantador"
+        },
+        "w9Wip56WNc21br8D": {
+          "name": "Explorador"
+        },
+        "VyiXIa9JqqA2a6OF": {
+          "name": "Pescador"
+        },
+        "Tl6qft7q8QvjZcJD": {
+          "name": "Glutão"
+        },
+        "QPc9Tup0y2GCw1sC": {
+          "name": "Coletor"
+        },
+        "v8f4MtqOoFUJpLtD": {
+          "name": "Vidente"
+        },
+        "mT85nFgnI6XEjd3v": {
+          "name": "Cauda de Raposa"
+        },
+        "LoIbv5kiWu2cVvFJ": {
+          "name": "Guarda de Fronteira"
+        },
+        "zHuxqDyTdCwuLlE2": {
+          "name": "Apostador"
+        },
+        "gbD6lMTjTYxWiIYt": {
+          "name": "Lapidário"
+        },
+        "GtK8oE5pIMdmTOgU": {
+          "name": "Gladiador"
+        },
+        "SRwCcct42dzSGXhD": {
+          "name": "Guardião"
+        },
+        "ZBIlnmR1gm2Fhal9": {
+          "name": "Meio-Alv"
+        },
+        "m0uVYKGfbi9Hkmqy": {
+          "name": "Herbalista"
+        },
+        "ztkN1eQI0eIiG2B6": {
+          "name": "Herói"
+        },
+        "nwWzuGRxl8p7vTkj": {
+          "name": "Humano"
+        },
+        "G77vfMAZEhfqvyh6": {
+          "name": "Caçador"
+        },
+        "B6ng6P4GAuhbtfD3": {
+          "name": "Ídolo"
+        },
+        "PIqFT4GuqdljOSsu": {
+          "name": "Luthier"
+        },
+        "m4Vi8o1NnXPbMrCs": {
+          "name": "Joalheiro"
+        },
+        "sbPUZ7aKIPFr1Wyf": {
+          "name": "Kannagi"
+        },
+        "omH3bg5MeuIkgEdw": {
+          "name": "Cavaleiro"
+        },
+        "6yHhPBvANvQlCGdQ": {
+          "name": "Coureiro"
+        },
+        "xkNu1xj37HNdqbEe": {
+          "name": "Maquinista"
+        },
+        "Clq2LbdBOJecDbQU": {
+          "name": "Garota Mágica"
+        },
+        "3Kc5wpZzE70uMaQ0": {
+          "name": "Criada"
+        },
+        "xk4h8Oseuwe28Jg5": {
+          "name": "Mercenário"
+        },
+        "J1DiuBHH5y0WqQm9": {
+          "name": "Mercador"
+        },
+        "nDA4ils1C2TrPemM": {
+          "name": "Minerador"
+        },
+        "NG4KmNyHeOmB8bUq": {
+          "name": "Monge"
+        },
+        "11HQhQJojsD9GLsL": {
+          "name": "Negociador"
+        },
+        "iAkL96RHTPy1zocM": {
+          "name": "Nobre"
+        },
+        "c07ryMhUG7gkYJ2Q": {
+          "name": "Nômade"
+        },
+        "yz9T3B0fE4YRDcb1": {
+          "name": "Romancista"
+        },
+        "V8ajH8BtlwZRfWTX": {
+          "name": "Fora da Lei"
+        },
+        "sNvFroddfJKaTHqQ": {
+          "name": "Pintor"
+        },
+        "VNxdrYy1MZ1dwHll": {
+          "name": "Ladrão Fantasma"
+        },
+        "aAvJniwRUoxh4vhZ": {
+          "name": "Farmacêutico"
+        },
+        "xPjd0Wfufe61Udps": {
+          "name": "Pirata"
+        },
+        "M3s4mLhpwDwsfBdc": {
+          "name": "Raça do Ritual"
+        },
+        "Pg7rseZtuwwWGmU9": {
+          "name": "Sábio"
+        },
+        "v7i21Mvwa9Kb3zxa": {
+          "name": "Samurai"
+        },
+        "JbL9F5Zckdvo1I1N": {
+          "name": "Erudito"
+        },
+        "3uWxZmUqqQ2gBJ0F": {
+          "name": "Batedor"
+        },
+        "ZOubGFa6BG50mLMI": {
+          "name": "Escriba"
+        },
+        "yCB1RpIvE9uA7QMG": {
+          "name": "Sigilomante"
+        },
+        "cRLhBYjRus27sJhU": {
+          "name": "Feiticeiro"
+        },
+        "1A7PdL5aG61UsIka": {
+          "name": "Ladrão de Feitiços"
+        },
+        "wQP2VbDGqy0W7xyq": {
+          "name": "Espião"
+        },
+        "2C2xUXUmeGAfMuYw": {
+          "name": "Invocador"
+        },
+        "OOuKwVjEPG7PCNej": {
+          "name": "Sobrevivente"
+        },
+        "tdKl23JQHnTdPeNd": {
+          "name": "Espadachim"
+        },
+        "qCsTYcKRvNE8tPHN": {
+          "name": "Tático",
+          "description": "<p>Também conhecido como: Estrategista.</p>"
+        },
+        "kXzaRWYgpI6BeG12": {
+          "name": "Alfaiate"
+        },
+        "RVYmFyODnZkJtkb0": {
+          "name": "Domador"
+        },
+        "T7G0gkwIFuY3BlIU": {
+          "name": "Rastreador"
+        },
+        "SiIkdUyouLMNhNED": {
+          "name": "Comerciante"
+        },
+        "fGXvGn9UUpOb7xmX": {
+          "name": "Treinador"
+        },
+        "ZLav6nbRIKG3DqJR": {
+          "name": "Mestre de Armadilhas"
+        },
+        "2JsJw53URuWOKLTb": {
+          "name": "Vampnella"
+        },
+        "KFieErygCpmzcgz8": {
+          "name": "Vendedor"
+        },
+        "tAfVfk1c3jej9qZl": {
+          "name": "Mestre das Varinhas"
+        },
+        "Q6yo7HxkpRlMqsHz": {
+          "name": "Sacerdote de Guerra"
+        },
+        "Vnw8H6IBsmi34BCk": {
+          "name": "Armeiro"
+        },
+        "GmXhr09FYI6VOIM5": {
+          "name": "Homem-Gato"
+        },
+        "2XQepCkFj3TMPje3": {
+          "name": "Presa de Lobo"
+        },
+        "DDG13aQjnj9jdssh": {
+          "name": "Marceneiro"
+        },
+        "UO69aXQKQiEE3xve": {
+          "name": "Wuxia"
+        }
+      }
+    },
+    "_packFolders": {
+      "Skills": "Habilidades",
+      "Items": "Itens",
+      "Game Master": "Mestre"
+    }
+  }
+}

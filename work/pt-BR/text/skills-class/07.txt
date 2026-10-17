@@ -1,0 +1,392 @@
+=== vDWdeUnKDiZG6rtH/description
+# Attack Command II
+<p>Adquirida com NP 11 ou mais. Durante este Processo Principal, você recebe +[NP] de bônus no dano físico.</p>
+<hr>
+<p>Uma habilidade especial que aumenta o poder dos ataques físicos dos servos invocados por meio de instruções precisas ou de ordens dadas com grande ânimo. Um servo com quem você tem um laço forte responde ao seu chamado e demonstra um poder além de seus limites.</p>
+
+=== Md5Q1YzhL3yxBayF/description
+# Call Servant
+<p>Você pode usar imediatamente uma habilidade [Invocação de Servo]. No entanto, você não pode usar uma habilidade [Invocação de Servo] que já esteja em efeito.</p>
+<p>(Destino 1): Você pode usar uma habilidade [Invocação de Servo] que já esteja em efeito.</p>
+<hr>
+<p>Uma proeza que troca rapidamente um servo invocado por outro. Nas suas mãos, é fácil gerenciar seus seguidores com flexibilidade, conforme a situação.</p>
+
+=== t8ih8tomIc5Botdw/description
+# Combat Summon: Banshee
+<p>Você causa [(NHx2)D + (Poder Mágico)] de dano mágico ao alvo.</p><p>(Ódio 1 & Alvo: Lacaio): O alvo fica [Incapacitado] ou [Morto] (à sua escolha).</p>
+
+=== rrjL3KkYsXo3mudw/description
+# Combat Summon: Blade Princess
+<p>Você causa [(NH)D + (Poder Mágico)] de dano mágico ao alvo. Os efeitos de «Maestria em Armas: Lâmina» podem ser aplicados a esta rolagem de dano. Esta habilidade pode ser usada sem uma [Lâmina] equipada.</p>
+
+=== h8Fzflcd8dZljrR7/description
+# Combat Summon: Medusa
+<p>Esta habilidade só produz efeito contra inimigos [Lacaio]. O alvo fica [Incapacitado] ou [Morto] (à sua escolha).</p>
+
+=== CyOulteyGa1UJxy1/description
+# Combat Summon: Siren
+<p>Você não pode escolher a si mesmo como alvo desta habilidade. Um alvo voluntário deve fazer um [Movimento Seguro (forçado)] de até [(Velocidade) do alvo] Qd.</p><p>(NH2): A distância percorrida aumenta em +1. (Destino 1): O alvo não precisa ser voluntário.</p>
+
+=== 3Eltafa7v2xLxuuB/description
+# Covert Walk
+<p>Você fica [Oculto] e pode fazer um [Movimento Normal] de até 3 quadrados mantendo esse estado. Só pode ser usada quando você tem a tag [Imortal] [Artificial]. [Menor] A distância percorrida é +2Qd.</p>
+<hr>
+<p>Com a ajuda de mortos-vivos e criaturas artificiais invocados como servos, esta habilidade permite que você se mova sem ser importunado pelo inimigo. Há vários métodos de apoio conforme o servo, como desaparecer de fato ou se mover escondido na sombra dele.</p>
+
+=== BCaf6fBp0ehu69sW/description
+# Death Scythe
+<p>Você causa [4D + (Poder Mágico)] de dano físico. Disponível apenas quando você tem a tag [Morto-Vivo].</p>
+<p>(Você: Oculto): Você causa dano adicional igual a + [(mod. de DES) &times; NH].</p>
+<hr>
+<p>Um feitiço ofensivo que ordena ao morto-vivo invocado como servo que desça sobre a cabeça do inimigo uma foice negra como azeviche, envolta em energia mortal. Sua característica é ter o poder elevado drasticamente quando o ataque é feito de surpresa.</p>
+
+=== Bw1XAiXsIb0fqn7V/description
+# Elemental Blast
+<p>Você causa [(NH+1)D + (Poder Mágico)] de dano mágico ao alvo, e o alvo sofre [Rigidez]. Você só pode usar esta habilidade quando tem a tag [Fada].</p>
+<hr>
+<p>Um feitiço ofensivo que ordena ao espírito invocado como servo que dispare projéteis mágicos. O poder elemental contido nos projéteis desequilibra a postura do inimigo e atrapalha seus movimentos.</p>
+
+=== AIFbdhizYvS4Y67g/description
+# Elemental Bolt
+<p>Você causa [(NHx2) + 2] de dano direto ao alvo. Este dano ativa a [Fraqueza] do alvo secundário, como se ele tivesse falhado no [Teste de Esquiva]. Você só pode usar esta habilidade quando tem a tag [Fada].</p>
+<hr>
+<p>Uma habilidade especial que ordena aos espíritos invocados que ataquem o inimigo com flechas mágicas. Ela deixa poucas brechas, e você pode ordenar outros ataques em sequência.</p>
+
+=== Rutu6rc6Oc2V13Kt/description
+# Elemental Bolt II
+<p>Adquirida com NP 11 ou mais. Você causa [NH x [mod. de FOR]] de dano direto ao alvo. Este dano ativa a [Fraqueza] do alvo secundário, como se ele tivesse falhado no [Teste de Esquiva]. Você só pode usar esta habilidade quando tem a tag [Fada].</p>
+<hr>
+<p>Uma habilidade especial que ordena aos espíritos invocados que ataquem o inimigo com flechas mágicas. O ataque do espírito, cujas capacidades cresceram por meio da sincronização, exibe um poder que o distingue de qualquer espírito medíocre.</p>
+
+=== hV8DKhwHmTGzAo0S/description
+# Elemental Ray
+<p>Você causa ⟦r1⟧{[(NH)D + [mod. de INT]]}&nbsp; de dano penetrante ao alvo. Você só pode usar esta habilidade quando tem a tag [Fada].</p>
+<hr>
+<p ⟦a1⟧><span ⟦a2⟧>Um feitiço ofensivo que ordena ao espírito invocado como servo que emita um raio imbuído do poder de um elemento. A luz da cor que simboliza o elemento varre o inimigo.</span></p>
+
+=== zNOekRe6yhS5xL8w/description
+# Gigant Punch
+<p>Você causa [3D + (Poder Mágico)] de dano físico. O dano deste ataque aumenta em + [NH de «Invocação de Servo: Golem» × 5].</p>
+
+=== WDFOPvEV60mJ97P6/description
+# Guardian Fist
+<p>Você causa [(NH &times; 2) D + (Poder Mágico)] de dano físico. Disponível apenas quando você tem a tag [Constructo].</p>
+<p>(Efeito): Você recebe [Barreira: (valor de FOR)].</p>
+<hr>
+<p>Um feitiço de ataque que ordena à criatura artificial invocada como servo que golpeie o inimigo com um punho de poder mágico. Após o ataque, o servo se posiciona ao seu lado e serve de escudo para protegê-lo.</p>
+
+=== hcksaeLUHlXd71Om/description
+# Horse Charge
+<p>Logo em seguida, você perde uma Ação Menor. Você pode fazer um [Movimento Normal] de 3 Qd. No entanto, só pode se mover em linha reta. A rolagem de dano de uma habilidade de [Ataque Corpo a Corpo] com [Alvo: Individual] que você usar neste Processo Principal aumenta em +[mod. de FOR].</p>
+
+=== xDyJ6MN7Xi9XfNeA/description
+# Hunting Dance
+<p>Você causa [(NH+2)D + (Poder Mágico)] de dano físico ao alvo, e o alvo fica [Atordoado]. Você só pode usar esta habilidade quando tem a tag [Mítico].</p>
+<hr>
+<p>Magia de ataque que fortalece a besta fantasmal que você invocou, compartilhando com ela o seu poder mágico, e dilacera o inimigo com suas garras e presas. A besta fantasmal salta livremente pelo campo de batalha, confundindo o inimigo.</p>
+
+=== KHPIuzIt2HVCGZjo/description
+# Manipulator Style
+<p>Você precisa ter &laquo;Chamado do Servo&raquo; para adquirir esta habilidade. Esta habilidade só produz efeito quando você tem pelo menos um [espaço de mão] vazio. O custo de [Ódio] de &laquo;Chamado do Servo&raquo; é reduzido a 0.</p>
+<hr>
+<p>Um estilo de luta em que uma das mãos fica livre para dar ordens aos seguidores, uma após a outra, com sinais de mão e comandos curtos. Conforme a situação, você pode recorrer rapidamente a seguidores diferentes.</p>
+
+=== SaLLcidyc39lbh92/description
+# Nightmare Shift
+<p>Se você usar um [Ataque Corpo a Corpo] de [Alvo: Individual / Alcance: Corpo a corpo] neste Processo Principal, esse ataque passa a ter [Alcance: 2Qd]. Além disso, se o alvo do ataque falhar no [Teste de Esquiva], você pode fazer um [Teleporte] para o mesmo Qd do alvo quando o Processo Principal terminar.</p>
+
+=== j4oPcUJNO1gPkFlI/description
+# Nightmare Walk
+<p>Você pode fazer um [Movimento Normal] de 3 Qd. Durante este movimento, se você não for alvo de [Obstrução], pode fazer um [Movimento Normal] adicional de 1 Qd.</p><p>(Menor): Você não pode ser alvo de [Obstrução] durante este movimento.</p>
+
+=== 9ZxA3OGBMuC7wWp0/description
+# Phantasmal Heal
+<p>O alvo recupera [(NHx2)D + (Recuperação)] PV e remove um Estado Negativo que o esteja afetando. Você só pode usar esta habilidade quando tem a tag [Mítico].</p>
+<hr>
+<p>Uma habilidade especial que cura os ferimentos dos aliados por meio de ordens dadas à besta fantasmal invocada como seguidora.</p>
+
+=== XRoftdzzEbgxB8du/description
+# Phantasmal Heal II
+<p>O alvo recupera [[valor de INT] + (Recuperação)] PV e remove um Estado Negativo que o esteja afetando. Você só pode usar esta habilidade quando tem a tag [Mítico].</p>
+<hr>
+<p>Uma habilidade especial que cura os ferimentos dos aliados por meio de ordens dadas à besta fantasmal invocada como seguidora. O poder de cura dela, em sintonia com o seu, fecha até ferimentos fatais num piscar de olhos.</p>
+
+=== 1gX9CyQrORUi7GbP/description
+# Phantasmal Ride
+<p>Você pode fazer um [Movimento Normal] de até [Velocidade] Qd. Além disso, após o fim do Processo Principal, você pode fazer um [Movimento Seguro] de até [NH] Qd. Você só pode usar esta habilidade quando tem a tag [Mítico].</p>
+<hr>
+<p>Uma habilidade especial que ordena à besta fantasmal invocada como seguidora que auxilie o seu deslocamento. Há vários meios de auxílio conforme a besta, como montar em suas costas ou receber dela uma magia de aceleração.</p>
+
+=== kWJO2QZdQHWkLlrz/description
+# Scapedoll
+<p>Só pode ser usada quando você tem a tag [Constructo]. Durante a [Etapa de Aplicação de Dano], você recebe o dano em PV previsto que um alvo que não seja você receberia. O alvo não recebe dano. Você só pode usar esta habilidade uma vez em resposta a cada ataque.</p>
+<hr>
+<p>Uma habilidade especial que ordena às criaturas artificiais invocadas como servos que protejam os aliados. O dano é repassado a você, mas essa decisão muitas vezes salva o grupo inteiro.</p>
+
+=== hObmNbFNzhUtRMN9/description
+# Servant Assist
+<p>O efeito desta habilidade é determinado pela tag recebida de uma Invocação.<br>(Você: Fada): +2 em [Teste de Percepção].&nbsp;<br>(Você: Mítico): +2 em [Teste de Atletismo].&nbsp;<br>(Você: Morto-Vivo): +2 em [Teste de Vigor].&nbsp;<br>(Você: Constructo): +2 em [Teste de Desarme].&nbsp;</p>
+<p>(NH 2): O bônus passa a ser +1D.</p>
+<hr>
+<p>Uma habilidade especial que permite que o ajudante invocado auxilie em diversas tarefas. A área de especialidade varia conforme o tipo de seguidor.</p>
+
+=== S5448dz5ULRaj6hG/description
+# Servant Combination
+<p>Ao usar esta habilidade, você pode gastar até três [Pontos de Destino] (0 é permitido). O alvo sofre [Fraqueza] com intensidade igual a [([Pontos de Destino] gastos + NH) x 2].</p>
+<p>(NP11): O multiplicador passa a ser x4.<br>(NP21): O multiplicador passa a ser x6.</p>
+<hr>
+<p>Uma habilidade especial que ataca em conjunto com as criaturas invocadas. Uma combinação perfeita inflige ainda mais dano ao inimigo.</p>
+
+=== vXRNbaWIb0NbSses/description
+# Servant Summon: Carbuncle
+<p>Você recebe a tag [Mítico]. Você recebe +[NHx5] de bônus em [Recuperação].</p><p>(Efeito): Alvos secundários dentro do alcance [Alvo: Área (E) / Alcance: Corpo a corpo] centrado em você recuperam [2D + (Recuperação)] PV.</p>
+
+=== uSE2xEJZ4yYgqrUw/description
+# Servant Summon: Golem
+<p>Você recebe a tag [Constructo]. Você recebe [Anulação (Dano Físico): (mod. de INT) × NH].</p><p>(Efeito): Um aliado que você possa ver dentro do alcance [Alvo: Individual / Alcance: 2 Qd] reduz seu [Ódio] em -2.</p>
+
+=== z7gz1U0ieXQMijWj/description
+# Servant Summon: Phantom
+<p>Você recebe a tag [Morto-Vivo]. Você não perde [Oculto] mesmo se fizer um [Movimento Normal] ou um [Movimento Seguro].</p><p>(Efeito): Você fica no estado [Oculto].</p>
+
+=== MANodN2dv7TX8qs0/description
+# Servant Summon: Salamander
+<p>Você recebe as tags [Fada] e [Chama]. Você recebe +[NHx5] de bônus na rolagem de dano de ataques que tenham a tag [Chama].</p><p>(Efeito): Um alvo secundário dentro do alcance [Alvo: Individual / Alcance: 4 Qd] a partir de você sofre 5 de dano direto.</p>
+
+=== G6vtzOWz2y5jBy3U/description
+# Servant Summon: Salamander II
+<p>Adquirida com NP 16 ou mais. Você recebe as tags [Fada] e [Chama]. Você recebe +[NHx7] de bônus na rolagem de dano de ataques que tenham a tag [Chama].</p><p>(Efeito): Um alvo secundário dentro do alcance [Alvo: Individual / Alcance: 4 Qd] a partir de você sofre [mod. de INT] de dano direto.</p>
+
+=== sHjKL2IucZbQuxdX/description
+# Servant Summon: Skeleton
+<p>Você recebe a tag [Morto-Vivo]. Você recebe + (mod. de FOR) na rolagem de dano dos Ataques Físicos que fizer.</p><p>(Efeito): Alvos secundários dentro do alcance [Alvo: [NH] / Alcance: 2 Qd] a partir de você sofrem [Perseguição: 7]. Se você estiver [Oculto] ao infligir [Perseguição] com esta habilidade, você não perde [Oculto].</p>
+
+=== sykaKHii5xatj2vu/description
+# Servant Summon: Slime
+<p>Você recebe a tag [Constructo]. Você recebe [Anulação (Dano Mágico): (mod. de INT) × NH].</p><p>(Efeito): Aliados que você possa ver dentro do alcance [Alvo: Dois / Alcance: 2 Qd] reduzem seu [Ódio] em -1.</p>
+
+=== EhqdBAC40BKu6kkF/description
+# Servant Summon: Undine
+<p>Você recebe as tags [Fada] e [Frio]. Você recebe +[NHx5] de bônus na rolagem de dano de ataques que tenham a tag [Frio].</p>
+<p>(Efeito): Um alvo secundário dentro do alcance [Alvo: Individual / Alcance: 4 Qd] a partir de você sofre 5 de dano direto.</p>
+<hr>
+<p>Uma habilidade especial que invoca e comanda Ondina, um espírito da água com a forma de uma bela donzela. Suas correntes e seu ar gélido congelam os inimigos.</p>
+
+=== DLMnIMoPCn3auWWz/description
+# Servant Summon: Undine II
+<p>Pode ser adquirida com NP 16 ou mais. Você recebe as tags [Fada] e [Frio]. +[NH×7] nas rolagens de dano dos seus ataques com a tag [Frio]. (Efeito Garantido) Você causa [INT] de dano direto a um alvo secundário dentro de "Alvo: Individual / Alcance: 4 Qd" a partir de você.</p>
+        <hr>
+        <p>Uma habilidade que permite invocar Ondina, uma fada da água com aparência de bela donzela, e firmar com ela um contrato de alto nível para comandá-la. Suas correntes e seu ar gélido, intensificados, drenam todo o calor dos inimigos.</p>
+
+=== LLjR7SCLSH4pecJi/description
+# Servant Summon: Unicorn
+<p>Você recebe a tag [Mítico]. Você recebe +[NHx5] de bônus em [Recuperação].</p><p>(Efeito): Alvos secundários dentro do alcance [Alvo: Área (E) / Alcance: Corpo a corpo] centrado em você removem um Estado Negativo que os esteja afetando.</p>
+
+=== ihHwGKeAD9QC67Hw/description
+# Summoner's Whip
+<p>Durante este Processo Principal, seus [Ataques Mágicos] com [Alvo: Individual] passam a ter [Alvo: Dois].</p>
+<hr>
+<p>Uma habilidade especial que usa o estalo de um chicote para repreender e incentivar o ajudante invocado. Agitado, seu parceiro se enfurece com mais violência que de costume, mostrando o dobro do desempenho normal.</p>
+
+=== AHv19ALfCWCWWqsq/description
+# Summoning Mastery
+<p>Quando você faz um ataque que exige que você tenha a tag [Fada], [Morto-Vivo], [Constructo] ou [Mítico], você recebe +[(NH)D] de bônus nas rolagens de dano dessas habilidades.</p>
+<hr>
+<p>Você tem uma forte ligação emocional com seus servos. O poder desse vínculo amplia ainda mais as capacidades deles.</p>
+
+=== VTdqGB0aNknZgAdI/description
+# Titan Trample
+<p>Você pode fazer um [Movimento Normal] de 1 Qd. Durante este movimento, você é imune a [Obstrução] de inimigos [Lacaio].</p><p>(Menor): O movimento é +2 Qd.<br>(Destino 1): Durante este movimento, os inimigos com a tag [Lacaio] que estiverem no mesmo quadrado que você passam imediatamente ao estado [Morto].</p>
+
+=== a7HWtRWa4clyibo8/description
+# Trample Command
+<p>O número de alvos desta habilidade é igual ao NH da habilidade "Combinação de Servo". Você causa [(mod. de POD) + 5] de dano direto ao alvo.&nbsp;<br>Este dano ativa a [Fraqueza] do alvo, como se ele tivesse falhado no [Teste de Esquiva].</p>
+<hr>
+<p>Uma habilidade em que as criaturas invocadas, sob o seu comando, atravessam o campo de batalha atropelando os inimigos um após o outro. Quanto mais forte o vínculo entre você e seu servo, mais forte o ataque.</p>
+
+=== 7daXOegcShIAh7Fh/description
+# Utility Summon: Brownie
+<p>Quando o alvo rolar na [Tabela de Exaustão: Estamina, Itens], ele pode rolar duas vezes e escolher qualquer um dos resultados.</p><p>(Bônus): Você recebe +8 de [PV Máx.].</p>
+
+=== zgfzKJdZ3LceFJND/description
+# Utility Summon: Clue Rat
+<p>Você pode rolar novamente o teste que acabou de fazer.</p>
+
+=== 7wwZN6xvsFXYiVxx/description
+# Utility Summon: Golem
+<p>Exclusiva para <Summoner>Invocadores. Você recebe o estado [Montado: Golem]. Enquanto estiver no estado [Montado: Golem], os Poderes EX «Pisoteio do Titã» e «Soco Gigante» ficam disponíveis. Além disso, você recebe [Barreira: (NH de «Invocação de Servo: Golem» × [valor de INT]) + (NHx20)]. Você perde este estado quando perde esta [Barreira].</p>
+
+=== UPoeNuhZrmcAxZC6/description
+# Utility Summon: Gremlin
+<p>Use esta habilidade logo antes de fazer um [Teste de Análise]. Você recebe +2D de bônus nesse teste.</p>
+
+=== eo41dAoipuRkY3m0/description
+# Utility Summon: Nightmare
+<p>Exclusiva para <Summoner>Invocadores. Você recebe o estado [Montado: Cavalo-Pesadelo]. Enquanto estiver no estado [Montado: Cavalo-Pesadelo], os Poderes EX «Caminhada do Pesadelo» e «Deslocamento do Pesadelo» ficam disponíveis. Além disso, quando você sofrer [Perseguição] ou [Deterioração], o efeito é removido imediatamente. No entanto, isso só pode ocorrer um número de vezes igual ao NH de «Invocação de Servo: Fantasma» a cada uso desta habilidade.</p>
+
+=== hZVTafSe4tcwFBjM/description
+# Utility Summon: Unicorn
+<p>Exclusiva para <Summoner>Invocadores. Você recebe o estado [Montado: Unicórnio]. Enquanto estiver no estado [Montado: Unicórnio], os Poderes EX «Trote de Cavalo» e «Carga de Cavalaria» ficam disponíveis. Além disso, você recebe [Anulação (Sagrado, Ataque Corpo a Corpo)] com intensidade igual a [[mod. de POD] × NH de «Invocação de Servo: Unicórnio»].</p>
+
+=== quxhDKuvkPzOJezk/description
+# Blade Opera
+<p>Use esta habilidade ao mesmo tempo que um [Ataque Corpo a Corpo] com [Alvo: Individual]. Esse ataque passa a ter [Alvo: Amplo 1 (E)].</p>
+<hr>
+<p>Uma habilidade especial que permite golpear livremente como o protagonista de um drama de espadachins, erguendo a voz de forma sonora e assumindo uma pose esplêndida. Naquele instante, o campo de batalha se torna o seu palco.</p>
+
+=== 4ZUnQ80KBs8qrbGg/description
+# Blood Letter
+<p>Você causa ⟦r1⟧{[2D + (Poder de Ataque)]} de dano físico. Este ataque ativa [NH+1] acúmulos de [Perseguição] em vez de um.</p>
+<p>(Crítico): Os acúmulos de [Perseguição] ativados por este ataque não são removidos.</p>
+<hr>
+<p>Uma habilidade especial que desfere uma série de cortes afiados. A trajetória dos cortes permanece no corpo do inimigo como letras de sangue, causando ainda mais dano.</p>
+
+=== RgkETGE4zzeNUY4d/description
+# Bloody Piercing
+<p>Você causa [(NH+3)D + (Poder de Ataque)] de dano físico ao alvo, e o alvo fica [Confuso]. Se esse estado [Confuso] for removido por qualquer meio, o alvo sofre 20 de dano direto.</p>
+<hr>
+<p>Uma habilidade especial que restringe os movimentos do inimigo com um ataque mirado nas pernas. Pequenos espinhos ficam cravados no ferimento e, se forem arrancados, causam ainda mais dor.</p>
+
+=== ogYuoou0SGN6BHyQ/description
+# Boomerang Saucer
+<p>Durante este Processo Principal, você pode adicionar a tag [Arremesso] a um [Escudo] que tenha equipado e usá-lo como uma arma de [Alcance: 2Qd] capaz de fazer [Ataque à Distância]. O [Poder de Ataque] dessa arma é igual à [Defesa Física] do [Escudo].</p>
+<hr>
+<p>Uma habilidade que arremessa o escudo para atacar inimigos distantes. Prendendo-lhe uma corrente para puxá-lo de volta, ou aperfeiçoando o arremesso para que funcione como um bumerangue, o escudo retorna imediatamente à sua mão.</p>
+
+=== pxw7dK03zqZrjcmR/description
+# Break Trigger
+<p>Você ativa todos os acúmulos de [Perseguição] que o alvo do seu ataque possui, em vez de apenas um.</p>
+<hr>
+<p>Uma habilidade especial que executa incontáveis ataques de perseguição com uma sequência imparável de golpes em velocidade divina. Ainda que dure apenas um instante, a investida feroz é implacável, e o inimigo vai ao chão sem sequer entender o que aconteceu.</p>
+
+=== 9mqosJIW3tByLFOZ/description
+# Chase Mastery
+<p>A intensidade da [Perseguição] que você aplica aumenta em +[NHx3].</p>
+<hr>
+<p>Você é proficiente em ataques consecutivos, a especialidade do &lt;Espadachim&gt;.</p>
+
+=== gCcZkfv3GQcrLy0b/description
+# Cheap Trick
+<p>Durante este Processo Principal, se você causar pelo menos 1 de dano em PV ao alvo com um ataque, o alvo fica [Atordoado].</p>
+<hr>
+<p>Uma habilidade especial que retarda a reação do inimigo ao ataque logo após uma leve finta com a arma, o escudo ou a mão livre.</p>
+
+=== LC9EeL9RvEdnYtn4/description
+# Crazy Crack
+<p>Você causa [(NH+1)D + (Poder de Ataque)] de dano físico ao alvo, e o alvo sofre [Fraqueza (Físico): [mod. de INT]]. Esta fraqueza é tratada como um Estado Vital com a tag [Selado] e dura até que o alvo gaste 2 [Pontos de Destino] ou até o início do seu próximo Processo Principal.</p>
+<hr>
+<p>Uma habilidade especial que inflige uma dor capaz de rachar o espírito de luta do alvo e privá-lo da concentração.</p>
+
+=== 14Jr0KAlWgKiCpRB/description
+# Danse Macabre
+<p>Ao usar esta habilidade, você pode gastar até três [Pontos de Destino] (0 é permitido). Você recebe +[([Pontos de Destino] gastos + NH) x 5] de bônus nas rolagens de dano de [Ataque com Arma].</p>
+<p>(NP11): O multiplicador passa a ser x10. (NP21): O multiplicador passa a ser x15.</p>
+<hr>
+<p>Uma habilidade especial que desencadeia ataques contínuos com movimentos de dança que fascinam até o inimigo. A trajetória da arma, reluzindo em meio à névoa de sangue, torna-se uma dança da morte que rouba a vida do inimigo com a espada.</p>
+
+=== ye7TqAmQIy1ILLLA/description
+# Discard
+<p>Você só pode escolher um aliado como alvo. O alvo pode reduzir seu [Ódio] em -1. Esta habilidade pode ser usada várias vezes no mesmo Processo Principal.</p>
+<p>(Ódio 1): O Alcance da habilidade passa a ser 4 Qd. Se você estiver equipado com um [Escudo], pode subtrair mais -1 do [Ódio] do alvo.</p>
+<hr>
+<p>Você domina as táticas e o jogo de avançar e recuar em batalha. Você pode desviar para si a atenção dos inimigos, ou atrair para si a atenção daqueles que estão atrás dos seus aliados.</p>
+
+=== qUoeKddwYXIBYhOD/description
+# Dual Bet
+<p>Você causa [2D + (Poder de Ataque)] de dano físico ao alvo.</p>
+<p>(Extra): O alvo sofre [(NHx4) + 5] de dano direto. Este dano ativa a [Perseguição] uma vez, como se o alvo tivesse falhado no [Teste de Esquiva].</p>
+<hr>
+<p>Uma habilidade especial que usa duas espadas para desferir uma série de ataques imperceptíveis. Intercalando fintas e golpes verdadeiros, ela causa dano com certeza.</p>
+
+=== o54odoCOecmaxccP/description
+# Early Thrust
+<p>O alvo sofre [Perseguição: (NHx4)].</p>
+<hr>
+<p>Uma habilidade especial que quebra a postura do inimigo com um golpe que domina o oponente e abre caminho para a perseguição.</p>
+
+=== d0EBodW3Lc9Wkbzi/description
+# Early Thrust II
+<p>Adquirida com NP 11 ou mais. O alvo sofre [Perseguição: ([mod. de INT] x NH)].</p>
+<hr>
+<p>Uma habilidade especial que quebra a postura do inimigo com um golpe que domina o oponente e abre caminho para a perseguição. Ao criar uma brecha primorosa, você faz o inimigo se expor, indefeso, diante de você.</p>
+
+=== imNGiUNCG9UT3Pjy/description
+# End of Act
+<p>Se um [Lacaio] sofrer pelo menos 1 ponto de dano em PV como resultado desta rolagem de dano, ele fica [Incapacitado] ou [Morto] (à sua escolha).</p>
+<p>(Destino 1): Se você tiver atingido o Limite desta habilidade, pode pagar este custo para usá-la novamente.</p>
+<hr>
+<p>Uma habilidade especial que neutraliza o inimigo instantaneamente com um ataque fluido. Seu lampejo baixa, sem piedade, a cortina sobre a atuação do canastrão que mancha o palco.</p>
+
+=== HsbthMtgicIwgOqF/description
+# Fingering
+<p>Use esta habilidade logo antes de fazer um [Teste de Operação]. Você recebe +2D de bônus nesse teste.</p>
+<hr>
+<p>Uma habilidade que permite concentrar sua atenção e realizar tarefas difíceis que exigem destreza manual.</p>
+
+=== RVYPNSGEYvXAfi3T/description
+# Flash Edge Style
+<p>Esta habilidade só produz efeito quando você tem duas armas corpo a corpo de [Uma Mão] equipadas. Você recebe a condição [Duas Armas], e seu [Poder de Ataque] passa a ser [a soma do (Poder de Ataque) das duas armas].</p>
+<p>(NH 2): Quando a [Perseguição] for ativada pelo seu [Ataque Corpo a Corpo], escolha [Alvo: Individual / Alcance: 2 Qd] como alvo secundário e cause a ele dano direto igual a um acúmulo da [Perseguição] ativada.</p>
+<hr>
+<p>Um estilo de luta em que duas armas são manejadas a uma velocidade fulgurante para desferir uma série de ataques.</p>
+
+=== ncvle0Z7g8BnGocx/description
+# Fold
+<p>Use esta habilidade na etapa de "Declaração de Ataque", quando você for escolhido como alvo de um ataque. Você pode fazer imediatamente um [Movimento Seguro] de até 2 Qd. Após concluir esse movimento, a etapa de declaração de ataque é refeita.</p>
+<hr>
+<p>Uma habilidade especial que permite escapar do alcance do ataque inimigo enroscando o chicote nas árvores ao redor e se deslocando a partir delas. Seus movimentos acrobáticos não deixam que os inimigos fixem a mira em você.</p>
+
+=== Ycgxa8kIJsuvIQXF/description
+# Highlander Style
+<p>Tem efeito quando você está equipado com uma arma de [Duas Mãos]. Você recebe + [mod. de POD] nas rolagens de dano feitas na rodada em que declarou [Espera].&nbsp;</p>
+<p>(NH 2): Quando você estiver no estado [Pré-Ação], seu [Teste de Esquiva] aumenta em 1.&nbsp;<br>(NH 3): Quando você declarar [Espera], perde imediatamente 1 de [Ódio].</p>
+<hr>
+<p>Um estilo de luta baseado em golpes poderosos com uma arma grande. A força do golpe desferido depois de acumular energia não fica atrás de nenhuma outra.</p>
+
+=== KbfXgRigY1hDu2Ul/description
+# Hilt Break
+<p>Você causa [valor de FOR] &nbsp;de dano direto. Este dano ativa um acúmulo de [Perseguição] como se o alvo tivesse falhado em um [Teste de Esquiva].&nbsp;</p>
+<p>(NH 2): Você pode fazer um [Movimento Normal] de até 1 Qd antes que o efeito seja aplicado. No entanto, não pode se mover se estiver no estado [Rigidez].&nbsp;<br>(NH 3): A distância do movimento aumenta para até 2 Qd.</p>
+<hr>
+<p>Uma habilidade especial que golpeia o inimigo com a guarda ou o cabo da arma. Também pode ser usada para contê-lo enquanto você encurta a distância.</p>
+
+=== I3DzLjgowu5gj0tR/description
+# Juggler Style
+<p>Esta habilidade só produz efeito quando você tem apenas uma única arma de [Arremesso] equipada em um [espaço de mão]. Seu [Poder de Ataque] passa a ser [(Poder de Ataque) da arma x 2], e você pode fazer [Ataques à Distância] em alcance Corpo a corpo.</p>
+<p>(NH2): Você recebe +2 de bônus em [Precisão].</p>
+<hr>
+<p>Um estilo de luta que maneja armas de arremesso com a destreza esplêndida de um acrobata.</p>
+
+=== Cb1QMtExp92Wr6yu/description
+# Lightning Step
+<p>Você pode fazer um [Movimento Seguro] de até [Velocidade] Qd. Durante este Processo Principal, você recebe +8 de bônus nas rolagens de dano de [Ataque com Arma].</p>
+<p>(Menor): A distância percorrida aumenta em +1 Qd.</p>
+<hr>
+<p>Habilidade especial de se mover com passos rápidos como um relâmpago. O ataque desferido com esse impulso libera um poder intenso.</p>
+
+=== thoaOcLJUbaC88Xc/description
+# Lightning Step II
+<p>Adquirida com NP 11 ou mais. Você pode fazer um [Movimento Seguro] de até [Velocidade] Qd. Você recebe +[valor de DES] de bônus na rolagem de dano de um [Ataque com Arma] feito neste Processo Principal.</p>
+<p>(Menor): A distância percorrida aumenta em +1 Qd.</p>
+<hr>
+<p>Habilidade especial de se mover com passos rápidos como um relâmpago. O impulso dessa velocidade divina dobra o poder dos ataques seguintes.</p>
+
+=== rtFub6GOJcvw7ZNN/description
+# Mulligan
+<p>Quando o alvo rolar na [Tabela de Exaustão: Itens ou Dinheiro], ele pode rolar duas vezes e escolher qualquer um dos resultados.&nbsp;</p>
+<p>(Bônus): Você recebe +8 de [PV Máx.].</p>
+<hr>
+<p>Uma habilidade especial que permite se recuperar instantaneamente de falhas com perspicácia aguçada e reflexos rápidos. Depois que você agarra objetos e bens, não os larga mais.</p>
+
+=== oSWeF6HxdGuUhcMl/description
+# Multiple Darts
+<p>Você causa [(NH+1)D + (Poder de Ataque)] de dano físico ao alvo, e o alvo fica [Aflito].</p>
+<hr>
+<p>Uma habilidade que agrava os males do inimigo lançando armas de arremesso contra seus pontos fracos e ferimentos.</p>
+
+=== QEXGPgVkszg3FJT6/description
+# Opening Gambit
+<p>O alvo sofre [NH] acúmulos de [Perseguição: 7]. Esses acúmulos de [Perseguição] podem ser distribuídos como você quiser entre os personagens dentro do alcance.</p>
+<p>(Destino 1): Adicione +1 ao número de acúmulos de [Perseguição].&nbsp;<br>(Destino 2): Adicione +2 ao número de acúmulos de [Perseguição].&nbsp;<br>(NP11): A intensidade da [Perseguição] aumenta para 15.&nbsp;<br>(NP21): A intensidade da [Perseguição] aumenta para 24.</p>
+<hr>
+<p>Uma habilidade especial que destrói a defesa do inimigo aplicando uma estratégia após a outra, conforme a cartilha tática. Ataques mirados numa postura desequilibrada infligem danos profundos ao inimigo.</p>

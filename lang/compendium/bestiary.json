@@ -1,0 +1,1957 @@
+{
+  "LHTRPG-PTBR-COMPENDIUM": {
+    "bestiary": {
+      "label": "Bestiário",
+      "documentName": "Actor",
+      "folders": {
+        "DZa0LbCEve8eidVi": "Chefes",
+        "69lZ2fcL5y3AA5lb": "NP1",
+        "W1zVCzpYGWA3r6Yt": "NP2",
+        "XAj2Q8ZzBvNAwxtG": "NP3",
+        "BYxZ63EnUjLpWg6M": "NP4",
+        "VWVyO3fsTZSowWQs": "NP5",
+        "4DWuzi8LwFa0NIND": "NP6",
+        "KYsy8JihWGGKC6kS": "NP7",
+        "A8N2nQKDCQVC2B0y": "NP8"
+      },
+      "byName": {
+        "Abel the Young Noble Vagabond Vampire (Vampire Bohemian Prince)": "FEnvx4LpUNiYJMyZ",
+        "Anti-Bug's Light": "49AxTjdTgX2jnVdD",
+        "Assassin Bee": "cZsamX078eaEWGQc",
+        "Bambooshoot Boar": "KTnJ5FAYZCRAaXw3",
+        "Black Tanuki Tribe Harpooner": "DSutOCkkt9vLQO4o",
+        "Black Tanuki Tribe Magician": "0xwwLEY9LoO64oJw",
+        "Blue-scaled Sea Dragon": "kVB3cfRDZPcX2olF",
+        "Brier Weasal": "CMoSzyPDmFgdKRmO",
+        "Burning Dead": "0zl36mSijgkYsTCu",
+        "Clockwork Dragonfly": "ZT9I8hOk3y6B6d8t",
+        "Clockwork Fast Ladybug": "vbbSX0S7e2jBUnWy",
+        "Clockwork Saberlion": "Kb1wQByQIumckIc1",
+        "Clockwork Tarantula": "pBEMzMhIPdU8WD7h",
+        "Crimson Maple": "IvtNLVl58nsRoFIq",
+        "Diatryma": "V4tLapbkLUma87us",
+        "Disease Beast": "YYvAtpLqOpMfNYpT",
+        "Flame Pillar": "OiTrWAaGCzGqPbhm",
+        "Giant Spider": "PLuuKGpdwaM9l0M3",
+        "Goblin Artillery": "PDrLwH8v5vDH5PKL",
+        "Goblin Beastmaster": "Bffo1qi1Z6Uih7t3",
+        "Goblin Champion": "ThzHgLQY63AmV3Fh",
+        "Goblin Conjurer": "5hqO3LBIsyPo6yZ1",
+        "Goblin Curse Caller": "WtrH4Hn9ehMIxsaU",
+        "Goblin Deathcaller": "MjxyM9s3cpUV1o5Y",
+        "Goblin Destructor": "TAcukM1rAfYyuYlC",
+        "Goblin Hatchet-man": "Ow7tZmu68sn9Yn55",
+        "Goblin Hexer": "n1hqp1CmOII4fW0L",
+        "Goblin Monk": "KjmxGJLjcQaQ0bzE",
+        "Goblin Observer": "oNpFjLw3s7EucAf5",
+        "Goblin Priest": "AdDX1TUxnccoVoKQ",
+        "Goblin Shaman": "fYQxoxw39x5zYIHP",
+        "Goblin Skater": "okFC8n05g7TlYIjp",
+        "Goblin Sniper": "Z8v4s18bK5VD7R8H",
+        "Goblin Totem": "fO2n7KWcpp3t8cCI",
+        "Goblin": "sdBwajsYTHjNsdwj",
+        "Gray Pudding": "I7OG4gUbJ8FxGyFs",
+        "Green Slime": "JmmpXyzoJ2lelkSV",
+        "Gregarious Asphyxmoss": "WO0RIFi7LobFxBFL",
+        "Grizzly Bear": "mssosmqii8rnjkxT",
+        "Hobgoblin Bareknuckle": "M9I1tlVLKiXz40F7",
+        "Jibasu Moon Bear": "iImsF8R4wQ9NDt34",
+        "King of the Iceberg": "go6ODeCe36JscMsR",
+        "Kitsune Pickpocket": "g3znqYjSkv2mtONk",
+        "Kobold": "BGdvASgfLOwaL3HS",
+        "Kobold Caster": "woG03LchUhzKefnM",
+        "Kobold Heavyarm": "o6zPMHYCilQW0nbF",
+        "Kobold Hunter": "FJuLFQlPW1cHmYHY",
+        "Kobold Leader": "QARbx7GUYLD1wiOv",
+        "Kobold Medic": "xNwWWJld1OGFOL7b",
+        "Kobold Partizan": "jl4GUvtM8FnoQI9X",
+        "Kobold's Crane": "pj4rVktI0RNfUnj2",
+        "Living Armor": "giLOQc6kM8llUvU6",
+        "Living Idol": "1UnbrYWynvESkazH",
+        "Lizhi Boar": "LemzOm5khAHljojO",
+        "Matsutakonid": "KBiDsPFsxi0SU4LJ",
+        "Mizkun of Shadows": "0Gmd94qhWyunBcPh",
+        "Occupation Leader": "2XQ0riyKt6rm2PLv",
+        "Oobold": "6nAQi2EMdzhRD1iJ",
+        "Oobold Dinsword": "ujE5p2I528Fd0pMD",
+        "Owlbear": "1q8Wy5XVga1MLaXL",
+        "PK Samurai": "pdiO4DgAunjymb1b",
+        "PK Swashbuckler": "GjIM2oezJWF7OMjf",
+        "Pixie": "eI2ltaMZcEfAziLD",
+        "Rakshasa Lady of the Furious Fan (Neirity Ranpanfan)": "Ca6G7AYEoRdP6pbZ",
+        "Rakshasa Protecting Maiden (Neirity Frontgirl)": "dUZbOx3Le5He7G5Y",
+        "Rakshasa Warrior (Neirity Pitchfork)": "nYBv8yFI8YcqA1M0",
+        "Rakshasa Wicked Thorn Knight (Neirity Evilspike)": "8YWfE8WLGNkbuYjC",
+        "Ratman Bonehead": "CfW7dWV2jkk62U54",
+        "Ratman Harvester": "geThBzOVp3iHBptL",
+        "Ratman Hooligan": "iM9wXbFrZeglbJQU",
+        "Ratman Meanness": "zxAvZxHukM1wQw3F",
+        "Ratman Minion": "UZeoLYZNTJYYqWfi",
+        "Ratman Stringer": "gKQNwN4lmKzee3jI",
+        "Ratman Swarm Caller": "9jDO1f6QBYNMdvR6",
+        "Red Cap": "tkkqRoJlLpd1qLw9",
+        "Repeater": "PaoiKZi9U27CUM3a",
+        "Salamander": "EWMCcjsz9CJYtuQl",
+        "Scarecrow": "v4Irj0APuiJURFur",
+        "Sewer Rat": "2qCSEywo5D0H7VAm",
+        "Skeleton Archer": "Vw4harBduIhuFnbg",
+        "Skeleton": "Hv6ivawH2q3gTmrM",
+        "Triffid": "b0QGiVfsMPLkg0K1",
+        "Vampire Maid-of-all-work": "51EjEwUpCcaaL3aI",
+        "Zombie": "CftxDr4CQDArE8mp"
+      },
+      "entries": {
+        "FEnvx4LpUNiYJMyZ": {
+          "name": "Abel, o Jovem Vampiro Nobre Errante (Príncipe Vampiro Boêmio)",
+          "tokenName": "Abel, o Jovem Vampiro Nobre Errante (Príncipe Vampiro Boêmio)",
+          "items": {
+            "8cVjVXsCAtTU2uVT": {
+              "en": "Night's Blood Ties",
+              "name": "Laços de Sangue da Noite",
+              "description": "<p>Quando este inimigo sofre dano de [Radiância], suas defesas caem para 0 e ele sofre [Rigidez].</p>"
+            },
+            "TDrfC9qaaKNDAuQo": {
+              "en": "Seduction of the Evil Eye",
+              "name": "Sedução do Olho Maligno",
+              "description": "<p>Um alvo no mesmo quadrado que este inimigo é forçado a sair do quadrado. O alvo sofre Fraqueza 5 até o fim do Processo Principal.&nbsp;</p>"
+            },
+            "SMM1LfZwgQ076xOl": {
+              "en": "Blood-sucking Ribcage",
+              "name": "Costelas Sugadoras de Sangue",
+              "description": "<p>Este inimigo recupera 6 PV.</p>\n<p>Destino 1: O alvo também sofre [Rigidez], que não pode ser removida até que o alvo saia do quadrado do inimigo.</p>"
+            },
+            "PPNIsMd7oNiiDn3O": {
+              "en": "Scattering Cloud Mist",
+              "name": "Névoa de Nuvem Dispersante",
+              "description": "<p>Ativada quando este inimigo falha em um teste de defesa. Proceda como se o inimigo tivesse obtido um Crítico; ele também pode se mover até 4 quadrados como uma reação instantânea.</p>\n<p>Pode ser usada 1/Cenário; Destino 2: 2/Cenário. \" &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>"
+            },
+            "mlIDyrN87bBNYZmG": {
+              "en": "Repeat Action",
+              "name": "Ação Repetida",
+              "description": "<p>Uma vez por Rodada, quando este inimigo fica em [Pós-Ação], ele imediatamente volta a ficar em [Pré-Ação]. Depois disso, até o fim da Rodada, sua Iniciativa cai para 0.</p>"
+            },
+            "6OdS89SvmAI49eVG": {
+              "en": "Forest of Severed Spines",
+              "name": "Floresta de Espinhos Decepados",
+              "description": "<p>Os alvos sofrem 5 pontos de dano direto, e este inimigo pode remover de si mesmo um Estado Negativo.</p>"
+            }
+          }
+        },
+        "49AxTjdTgX2jnVdD": {
+          "name": "Luz do Anti-Inseto",
+          "tokenName": "Luz do Anti-Inseto",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt; height: 42px;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"height: 21px;\">\n<td class=\"xl64\" style=\"height: 21px; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td class=\"xl63\" style=\"height: 21px;\" height=\"21\">Fixo</td>\n<td class=\"xl65\" style=\"height: 21px;\" colspan=\"5\">Carapaça Sombria [Valioso] (20G)</td>\n</tr>\n</tbody>\n</table>",
+          "items": {
+            "a7wNVidxeYaawdMg": {
+              "en": "Floating",
+              "name": "Flutuante",
+              "description": "<p>Este inimigo está sempre [Voando].</p>"
+            },
+            "86QAZ2xM3CF21Gfg": {
+              "en": "Lightdrinker",
+              "name": "Bebedor de Luz",
+              "description": "<p>O quadrado em que este inimigo está adquire [Escuridão]. Este efeito dura até o fim da rodada.</p>"
+            },
+            "B8p035I893H7PAvf": {
+              "en": "Bug's Charge",
+              "name": "Investida do Inseto",
+              "description": "<p>[20+2D] de dano físico.&nbsp;<br>(Menor): Até o fim do Processo Principal atual, trate o Multiplicador de Ódio deste inimigo como x2.</p>"
+            },
+            "nFNlr7K2Y5dXQaWf": {
+              "en": "Sacrifice",
+              "name": "Sacrifício",
+              "description": "<p>Use esta habilidade antes que um inimigo que não seja este sofra Dano de PV de um ataque. &nbsp;Este inimigo sofre o dano no lugar dele, e o alvo não é afetado pelo ataque.&nbsp;<br>O personagem que fez o ataque sofre 15 de dano direto, e este inimigo fica [Morto].</p>"
+            }
+          }
+        },
+        "cZsamX078eaEWGQc": {
+          "name": "Abelha Assassina",
+          "tokenName": "Abelha Assassina",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl64\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl63\" style=\"height: 15.75pt;\" height=\"21\">1~3</td>\n<td class=\"xl65\" colspan=\"5\">Ferrão Grande [Valioso] (20G)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl63\" style=\"height: 15.75pt;\" height=\"21\">4~6</td>\n<td class=\"xl65\" colspan=\"5\">\n<p>Mel Negro [Valioso] (35G)</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p>[[/gmr 3d6 + 2]]{[Esquiva]}<br>[[/gmr 3d6 + 3]]{[Resistência]}</p>",
+          "items": {
+            "klMK0QP3DOcDXcCM": {
+              "en": "Insect Wings",
+              "name": "Asas de Inseto",
+              "description": "<p>Este inimigo sempre tem [Voando].</p>"
+            },
+            "r19Lb5pSym6EJbGp": {
+              "en": "Stinger Baptism",
+              "name": "Batismo do Ferrão",
+              "description": "<p>[[/gmr 2d6 + 5]]{2D+5]}</p>\n<p>[[/gmr 2d6 + 15]]{[2D+15]} de Dano Físico<br>(Alvo: Deterioração): Aumente o dano em +5.</p>"
+            },
+            "mg6XF3MxuolwoEBZ": {
+              "en": "Pursuing Sting",
+              "name": "Ferroada Perseguidora",
+              "description": "<p>Use esta habilidade quando o alvo usar uma habilidade com a tag [Movimento].&nbsp;<br>O alvo sofre [Deterioração: 3].</p>"
+            }
+          }
+        },
+        "KTnJ5FAYZCRAaXw3": {
+          "name": "Javali Broto-de-Bambu",
+          "tokenName": "Javali Broto-de-Bambu",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl67\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1~3</td>\n<td class=\"xl66\" colspan=\"5\">Broto de Bambu Macio [Valioso](15G)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">4~5</td>\n<td class=\"xl66\" colspan=\"5\">Carne de Javali [Valioso](20G)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">6</td>\n<td class=\"xl66\" colspan=\"5\">Presa-Semente [Catalisador Mágico 2](20G)x3</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p>[[/gmr 2d6 + 1]]{[Esquiva]}<br>[[/gmr 2d6 + 1]]{[Resistência]}</p>",
+          "items": {
+            "6HwdoFOWJgo9jTnA": {
+              "en": "Fierce Charge",
+              "name": "Investida Feroz",
+              "description": "<p>[[/gmr 2d6 + 4]]{[2D+4&nbsp;]}</p>\n<p>Causa [[/gmr 2d6 + 12]]{[2D+12]} de dano físico ao alvo.&nbsp;<br>(Menor): Até o fim do Processo Principal atual, trate o Multiplicador de Ódio deste inimigo como x2.</p>"
+            },
+            "Aa2Z4w1xkvQtcgjT": {
+              "en": "Bambooshoot Missile",
+              "name": "Míssil Broto-de-Bambu",
+              "description": "<p>Use esta habilidade depois que outro inimigo for atacado. O personagem que atacou o alvo sofre 5 de dano direto.</p>"
+            },
+            "5g2i6Wt9Dsp7xKyq": {
+              "en": "Stampede",
+              "name": "Tropel",
+              "description": "<p>O inimigo pode fazer um [Movimento Seguro] de até 2 Qd.&nbsp;<br>Durante este Processo Principal, quando este inimigo usar &laquo;Investida Feroz&raquo;, ele pode escolher como alvo um personagem no meio do movimento<br>(Menor): Aumente em +2 a distância percorrida.</p>"
+            }
+          }
+        },
+        "DSutOCkkt9vLQO4o": {
+          "name": "Arpoador da Tribo Tanuki Negro",
+          "tokenName": "Arpoador da Tribo Tanuki Negro",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1~3</td>\n<td class=\"xl67\" colspan=\"5\">Dinheiro caído (10G)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">4~6</td>\n<td class=\"xl67\" colspan=\"5\">Pelagem de Barriga Negra [Valioso] (100G)</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<hr>\n<p>▼Descrição<br>A Tribo Tanuki Negro engana as pessoas com ilusões e trapaças, mas, a depender da habilidade,<br>também há entre eles artistas marciais que brincam com o inimigo. Destacando-se dos demais pelo olhar aguçado,<br>o Arpoador da Tribo Tanuki Negro é um dos representantes desses guerreiros.<br>Equipados apenas com arpões artesanais e simples coletes de couro, eles<br>aproveitam as brechas do oponente com movimentos ágeis e o impedem de usar toda a sua força,<br>especializando-se num estilo de luta que derruba os adversários.<br>Embora seu físico e seu armamento pareçam fracos à primeira vista, não se deixe enganar.<br>Essa é a sua melhor estratégia.<br>41</p>\n<p>&nbsp;</p>",
+          "items": {
+            "IUUw88zmdAWEQR32": {
+              "en": "Nimble Movement",
+              "name": "Movimento Ágil",
+              "description": "<p>No início de cada rodada, este inimigo remove um acúmulo de [Perseguição]</p>"
+            },
+            "SeOIC6kcPLtjRX22": {
+              "en": "Illusion Dash",
+              "name": "Disparada Ilusória",
+              "description": "<p><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">O inimigo pode fazer um [Movimento Normal] de até 2Qd.</span></span></p>\n<p><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">[Menor] Ao terminar o movimento, os personagens em &ldquo;Alvo: Área (Escolha)/Alcance: Corpo a corpo&rdquo;</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">sofrem -2 no [Teste de Acerto] (este</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">efeito é tratado como Estado Negativo e dura até o fim da rodada).</span></span></p>"
+            },
+            "XILLtGggg0XK5hFP": {
+              "en": "Thief Spear",
+              "name": "Lança Ladra",
+              "description": "<p><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">[40+2D] de dano</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">físico.</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">[Menor] Contra este ataque,</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">ações de \"Momento: Antes do Dano, Após o Dano\"</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">não podem ser usadas.</span></span></p>"
+            }
+          }
+        },
+        "0xwwLEY9LoO64oJw": {
+          "name": "Mago da Tribo Tanuki Negro",
+          "tokenName": "Mago Ludibriador Oculto nas Folhas da Tribo Tanuki Negro",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1~5</td>\n<td class=\"xl67\" colspan=\"5\">Folha em Forma de Moeda [Valioso](8G)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">6</td>\n<td class=\"xl67\" colspan=\"5\">Moeda em Forma de Folha [Valioso](200G)</td>\n</tr>\n</tbody>\n</table>",
+          "items": {
+            "UmnuLbnC9aBEycEk": {
+              "en": "Nimble Movement",
+              "name": "Movimento Ágil",
+              "description": "<p>No início de cada rodada, este inimigo remove um acúmulo de [Perseguição]</p>"
+            },
+            "X6DHYHk0hfL7e4hy": {
+              "en": "Raccoon Fire Shock",
+              "name": "Choque do Fogo Tanuki",
+              "description": "<p><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Só pode ter como alvo personagens em [Topo de Ódio]</span></span><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">.</span></span></p>\n<p><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">O alvo fica Atordoado.</span></span></p>"
+            },
+            "8YfRpZlchsEMLWsE": {
+              "en": "Raccoon Appearance Genjutsu",
+              "name": "Genjutsu da Aparência Tanuki",
+              "description": "<p><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">O alvo imediatamente</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">realiza um [Ataque Básico com Arma] ali mesmo.</span></span><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\"> Os testes desse 《Ataque Básico com Arma》</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">recebem +2D, e o alvo dele é determinado por este inimigo.</span></span></p>\n<p><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">[Alvo: Atordoado] Dano</span></span>&nbsp;<span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">+7</span></span></p>"
+            }
+          }
+        },
+        "kVB3cfRDZPcX2olF": {
+          "name": "Dragão Marinho de Escamas Azuis",
+          "tokenName": "Dragão Marinho de Escamas Azuis",
+          "items": {
+            "WjGl8cE7GQGR7AkD": {
+              "en": "Water-Walking Dragon",
+              "name": "Dragão Caminhante das Águas",
+              "description": "<p>Este inimigo não tem Ação de Movimento.</p>"
+            },
+            "f5rYPS71boSvCFWK": {
+              "en": "Repeat Action",
+              "name": "Ação Repetida",
+              "description": "<p>Uma vez por Rodada, quando este inimigo fica em [Pós-Ação], ele imediatamente volta a ficar em [Pré-Ação]. Depois disso, até o fim da Rodada, sua [Iniciativa] passa a ser 0.</p>"
+            },
+            "0Q7PsYHgHOXGWDBr": {
+              "en": "Water Current Manipulation",
+              "name": "Manipulação da Correnteza",
+              "description": "<p>O alvo precisa estar, no momento, em contato com o Objeto de cena [Submerso] ou similar. O alvo é compelido a se mover para o mesmo quadrado deste inimigo.</p>"
+            }
+          }
+        },
+        "CMoSzyPDmFgdKRmO": {
+          "name": "Doninha Espinhosa",
+          "tokenName": "Doninha Espinhosa",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl67\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1~3</td>\n<td class=\"xl66\" colspan=\"5\">2Dx2 de ouro</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">4~6</td>\n<td class=\"xl66\" colspan=\"5\">Cauda Espinhosa [Valioso](30G)</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p>[[/gmr 2d6 + 1]]{[Esquiva]}<br>[[/gmr 2d6 + 2]]{[Resistência]}</p>",
+          "items": {
+            "9OiEugzv0P7AeIHH": {
+              "en": "Skipping Thorns",
+              "name": "Espinhos Saltitantes",
+              "description": "<p>[[/gmr 2d6 + 4]]{[4+2D]}</p>\n<p>[[/gmr 2d6 + 4]]{[4+2D]} de Dano Mágico<br>(Menor): Bônus de ataque +2</p>"
+            },
+            "Z3jhpLPMGBUcq7A8": {
+              "en": "Thorn Burst",
+              "name": "Explosão de Espinhos",
+              "description": "<p>Use quando outro inimigo for causar dano. Aumente o dano em +10</p>"
+            }
+          }
+        },
+        "0zl36mSijgkYsTCu": {
+          "name": "Morto Ardente",
+          "tokenName": "Morto Ardente",
+          "items": {
+            "MJnL4m5sPuMBjWBx": {
+              "en": "Ethereal Body",
+              "name": "Corpo Etéreo",
+              "description": "<p>Quando este inimigo sofre dano de [Frio] ou [Espírito], trate a defesa dele como 0. Este inimigo não é afetado por Objetos de cena com a tag [Mecânico] ou [Natural], a menos que queira. Sempre que este inimigo faz um [Movimento Normal], esse movimento é sempre considerado um [Movimento Seguro].</p>"
+            },
+            "vywcHNV8V3jxYRRa": {
+              "en": "Black Flames of Regret",
+              "name": "Chamas Negras do Remorso",
+              "description": "<p>Quando este inimigo aparece em uma Cena, dois inimigos Esqueleto Arqueiro podem, opcionalmente, aparecer com ele. Em vez disso, podem ser usados um Esqueleto Arqueiro e dois Esqueletos. Os inimigos que aparecem por causa deste efeito não geram Itens Deixados.</p>"
+            },
+            "dMbT4kPH7VWcQXIg": {
+              "en": "Renew Action",
+              "name": "Ação Renovada",
+              "description": "<p>Use quando este inimigo ficar em [Pós-Ação]. Este inimigo fica imediatamente em [Pré-Ação], e sua [Iniciativa] passa a ser 0 até o fim da Rodada.</p>"
+            }
+          }
+        },
+        "ZT9I8hOk3y6B6d8t": {
+          "name": "Libélula de Engrenagem",
+          "tokenName": "Libélula de Engrenagem",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1~5</td>\n<td class=\"xl67\" colspan=\"5\">Asas Delicadas [Valioso] (30G)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">6</td>\n<td class=\"xl67\" colspan=\"5\">Olho de Esmeralda [Material-Base] (50G)</td>\n</tr>\n</tbody>\n</table>",
+          "items": {
+            "WtVAJwnJkG7BlHok": {
+              "en": "Wings of Glass",
+              "name": "Asas de Vidro",
+              "description": "<p>Este inimigo está sempre [Voando].<br>Quando este inimigo sofre dano de [Chama], ele deve fazer imediatamente um [Movimento Seguro] de 3 Qd. Em seguida, sofre [Aflito] e [Rigidez].</p>"
+            },
+            "TdeSpXTfH93HsG68": {
+              "en": "Pulse Laser",
+              "name": "Laser Pulsado",
+              "description": "<p>[37 + 2D] de dano físico.&nbsp;<br>(Você: Rigidez): Aumente o dano em +[PV atuais deste inimigo]. Se este efeito for ativado, no fim do Processo Principal atual, este inimigo fica [Incapacitado].</p>"
+            },
+            "FKlQbTn1HksRURTa": {
+              "en": "Limiter Release",
+              "name": "Liberação do Limitador",
+              "description": "<p>Este inimigo recebe +10 de bônus nas rolagens de dano de [Ataques à Distância].</p>"
+            }
+          }
+        },
+        "vbbSX0S7e2jBUnWy": {
+          "name": "Joaninha Veloz de Engrenagem",
+          "tokenName": "Joaninha Veloz de Engrenagem",
+          "items": {
+            "0nNIpGsFLcWDsPCr": {
+              "en": "Lurking Machine Troops",
+              "name": "Tropas Mecânicas à Espreita",
+              "description": "<p>Este inimigo começa toda Cena [Oculto]. A cada Rodada em que sofrer pelo menos 1 ponto de dano, ele fica [Oculto] durante o Processo de Encerramento. Se este inimigo sofrer dano de [Chama], ele deve se mover 3 quadrados e sofre [Rigidez] e [Falha].</p>"
+            },
+            "PQO9xZiadQR3VzPA": {
+              "en": "Platoon Command Vehicle",
+              "name": "Veículo de Comando do Pelotão",
+              "description": "<p>Quando este inimigo aparece em uma Cena, dois inimigos de NP 3 ou menos com a tag [Engrenagem], ou um inimigo normal, podem escolher reorganizar sua posição (sem limite de distância). Os inimigos que alteraram sua posição com este efeito não concedem Itens Deixados.</p>"
+            },
+            "Ot0dtxMPsbw4tPjU": {
+              "en": "Idling-Control Mechanism",
+              "name": "Mecanismo de Controle de Marcha Lenta",
+              "description": "<p>Os alvos recebem [Anulação: 5]. Se um alvo sair do quadrado deste inimigo, o efeito persiste até o fim da Rodada.</p>"
+            },
+            "nJNPv32cFXmt7MKz": {
+              "en": "Complex GPS Sensor",
+              "name": "Sensor GPS Complexo",
+              "description": "<p>Use quando este inimigo for alvo de um ataque de alvo individual. O [Ódio] do atacante passa imediatamente a ser igual ao valor do Topo de Ódio.<br>(Destino 1): Esta habilidade pode ser usada novamente.</p>"
+            }
+          }
+        },
+        "Kb1wQByQIumckIc1": {
+          "name": "Leão-Sabre de Engrenagem",
+          "tokenName": "Leão-Sabre de Engrenagem",
+          "description": "<table style=\"font-family: var(--font-primary); font-size: var(--font-size-14); width: 396pt; height: 84px;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"></colgroup>\n<tbody>\n<tr style=\"height: 21px;\">\n<td class=\"xl66\" style=\"height: 21px; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td class=\"xl65\" style=\"height: 21px;\" height=\"21\">1-3</td>\n<td class=\"xl67\" style=\"height: 21px;\" colspan=\"5\">Parafuso Minúsculo [Valioso] (25G)</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td class=\"xl65\" style=\"height: 21px;\" height=\"21\">4-5</td>\n<td class=\"xl67\" style=\"height: 21px;\" colspan=\"5\">Poção de Visão no Escuro (p219)</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td class=\"xl65\" style=\"height: 21px;\" height=\"21\">6</td>\n<td class=\"xl67\" style=\"height: 21px;\" colspan=\"5\"></td>\n</tr>\n</tbody>\n</table>\n<hr>\n<p>[[/gmr 2d6 + 2]]{[Esquiva]}<br>[[/gmr 2d6 + 1]]{[Resistência]}</p>",
+          "items": {
+            "6nJNNoaQKAsDUOVq": {
+              "en": "Clockwork Existence",
+              "name": "Existência de Engrenagem",
+              "description": "<p>Toda vez que este inimigo sofrer dano de [Chama], ele deve se mover 3 quadrados e sofre [Rigidez] e [Aflito].&nbsp;</p>"
+            },
+            "6QvlwJYwVR6F0bFm": {
+              "en": "Aeon Booster",
+              "name": "Propulsor Éon",
+              "description": "<p>Este alvo fica [Voando] e pode se mover até 3 quadrados. Se causar dano durante este Processo Principal, o alvo dele também sofre [Rigidez] e [Atordoado].&nbsp;</p>"
+            },
+            "xxhgkxVtgFjH1Cae": {
+              "en": "Super High Frequency Saber",
+              "name": "Sabre de Frequência Superalta",
+              "description": "<p>37+2D de dano físico. Se o resultado do ataque for maior que 21, o alvo perde 1 Ponto de Destino. Se o alvo não puder pagar o custo do Ponto de Destino, ele fica [Incapacitado].</p>"
+            }
+          }
+        },
+        "pBEMzMhIPdU8WD7h": {
+          "name": "Tarântula de Engrenagem",
+          "tokenName": "Tarântula de Engrenagem",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1-3</td>\n<td class=\"xl67\" colspan=\"5\">Luneta (p223)x2</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">4-5</td>\n<td class=\"xl67\" colspan=\"5\">Carroça das Tropas de Infantaria [Valioso] (35G)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">6</td>\n<td class=\"xl67\" colspan=\"5\">Joia do Vaga-Lume (p222)x2</td>\n</tr>\n</tbody>\n</table>\n<hr>\n<p>[[/gmr 2d6 + 2]]{[Esquiva]}<br>[[/gmr 2d6 + 1]]{[Resistência]}</p>",
+          "items": {
+            "VKYSpnp6hivzkQco": {
+              "en": "Lurking Machine Troops",
+              "name": "Tropas Mecânicas à Espreita",
+              "description": "<p>Este inimigo começa toda cena [Oculto]. Em toda rodada em que sofrer pelo menos 1 ponto de dano, ele fica [Oculto] durante o Processo de Encerramento. Se este inimigo sofrer dano de [Chama], ele deve se mover 3 quadrados e sofre [Rigidez] e [Aflito].</p>"
+            },
+            "GwlgVdTCcWTr9sjd": {
+              "en": "Wire Shooters",
+              "name": "Disparadores de Fio",
+              "description": "<p>Imediatamente após usar este poder, o inimigo perde sua Ação Menor. O alvo sofre [Rigidez] e é movido à força para o quadrado deste inimigo.</p>"
+            },
+            "GKVzj72kPdvfpgvA": {
+              "en": "Paikura Array Shot",
+              "name": "Disparo em Matriz Paikura",
+              "description": "<p>20+2D de dano. Se o alvo estiver em Topo de Ódio, a Iniciativa dele cai em 3, como Estado Negativo.&nbsp;</p>"
+            }
+          }
+        },
+        "IvtNLVl58nsRoFIq": {
+          "name": "Bordo Carmesim",
+          "tokenName": "Bordo Carmesim",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl67\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">Fixo</td>\n<td class=\"xl66\" colspan=\"5\">Seiva Carmesim [Valioso](10G)</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+          "items": {
+            "0u2y7aaQAPY4bb8S": {
+              "en": "Flame Leaf",
+              "name": "Folha em Chamas",
+              "description": "<p>Este inimigo sempre tem [Fraqueza (Frio): 5]. Imune a [Confuso].</p>"
+            },
+            "1zYiZHvCTqjkcYtZ": {
+              "en": "Crimson Seed",
+              "name": "Semente Carmesim",
+              "description": "<p>&nbsp;Causa [[/gmr 2d6 + 15]]{[15+2D]} de Dano Mágico ao alvo.<br>(Menor): O alvo sofre [Deterioração: 5].</p>"
+            },
+            "hWcgZkxZfr7poNPe": {
+              "en": "Blaze Seed",
+              "name": "Semente de Labareda",
+              "description": "<p>Este inimigo recebe bônus de +10 na rolagem de dano de seu [Ataque Mágico].</p>"
+            }
+          }
+        },
+        "V4tLapbkLUma87us": {
+          "name": "Diatryma",
+          "tokenName": "Diatryma",
+          "items": {
+            "ybYNUSaJIIByw6MN": {
+              "en": "Majesty of the Moa",
+              "name": "Majestade do Moa",
+              "description": "<p>Quando este inimigo aparece em uma Cena, quaisquer dois inimigos de NP1 com a tag [Natureza] ou [Mítico] podem, opcionalmente, aparecer com ele. Em vez disso, podem ser usados um inimigo e dois inimigos [Lacaio] de NP1 com a tag [Natureza] ou [Mítico]. Os inimigos que aparecem por causa deste efeito não geram Itens Deixados.</p>"
+            },
+            "YHQtSaQDAgLlg0jA": {
+              "en": "Renew Action",
+              "name": "Ação Renovada",
+              "description": "<p>Use quando este inimigo ficar em [Pós-Ação]. Este inimigo fica imediatamente em [Pré-Ação], e sua [Iniciativa] passa a ser 0 até o fim da Rodada.</p>"
+            }
+          }
+        },
+        "YYvAtpLqOpMfNYpT": {
+          "name": "Fera da Doença",
+          "tokenName": "Fera da Doença",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">Fixo</td>\n<td class=\"xl67\" colspan=\"5\">Amostra de Doença [Valioso] (15G)</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>",
+          "items": {
+            "Gc68GHiw49DdSi2l": {
+              "en": "Spirit of the Earth",
+              "name": "Espírito da Terra",
+              "description": "<p>Este inimigo sempre tem [Anulação (Corrupção): 5] e é imune a [Deterioração]<br>Além disso, sempre que sofrer dano de [Choque], trate a defesa dele como 0.</p>"
+            },
+            "tDyC0R9Z1a3OGvHz": {
+              "en": "Spreading Contagion",
+              "name": "Contágio Alastrante",
+              "description": "<p>O alvo sofre [Perseguição: 15]<br>(Alvo: Qualquer Estado Negativo exceto Perseguição): O alvo sofre [Aflito].</p>"
+            },
+            "yvicqbgRw6KoliOZ": {
+              "en": "Cloud of Miasma",
+              "name": "Nuvem de Miasma",
+              "description": "<p>Esta habilidade só pode ter como alvo personagens com [Deterioração].<br>O valor de [Deterioração] do alvo aumenta em +3.</p>"
+            }
+          }
+        },
+        "OiTrWAaGCzGqPbhm": {
+          "name": "Pilar de Chamas",
+          "tokenName": "Pilar de Chamas",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl64\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl63\" style=\"height: 15.75pt;\" height=\"21\">Fixo</td>\n<td class=\"xl65\" colspan=\"5\">Catalisador de Fogo [Catalisador Mágico 2] (20G)</td>\n</tr>\n</tbody>\n</table>",
+          "items": {
+            "KbJt7pLqCLBeC15M": {
+              "en": "Unreasoning Operation",
+              "name": "Operação Irracional",
+              "description": "<p>Este inimigo não gera Dano de Ódio, e os bônus de defesa de Abaixo no Ódio não se aplicam contra os ataques dele.&nbsp;<br>Se este inimigo for alvo de Desarmar Objeto de Cena [Dificuldade de Desarme: 10], ele fica [Incapacitado].&nbsp;<br>Este inimigo não pode realizar Ações de Movimento.</p>"
+            },
+            "DTBUct3QZVMwvR89": {
+              "en": "Fire Gazer",
+              "name": "Contemplador do Fogo",
+              "description": "<p>[[/gmr 3d6 + 3]]{[3D+3]}</p>\n<p>[[/gmr 2d6 + 23]]{[2D+23]} de Dano Mágico<br>Esta habilidade não pode ser usada contra o mesmo alvo em Rodadas consecutivas.&nbsp;<br>(Efeito): Ao fim do Processo Principal atual, o alvo faz um [Teleporte] para o mesmo quadrado deste inimigo.</p>"
+            }
+          }
+        },
+        "PLuuKGpdwaM9l0M3": {
+          "name": "Aranha Gigante",
+          "tokenName": "Aranha Gigante",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1~5</td>\n<td class=\"xl67\" colspan=\"5\">Mandíbula Negra [Valioso] (30G)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">6</td>\n<td class=\"xl67\" colspan=\"5\">Teia Sombria [Material-Base] (50G)</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>Esquiva &nbsp;[[/gmr 2d6 + 2]]{[2D+2]}</li>\n<li>Resistência &nbsp;[[/gmr 2d6 + 1]]{[2D+1]}</li>\n</ul>\n<p>Aranha Gigante</p>\n<p>&nbsp;</p>",
+          "items": {
+            "9t6cJT0ZQjZSYoR1": {
+              "en": "Many-Legged",
+              "name": "Muitas Patas",
+              "description": "<p>Este inimigo não é afetado por Objetos de cena [Natural], a menos que queira.&nbsp;<br>Este inimigo não pode usar Disparada.</p>"
+            },
+            "hCvDzZp1Cn9RPi17": {
+              "en": "Spiderweb Bind",
+              "name": "Amarra de Teia",
+              "description": "<p>[19+2D] de dano físico.<br>(Menor): O alvo sofre [Rigidez]. Esta [Rigidez] só pode ser removida quando o alvo e este inimigo não estiverem mais no mesmo quadrado.</p>\n<ul>\n<li>Oposto [[/gmr 2d6 +5 ]]{[2D+5]}</li>\n<li>Causa [[/gmr 2d6 + 19]]{[2D+19]} de dano físico.</li>\n</ul>"
+            },
+            "RII5HW1DM149NehY": {
+              "en": "Curse of the Arachnid",
+              "name": "Maldição do Aracnídeo",
+              "description": "<p>Use quando este inimigo ficar [Incapacitado]. O personagem que deixou este inimigo [Incapacitado] sofre 15 de dano direto.</p>"
+            }
+          }
+        },
+        "PDrLwH8v5vDH5PKL": {
+          "name": "Artilharia Goblin",
+          "tokenName": "Artilheiro Goblin",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt; height: 42px;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"height: 21px;\">\n<td class=\"xl66\" style=\"height: 21px; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td class=\"xl65\" style=\"height: 21px;\" height=\"21\">Fixo</td>\n<td class=\"xl67\" style=\"height: 21px;\" colspan=\"5\">Elmo de Osso Estranho[Valioso] (30G)</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<hr>\n<p><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">▼Descrição</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Uma força de ataque de Goblins Verdes investe contra uma aldeia do Povo da Terra.</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Nessas ocasiões, quem é convocado para destruir a barreira é o &lt;Artilheiro</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Goblin Verde&gt;.</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">A catapulta de pedras portátil que ele carrega nas costas</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">é um tipo de arma criada pelos engenheiros dos Goblins Verdes, que pode ser usada no lugar de arcos e magias</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">e permite disparar de forma unilateral a curta distância.</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Normalmente, o projétil é uma pedra do tamanho de uma braçada, mas</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">eles arremessam qualquer coisa que possa ser usada, como entulho e sucata</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">das redondezas.</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Além de atacar bases, bombardeiam grupos inimigos</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">e não hesitam em atingir os próprios aliados no ponto de impacto.</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Como não conseguem se proteger quando alguém se aproxima, muitas vezes</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">são acompanhados por outro goblin, que lhes serve de guarda-costas.</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Em especial, a parceria com quem dá apoio ao bombardeio,</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">o Observador Goblin Verde, é excepcional e</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">representa uma ameaça até mesmo para os Aventureiros.</span></span></p>",
+          "items": {
+            "C5dwhoRBS5t8Tbmk": {
+              "en": "Goblin Rage",
+              "name": "Fúria Goblin",
+              "description": "<ul>\n<li>Use esta habilidade quando este inimigo sofrer dano de [Espírito].&nbsp;</li>\n<li>Este inimigo usa Catapulta Móvel imediatamente.&nbsp;</li>\n<li>Aumente o dano de Catapulta Móvel em +5.</li>\n</ul>"
+            },
+            "4DacoOq8AN9ARncj": {
+              "en": "Defense Formation",
+              "name": "Formação Defensiva",
+              "description": "<p><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Este inimigo </span></span><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">recebe [Barreira].</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">O valor dela é igual ao número de</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">inimigos com a tag [Goblin] no mesmo Qd que este inimigo, sem contar ele próprio,</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">x 10.</span></span></p>"
+            },
+            "CW5wwqP6zssTh51Y": {
+              "en": "Mobile Catapult",
+              "name": "Catapulta Móvel",
+              "description": "<p><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">[40+2</span></span><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">D] de dano físico.</span></span></p>\n<p><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">[Menor] Esta habilidade</span></span> <span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">passa a ter &ldquo;Alvo: Área (T)&rdquo;.</span></span></p>"
+            }
+          }
+        },
+        "Bffo1qi1Z6Uih7t3": {
+          "name": "Mestre das Feras Goblin",
+          "tokenName": "Mestre das Feras Goblin",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1~5</td>\n<td class=\"xl67\" colspan=\"5\">Trompa de Caça de Cabra-Montesa (Flauta de Chifre de Cabra-Montesa. Catalisador Mágico 8, 70G)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">6</td>\n<td class=\"xl68\" colspan=\"5\">Pele Sinistra (valioso 60G) x3</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<hr>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+          "items": {
+            "l7CCQPr09MEatnup": {
+              "en": "Beast Puppet",
+              "name": "Marionete de Feras",
+              "description": "<p>Tem como alvo inimigos com as tags [Natureza] ou [Criptídeo].&nbsp;O alvo passa imediatamente para [Pré-Ação]. Esta habilidade pode ser usada quando os PV deste inimigo caem abaixo de 40.&nbsp;</p>"
+            },
+            "V2WmnIYiQCg0ZwgG": {
+              "en": "Gobhorn",
+              "name": "Trompa Gob",
+              "description": "<p>10 pts de dano [Penetrante]. <br>Como Ação Menor: o alvo sofre [Perseguição] 15.&nbsp;</p>"
+            },
+            "1QeKDiLrAGbUlHfb": {
+              "en": "Goblin Rage",
+              "name": "Fúria Goblin",
+              "description": "<p>Logo após o cálculo do dano, se este inimigo tiver sofrido dano de [Espírito], ele pode usar imediatamente &lt;Marionete de Feras&gt;. Se o requisito de PV for cumprido, a restrição de frequência pode ser ignorada.&nbsp;</p>"
+            }
+          }
+        },
+        "ThzHgLQY63AmV3Fh": {
+          "name": "Campeão Goblin",
+          "tokenName": "Campeão Goblin",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl67\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1~4</td>\n<td class=\"xl66\" colspan=\"5\">Fragmento de Espada Mágica [Catalisador Mágico 9] (90G) x 3</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">5~6</td>\n<td class=\"xl66\" colspan=\"5\">Espada Mágica Roubada [Valioso] (180G) x 3</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">Fixo</td>\n<td class=\"xl66\" colspan=\"5\">Fixo: Espada Quebrada [Material-Base] (140G)</td>\n</tr>\n</tbody>\n</table>\n<hr>\n<p>[[/gmr 2d6 + 4]]{[Esquiva]}<br>[[/gmr 2d6 + 3]]{[Resistência]}</p>",
+          "items": {
+            "SK8y88jIkikUM12Y": {
+              "en": "Goblin Rage",
+              "name": "Fúria Goblin",
+              "description": "<ul>\n<li>Use esta habilidade quando este inimigo sofrer dano de [Espírito/Mental].&nbsp;</li>\n<li>Este inimigo usa imediatamente Relâmpago da Lâmina Furiosa.&nbsp;</li>\n<li>Aumente em +5 o dano de Relâmpago da Lâmina Furiosa.</li>\n</ul>"
+            },
+            "nkfw3UnqreZQKgOL": {
+              "en": "Re-action",
+              "name": "Re-Ação",
+              "description": "<p>Use quando ele ficar em [Pós-Ação]. Este inimigo fica em [Pré-Ação] com [Iniciativa] 0.&nbsp;</p>"
+            },
+            "INuhT6coSa5NXvCn": {
+              "en": "Bloody Roar",
+              "name": "Rugido Sangrento",
+              "description": "<ul>\n<li>Esta ação é tratada como um Poder EX.</li>\n<li>Use imediatamente quando os [PV] deste inimigo caírem para 220 ou menos.</li>\n<li>Este inimigo recebe 2 Pontos de Destino e 50 de Barreira.</li>\n<li><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Além disso, ele usa imediatamente 《Relâmpago da Lâmina Furiosa》.</span></span></li>\n<li><span class=\"jCAhz ChMk0b\"><span class=\"ryNqvb\">Nesse uso, o dano direto causado por Relâmpago da Lâmina Furiosa será de 20 pontos em vez de 10 pontos.</span></span></li>\n</ul>\n<p>&nbsp;</p>"
+            },
+            "pAuWnOPVE8sS8tQc": {
+              "en": "Furious Blade Lightning",
+              "name": "Relâmpago da Lâmina Furiosa",
+              "description": "<p>Este inimigo realiza um [Teleporte Instantâneo] para o mesmo Qd do alvo e causa 10 pontos de dano direto a ele.</p>\n<p>Com esta habilidade, você pode escolher um Estado Negativo que este inimigo esteja sofrendo e removê-lo.</p>\n<p>Depois que esta ação terminar, este inimigo pode usar Relâmpago da Lâmina Furiosa novamente (quantas vezes forem necessárias), se possível.</p>\n<p>No entanto, mesmo que você use Relâmpago da Lâmina Furiosa várias vezes em um mesmo Processo de Encerramento, não pode escolher o mesmo alvo novamente.</p>"
+            },
+            "4DZgwPwe75JX8Rgo": {
+              "en": "Intimidation Sword Wind",
+              "name": "Vento de Espada Intimidador",
+              "description": "<p>Não pode ser usada no Processo Principal em que este inimigo tiver \"se movido\".</p>\n<p>[[/r 2d6 +7]]{[2D+7]}</p>\n<p>[[/gmr 2d6 + 40]]{[2D+40]} de dano físico.</p>\n<p>[Destino 1] Se o Ódio do alvo for 4 ou menos, o alvo perde imediatamente a vontade de lutar e entra no estado [Pós-Ação].</p>"
+            },
+            "7vopuYc74Sq71W8N": {
+              "en": "Goblin Sword King",
+              "name": "Rei Goblin da Espada",
+              "description": "<p>[[/r 2d6 +7]]{[2D+7]}</p>\n<p>[[/gmr 2d6 + 40]]{[2D+40]} de dano físico.</p>\n<p>[Menor] Esta habilidade especial tem \"Alcance: 2Qd\".</p>\n<p>[Destino 1] Aplica também [Perseguição: 10] ao alvo.</p>"
+            }
+          }
+        },
+        "5hqO3LBIsyPo6yZ1": {
+          "name": "Conjurador Goblin",
+          "tokenName": "Conjurador Goblin",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1~4</td>\n<td class=\"xl67\" colspan=\"5\">2Dx4 de ouro</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">5~6</td>\n<td class=\"xl67\" colspan=\"5\">Poção de Cura I (conforme a lista de itens)</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<ul>\n<li>Esquiva &nbsp;[[/gmr 2d6 + 1]]{[2D+1]}</li>\n<li>Resistência &nbsp;[[/gmr 2d6 + 3]]{[2D+3]}</li>\n</ul>\n<p>Conjurador Goblin</p>",
+          "items": {
+            "BNxFaioxAwz6gr5M": {
+              "en": "Goblin Rage (Refer)",
+              "name": "Fúria Goblin (Ver texto)",
+              "description": "<ul>\n<li>Use esta habilidade quando este inimigo sofrer dano de [Espírito].&nbsp;</li>\n<li>Este inimigo usa Mantra Gob imediatamente.&nbsp;</li>\n<li>Aumente o dano de Turba Gob em +5.</li>\n<li>Oposto [[/gmr 2d6 +5 ]]{[2D+5]}</li>\n<li>Causa [[/gmr 2d6 + 18+5]]{[2D+18+5]} de dano mágico.</li>\n</ul>"
+            },
+            "2UwuWecz7GcrAwMq": {
+              "en": "Gob Mantra",
+              "name": "Mantra Gob",
+              "description": "<ul>\n<li>Oposto [[/gmr 2d6 +5 ]]{[2D+5]}</li>\n<li>Causa [[/gmr 2d6 + 18]]{[2D+18]} de dano mágico ao alvo</li>\n<li>(Menor): O alvo sofre [Rigidez] e [Aflito].</li>\n</ul>"
+            },
+            "z7gQ0EWOe2tR9aDv": {
+              "en": "Flower of Demise",
+              "name": "Flor Fúnebre",
+              "description": "<p>Use esta habilidade logo depois que um alvo que não seja este inimigo ficar [Incapacitado] ou [Morto].<br>O alvo pode realizar imediatamente uma ação de [Momento: Maior].</p>"
+            }
+          }
+        },
+        "WtrH4Hn9ehMIxsaU": {
+          "name": "Evocador de Maldições Goblin",
+          "tokenName": "Evocador de Maldições Goblin",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">Fixo</td>\n<td class=\"xl67\" colspan=\"5\">Estátua Agourenta [Valioso] (20G)</td>\n</tr>\n</tbody>\n</table>",
+          "items": {
+            "WEufMrRevov2yagZ": {
+              "en": "Goblin Ancestors' Curse",
+              "name": "Maldição dos Ancestrais Goblins",
+              "description": "<p>[2D +30] de dano mágico.&nbsp;<br>(Menor) O alvo sofre [Cambaleante] e&nbsp; [Perseguição: 5]</p>\n<hr>\n<ul>\n<li>Causa [[/gmr 2d6 + 30]]{[2D+30]} de dano mágico.</li>\n</ul>"
+            },
+            "BP2MG0esRR2lDDkC": {
+              "en": "Bloodshed Curse",
+              "name": "Maldição do Sangue Derramado",
+              "description": "<p>Use quando este inimigo ficar [Incapacitado] ou [Morto].&nbsp;<br>Concede [Fraqueza: 15] ao personagem que derrotou este inimigo &nbsp; &nbsp; &nbsp; &nbsp;</p>"
+            },
+            "O6RtziJ46Fjfev7o": {
+              "en": "Goblin Rage (Refer)",
+              "name": "Fúria Goblin (Ver texto)",
+              "description": "<ul>\n<li>Use esta habilidade quando este inimigo sofrer dano de [Espírito].&nbsp;</li>\n<li>Este inimigo usa Maldição dos Ancestrais Goblins imediatamente</li>\n<li>Aumente o dano de Maldição dos Ancestrais Goblins em +4.</li>\n<li>Causa [[/gmr 2d6 + 30+4]]{[2D+30+4]} de dano mágico.</li>\n</ul>"
+            }
+          }
+        },
+        "MjxyM9s3cpUV1o5Y": {
+          "name": "Evocador da Morte Goblin",
+          "tokenName": "Evocador da Morte Goblin",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1~3</td>\n<td class=\"xl67\" colspan=\"5\">Cajado Extremamente Retorcido (valioso 50G)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">4~5</td>\n<td class=\"xl68\" colspan=\"5\">Bálsamo do Corpo de Ferro (baixo nível)(consumível)(90G)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">6</td>\n<td class=\"xl69\" style=\"width: 330pt;\" colspan=\"5\" width=\"440\">Colar de Rubi (valioso 200G)</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<hr>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+          "items": {
+            "1hYnGG0e6DHHdI4t": {
+              "en": "Curse of the Blood Tomb",
+              "name": "Maldição da Tumba de Sangue",
+              "description": "<p>[[/gmr 3d6 + 5]]{[3D+5]} /Resistência</p>\n<hr>\n<p>[[/gmr 2d6 + 60]]{[60+2D]}&nbsp; de dano mágico. Resultado 19: o alvo sofre [Atordoado] e [Aflito].</p>\n<p>Se o ataque falhar, o alvo sofre [Perseguição] 10.</p>"
+            },
+            "thnU2p0jSmZGTyIk": {
+              "en": "Death Cry",
+              "name": "Grito de Morte",
+              "description": "<ul>\n<li>Se o Ódio do alvo for maior que 2: o alvo sofre [Atordoado].</li>\n<li>Se o Ódio for maior que 4, o alvo também sofre [Cambaleante].</li>\n<li>Se o Ódio for maior que 6, o alvo também sofre [Aflito].</li>\n<li>Se o alvo tiver Ódio 8&lt; e mais de 20 PV, seus PV passam a ser 20.&nbsp;</li>\n<li>Em seguida, este inimigo fica [Morto].</li>\n</ul>"
+            },
+            "WnwjpV0DeLko3oR7": {
+              "en": "Goblin Rage",
+              "name": "Fúria Goblin",
+              "description": "<p>Logo após o cálculo do dano, se este inimigo tiver sofrido dano de [Espírito], ele pode usar imediatamente &lt;Maldição do Fio da Navalha&gt;. Se o requisito de PV for cumprido, a restrição de frequência pode ser ignorada.&nbsp;</p>"
+            }
+          }
+        },
+        "TAcukM1rAfYyuYlC": {
+          "name": "Destruidor Goblin",
+          "tokenName": "Destruidor Goblin",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">Fixo</td>\n<td class=\"xl67\" colspan=\"5\">Fragmento de Circuito Mágico [Valioso] (20G)</td>\n</tr>\n</tbody>\n</table>",
+          "items": {
+            "Zt5Sc4YcTWQZyhIo": {
+              "en": "Explosive Transport",
+              "name": "Transporte Explosivo",
+              "description": "<p>Este inimigo não pode usar &laquo;Disparada&raquo;.</p>"
+            },
+            "QWrhA7VFrrCzS7Qn": {
+              "en": "Goblin Rage (Refer)",
+              "name": "Fúria Goblin (Ver texto)",
+              "description": "<ul>\n<li>Use esta habilidade logo depois que o inimigo sofrer Dano de PV.&nbsp;</li>\n<li>Este inimigo usa &laquo;Mina Gob&raquo; imediatamente, com +10 de bônus na rolagem de dano.</li>\n<li>Causa [[/gmr 4d6 + 40]]{[[4D+30+10] dano mágico]}</li>\n</ul>"
+            },
+            "8mYoBM0lAs8XWwl6": {
+              "en": "Gob Mine",
+              "name": "Mina Gob",
+              "description": "<p>Causa [[/gmr 4d6 + 30]]{[[4D+30] dano mágico]} de dano mágico ao alvo. Em seguida, este inimigo fica [Morto].</p>"
+            },
+            "mRIabyJwEDIFGGJg": {
+              "en": "Crazed Charge",
+              "name": "Investida Enlouquecida",
+              "description": "<p>Este inimigo pode fazer um [Movimento Seguro] de até 3 Qd. Depois, este inimigo sofre 5 de dano direto.<br>(Menor): Aumente a distância percorrida em +1.</p>"
+            }
+          }
+        },
+        "Ow7tZmu68sn9Yn55": {
+          "name": "Goblin da Machadinha",
+          "tokenName": "Goblin da Machadinha",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl64\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl63\" style=\"height: 15.75pt;\" height=\"21\">1~4</td>\n<td class=\"xl65\" colspan=\"5\">2D x 5G</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl63\" style=\"height: 15.75pt;\" height=\"21\">5~6</td>\n<td class=\"xl65\" colspan=\"5\">Machado de Mão Lascado [Valioso] (60G)</td>\n</tr>\n</tbody>\n</table>",
+          "items": {
+            "xncHR6gtncq11HNA": {
+              "en": "Goblin Rage (Refer)",
+              "name": "Fúria Goblin (Ver texto)",
+              "description": "<ul>\n<li>Use esta habilidade quando este inimigo sofrer dano de [Espírito].&nbsp;</li>\n<li>Este inimigo usa Contra-Ataque Duro imediatamente</li>\n<li>Aumente o alcance de Contra-Ataque Duro para 3 Qd.</li>\n</ul>"
+            },
+            "8jOQMqKl1f792zU4": {
+              "en": "Opportunity-Creating Diversion Attack",
+              "name": "Ataque Diversivo que Abre Brechas",
+              "description": "<p>Use contra Aventureiros. Aumente o Ódio do alvo em +2 e conceda +5 à próxima rolagem de dano do alvo.&nbsp;<br>(Menor) O alvo sofre [Dano Direto:6].</p>\n<ul>\n<li>Oposto [[/gmr 2d6 +5 ]]{[2D+5]}</li>\n</ul>"
+            },
+            "JlPLfYsOYilcu3Pb": {
+              "en": "Tough Counteratttack",
+              "name": "Contra-Ataque Duro",
+              "description": "<p>Use depois que aliados deste inimigo forem atingidos. O alvo sofre [Dano Direto:6].</p>"
+            }
+          }
+        },
+        "n1hqp1CmOII4fW0L": {
+          "name": "Enfeitiçador Goblin",
+          "tokenName": "Enfeitiçador Goblin",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt; height: 63px;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"height: 21px;\">\n<td class=\"xl67\" style=\"height: 21px; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td class=\"xl65\" style=\"height: 21px;\" height=\"21\">1~5</td>\n<td class=\"xl66\" style=\"height: 21px;\" colspan=\"5\">Cajado Retorcido [Valioso] (20G)</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td class=\"xl65\" style=\"height: 21px;\" height=\"21\">6</td>\n<td class=\"xl66\" style=\"height: 21px;\" colspan=\"5\">Pó de Arco-Íris [Material-Base] (30G)</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p>[[/gmr 2d6 + 1]]{[Esquiva]}<br>[[/gmr 2d6 + 2]]{[Resistência]}</p>",
+          "items": {
+            "ha6cLrryHExUaF8a": {
+              "en": "Goblin Rage",
+              "name": "Fúria Goblin",
+              "description": "<p>Use esta habilidade quando este inimigo sofrer dano de [Espírito].&nbsp;<br>Este inimigo usa imediatamente Flecha de Maldição Elétrica.&nbsp;<br>Aumente em +3 o dano de Flecha de Maldição Elétrica.</p>"
+            },
+            "mqA50ZdhsQWOkjGS": {
+              "en": "Electric Curse Arrow",
+              "name": "Flecha de Maldição Elétrica",
+              "description": "<p>[[/gmr 3d6 + 2]]{[3D+2]}</p>\n<p>[[/gmr 2d6 + 15]]{[2D+15]} de dano mágico<br>(Menor) +5 de dano.<br>Se falhar no [Teste de Acerto], este inimigo recebe [Rigidez]</p>"
+            },
+            "mYyCPmfJNmyGI7IQ": {
+              "en": "Goblin’s Curse Stone",
+              "name": "Pedra de Maldição do Goblin",
+              "description": "<p>Se o alvo tiver um [Espaço de Inventário] vazio, ele recebe o item [Pedra Amaldiçoada].<br>Para cada [Pedra Amaldiçoada] em sua posse, o alvo sofre -1 em [Testes de Acerto].&nbsp;</p>"
+            }
+          }
+        },
+        "KjmxGJLjcQaQ0bzE": {
+          "name": "Monge Goblin",
+          "tokenName": "Monge Goblin",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt; width: 66pt;\" width=\"88\" height=\"21\">1~3</td>\n<td class=\"xl66\" style=\"width: 330pt;\" colspan=\"5\" width=\"440\">Joia do Chamado da Vida I [Consumível] (20G)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">4~6</td>\n<td class=\"xl66\" colspan=\"5\">Adorno de Penas Espalhafatoso [Valioso] (25G)</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p>[[/gmr 2d6 + 1]]{[Esquiva]}<br>[[/gmr 2d6 + 2]]{[Resistência]}</p>",
+          "items": {
+            "JUMIeofBMgrEEsNN": {
+              "en": "Goblin Rage",
+              "name": "Fúria Goblin",
+              "description": "<p>Use esta habilidade quando este inimigo sofrer dano de [Espírito].&nbsp;<br>Este inimigo usa imediatamente Técnica de Agarrão Goblin.&nbsp;<br>Aumente em +3 o dano de Técnica de Agarrão Goblin.</p>"
+            },
+            "5NWizMDeb7bryzd0": {
+              "en": "Goblin Grappling Technique",
+              "name": "Técnica de Agarrão Goblin",
+              "description": "<p>[[/gmr 2d6 + 4]]{2D+4]}</p>\n<p>[[/gmr 2d6 + 12]]{[2D+12]} de dano físico.<br>(Menor) Este ataque recebe &nbsp;[Teste de Acerto]+2. Se o [Teste de Acerto] falhar, este inimigo sofre [Rigidez].</p>"
+            },
+            "hn8cVWjUNhmLsAF8": {
+              "en": "Possessed Demon Fist",
+              "name": "Punho do Demônio Possesso",
+              "description": "<p>Use quando aliados dentro de [Alcance: 3 Qd] desta unidade ficarem em estado [Incapacitado] ou [Morto]<br>A Técnica de Agarrão Goblin deste inimigo recebe +4 de dano. Este efeito se acumula a cada uso de Punho do Demônio Possesso e dura até o fim da Cena.&nbsp;</p>"
+            }
+          }
+        },
+        "oNpFjLw3s7EucAf5": {
+          "name": "Observador Goblin",
+          "tokenName": "Observador Goblin",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1~3</td>\n<td class=\"xl67\" colspan=\"5\">Luneta Embaçada [Valioso] (40G)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">4~5</td>\n<td class=\"xl67\" colspan=\"5\">Joia da Visão I [Consumível]</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">6</td>\n<td class=\"xl67\" colspan=\"5\">Placa de Prata Gravada [Material-Base] (100G)</td>\n</tr>\n</tbody>\n</table>",
+          "items": {
+            "6JOzMXDYg0ogubnv": {
+              "en": "Match alignment!",
+              "name": "Ajustar a Mira!",
+              "description": "<p>O alvo recebe [Fraqueza (Ataque à Distância): 10]<br>Trate isto como um Estado Negativo. Não pode ser usada na primeira rodada da cena.&nbsp;</p>"
+            },
+            "IFfhyHFcNDyswjJ9": {
+              "en": "Goblin Hunting Spear",
+              "name": "Lança de Caça Goblin",
+              "description": "<p>[30+2D] de dano físico.&nbsp;<br>(Menor) Este inimigo recebe [Redução: 10]. Este efeito é cancelado depois de ser aplicado uma vez.&nbsp;<br>(Falha) Este inimigo sofre [Rigidez]</p>"
+            },
+            "AARFsTIiXu91Hyf8": {
+              "en": "Goblin Rage",
+              "name": "Fúria Goblin",
+              "description": "<p>Use quando este inimigo sofrer dano de [Espírito]. Este inimigo usa imediatamente Ajustar a Mira!&nbsp;<br>Neste caso, os requisitos de rodada e a contagem de usos são ignorados, e a [Fraqueza] concedida sobe até</p>"
+            }
+          }
+        },
+        "AdDX1TUxnccoVoKQ": {
+          "name": "Sacerdote Goblin",
+          "tokenName": "Sacerdote Goblin",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1~3</td>\n<td class=\"xl67\" colspan=\"5\">Talismã Suspeito [Catalisador Mágico 4] (30G)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">4~6</td>\n<td class=\"xl67\" colspan=\"5\">Vassoura Quebrada [Valioso] (55G)</td>\n</tr>\n</tbody>\n</table>\n<hr>\n<ul>\n<li>\n<p>Esquiva &nbsp;[[/gmr 2d6 + 2]]{[2D+2]}</p>\n</li>\n<li>\n<p><span style=\"font-family: var(--font-primary); font-size: var(--font-size-14);\">Resistência &nbsp;[[/gmr 3d6 + 2]]{[3D+2]}</span></p>\n</li>\n</ul>",
+          "items": {
+            "Boy46v3IXCOI0NTY": {
+              "en": "Angry Idol",
+              "name": "Ídolo Irado",
+              "description": "<p>Só pode ser usada em alvos com a tag [Goblin].&nbsp;<br>O alvo pode usar [Fúria Goblin] imediatamente. Não pode ser usada em si mesmo.</p>"
+            },
+            "Zs3hFghndjM3pqe0": {
+              "en": "Goblin’s Cursed Broom",
+              "name": "Vassoura Amaldiçoada do Goblin",
+              "description": "<p>[2D+15] de dano físico<br>(Menor& (acerto confirmado?)) [Alcance: 4 Qd./Alvo: Individual]&nbsp;<br>Concede [Barreira: 10] a um aliado dentro do alcance deste inimigo</p>\n<ul>\n<li>Oposto [[/gmr 2d6 +5 ]]{[2D+5]}</li>\n<li>Causa [[/gmr 2d6 + 15]]{[2D+15]} de dano físico.</li>\n</ul>"
+            },
+            "NbaF2kn3w52Rpsbz": {
+              "en": "Goblin Rage (Refer)",
+              "name": "Fúria Goblin (Ver texto)",
+              "description": "<ul>\n<li>Use esta habilidade quando este inimigo sofrer dano de [Espírito].&nbsp;</li>\n<li>Este inimigo usa Vassoura Amaldiçoada do Goblin imediatamente</li>\n<li>Aumente o dano de Vassoura Amaldiçoada do Goblin em +4</li>\n<li>Oposto [[/gmr 2d6 +5 ]]{[2D+5]}</li>\n<li>Causa [[/gmr 2d6 + 15+4]]{[2D+15+4]} de dano físico.</li>\n</ul>"
+            }
+          }
+        },
+        "fYQxoxw39x5zYIHP": {
+          "name": "Xamã Goblin",
+          "tokenName": "Xamã Goblin",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl67\" style=\"height: 15.75pt; border-top: none;\" height=\"21\">1~5</td>\n<td class=\"xl68\" style=\"border-left: none;\" colspan=\"5\">Cajado Retorcido [Valioso] (20G)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl67\" style=\"height: 15.75pt; border-top: none;\" height=\"21\">6</td>\n<td class=\"xl68\" style=\"border-left: none;\" colspan=\"5\">Colar de Nefrita [Valioso] (110G)</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<ul>\n<li>Esquiva &nbsp;[[/gmr 2d6 + 1]]{[2D+1]}</li>\n<li>Resistência &nbsp;[[/gmr 2d6 + 2]]{[2D+2]}</li>\n</ul>\n<p>Xamã Goblin</p>",
+          "items": {
+            "6I5SfvGMZQByfOO1": {
+              "en": "Arcana of Subjugation",
+              "name": "Arcano da Subjugação",
+              "description": "<p>Durante este Processo Principal, os [Ataques Mágicos] deste inimigo usam [Alvo: Amplo 1 (E)].</p>"
+            },
+            "jbACj6vObuOqOfyB": {
+              "en": "Gob Magic",
+              "name": "Magia Gob",
+              "description": "<p>Causa [[/gmr 2d6 + 30]]{[[30+2D] Dano Mágico]}<br>(Resultado 17): O alvo sofre [Atordoado] e [Aflito].</p>\n<p>&nbsp;</p>\n<p>Oposto [[/gmr 3d6 +3 ]]{[3D+3]} vs Resistência</p>"
+            },
+            "UBGFA80z8uGKog1a": {
+              "en": "Goblin Rage (Refer)",
+              "name": "Fúria Goblin (Ver texto)",
+              "description": "<ul>\n<li>Use esta habilidade quando este inimigo sofrer dano de [Espírito].&nbsp;</li>\n<li>Este inimigo usa Magia Gob imediatamente.&nbsp;</li>\n<li>Aumente o dano de Magia Gob em +5.</li>\n</ul>\n<p>Causa [[/gmr 2d6 + 30+5]]{[[30+2D+5] Dano Mágico]}</p>\n<p>Oposto [[/gmr 3d6 +3 ]]{[3D+3]} vs Resistência</p>"
+            }
+          }
+        },
+        "okFC8n05g7TlYIjp": {
+          "name": "Patinador Goblin",
+          "tokenName": "Patinador Goblin",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1~3</td>\n<td class=\"xl67\" colspan=\"5\">Fragmento de Vento [Catalisador Mágico 3] (25G)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">4~6</td>\n<td class=\"xl67\" colspan=\"5\">Óculos Deste Cara [Valioso] (45G)</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<ul>\n<li>Esquiva &nbsp;[[/gmr 2d6 + 3]]{[2D+3]}</li>\n<li>Resistência &nbsp;[[/gmr 2d6 + 1]]{[2D+1]}</li>\n</ul>\n<p>Patinador Goblin</p>",
+          "items": {
+            "mJA86b1yfIW0UXXf": {
+              "en": "Goblin Rage (Refer)",
+              "name": "Fúria Goblin (Ver texto)",
+              "description": "<ul>\n<li>Use esta habilidade quando este inimigo sofrer dano de [Espírito].&nbsp;</li>\n<li>Este inimigo pode fazer imediatamente um [Movimento Seguro] de até 2 Qd. e, em seguida, usar &laquo;Rasante Gob&raquo;.&nbsp;</li>\n<li>Oposto [[/gmr 3d6 +4 ]]{[3D+4]} vs Resistência</li>\n<li>Causa [[/gmr 2d6 + 30]]{[2D+30]} de dano físico.</li>\n</ul>"
+            },
+            "wRKvD9iXyvWwzAO4": {
+              "en": "Gob Zoom",
+              "name": "Rasante Gob",
+              "description": "<ul>\n<li>Oposto [[/gmr 3d6 +4 ]]{[3D+4]} vs Resistência</li>\n<li>Causa [[/gmr 2d6 + 30]]{[2D+30]} de dano físico ao alvo.</li>\n<li>(Resultado 17): O alvo sofre [Atordoado].</li>\n</ul>"
+            },
+            "MfkPB27dbxvPLv9A": {
+              "en": "Stampede",
+              "name": "Tropel",
+              "description": "<ul>\n<li>Este inimigo pode fazer um [Movimento Seguro] de até 2 Qd.&nbsp;<br>Durante este Processo Principal, quando este inimigo usar &laquo;Rasante Gob&raquo;, ele pode ter como alvo um personagem qualquer no meio do movimento</li>\n<li>(Menor): Aumente a distância percorrida em +2.</li>\n</ul>"
+            }
+          }
+        },
+        "Z8v4s18bK5VD7R8H": {
+          "name": "Franco-Atirador Goblin",
+          "tokenName": "Franco-Atirador Goblin",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1~3</td>\n<td class=\"xl67\" colspan=\"5\">Balestra (conforme a Lista de Itens)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">4~5</td>\n<td class=\"xl67\" colspan=\"5\">Flecha Grossa [Valioso] (15G)x3</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">6</td>\n<td class=\"xl67\" colspan=\"5\">Mira Telescópica Grande [Valioso] (80G)</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<ul>\n<li>Esquiva &nbsp;[[/gmr 2d6 + 2]]{[2D+2]}</li>\n<li>Resistência &nbsp;[[/gmr 2d6 + 1]]{[2D+1]}</li>\n</ul>\n<p>Franco-Atirador Goblin</p>",
+          "items": {
+            "Wnms52U789OPe1mO": {
+              "en": "Gob Arrow",
+              "name": "Flecha Gob",
+              "description": "<p>Oposto [[/gmr 3d6 +3 ]]{[3D+3]} vs Esquiva</p>\n<p>Causa [[/r 2d6 + 37]]{[2D+37]} de dano físico ao alvo.</p>\n<p>(Menor): O alvo pode ser obrigado a fazer um [Movimento Seguro (forçado)] de 1 Qd.</p>"
+            },
+            "L9Gwd2AFZ59WasGt": {
+              "en": "The Secret of Sniping",
+              "name": "O Segredo do Tiro de Precisão",
+              "description": "<p>Durante este Processo Principal, este inimigo recebe +2 de bônus no Alcance de [Ataques à Distância].</p>"
+            },
+            "rVPCUFIDhOzJN4us": {
+              "en": "Goblin Rage (Arrow)",
+              "name": "Fúria Goblin (Flecha)",
+              "description": "<ul>\n<li>Use esta habilidade quando este inimigo sofrer dano de [Espírito].&nbsp;</li>\n<li>Este inimigo usa Flecha Gob imediatamente.&nbsp;</li>\n<li>Aumente o dano de Flecha Gob em +5.</li>\n<li>Causa [[/gmr 2d6 + 42]]{[[2D+37+5] dano físico]}</li>\n<li>Oposto [[/gmr 3d6 +3 ]]{[3D+3]} vs Esquiva</li>\n</ul>"
+            }
+          }
+        },
+        "fO2n7KWcpp3t8cCI": {
+          "name": "Totem Goblin",
+          "tokenName": "Totem Goblin",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1~4</td>\n<td class=\"xl67\" colspan=\"5\">Cinzas Demoníacas [Catalisador Mágico 3] (25G)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">5~6</td>\n<td class=\"xl67\" colspan=\"5\">Cinzas Demoníacas [Catalisador Mágico 3] (25G)x2</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<ul>\n<li>Esquiva &nbsp;[[/gmr 2d6 + 2]]{[2D+4]}</li>\n<li>Resistência &nbsp;[[/gmr 2d6 +4]]{[2D+4]}</li>\n</ul>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+          "items": {
+            "1pSwvTs3J37a06Xk": {
+              "en": "Goblin Rage (Refer)",
+              "name": "Fúria Goblin (Ver texto)",
+              "description": "<ul>\n<li>Use esta habilidade quando este inimigo sofrer dano de [Espírito].&nbsp;</li>\n<li>Este inimigo usa Tempestade Gob imediatamente.&nbsp;</li>\n<li>Aumente o dano de Tempestade Gob em +5.</li>\n<li>Oposto [[/gmr 3d6 +3 ]]{[3D+3 ]}</li>\n<li>Causa [[/gmr 2d6 +30+5]]{[2D+30+5]} de dano mágico.</li>\n</ul>"
+            },
+            "KysirgZqDLbfkqTB": {
+              "en": "Gob Storm",
+              "name": "Tempestade Gob",
+              "description": "<p>[2D+30] de dano mágico ao alvo.&nbsp;<br>(Menor): O alvo sofre [Cambaleante].</p>\n<ul>\n<li>Oposto [[/gmr 3d6 +3 ]]{[3D+3]}</li>\n<li>Causa [[/gmr 2d6 + 30]]{[2D+30]} de dano mágico.</li>\n</ul>"
+            },
+            "6fZcn5RIeWqpWKdO": {
+              "en": "Weed Bind",
+              "name": "Amarra de Ervas",
+              "description": "<p>Escolha um quadrado como alvo. Este inimigo pode usar [Obstrução] contra os personagens nesse quadrado.<br>Este efeito dura até o fim da rodada.</p>"
+            }
+          }
+        },
+        "sdBwajsYTHjNsdwj": {
+          "name": "Goblin",
+          "tokenName": "Goblin",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">Fixo</td>\n<td class=\"xl67\" colspan=\"5\">Espada Gob [Valioso] (20G)</td>\n</tr>\n</tbody>\n</table>",
+          "items": {
+            "1cxGXB17bzHsj2MN": {
+              "en": "Goblin Rage",
+              "name": "Fúria Goblin",
+              "description": "<ul>\n<li>Use esta habilidade quando este inimigo sofrer dano de [Espírito].&nbsp;</li>\n<li>Este inimigo usa Turba Gob imediatamente.&nbsp;</li>\n<li>Aumente o dano de Turba Gob em +5.</li>\n</ul>"
+            },
+            "2bvmmDS4nElpQsOf": {
+              "en": "Gob Mob",
+              "name": "Turba Gob",
+              "description": "<p>Causa [[/gmr 2d6 + 33]]{[33+2D]} de dano físico.<br>(Menor): O alvo sofre [Perseguição: 5].</p>"
+            },
+            "6QwAbHKJNk42bLJi": {
+              "en": "Line Breaker",
+              "name": "Rompe-Linhas",
+              "description": "<p>Este inimigo faz um [Movimento Seguro] de até 2 Qd.&nbsp;<br>(Menor): Aumente a distância percorrida em +1 Qd.</p>"
+            }
+          }
+        },
+        "I7OG4gUbJ8FxGyFs": {
+          "name": "Pudim Cinzento",
+          "tokenName": "Pudim Cinzento",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl67\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1~4</td>\n<td class=\"xl66\" colspan=\"5\">Antídoto I (conforme a Tabela de Itens)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">5~6</td>\n<td class=\"xl66\" colspan=\"5\">Núcleo Viscoso [Valioso](30G)</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p>[[/gmr 2d6 + 1]]{[Esquiva]}<br>[[/gmr 2d6 + 1]]{[Resistência]}</p>",
+          "items": {
+            "QgoRWKhwL5AFxGAy": {
+              "en": "Amorphous Body",
+              "name": "Corpo Amorfo",
+              "description": "<p>Quando este inimigo sofre dano de [Frio], ele também sofre [Aflito] e [Atordoado]</p>"
+            },
+            "ihufOEXlK4nbodBV": {
+              "en": "Coat&Digest",
+              "name": "Envolver&Digerir",
+              "description": "<p>[[/gmr 2d6 + 4]]{[2D+4]}</p>\n<p>[[/gmr 2d6 + 15]]{[15+2D]} de Dano Mágico. O alvo sofre [Atordoado]<br>(Alvo: Engolfado): O dano se torna penetrante</p>"
+            },
+            "Pt0i6FQauspHGs6p": {
+              "en": "Devour",
+              "name": "Devorar",
+              "description": "<p>Um alvo com [Atordoado] recebe a tag [Devorado]. Trate este efeito como um Estado Negativo que só pode ser removido quando o alvo e este inimigo não estiverem no mesmo quadrado</p>"
+            }
+          }
+        },
+        "JmmpXyzoJ2lelkSV": {
+          "name": "Gosma Verde",
+          "tokenName": "Gosma Verde",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">Fixo</td>\n<td class=\"xl67\" colspan=\"5\">Muco Imundo [Valioso] (20G)</td>\n</tr>\n</tbody>\n</table>",
+          "items": {
+            "gfsQxw8fJBcgshfQ": {
+              "en": "Amorphous Body",
+              "name": "Corpo Amorfo",
+              "description": "<p>&nbsp;Sempre que este inimigo sofrer dano de [Frio], ele também sofre [Aflito] e [Atordoado]. Os [Movimentos Normais] deste inimigo são sempre [Movimentos Seguros].</p>"
+            },
+            "QAhSKMBUbq4lyAEH": {
+              "en": "Corrosive Drops",
+              "name": "Gotas Corrosivas",
+              "description": "<p>[35+2D] de dano físico. O alvo sofre -4 de penalidade na [Defesa Física]. Trate este efeito como um Estado Negativo.&nbsp;<br>(Menor): O alvo sofre [Rigidez].</p>"
+            },
+            "KZ5r5UaWW8WQicUb": {
+              "en": "Suspicious Puddle",
+              "name": "Poça Suspeita",
+              "description": "<p>Este inimigo fica [Oculto] e, em seguida, faz um [Movimento Seguro] de até 2 Qd. sem perder [Oculto].&nbsp;<br>(Menor): Aumente a distância percorrida em +1 Qd.</p>"
+            }
+          }
+        },
+        "WO0RIFi7LobFxBFL": {
+          "name": "Musgo Asfixiante Gregário",
+          "tokenName": "Musgo Asfixiante Gregário",
+          "items": {
+            "AS524Fq5OxaHracY": {
+              "en": "Unreasoning Operation",
+              "name": "Operação Irracional",
+              "description": "<p>&nbsp;Este inimigo não gera Dano de Ódio, e os bônus de defesa de Abaixo no Ódio não se aplicam aos ataques dele.&nbsp;<br>Se este inimigo for alvo de Desarmar Objeto de Cena, [Dificuldade de Desarme: 10], ele fica [Incapacitado].&nbsp;<br>Este inimigo não pode realizar Ações de Movimento.</p>"
+            },
+            "bJTmdR36ZFmFiv2z": {
+              "en": "Poison Spore",
+              "name": "Esporo Venenoso",
+              "description": "<p>[[/gmr 3d6 + 3]]{[3D+3]}</p>\n<hr>\n<p>Esta habilidade não pode ter como alvo o Musgo Asfixiante Gregário.&nbsp;<br>Causa [30+2D] de dano mágico.&nbsp;<br>(Resultado 16): O alvo sofre [Deterioração: 6].</p>"
+            }
+          }
+        },
+        "mssosmqii8rnjkxT": {
+          "name": "Urso-Pardo",
+          "tokenName": "Urso-Pardo",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1~4</td>\n<td class=\"xl67\" colspan=\"5\">Pele de Urso Cinzenta (valioso, 60 G)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">5~6</td>\n<td class=\"xl68\" colspan=\"5\">Garra Resistente de Urso (valioso, 35 G)x3</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<hr>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+          "items": {
+            "M6L5C8K17GxL46fy": {
+              "en": "Dignified Bear",
+              "name": "Urso Imponente",
+              "description": "<p>Este inimigo não pode usar Deslocar-se. <br>Quando este inimigo é obrigado a se mover, o [movimento forçado] é reduzido em 1 quadrado.</p>"
+            },
+            "0cRlMKtjPgAOr3wc": {
+              "en": "Wild Smell Sense",
+              "name": "Faro Selvagem",
+              "description": "<p>O alvo recebe Ódio igual ao número de itens de comida que estiver carregando no momento. <br>Se o alvo tiver a tag [Natureza], ele também sofre [Cambaleante].</p>"
+            },
+            "Flb03qhbbVGy4wUx": {
+              "en": "Brown Bear Ambush",
+              "name": "Emboscada do Urso-Pardo",
+              "description": "<p>33+2D de dano físico; o alvo sofre [Atordoado]. <br>Menor: o alvo também sofre [Fraqueza: (Ódio do alvo)x4]</p>"
+            },
+            "zXvNJo6M53Fqb539": {
+              "en": "Wild Attack",
+              "name": "Ataque Selvagem",
+              "description": "<p>Um inimigo no quadrado deste inimigo que tenha as tags [Rigidez] ou [Atordoado] sofre 9 pontos de dano direto.&nbsp;</p>"
+            }
+          }
+        },
+        "M9I1tlVLKiXz40F7": {
+          "name": "Hobgoblin de Punhos Nus",
+          "tokenName": "Hobgoblin de Punhos Nus",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1~3</td>\n<td class=\"xl67\" colspan=\"5\">Amuleto de Retalhos [Valioso] (20G)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">4~6</td>\n<td class=\"xl67\" colspan=\"5\">Munhequeira Pesada [Valioso] (25G)x2</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<ul>\n<li>Esquiva &nbsp;[[/gmr 3d6 + 1]]{[3D+1]}</li>\n<li>Resistência &nbsp;[[/gmr 3d6 + 2]]{[3D+2]}</li>\n</ul>\n<p>Hobgoblin</p>",
+          "items": {
+            "mmgsWdlnTDN65iHn": {
+              "en": "Goblin Rage (Refer)",
+              "name": "Fúria Goblin (Ver texto)",
+              "description": "<ul>\n<li>Use esta habilidade quando este inimigo sofrer dano de [Espírito].&nbsp;</li>\n<li>Este inimigo usa Cutelada Hob Gob imediatamente.&nbsp;</li>\n<li>Aumente o dano de Cutelada Hob Gob em +5.</li>\n<li>Oposto [[/gmr 2d6 +5 ]]{[2D+5]}</li>\n<li>Causa [[/gmr 2d6 + 23+5]]{[[2D+23+5]} de dano físico.</li>\n</ul>"
+            },
+            "niMmoF4WxWjGXpLd": {
+              "en": "Hob Gob Chop",
+              "name": "Cutelada Hob Gob",
+              "description": "<p>[2D+23] de dano físico ao alvo<br>(Menor): Reduza o [Ódio] do alvo em -1.</p>\n<ul>\n<li>Oposto [[/gmr 2d6 +5 ]]{[2D+5]}</li>\n<li>Causa [[/gmr 2d6 + 23]]{[[2D+23]} de dano físico.</li>\n</ul>"
+            },
+            "JJshCVECVuo2Xeg6": {
+              "en": "Gobduction",
+              "name": "Gobdução",
+              "description": "<p>Este inimigo pode fazer um [Movimento Seguro] de até 2 Qd. Ao mesmo tempo, o alvo faz um [Movimento Seguro (forçado)] para o mesmo quadrado deste inimigo.</p>"
+            }
+          }
+        },
+        "iImsF8R4wQ9NDt34": {
+          "name": "Urso-Lua Jibasu",
+          "tokenName": "Urso-Lua Jibasu",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1-3</td>\n<td class=\"xl67\" colspan=\"5\">Torta de Frutas Vermelhas (p218)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">4-6</td>\n<td class=\"xl68\" colspan=\"5\">Osso Robusto de Urso (Valioso [30G])</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<hr>\n<p>&nbsp;</p>",
+          "items": {
+            "NpTnSztY5bIOr2qm": {
+              "en": "Nimble Bear",
+              "name": "Urso Ágil",
+              "description": "<p>Este inimigo não pode usar ações de \"Deslocar-se\". Além disso, não pode ser afetado por ações com a tag [Velocidade].</p>"
+            },
+            "r5knaNMQs17tHWrq": {
+              "en": "Too-Long Talon",
+              "name": "Garra Longa Demais",
+              "description": "<p>26+2D de dano e o alvo sofre [Atordoado]. Como Ação Menor, o alvo não pode realizar nenhuma ação de Antes do Dano ou Após o Dano.</p>"
+            },
+            "9D1XNLzPtdqy5gqk": {
+              "en": "Uncanny Sneer",
+              "name": "Escárnio Sinistro",
+              "description": "<p>Ativada quando o inimigo sofre mais de 30 PV de dano. O inimigo fica imediatamente em [Pré-Ação] e pode se mover imediatamente dois quadrados.&nbsp;</p>"
+            },
+            "LbcaMXAQGpltYacc": {
+              "en": "Wild Growth Finishing Blow",
+              "name": "Golpe Final do Crescimento Selvagem",
+              "description": "<p>Todos os PJs no mesmo quadrado que o inimigo que tenham as tags [Rigidez] ou [Atordoado] sofrem 9 pontos de dano direto.</p>"
+            }
+          }
+        },
+        "go6ODeCe36JscMsR": {
+          "name": "Rei do Iceberg",
+          "tokenName": "Rei do Iceberg",
+          "items": {
+            "Qr355vRreS7aHneW": {
+              "en": "Bear of the Ice Field",
+              "name": "Urso do Campo de Gelo",
+              "description": "<p>Este inimigo não pode usar Deslocar-se. Este inimigo não sofre as penalidades do estado [Nadando].</p>"
+            },
+            "LvmkUtknWoOKMRQV": {
+              "en": "Repeat Action",
+              "name": "Ação Repetida",
+              "description": "<p>Uma vez por Rodada, quando este inimigo fica em [Pós-Ação], ele imediatamente volta a ficar em [Pré-Ação]. Depois disso, até o fim da Rodada, sua [Iniciativa] passa a ser 0.</p>"
+            },
+            "rxz44iLC1tmjuzWx": {
+              "en": "Wind of the Mountain Bear",
+              "name": "Vento do Urso da Montanha",
+              "description": "<p>[37+2D] de dano físico, e o alvo sofre [Rigidez] e [Atordoado].<br>(Menor): [Rigidez] e [Atordoado] não podem ser removidos enquanto o alvo estiver no quadrado deste inimigo.<br>(Destino 1): Dano +10.</p>"
+            }
+          }
+        },
+        "g3znqYjSkv2mtONk": {
+          "name": "Batedor de Carteiras Kitsune",
+          "tokenName": "Batedor de Carteiras Kitsune",
+          "items": {
+            "jXvh9UECUBbz74qb": {
+              "en": "Agile Footwork",
+              "name": "Jogo de Pés Ágil",
+              "description": "<p>No início de cada rodada, este inimigo remove um acúmulo de [Perseguição].</p>"
+            },
+            "rT2voFxxnwU861kl": {
+              "en": "Begging for Mercy",
+              "name": "Implorando por Misericórdia",
+              "description": "<p>Este inimigo entra imediatamente em [Espera] e rola 1D (o resultado não é revelado aos jogadores). Um personagem que fizer um [Teste de Acerto] contra este inimigo e lhe causar dano aumenta seu [Ódio] em +[o resultado rolado ÷ 2]. Este efeito dura até o fim da rodada.</p>"
+            },
+            "SPgvcUKHAMMhnMvf": {
+              "en": "Upside-Down Bag",
+              "name": "Bolsa de Ponta-Cabeça",
+              "description": "<p>O alvo deixa cair a seus pés todos os itens de seus [Espaços de Inventário]. Pegar os itens de volta conta como parte de \"Trocar Equipamento\".<br>(Menor): O alvo sofre [Perseguição: 3].</p>"
+            }
+          }
+        },
+        "BGdvASgfLOwaL3HS": {
+          "name": "Kobold",
+          "tokenName": "Kobold",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl63\" style=\"height: 15.75pt;\" height=\"21\">Fixo</td>\n<td class=\"xl64\" colspan=\"5\">Presa de Kobold [Valioso] (10G)</td>\n</tr>\n</tbody>\n</table>",
+          "items": {
+            "O1UuwsKGVgJH7HpX": {
+              "en": "Kobold Tactics",
+              "name": "Táticas Kobold",
+              "description": "<p>Este inimigo não é afetado por Objetos de cena com a tag [Mecânico], a menos que queira. Além disso, sempre que este inimigo estiver no mesmo quadrado que outra criatura com a tag [Kobold], ele recebe bônus de +1 em [Testes de Esquiva]</p>"
+            },
+            "Vk3QiePW7MMjldum": {
+              "en": "Kobo Slash",
+              "name": "Corte Kobo",
+              "description": "<p>[23+2D] de Dano Físico<br>(Menor): Dano +5</p>"
+            },
+            "S3eYxHhqYmpjMUMP": {
+              "en": "Dash&Jump",
+              "name": "Disparada&Salto",
+              "description": "<p>Este inimigo pode fazer um [Movimento Seguro] de 1 Qd. Durante esse movimento, o inimigo pode se mover na diagonal<br>(Menor): Aumente a distância em +1 Qd.</p>"
+            }
+          }
+        },
+        "woG03LchUhzKefnM": {
+          "name": "Conjurador Kobold",
+          "tokenName": "Conjurador Kobold",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl67\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1</td>\n<td class=\"xl66\" colspan=\"5\">Cajado de Olmo (conforme a Lista de Itens)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">2~6</td>\n<td class=\"xl66\" colspan=\"5\">Pedra de Cores Vivas [Catalisador Mágico 1](15G)x2</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<ul>\n<li>Esquiva &nbsp;&nbsp;[[/gmr 2d6 + 1]]{[2D+1]}</li>\n<li>Resistência [[/gmr 2d6 + 2]]{[2D+2]}</li>\n</ul>",
+          "items": {
+            "Fmy1rEmHZQwNpFzu": {
+              "en": "Kobold Tactics",
+              "name": "Táticas Kobold",
+              "description": "<p>Este inimigo não é afetado por Objetos de cena com a tag [Mecânico], a menos que queira. Além disso, sempre que este inimigo estiver no mesmo quadrado que outra criatura com a tag [Kobold], ele recebe bônus de +1 em [Testes de Esquiva]</p>"
+            },
+            "XWyCCPdYFDX0HcXb": {
+              "en": "Thunder Kobolt",
+              "name": "Kobolt Trovejante",
+              "description": "<p>[[/gmr 3d6 + 2]]{[3D+2]}</p>\n<p>[[/gmr 2d6 + 17]]{[17+2D]} de Dano Mágico<br>(Menor): O alvo sofre [Cambaleante]</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
+            },
+            "JKUe3FpYu8MGFO5w": {
+              "en": "Spell Adep",
+              "name": "Adepto de Feitiços",
+              "description": "<p>+10 de dano em Ataque Mágico</p>"
+            }
+          }
+        },
+        "o6zPMHYCilQW0nbF": {
+          "name": "Kobold de Armamento Pesado",
+          "tokenName": "Kobold de Armamento Pesado",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl67\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1~4</td>\n<td class=\"xl66\" colspan=\"5\">Cota de Anéis (conforme a Lista de Itens)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">5~6</td>\n<td class=\"xl66\" colspan=\"5\">Fecho Sólido [Valioso](45G)</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p>[[/gmr 2d6 + 1]]{[Esquiva]}<br>[[/gmr 2d6 + 1]]{[Resistência]}</p>",
+          "items": {
+            "MqqKFOtYuwUg0RbH": {
+              "en": "Kobold Tactics",
+              "name": "Táticas Kobold",
+              "description": "<p>Este inimigo não é afetado por Objetos de cena com a tag [Mecânico], a menos que queira. Além disso, sempre que este inimigo estiver no mesmo quadrado que outra criatura com a tag [Kobold], ele recebe bônus de +1 em [Testes de Esquiva]</p>"
+            },
+            "BbCd0UB9Sr8hi9Bh": {
+              "en": "Kobo Blade",
+              "name": "Lâmina Kobo",
+              "description": "<p>[[/gmr 2d6 + 4]]{2D+4]}</p>\n<p>[[/gmr 2d6 + 10]]{[2D+10]} de dano físico ao alvo.&nbsp;<br>(Menor): Aumente o dano em +10.<br>(Alvo: Topo de Ódio): Adicione +1 à Precisão desta habilidade</p>"
+            },
+            "vfyMd3ydC3n6lrXZ": {
+              "en": "Shield Wall",
+              "name": "Muralha de Escudos",
+              "description": "<p>O alvo recebe [Anulação: 5]. Esta [Anulação] dura até que o alvo e este inimigo não estejam mais no mesmo quadrado, ou até o fim da Rodada.</p>"
+            }
+          }
+        },
+        "FJuLFQlPW1cHmYHY": {
+          "name": "Caçador Kobold",
+          "tokenName": "Caçador Kobold",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"></colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl67\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1~4</td>\n<td class=\"xl66\" colspan=\"5\">Cota de Anéis (conforme a Lista de Itens)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">5~6</td>\n<td class=\"xl66\" colspan=\"5\">Fecho Sólido [Valioso](45G)</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p>[[/gmr 2d6 + 1]]{[Esquiva]}<br>[[/gmr 2d6 + 1]]{[Resistência]}</p>",
+          "items": {
+            "yeJaSoAUuZS9yKge": {
+              "en": "Kobold Tactics",
+              "name": "Táticas Kobold",
+              "description": "<p>Este inimigo não é afetado por Objetos de cena com a tag [Mecânico], a menos que queira. Além disso, sempre que este inimigo estiver no mesmo quadrado que outra criatura com a tag [Kobold], ele recebe bônus de +1 em [Testes de Esquiva]</p>"
+            },
+            "LHmNK41NHnNwVOMr": {
+              "en": "Kobo Shot",
+              "name": "Disparo Kobo",
+              "description": "<p>[[/gmr 3d6 + 2]]{3D+2]}</p>\n<p>[[/gmr 2d6 + 20]]{[2D+20]} de Dano Físico<br>(Menor): Esta habilidade passa a ter [Alcance: 4 Qd]</p>"
+            },
+            "JsHmHdyVV0ImYGcD": {
+              "en": "Hunter's Sight",
+              "name": "Mira do Caçador",
+              "description": "<p>Durante este Processo Principal, este inimigo recebe bônus de +5 nas rolagens de dano de [Ataque à Distância].</p>"
+            }
+          }
+        },
+        "QARbx7GUYLD1wiOv": {
+          "name": "Líder Kobold",
+          "tokenName": "Líder Kobold",
+          "items": {
+            "kuXGQSibgWiJwJ5x": {
+              "en": "Kobold Tactics",
+              "name": "Táticas Kobold",
+              "description": "<p>Este inimigo não é afetado por Objetos de cena com a tag [Mecânico], a menos que queira. Além disso, sempre que este inimigo estiver no mesmo quadrado que outro personagem com a tag [Kobold], ele recebe bônus de +1 em [Testes de Esquiva].</p>"
+            },
+            "ODqiqsg6bZAmwKVJ": {
+              "en": "Kobold Platoon",
+              "name": "Pelotão Kobold",
+              "description": "<p>Quando este inimigo aparece em uma Cena, dois inimigos Conjurador Kobold podem, opcionalmente, aparecer com ele. Em vez disso, podem ser usados um Conjurador Kobold e dois Kobolds. Os inimigos que aparecem por causa deste efeito não geram Itens Deixados.</p>"
+            },
+            "rFQZq2iuOx2bKsNF": {
+              "en": "Renew Action",
+              "name": "Ação Renovada",
+              "description": "<p>Use quando este inimigo ficar em [Pós-Ação]. Este inimigo fica imediatamente em [Pré-Ação], e sua [Iniciativa] passa a ser 0 até o fim da Rodada.</p>"
+            }
+          }
+        },
+        "xNwWWJld1OGFOL7b": {
+          "name": "Médico Kobold",
+          "tokenName": "Médico Kobold",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl67\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1~3</td>\n<td class=\"xl66\" colspan=\"5\">Incenso Purificador [Catalisador Mágico 1](15G)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">4~5</td>\n<td class=\"xl66\" colspan=\"5\">Kit de Primeiros Socorros Rudimentar [Valioso](25G)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">6</td>\n<td class=\"xl66\" colspan=\"5\">Poção de Regeneração I (conforme a Lista de Itens)</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p>[[/gmr 2d6 + 1]]{[Esquiva]}<br>[[/gmr 2d6 + 2]]{[Resistência]}</p>",
+          "items": {
+            "vYSj7QbKvV3REWim": {
+              "en": "Kobold Tactics",
+              "name": "Táticas Kobold",
+              "description": "<p>Este inimigo não é afetado por Objetos de cena com a tag [Mecânico], a menos que queira. Além disso, sempre que este inimigo estiver no mesmo quadrado que outra criatura com a tag [Kobold], ele recebe bônus de +1 em [Testes de Esquiva]</p>"
+            },
+            "BoHh3ucjIBrRtlpd": {
+              "en": "Kobo Assist",
+              "name": "Assistência Kobo",
+              "description": "<p>[[/gmr 2d6 + 4]]{2D+4]}</p>\n<p>O alvo sofre [Perseguição: 10]<br>(Menor): Esta habilidade passa a ter [Alcance: 3 Qd]</p>"
+            },
+            "Y7MF3R4BFPyFul25": {
+              "en": "Medic Barrier",
+              "name": "Barreira Médica",
+              "description": "<p>O alvo recebe [Barreira: 10], ou o alvo pode remover sua tag [Lacaio] até o fim da Rodada.</p>"
+            }
+          }
+        },
+        "jl4GUvtM8FnoQI9X": {
+          "name": "Partisano Kobold",
+          "tokenName": "Partisano Kobold",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl67\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1~3</td>\n<td class=\"xl66\" colspan=\"5\">Escama Cintilante [Valioso](15G)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">4~6</td>\n<td class=\"xl66\" colspan=\"5\">Ponta de Lança Afiada [Valioso](30G)</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p>[[/gmr 2d6 + 2]]{[Esquiva]}<br>[[/gmr 2d6 + 2]]{[Resistência]}</p>",
+          "items": {
+            "J0qNHnIP08B4dO96": {
+              "en": "Kobold Tactics",
+              "name": "Táticas Kobold",
+              "description": "<p>Este inimigo não é afetado por Objetos de cena com a tag [Mecânico], a menos que queira. Além disso, sempre que este inimigo estiver no mesmo quadrado que outra criatura com a tag [Kobold], ele recebe bônus de +1 em [Testes de Esquiva]</p>"
+            },
+            "mJg4QHoNF7zLCch6": {
+              "en": "Kobo Thrust",
+              "name": "Estocada Kobo",
+              "description": "<p>[[/gmr 3d6 + 3]]{[3D+3]}</p>\n<p>[[/gmr 2d6 + 25]]{[25+2D]} de Dano Físico<br>(Menor): O alvo faz um [Movimento Seguro (forçado)] de 1 Qd.</p>"
+            },
+            "giCa0jV4azy27iFJ": {
+              "en": "Kobold Charge",
+              "name": "Investida Kobold",
+              "description": "<p>Este inimigo pode fazer um [Movimento Seguro] de até 3 Qd.<br>Este movimento deve ser feito em linha reta a partir do ponto de partida.<br>(Menor): Antes do [Movimento Seguro], este inimigo pode fazer um [Movimento Normal] de 1 Qd em qualquer direção.</p>"
+            }
+          }
+        },
+        "pj4rVktI0RNfUnj2": {
+          "name": "Guindaste Kobold",
+          "tokenName": "Guindaste Kobold",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl63\" style=\"height: 15.75pt;\" height=\"21\">Fixo</td>\n<td class=\"xl64\" colspan=\"5\">Gancho Arrancado [Valioso](10G)</td>\n</tr>\n</tbody>\n</table>",
+          "items": {
+            "o98VUIFweeF07hin": {
+              "en": "A Mere Machine",
+              "name": "Uma Mera Máquina",
+              "description": "<p>Não gera Dano de Ódio e ignora os bônus de defesa de Abaixo no Ódio&nbsp;<br>Se este inimigo for alvo de Desarmar Objeto de Cena [Dificuldade de Desarme: 10], ele fica [Incapacitado].<br>Este inimigo não pode realizar Ações de Movimento.</p>"
+            },
+            "OOAmYBE5uNTPU2rx": {
+              "en": "Crane Shock",
+              "name": "Choque do Guindaste",
+              "description": "<p>[[/gmr 3d6 + 2]]{[3D+2]}</p>\n<p>[[/gmr 2d6 + 25]]{[2D+25]} de Dano Físico<br>(Menor): O alvo sofre [Atordoado]. Um alvo secundário com a tag [Kobold] dentro de [Alvo: Individual / Alcance: 4 Qd] deste inimigo (exceto outros inimigos Guindaste Kobold) é obrigado a fazer um [Teleporte (forçado)] para o mesmo quadrado do alvo inicial.</p>"
+            }
+          }
+        },
+        "giLOQc6kM8llUvU6": {
+          "name": "Armadura Viva",
+          "tokenName": "Armadura Viva",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1~3</td>\n<td class=\"xl67\" colspan=\"5\">Núcleo de Pseudoalma [Catalisador Mágico 3] (25G)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">4~5</td>\n<td class=\"xl67\" colspan=\"5\">Punho Delicado [Valioso] (40G)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">6</td>\n<td class=\"xl67\" colspan=\"5\">Lâmina Manchada de Sangue [Material-Base] (50G)</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<hr>\n<p>[[/gmr 2d6 + 2]]{[Esquiva]}<br>[[/gmr 2d6 + 1]]{[Resistência]}</p>",
+          "items": {
+            "FgKIsJxsnO5wGWjK": {
+              "en": "Beware the Masquerade",
+              "name": "Cuidado com a Mascarada",
+              "description": "<p>Este inimigo entra em cena com [Oculto]. Quando este inimigo sofre dano de [Corrupção], ele também sofre [Atordoado](?)</p>"
+            },
+            "DNcn8IjmBDlgA7jB": {
+              "en": "Entangling Armor",
+              "name": "Armadura Enredante",
+              "description": "<p>[20+2D] de dano físico ao alvo.&nbsp;<br>(Menor) O alvo sofre Rigidez. Esta [Rigidez] não pode ser removida a menos que o inimigo se afaste.</p>"
+            },
+            "6mf9VlXi754S4jfW": {
+              "en": "Standing Knight Armor",
+              "name": "Armadura de Cavaleiro em Pé",
+              "description": "<p>Concede [Anulação: 5](?) Esta [Anulação] não é removida até que este inimigo fique [Incapacitado] ou [Morto]</p>"
+            }
+          }
+        },
+        "1UnbrYWynvESkazH": {
+          "name": "Ídolo Vivo",
+          "tokenName": "Ídolo Vivo",
+          "items": {
+            "GASmsbRDoUvxfbg0": {
+              "en": "Sitting Position",
+              "name": "Posição Sentada",
+              "description": "<p>Quando este inimigo sofre dano de [Espírito], ele sofre também [Perseguição: 5] e [Atordoado]. Este inimigo não pode usar [Disparada] nem [Deslocar-se].</p>"
+            },
+            "K5URRrNZTLc4KOdM": {
+              "en": "Repeat Action",
+              "name": "Ação Repetida",
+              "description": "<p>Uma vez por Rodada, quando este inimigo fica em [Pós-Ação], ele imediatamente volta a ficar em [Pré-Ação]. Depois disso, até o fim da Rodada, sua [Iniciativa] passa a ser 0.</p>"
+            },
+            "EOYdcxFWuvSw6UE8": {
+              "en": "Evil Idol's Halo",
+              "name": "Auréola do Ídolo Maligno",
+              "description": "<p>O alvo sofre 5 de dano direto. Se o alvo tiver [Perseguição], 1 acúmulo dela é ativado (trate como se o alvo tivesse falhado em seu teste de defesa). Este inimigo pode remover 1 Estado Negativo de si mesmo.</p>"
+            }
+          }
+        },
+        "LemzOm5khAHljojO": {
+          "name": "Javali Lizhi",
+          "tokenName": "Javali Lizhi",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1~4</td>\n<td class=\"xl67\" colspan=\"5\">Presa de Javali Quebrada [Valioso] (30G)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">5~6</td>\n<td class=\"xl67\" colspan=\"5\">Pele Encantadora [Valioso] (50G)</td>\n</tr>\n</tbody>\n</table>\n<hr>\n<p>[[/gmr 2d6 + 3]]{[Esquiva]}<br>[[/gmr 2d6 + 1]]{[Resistência]}</p>",
+          "items": {
+            "hu0o56jvN3b9RGDv": {
+              "en": "Stampede",
+              "name": "Tropel",
+              "description": "<p>Este inimigo pode fazer um [Movimento Seguro] de até 2 Qd.&nbsp;<br>Durante este Processo Principal, quando este inimigo usar &laquo;Investida Dispersante&raquo;, ele pode ter como alvo um personagem qualquer no meio do movimento.&nbsp;<br>(Menor): Aumente a distância percorrida em +2.<br>&nbsp;</p>"
+            },
+            "Mvf01pb2vF9KyB2F": {
+              "en": "Lizhi Boom",
+              "name": "Estrondo Lizhi",
+              "description": "<p>O alvo sofre [Perseguição: 10].</p>"
+            },
+            "CnkWhftsLMnMJfoM": {
+              "en": "Scattering Charge",
+              "name": "Investida Dispersante",
+              "description": "<p>[2D+37] de dano físico ao alvo. O alvo pode ser obrigado a fazer um [Movimento Seguro (forçado)] de 1 Qd.</p>"
+            }
+          }
+        },
+        "KBiDsPFsxi0SU4LJ": {
+          "name": "Matsutakonid",
+          "tokenName": "Matsutakonid",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1~4</td>\n<td class=\"xl67\" colspan=\"5\">Esporo Fragrante [Catalisador Mágico 4] (30G)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">5~6</td>\n<td class=\"xl67\" colspan=\"5\">Filamento Delicado [Valioso] (40G)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">Fixo</td>\n<td class=\"xl67\" colspan=\"5\">Matsutakonid [Comida]</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<hr>\n<p>[[/gmr 2d6 + 1]]{[Esquiva]}<br>[[/gmr 2d6 + 2]]{[Resistência]}</p>",
+          "items": {
+            "qyldpzQ9BBMAL5Pu": {
+              "en": "Heart of the Vegetable",
+              "name": "Coração do Vegetal",
+              "description": "<p>Este inimigo sempre tem [Fraqueza (Chama): 5]. Além disso, é imune a [Confuso].</p>"
+            },
+            "g19ohbKHbgWuoBoj": {
+              "en": "Lively Mushroom",
+              "name": "Cogumelo Vivaz",
+              "description": "<p>O alvo pode recuperar um uso de uma habilidade de [Limite: n/Cena] que já tenha usado.&nbsp;<br>Esta habilidade não pode ter este inimigo como alvo.</p>"
+            },
+            "MMOcmYq2asQ2CmwF": {
+              "en": "Fragrant Spore",
+              "name": "Esporo Fragrante",
+              "description": "<p>[2D+29] de dano mágico ao alvo.&nbsp;<br>(Resultado 16): O alvo sofre [Confuso].</p>"
+            }
+          }
+        },
+        "0Gmd94qhWyunBcPh": {
+          "name": "Mizkun das Sombras",
+          "tokenName": "Mizkun das Sombras",
+          "items": {
+            "imXwkc9OfGD9Fvbb": {
+              "en": "Renew Action II",
+              "name": "Ação Renovada II",
+              "description": "<p>Use esta habilidade em um alvo que acabou de ficar em [Pós-Ação]. O alvo fica imediatamente em [Pré-Ação], e sua [Iniciativa] passa a ser 0 até o fim da Rodada.</p>"
+            },
+            "lOqGWwgbXt2CORL9": {
+              "en": "Hidden Mastermind",
+              "name": "Mentor Oculto",
+              "description": "<p>Quando este inimigo aparece em uma Cena, quaisquer dois inimigos de NP3 ou menos com a tag [Humanoide] ou [Humano] podem, opcionalmente, aparecer com ele. Em vez disso, podem ser usados um inimigo e dois inimigos [Lacaio] de NP3 com a tag [Humanoide] ou [Humano]. Os inimigos que aparecem por causa deste efeito não geram Itens Deixados.</p>"
+            },
+            "Bj8nYrlwBKrHI50u": {
+              "en": "Genius Talisman",
+              "name": "Talismã do Gênio",
+              "description": "<p>Quando este inimigo aparece em uma Cena, ele aparece [Oculto]. Quando este inimigo faz um [Movimento Normal] ou um [Movimento Seguro], ele não perde [Oculto]. Quando este inimigo sofre dano de [Corrupção], ele também sofre [Cambaleante].</p>"
+            }
+          }
+        },
+        "2XQ0riyKt6rm2PLv": {
+          "name": "Líder da Ocupação",
+          "tokenName": "Líder da Ocupação",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt; height: 101px;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"width: 527px;\" span=\"6\" width=\"88\"></colgroup>\n<tbody>\n<tr style=\"height: 21px;\">\n<td class=\"xl64\" style=\"height: 21px; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td class=\"xl63\" style=\"height: 21px;\" height=\"21\">1~3</td>\n<td class=\"xl65\" style=\"height: 21px;\" colspan=\"5\">Olhos de Aranha&nbsp; [Catalisador Mágico 3] (25G) x 8</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"height: 17px;\">4-5</td>\n<td style=\"height: 17px;\" colspan=\"5\">Trompa do Domador de Feras</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td class=\"xl63\" style=\"height: 21px;\" height=\"21\">6</td>\n<td class=\"xl65\" style=\"height: 21px;\" colspan=\"5\">Arco-Gob Duplo&nbsp;</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td class=\"xl63\" style=\"height: 21px;\" height=\"21\">Fixo</td>\n<td class=\"xl65\" style=\"height: 21px;\" colspan=\"5\">Teia Sombria [Material-Base] (60G)</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>Esquiva &nbsp;[[/gmr 2d6 + 3]]{[2D+3]}</li>\n<li>Resistência &nbsp;[[/gmr 2d6 + 3]]{[2D+3]}</li>\n</ul>\n<p>&nbsp;</p>",
+          "effects": {
+            "KiJXeFyh3gq9SUeX": {
+              "name": "Barreira"
+            }
+          },
+          "items": {
+            "qUbvFy14L2NwqiRA": {
+              "en": "Goblin Occupation Platoon",
+              "name": "Pelotão de Ocupação Goblin",
+              "description": "<p>Quando este inimigo entra na Cena, surgem duas unidades de Goblin da Machadinha ou de Sacerdote Goblin.&nbsp;<br>Qualquer uma delas pode ser substituída por dois Evocadores de Maldições Goblin.&nbsp;<br>Os inimigos que aparecem por causa deste efeito não geram Itens Deixados&nbsp;</p>"
+            },
+            "H6DXOCpZQKNz430a": {
+              "en": "Re-mobilization II",
+              "name": "Remobilização II",
+              "description": "<p>Use quando o alvo ficar em [Pós-Ação]. O alvo fica em [Pré-Ação] com [Iniciativa] 0.&nbsp;</p>"
+            },
+            "oNpArIqPfF7Mq5IG": {
+              "en": "Goblin Rage (Refer)",
+              "name": "Fúria Goblin (Ver texto)",
+              "description": "<ul>\n<li>Use esta habilidade quando este inimigo sofrer dano de [Espírito].&nbsp;</li>\n<li>Este inimigo usa imediatamente Besta Dupla.&nbsp;</li>\n<li>Aumente os alvos de Besta Dupla para [Alvo: 4].<hr></li>\n<li>Oposto [[/gmr 3d6 +2 ]]{[3D+2]}</li>\n<li>Causa [[/gmr 2d6+45+4]]{[2D+45+4]} de dano físico.</li>\n</ul>"
+            },
+            "jB6AsymbDkPbBR9u": {
+              "en": "Goblin Command",
+              "name": "Comando Goblin",
+              "description": "<p>Tem como alvos esta unidade e mais uma unidade com a tag [Goblin]. Esses dois alvos podem remover um Estado Negativo cada um.&nbsp;<br>(Você: Montado) Este inimigo recebe [Barreira: 10]</p>"
+            },
+            "bHbLzTKd2v6mxXr9": {
+              "en": "Double Bow-Gun",
+              "name": "Besta Dupla",
+              "description": "<p>[2D+45] de Dano Físico<br>(Menor) Este ataque passa a ter [Alcance: 3 Qd]<br>(Destino 1) +5 de dano.</p>\n<hr>\n<ul>\n<li>Oposto [[/gmr 3d6 +2 ]]{[3D+2]}</li>\n<li>Causa [[/gmr 2d6+45]]{[2D+45]} de dano físico.</li>\n</ul>"
+            }
+          }
+        },
+        "6nAQi2EMdzhRD1iJ": {
+          "name": "Oobold",
+          "tokenName": "Oobold",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl67\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1~4</td>\n<td class=\"xl66\" colspan=\"5\">Presa Grande [Valioso](15G)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">5~6</td>\n<td class=\"xl66\" colspan=\"5\">Espada de Madeira Aguerrida [Valioso](40G)</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p>[[/gmr 2d6 + 1]]{[Esquiva]}<br>[[/gmr 2d6 + 1]]{[Resistência]}</p>",
+          "items": {
+            "rxGu7V5bi8ipSeNB": {
+              "en": "Kobold Tactics",
+              "name": "Táticas Kobold",
+              "description": "<p>Este inimigo não é afetado por Objetos de cena com a tag [Mecânico], a menos que queira. Além disso, sempre que este inimigo estiver no mesmo quadrado que outra criatura com a tag [Kobold], ele recebe bônus de +1 em [Testes de Esquiva]</p>"
+            },
+            "Iz8pRGLeBXqUhgP9": {
+              "en": "Bold Slap",
+              "name": "Tapa Ousado",
+              "description": "<p>[[/gmr 2d6 + 4]]{2D+4]}</p>\n<p>[[/gmr 2d6 + 12]]{[2D+12]} de Dano Físico<br>(Resultado 13): O alvo sofre [Confuso].</p>"
+            },
+            "51c9uVUgFnR8CFAk": {
+              "en": "Bold Smack",
+              "name": "Tabefe Ousado",
+              "description": "<p>Use esta habilidade logo depois que um inimigo falhar em um [Teste de Acerto]. O alvo sofre 5 de dano direto.&nbsp;<br>O alvo recebe bônus de +1D em seu próximo [Teste de Acerto].<br>Trate este efeito como um Estado de Combate que é removido depois de ser aplicado uma vez.</p>"
+            }
+          }
+        },
+        "ujE5p2I528Fd0pMD": {
+          "name": "Oobold Dinsword",
+          "tokenName": "Oobold Dinsword",
+          "items": {
+            "RcCEo2MsAZCGkM8j": {
+              "en": "Kobold Fencing",
+              "name": "Esgrima Kobold",
+              "description": "<p>Este inimigo não é afetado por Objetos de cena com a tag [Mecânico], a menos que queira.</p>"
+            },
+            "bNNYoAGeYuEyRTvq": {
+              "en": "Renew Action",
+              "name": "Ação Renovada",
+              "description": "<p>Use quando este inimigo ficar em [Pós-Ação]. Este inimigo fica imediatamente em [Pré-Ação], e sua [Iniciativa] passa a ser 0 até o fim da Rodada.</p>"
+            }
+          }
+        },
+        "1q8Wy5XVga1MLaXL": {
+          "name": "Urso-Coruja",
+          "tokenName": "Urso-Coruja",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1~3</td>\n<td class=\"xl67\" colspan=\"5\">Penas Vibrantes [Valioso] (20G)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">4~5</td>\n<td class=\"xl67\" colspan=\"5\">Pata de Urso [Valioso] (35G)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">6</td>\n<td class=\"xl67\" colspan=\"5\">Pele do Urso Louco [Material-Base] (40G)</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p>[[/gmr 3d6 + 1]]{[Esquiva]}<br>[[/gmr 3d6 + 2]]{[Resistência]}</p>",
+          "items": {
+            "FOHc6ZtfCrNAShUQ": {
+              "en": "Ursine Claw",
+              "name": "Garra Ursina",
+              "description": "<p>[[/gmr 2d6 + 5]]{TESTE}</p>\n<p>[[/gmr 2d6 + 16]]{[2D+16]} de Dano Físico.&nbsp;<br>(Menor): O alvo sofre [Rigidez]. Esta [Rigidez] só pode ser removida quando o alvo e este inimigo não estiverem mais no mesmo quadrado.</p>"
+            },
+            "xIk5sfQ4zYQBRl33": {
+              "en": "Lord of the Forest",
+              "name": "Senhor da Floresta",
+              "description": "<p>Use antes que um inimigo que não seja este sofra Dano de PV de um ataque.&nbsp;<br>Este inimigo sofre o dano no lugar dele, e o alvo não é afetado pelo ataque.<br>Além disso, o dano que este inimigo sofre é reduzido em -5.</p>"
+            }
+          }
+        },
+        "pdiO4DgAunjymb1b": {
+          "name": "Samurai PK",
+          "tokenName": "Samurai PK",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1~5</td>\n<td class=\"xl67\" colspan=\"5\">2Dx3 de ouro</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">6</td>\n<td class=\"xl67\" colspan=\"5\">Estatueta Entalhada [Valioso] (40G)</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p>[[/gmr 2d6 + 2]]{[Esquiva]}<br>[[/gmr 2d6 + 1]]{[Resistência]}</p>",
+          "items": {
+            "lEHEwVsAnmeRd50a": {
+              "en": "Rage Strike",
+              "name": "Golpe de Fúria",
+              "description": "<p>[[/gmr 2d6 + 5]]{TESTE}</p>\n<p>[[/gmr 2d6 + 16]]{[2D+16]} de dano físico<br>(Menor): Até o fim do Processo Principal atual, trate o Multiplicador de Ódio deste inimigo como x2.</p>"
+            },
+            "SPEUtFL0rkQlTNF7": {
+              "en": "Izuna's Return",
+              "name": "Retorno de Izuna",
+              "description": "<p>Use esta habilidade quando um inimigo que não seja este realizar um ataque.&nbsp;<br>O alvo desse ataque sofre 10 de dano direto.</p>"
+            }
+          }
+        },
+        "GjIM2oezJWF7OMjf": {
+          "name": "Espadachim PK",
+          "tokenName": "Espadachim PK",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1~5</td>\n<td class=\"xl67\" colspan=\"5\">2Dx2 de ouro</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">6</td>\n<td class=\"xl67\" colspan=\"5\">Hambúrguer Crescente x3 (conforme a Lista de Itens)</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p>[[/gmr 2d6 + 3]]{[Esquiva]}<br>[[/gmr 2d6 + 1]]{[Resistência]}</p>",
+          "items": {
+            "bm8Xqxc46FRqbHsz": {
+              "en": "Swashbuckler's Flurry",
+              "name": "Rajada do Espadachim",
+              "description": "<p>[[/gmr 3d6 + 4]]{TESTE}</p>\n<p>[[/gmr 2d6 + 27]]{[2D+27]} de dano físico.&nbsp;<br>(Menor): O alvo sofre [Perseguição: 10].</p>"
+            },
+            "mgLugtZOA0fieb05": {
+              "en": "Unicorn Jump",
+              "name": "Salto do Unicórnio",
+              "description": "<p>Este inimigo recebe [Voando] e faz um [Movimento Seguro] de até 3 Qd.&nbsp;<br>Ao fim do movimento, o inimigo perde [Voando].&nbsp;<br>(Menor): Aumente em +1 Qd a distância percorrida.</p>"
+            }
+          }
+        },
+        "eI2ltaMZcEfAziLD": {
+          "name": "Pixie",
+          "tokenName": "Pixie",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl67\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1~5</td>\n<td class=\"xl66\" colspan=\"5\">Hidromel [Catalisador Mágico 1](15G)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">6</td>\n<td class=\"xl66\" colspan=\"5\">Asas do Crepúsculo [Material-Base](30G)</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<ul>\n<li>[[/gmr 2d6 + 2]]{[Esquiva ]}</li>\n<li>[[/gmr 2d6 + 1]]{[Resistência]}</li>\n</ul>",
+          "items": {
+            "D5yGpe3oG5vXf0lJ": {
+              "en": "Spirit of the Wind",
+              "name": "Espírito do Vento",
+              "description": "<p>Este inimigo sempre tem [Anulação (Choque): 5] e [Voando], e é imune a [Rigidez]<br>Sempre que este inimigo sofrer dano de [Corrupção], trate a defesa dele como 0.</p>"
+            },
+            "iBnJSUljRlyTSktF": {
+              "en": "Shocking Sting",
+              "name": "Ferroada Chocante",
+              "description": "<p>[[/gmr 3d6 + 3]]{[3D+3]}</p>\n<p>[[/gmr 2d6 + 25]]{[25+2D]} de Dano Físico<br>(Você: Oculto): O alvo sofre [Cambaleante]</p>"
+            },
+            "JrKBXRD6uEAWGG3U": {
+              "en": "Hidden Flight",
+              "name": "Voo Oculto",
+              "description": "<p>O inimigo fica [Oculto]<br>(Menor): O inimigo pode fazer um [Movimento Seguro] de até 2 Qd sem perder [Oculto]</p>"
+            }
+          }
+        },
+        "Ca6G7AYEoRdP6pbZ": {
+          "name": "Dama Rakshasa do Leque Furioso (Neirity Ranpanfan)",
+          "tokenName": "Dama Rakshasa do Leque Furioso (Neirity Ranpanfan)",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1-5</td>\n<td class=\"xl67\" colspan=\"5\"><span class=\"font6\">Leque de Fibra de Bashō</span><span class=\"font5\"> (Catalisador Mágico 6, 50 G)</span></td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">6</td>\n<td class=\"xl67\" colspan=\"5\">Aço Demoníaco Bruto (Material-Base 100 G)</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<hr>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+          "items": {
+            "s1wzt2xXXd6C4454": {
+              "en": "Disputing Cry Charm",
+              "name": "Amuleto do Grito de Disputa",
+              "description": "<p>Este inimigo tem redução 15 contra ataques de personagens com menos de 5 de Ódio e vulnerabilidade 6 contra ataques de frio.</p>"
+            },
+            "JbF6UOKAc6r2vVqA": {
+              "en": "Twin Fans of Black Wind",
+              "name": "Leques Gêmeos do Vento Negro",
+              "description": "<p>47+2D de dano mágico.</p>\n<p>Menor: o alvo é obrigado a se mover imediatamente.</p>"
+            },
+            "yCX8KgPZOhBMRuPj": {
+              "en": "Commander's Dance",
+              "name": "Dança do Comandante",
+              "description": "<p>Esta manobra tem como alvo inimigos que não sejam o inimigo que a usa.&nbsp;<br>Inimigos que tenham a tag [Velocidade] (Velocidade??) podem realizar imediatamente uma Ação de Movimento. Depois do movimento, os personagens que estiverem ao alcance Corpo a corpo dos alvos recebem +1 de Ódio.</p>"
+            }
+          }
+        },
+        "dUZbOx3Le5He7G5Y": {
+          "name": "Donzela Protetora Rakshasa (Neirity Frontgirl)",
+          "tokenName": "Donzela Protetora Rakshasa (Neirity Frontgirl)",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1-5</td>\n<td class=\"xl67\" colspan=\"5\">Torta de Frutas Vermelhas (p218 de...alguma coisa...)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">6</td>\n<td class=\"xl67\" colspan=\"5\">Top de Biquíni (Valioso, 180G)</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<hr>\n<p>&nbsp;</p>",
+          "items": {
+            "vTF99PNegD5xd8dF": {
+              "en": "Disputing Cry Charm",
+              "name": "Amuleto do Grito de Disputa",
+              "description": "<p>Este inimigo tem redução 10 contra ataques de personagens com menos de 5 de Ódio e vulnerabilidade 8 contra ataques de frio.</p>"
+            },
+            "kMY2ziFjKY3CuMic": {
+              "en": "Ardent Dance of Flame",
+              "name": "Dança Ardente das Chamas",
+              "description": "<p>22+2D de dano mágico.</p>\n<p>&lt;&lt;\"como Ação Menor, o Ódio do alvo não é reduzido por este ataque???&gt;&gt;</p>"
+            },
+            "J1f9LJ5Re3CwtetM": {
+              "en": "Thorns of Wild Roses",
+              "name": "Espinhos das Rosas Selvagens",
+              "description": "<p>Quando o alvo entra no Processo de Iniciativa, ele sofre 10 de dano direto.&nbsp;</p>"
+            }
+          }
+        },
+        "nYBv8yFI8YcqA1M0": {
+          "name": "Guerreiro Rakshasa (Neirity Pitchfork)",
+          "tokenName": "Guerreiro Rakshasa (Neirity Pitchfork)",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">Fixo</td>\n<td class=\"xl67\" colspan=\"5\">Armadura de Peles Danificada (Valioso, 30 G)</td>\n</tr>\n</tbody>\n</table>",
+          "items": {
+            "lb80TtXvZLL9A2hZ": {
+              "en": "Disputing Cry Charm",
+              "name": "Amuleto do Grito de Disputa",
+              "description": "<p>Este inimigo tem redução 10 contra ataques de personagens com menos de 5 de Ódio e vulnerabilidade 6 contra ataques de frio.</p>"
+            },
+            "dH9aRy10RxwAeMeR": {
+              "en": "Shrieking Spearmanship",
+              "name": "Arte da Lança Estridente",
+              "description": "<p>Alvo individual, Corpo a corpo. 55+2D de dano físico de [Chama].</p>\n<p>&lt;Menor&gt;: Este ataque tem alcance 2.</p>"
+            },
+            "vIWONaMESU7u7j6Y": {
+              "en": "Multi-step Thrust",
+              "name": "Estocada de Múltiplos Passos",
+              "description": "<p>O alvo sofre Perseguição 10, mas, antes de os efeitos se manifestarem, o alvo pode ser deslocado um quadrado. O Ódio do alvo é reduzido em 1.</p>"
+            }
+          }
+        },
+        "8YWfE8WLGNkbuYjC": {
+          "name": "Cavaleiro Rakshasa do Espinho Perverso (Neirity Evilspike)",
+          "tokenName": "Cavaleiro Rakshasa do Espinho Perverso (Neirity Evilspike)",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1-4</td>\n<td class=\"xl67\" colspan=\"5\">Olho Dourado Radiante (Catalisador Mágico 6)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">5-6</td>\n<td class=\"xl67\" colspan=\"5\">Pepita Mágica de Prata (valioso 90 G)</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<hr>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+          "items": {
+            "lF7krg9w71FHZ3SM": {
+              "en": "Disputing Cry Charm",
+              "name": "Amuleto do Grito de Disputa",
+              "description": "<p>Este inimigo tem redução 10 contra ataques de personagens com menos de 5 de Ódio e vulnerabilidade 6 contra ataques de frio.</p>"
+            },
+            "SwkNSdxKnapro6v9": {
+              "en": "Flame Prison's Evil Spear",
+              "name": "Lança Maligna da Prisão de Chamas",
+              "description": "<p>55+2D de dano físico. Com 18 ou mais, o alvo sofre 10 de Fraqueza</p>"
+            },
+            "ThVbA8Y8rnh282gp": {
+              "en": "Destroying Army March",
+              "name": "Marcha do Exército Destruidor",
+              "description": "<p>Este inimigo causa 10 de dano imediato a um alvo escolhido. O alvo pode ser movido 1 quadrado antes de o dano ser causado.</p>"
+            }
+          }
+        },
+        "CfW7dWV2jkk62U54": {
+          "name": "Cabeça-Dura Homem-Rato",
+          "tokenName": "Cabeça-Dura Homem-Rato",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1~3</td>\n<td class=\"xl67\" colspan=\"5\">Incisivo Lascado [Valioso] (20G)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">4~6</td>\n<td class=\"xl67\" colspan=\"5\">Crânio Grosso [Valioso] (40G)</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p>[[/gmr 2d6 + 2]]{[Esquiva]}<br>[[/gmr 2d6 ]]{[Resistência]}</p>",
+          "items": {
+            "kMiFFz45oObaXl1G": {
+              "en": "Rat-Fu",
+              "name": "Rato-Fu",
+              "description": "<p>Todo [Movimento Normal] deste inimigo sempre conta como [Movimento Seguro].</p>"
+            },
+            "UG21NWOvT8kowUcv": {
+              "en": "Titanic Stomp",
+              "name": "Pisão Titânico",
+              "description": "<p>[[/gmr 2d6 + 5]]{TESTE}</p>\n<p>[[/gmr 2d6 + 16]]{[2D+16]} de Dano Físico. O alvo sofre [Deterioração: 5].&nbsp;<br>(Menor): Adicione +2 ao [Teste de Acerto] desta habilidade.</p>"
+            },
+            "qII7h7NYWNUZE85W": {
+              "en": "Vigilant Cry",
+              "name": "Grito Vigilante",
+              "description": "<p>O alvo recebe [Anulação: 5].<br>Este efeito de [Anulação] é removido assim que este inimigo ficar [Incapacitado] ou [Morto].</p>"
+            }
+          }
+        },
+        "geThBzOVp3iHBptL": {
+          "name": "Colhedor Homem-Rato",
+          "tokenName": "Colhedor Homem-Rato",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1~4</td>\n<td class=\"xl67\" colspan=\"5\">Ensopado de Carne (conforme a Lista de Itens)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">5~6</td>\n<td class=\"xl67\" colspan=\"5\">Cogumelo Branco Saboroso [Valioso] (45G)</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p>[[/gmr 2d6 + 1]]{[Esquiva]}<br>[[/gmr 2d6 + 1]]{[Resistência]}</p>",
+          "items": {
+            "AGfXl7pIAFeckn0b": {
+              "en": "Rat-Fu",
+              "name": "Rato-Fu",
+              "description": "<p>Os [Movimentos Normais] deste inimigo sempre contam como [Movimentos Seguros].</p>"
+            },
+            "kUw0XrwID7vO6pFU": {
+              "en": "Calming Blue Mushroom Gas",
+              "name": "Gás Calmante de Cogumelo Azul",
+              "description": "<p>[[/gmr 2d6 + 5]]{TESTE}</p>\n<p>[[/gmr 2d6 + 10]]{[2D+10]} de Dano Mágico<br>(Alvo: Deterioração): O alvo sofre [Perseguição] com valor igual ao do efeito de [Deterioração] que o afeta no momento.</p>"
+            },
+            "ju4Q1yKsm3HFmxXu": {
+              "en": "Passionate Red Mushroom Gas",
+              "name": "Gás Passional de Cogumelo Vermelho",
+              "description": "<p>Esta habilidade só pode ter como alvo um personagem em [Topo de Ódio] que esteja a 2 ou 3 Qd. deste inimigo.<br>O alvo sofre [Perseguição: 10].</p>"
+            }
+          }
+        },
+        "iM9wXbFrZeglbJQU": {
+          "name": "Arruaceiro Homem-Rato",
+          "tokenName": "Arruaceiro Homem-Rato",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1~4</td>\n<td class=\"xl67\" colspan=\"5\">2Dx3 de ouro</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">5~6</td>\n<td class=\"xl67\" colspan=\"5\">Incisivo Robusto [Valioso] (45G)</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p>[[/gmr 3d6 + 1]]{[Esquiva]}<br>[[/gmr 3d6 ]]{[Resistência]}</p>",
+          "items": {
+            "TxXiKpp8a8XOyNds": {
+              "en": "Rat-Fu",
+              "name": "Rato-Fu",
+              "description": "<p>Os [Movimentos Normais] deste inimigo sempre contam como [Movimentos Seguros].</p>"
+            },
+            "rs9niPvsBWoeqw65": {
+              "en": "Savage Bite",
+              "name": "Mordida Brutal",
+              "description": "<p>[[/gmr 2d6 + 5]]{TESTE}</p>\n<p>[[/gmr 2d6 + 15]]{[2D+15]} de dano físico. O alvo sofre [Deterioração: 5].<br>(Menor &amp; Alvo: Ódio 4+): O alvo sofre [Fraqueza (Homem-Rato): 5]. Trate esta [Fraqueza] como um Estado Negativo.</p>"
+            },
+            "zfboLNIPsWf7stYp": {
+              "en": "Indiscriminate Claw",
+              "name": "Garra Indiscriminada",
+              "description": "<p>Use esta habilidade quando o alvo usar uma ação com a tag [Movimento].<br>O alvo sofre [Deterioração: 5].<br>(Alvo: Deterioração): O alvo sofre 10 de dano direto.</p>"
+            }
+          }
+        },
+        "zxAvZxHukM1wQw3F": {
+          "name": "Patife Homem-Rato",
+          "tokenName": "Patife Homem-Rato",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1~4</td>\n<td class=\"xl67\" colspan=\"5\">2Dx3 de ouro</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">5~6</td>\n<td class=\"xl67\" colspan=\"5\">Incisivo Robusto [Valioso] (45G)</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p>[[/gmr 2d6 + 2]]{[Esquiva]}<br>[[/gmr 2d6 + 1]]{[Resistência]}</p>",
+          "items": {
+            "iocPZHel8vK6Bxsg": {
+              "en": "Rat-Fu",
+              "name": "Rato-Fu",
+              "description": "<p>Os [Movimentos Normais] deste inimigo sempre contam como [Movimentos Seguros].</p>"
+            },
+            "qHG0cr9iOPL48MM7": {
+              "en": "Hidden Stone Throw",
+              "name": "Arremesso de Pedra Oculto",
+              "description": "<p>[[/gmr 3d6 + 3]]{TESTE}</p>\n<p>[[/gmr 2d6 + 25]]{[2D+25]} de dano físico&nbsp;<br>(Você: Oculto): Aumente o dano em +15, e o alvo também sofre [Rigidez].</p>"
+            },
+            "7YRENsoggjvtnUAm": {
+              "en": "Retreat!",
+              "name": "Retirada!",
+              "description": "<p>Este inimigo fica [Oculto] e pode fazer um [Movimento Seguro] de até 2 Qd. sem perder [Oculto].&nbsp;<br>(Menor): Aumente a distância percorrida em +1 Qd.</p>"
+            }
+          }
+        },
+        "UZeoLYZNTJYYqWfi": {
+          "name": "Lacaio Homem-Rato",
+          "tokenName": "Lacaio Homem-Rato",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl67\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1</td>\n<td class=\"xl66\" colspan=\"5\">Arco Curto (conforme a Lista de Itens)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">2~6</td>\n<td class=\"xl66\" colspan=\"5\">Queijo Dourado [Valioso](30G)</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p>[[/gmr 2d6 + 1]]{[Esquiva]}<br>[[/gmr 2d6]]{[Resistência]}</p>",
+          "items": {
+            "WETIpOBfo9fiHWTf": {
+              "en": "Rat-Fu",
+              "name": "Rato-Fu",
+              "description": "<p>Todo [Movimento Normal] deste inimigo sempre conta como [Movimento Seguro].</p>"
+            },
+            "ccouf3ElLu1r6Ogc": {
+              "en": "Rat Shot",
+              "name": "Disparo de Rato",
+              "description": "<p>[[/gmr 3d6 + 2]]{[2+3D]}</p>\n<p>[[/gmr 2d6 + 22]]{[22+2D]} de Dano Físico ao alvo.&nbsp;<br>(Menor): O alvo sofre [Deterioração: 5]</p>"
+            },
+            "mGRRNHGjbMIdpvuu": {
+              "en": "Rat Shield",
+              "name": "Escudo de Rato",
+              "description": "<p>Use esta habilidade quando o alvo ficar [Incapacitado] ou [Morto].&nbsp;<br>O alvo remove o estado [Incapacitado] ou [Morto] e recupera 5 PV.<br>Em seguida, este inimigo sofre 10 de dano direto.</p>"
+            }
+          }
+        },
+        "gKQNwN4lmKzee3jI": {
+          "name": "Violinista Homem-Rato",
+          "tokenName": "Violinista Homem-Rato",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt; height: 63px;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"height: 21px;\">\n<td class=\"xl66\" style=\"height: 21px; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td class=\"xl65\" style=\"height: 21px;\" height=\"21\">1~5</td>\n<td class=\"xl67\" style=\"height: 21px;\" colspan=\"5\">Breu para Cordas [Catalisador Mágico 2] (20G)</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td class=\"xl65\" style=\"height: 21px;\" height=\"21\">6</td>\n<td class=\"xl67\" style=\"height: 21px;\" colspan=\"5\">Corda de Tripa Fina [Valioso] (70G)</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p>[[/gmr 2d6 + 1]]{[Esquiva]}<br>[[/gmr 2d6]]{[Resistência]}</p>",
+          "items": {
+            "r58fC2NM1RYfabgD": {
+              "en": "Rat-Fu",
+              "name": "Rato-Fu",
+              "description": "<p>Os [Movimentos Normais] deste inimigo sempre contam como [Movimentos Seguros].</p>"
+            },
+            "E84iNhQGdPlhhOF4": {
+              "en": "Gangup Attack",
+              "name": "Ataque em Bando",
+              "description": "<p>[[/gmr 3d6 + 3]]{TESTE}</p>\n<p>[[/gmr 2d6 + 25]]{[2D+25]} de dano físico ao alvo.&nbsp;<br>(Menor): Se o alvo estiver no mesmo quadrado que um inimigo com a tag [Homem-Rato], o alvo sofre [Perseguição: 7]</p>"
+            },
+            "eSilwRh1JasPknxg": {
+              "en": "Fever Rapunzel",
+              "name": "Rapunzel Febril",
+              "description": "<p>Esta habilidade só pode ter como alvo personagens com [Deterioração].&nbsp;<br>O alvo sofre três acúmulos de [Perseguição] com valor igual ao da [Deterioração] que o afeta no momento.</p>"
+            }
+          }
+        },
+        "9jDO1f6QBYNMdvR6": {
+          "name": "Evocador de Enxames Homem-Rato",
+          "tokenName": "Evocador de Enxames Homem-Rato",
+          "items": {
+            "vsRL57Ex2NJY3et8": {
+              "en": "Rat-Fu",
+              "name": "Rato-Fu",
+              "description": "<p>Todo [Movimento Normal] deste inimigo sempre conta como [Movimento Seguro].</p>"
+            },
+            "EGlhZ7gsVdD5eYCj": {
+              "en": "March of the Rats",
+              "name": "Marcha dos Ratos",
+              "description": "<p>Quando este inimigo aparece em uma Cena, um inimigo Lacaio Homem-Rato e dois inimigos Rato de Esgoto podem, opcionalmente, aparecer com ele. Os inimigos que aparecem por causa deste efeito não geram Itens Deixados.</p>"
+            },
+            "aI09hrq738CgQ4Mw": {
+              "en": "Renew Action",
+              "name": "Ação Renovada",
+              "description": "<p>Use quando este inimigo ficar em [Pós-Ação]. Este inimigo fica imediatamente em [Pré-Ação], e sua [Iniciativa] passa a ser 0 até o fim da Rodada.</p>"
+            }
+          }
+        },
+        "tkkqRoJlLpd1qLw9": {
+          "name": "Barrete Vermelho",
+          "tokenName": "Barrete Vermelho",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl64\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl63\" style=\"height: 15.75pt;\" height=\"21\">Fixo</td>\n<td class=\"xl65\" colspan=\"5\">Machadinha Enferrujada [Valioso] (20G)</td>\n</tr>\n</tbody>\n</table>",
+          "items": {
+            "IQkr55LrGzwpOrl4": {
+              "en": "Spirit of Fire",
+              "name": "Espírito do Fogo",
+              "description": "<p>Este inimigo sempre tem [Anulação (Chama): 10].&nbsp;<br>Sempre que este inimigo sofrer dano de [Frio], trate a defesa dele como 0.</p>"
+            },
+            "A1atKVmlXKB44D5Z": {
+              "en": "Bloody Hatchet",
+              "name": "Machadinha Sangrenta",
+              "description": "<p>[33+2D] de dano físico.&nbsp;<br>(Menor): O alvo sofre [Deterioração: 5].</p>"
+            },
+            "aSd4jmE7AbT028EB": {
+              "en": "Sneaky Walk",
+              "name": "Andar Sorrateiro",
+              "description": "<p>Este inimigo pode fazer um [Movimento Normal] de até 2 Qd.&nbsp;<br>Se o inimigo terminar o movimento no mesmo quadrado que um Objeto de cena [Natural], ele recebe +2 de bônus em [Testes de Esquiva]. Trate este efeito como um Estado de Combate que é removido depois de ser aplicado uma vez.</p>"
+            }
+          }
+        },
+        "PaoiKZi9U27CUM3a": {
+          "name": "Repetidora",
+          "tokenName": "Repetidora",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl67\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">Fixo</td>\n<td class=\"xl66\" colspan=\"5\">Feixe de Flechas [Valioso](5G)x3</td>\n</tr>\n</tbody>\n</table>",
+          "items": {
+            "39GgpVZwNWKFeB8T": {
+              "en": "Unreasoning Operation",
+              "name": "Operação Irracional",
+              "description": "<p>&nbsp;Este inimigo não gera Dano de Ódio e ignora os bônus de defesa de Abaixo no Ódio.<br>Se este inimigo for alvo de Desarmar Objeto de Cena e a [Dificuldade de Desarme: 10] for superada, ele fica [Incapacitado].<br>Este inimigo não pode realizar Ações de Movimento</p>"
+            },
+            "WTjC7tjiVZAKTGuh": {
+              "en": "Rapid Fire",
+              "name": "Tiro Rápido",
+              "description": "<p>[[/gmr 3d6 + 3]]{[2+3D]}</p>\n<p>[[/gmr 2d6 + 20]]{[20+2D]} de Dano Físico, e o alvo sofre [Perseguição: 5]<br>(Alvo: Perseguição): O acúmulo de [Perseguição] que este ataque ativou não é removido</p>"
+            }
+          }
+        },
+        "EWMCcjsz9CJYtuQl": {
+          "name": "Salamandra",
+          "tokenName": "Salamandra",
+          "description": "<table style=\"font-family: var(--font-primary); font-size: var(--font-size-14); width: 396pt; height: 63px;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"></colgroup>\n<tbody>\n<tr style=\"height: 21px;\">\n<td class=\"xl66\" style=\"height: 21px; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td class=\"xl65\" style=\"height: 21px;\" height=\"21\">1~4</td>\n<td class=\"xl67\" style=\"height: 21px;\" colspan=\"5\">Escamas de Fogo [Catalisador Mágico 2] (20G)</td>\n</tr>\n<tr style=\"height: 21px;\">\n<td class=\"xl65\" style=\"height: 21px;\" height=\"21\">5~6</td>\n<td class=\"xl67\" style=\"height: 21px;\" colspan=\"5\">Couro de Lagarto de Fogo [Valioso] (45G)</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p>[[/gmr 2d6 + 1]]{[Esquiva]}<br>[[/gmr 2d6 + 2]]{[Resistência]}</p>",
+          "items": {
+            "0dBeChcGPbwgRwFF": {
+              "en": "Spirit of Fire",
+              "name": "Espírito do Fogo",
+              "description": "<p>Este inimigo sempre tem [Anulação (Chama): 10].&nbsp;<br>Sempre que este inimigo sofrer dano de [Frio], trate a defesa dele como 0.</p>"
+            },
+            "hMzPSHgAvv85cZ5l": {
+              "en": "Flame Spit",
+              "name": "Cuspe de Chamas",
+              "description": "<p>[[/gmr 3d6 + 3]]{[3D+3]}</p>\n<p>[[/gmr 2d6 + 23]]{[2D+23]} de dano mágico</p>"
+            },
+            "m0ybMJvaSCo0pQ4q": {
+              "en": "Dancing Inferno",
+              "name": "Inferno Dançante",
+              "description": "<p>Durante este Processo Principal, o [Ataque Mágico] deste inimigo pode ser usado com [Alvo: Amplo 1 (E)].</p>"
+            }
+          }
+        },
+        "v4Irj0APuiJURFur": {
+          "name": "Espantalho",
+          "tokenName": "Espantalho",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl67\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1~4</td>\n<td class=\"xl66\" colspan=\"5\">Feixe de Palha [Valioso](20G)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">5~6</td>\n<td class=\"xl66\" colspan=\"5\">\n<p>Trigo Dourado [Catalisador Mágico 1](15G)x2</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p>[[/gmr 2d6 + 1]]{[Esquiva]}<br>[[/gmr 2d6 + 1]]{[Resistência]}</p>",
+          "items": {
+            "eZgXByGjK3DwLU26": {
+              "en": "It's a Trick!",
+              "name": "É um Truque!",
+              "description": "<p>&nbsp;Este inimigo sempre aparece com [Oculto]. Sempre que este inimigo sofrer dano de [Corrupção], ele também fica [Cambaleante]</p>"
+            },
+            "oULqUhIFmnzHMrur": {
+              "en": "Farm Archer",
+              "name": "Arqueiro da Fazenda",
+              "description": "<p>[[/gmr 3d6 + 2]]{[2+3D]}</p>\n<p>[[/gmr 2d6 + 25]]{[25+2D]} de Dano Físico<br>(Resultado 17+): Aumente o dano em +10. O alvo faz um [Movimento Seguro (Forçado)] de 1 Qd.</p>"
+            },
+            "lR44H8XnAbw8DXWs": {
+              "en": "Surprise Arrow",
+              "name": "Flecha Surpresa",
+              "description": "<p>(Você: Oculto): Durante o Processo Principal deste inimigo, ele recebe bônus de +2D na Precisão de [Ataque à Distância]</p>"
+            }
+          }
+        },
+        "2qCSEywo5D0H7VAm": {
+          "name": "Rato de Esgoto",
+          "tokenName": "Rato de Esgoto",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl67\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">Fixo</td>\n<td class=\"xl66\" colspan=\"5\">Cauda de Rato [Valioso](10G)</td>\n</tr>\n</tbody>\n</table>",
+          "items": {
+            "i6zZBH780M3dRvGO": {
+              "en": "Filthy Fangs",
+              "name": "Presas Imundas",
+              "description": "<p>[[/gmr 2d6 + 20]]{[20+2D]} de Dano Físico<br>(Menor): O alvo sofre [Deterioração: 5]</p>"
+            },
+            "5pzsHlm1iwKAivie": {
+              "en": "Raging Rat",
+              "name": "Rato Enfurecido",
+              "description": "<p>Use quando o personagem no [Topo de Ódio] estiver fora de [Alcance: Corpo a corpo]<br>Este inimigo pode fazer um [Movimento Seguro] de até 3 Qd.<br>(Destino 1): Se o limite de usos desta habilidade já tiver sido atingido, você pode pagar este custo para usá-la novamente</p>"
+            }
+          }
+        },
+        "Vw4harBduIhuFnbg": {
+          "name": "Esqueleto Arqueiro",
+          "tokenName": "Esqueleto Arqueiro",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">1~3</td>\n<td class=\"xl67\" colspan=\"5\">Osso Cintilante [Catalisador Mágico 2] (20G)</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">4~6</td>\n<td class=\"xl67\" colspan=\"5\">Pó de Osso Branco Fosco [Valioso] (35G)</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p>[[/gmr 2d6 + 2]]{[Esquiva]}<br>[[/gmr 1d6 + 1]]{[Resistência]}</p>",
+          "items": {
+            "iqHBeLoaFt0lfE0q": {
+              "en": "Bag of Bones",
+              "name": "Saco de Ossos",
+              "description": "<p>Este inimigo sempre tem [Fraqueza (Chama): 5] e [Fraqueza (Contundente): 5].&nbsp;<br>Além disso, sempre que este inimigo sofrer dano [Sagrado], ele também sofre [Atordoado].</p>"
+            },
+            "7bwkfBDLZ9VA8PeQ": {
+              "en": "Ancient Bow",
+              "name": "Arco Antigo",
+              "description": "<p>[[/gmr 3d6 + 3]]{TESTE}</p>\n<p>[[/gmr 2d6 + 30]]{[2D+30]} de dano físico.<br>(Menor): No fim do Processo Principal deste inimigo, ele pode fazer um [Movimento Seguro] de 1 Qd.&nbsp;<br>Este efeito adicional não pode ser usado se este inimigo estiver com [Rigidez].&nbsp;<br>(Você: Perseguição): Aumente o dano em +5.</p>"
+            },
+            "B6Pxodj0VhnUgLpM": {
+              "en": "Grudge Arrow",
+              "name": "Flecha do Rancor",
+              "description": "<p>Este inimigo recebe +10 de bônus na rolagem de dano de um [Ataque à Distância].</p>"
+            }
+          }
+        },
+        "Hv6ivawH2q3gTmrM": {
+          "name": "Esqueleto",
+          "tokenName": "Esqueleto",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">Fixo</td>\n<td class=\"xl67\" colspan=\"5\">Colar Despedaçado [Valioso] (15G)</td>\n</tr>\n</tbody>\n</table>",
+          "items": {
+            "dvKpYWTiApXvDpfW": {
+              "en": "Bag of Bones",
+              "name": "Saco de Ossos",
+              "description": "<p>Este inimigo sempre tem [Fraqueza (Chama): 5] e [Fraqueza (Contundente): 5].&nbsp;<br>Além disso, sempre que este inimigo sofrer dano [Sagrado], ele também sofre [Atordoado].</p>"
+            },
+            "O1R6d486yenhjQc6": {
+              "en": "Tarnished Longsword",
+              "name": "Espada Longa Oxidada",
+              "description": "<p>[[/gmr 2d6 + 30]]{[2D+30]} de dano físico.<br>(Menor): Aumente o dano em +5.&nbsp;<br>(Você: Perseguição): Aumente o dano em +5.</p>"
+            },
+            "hPkCkzfbbI0YiKLW": {
+              "en": "Grudge Sword",
+              "name": "Espada do Rancor",
+              "description": "<p>Este inimigo recebe +10 de bônus na rolagem de dano de um [Ataque Corpo a Corpo].</p>"
+            }
+          }
+        },
+        "b0QGiVfsMPLkg0K1": {
+          "name": "Trífide",
+          "tokenName": "Trífide",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl67\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">Fixo</td>\n<td class=\"xl66\" colspan=\"5\">Vinha Flexível [Valioso](10G)</td>\n</tr>\n</tbody>\n</table>",
+          "items": {
+            "C4MX0OLFl0hbAqYR": {
+              "en": "Heart of Plants",
+              "name": "Coração das Plantas",
+              "description": "<p>Este inimigo sempre tem [Fraqueza (Chama): 5] e é imune a [Confuso]</p>"
+            },
+            "1HZMHOslwOpF3asQ": {
+              "en": "Vine Whip",
+              "name": "Chicote de Vinha",
+              "description": "<p>[[/gmr 2d6 + 25]]{[25+2D]} de Dano Físico<br>(Menor): O alvo sofre [Rigidez]</p>"
+            },
+            "4yYAzEKvv1PNsWTR": {
+              "en": "Creeping Roots",
+              "name": "Raízes Rastejantes",
+              "description": "<p>O inimigo pode fazer um [Movimento Seguro] de até 2 Qd.</p>"
+            }
+          }
+        },
+        "51EjEwUpCcaaL3aI": {
+          "name": "Criada Faz-Tudo Vampira",
+          "tokenName": "Criada Faz-Tudo Vampira",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl66\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">Fixo</td>\n<td class=\"xl67\" colspan=\"5\">Uniforme de Aia [Valioso] (30G)</td>\n</tr>\n</tbody>\n</table>",
+          "items": {
+            "llfymPHh3Rl7gFUJ": {
+              "en": "Night's Blood Ties",
+              "name": "Laços de Sangue da Noite",
+              "description": "<p>Quando este inimigo sofre dano [Sagrado], suas defesas caem para 0 e ele sofre [Rigidez].</p>"
+            },
+            "I9uwcjUpDQwoRYcf": {
+              "en": "Maid's Profit-Sharing",
+              "name": "Partilha de Lucros da Criada",
+              "description": "<p>O alvo sofre [Perseguição: (Poder de Ataque do alvo)]</p>"
+            },
+            "QDcIIHMM0zdqxmrW": {
+              "en": "Numbing Wasp's Kill",
+              "name": "Abate da Vespa Entorpecente",
+              "description": "<p>35+4D de dano mágico.&nbsp;<br>(Menor) O alvo sofre -3 de penalidade na [Iniciativa]. Trate este efeito como um Estado Negativo.</p>"
+            }
+          }
+        },
+        "CftxDr4CQDArE8mp": {
+          "name": "Zumbi",
+          "tokenName": "Zumbi",
+          "description": "<table style=\"border-collapse: collapse; width: 396pt;\" border=\"0\" width=\"528\" cellspacing=\"0\" cellpadding=\"0\"><colgroup><col style=\"mso-width-source: userset; mso-width-alt: 3218; width: 66pt;\" span=\"6\" width=\"88\"> </colgroup>\n<tbody>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl67\" style=\"height: 15.75pt; width: 396pt;\" colspan=\"6\" width=\"528\" height=\"21\">Itens Deixados</td>\n</tr>\n<tr style=\"mso-height-source: userset; height: 15.75pt;\">\n<td class=\"xl65\" style=\"height: 15.75pt;\" height=\"21\">Fixo</td>\n<td class=\"xl66\" colspan=\"5\">Carne de Zumbi [Valioso](10G)</td>\n</tr>\n</tbody>\n</table>",
+          "items": {
+            "GadJJQaOVNf8hjbB": {
+              "en": "Wriggling Rot",
+              "name": "Podridão Fervilhante",
+              "description": "<p>O inimigo sempre tem [Fraqueza (Sagrado): 5]. Imune a [Atordoado] e [Cambaleante]. Personagens no mesmo quadrado não podem usar itens com a tag [Consumível]. Este inimigo não pode usar Disparada.</p>"
+            },
+            "mflG9utd40e4xOxK": {
+              "en": "Grab",
+              "name": "Agarrar",
+              "description": "<p>[[/gmr 2d6 + 25]]{[25+2D]} de Dano Físico<br>(Menor): O alvo sofre [Rigidez]</p>"
+            },
+            "sOM1iFF7LTtEJDrN": {
+              "en": "Chomp",
+              "name": "Abocanhar",
+              "description": "<p>O inimigo recebe +5 de dano em [Ataque Corpo a Corpo]<br>(Alvo: Rigidez): Em vez disso, o bônus é +15</p>"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "plnBtwntV7IYFWi4/description": "<p>Escolha como alvo qualquer inimigo com [Lacaio] que apareceria na próxima cena.<br>Um inimigo [Lacaio] adicional do mesmo tipo escolhido pode aparecer na cena.</p><p>Você pode usar este Poder EX várias vezes durante o mesmo Momento, desde que pague o custo a cada uso.</p>",
+  "J70IFoezNKGR2vHm/description": "<p>Escolha como alvo qualquer inimigo comum que apareceria na próxima cena.<br>Um inimigo comum adicional do mesmo tipo escolhido pode aparecer na cena.</p><p>Você pode usar este Poder EX várias vezes durante o mesmo Momento, desde que pague o custo a cada uso.</p>",
+  "SIzl155Zznxtlykn/description": "<p>Use esta habilidade quando o alvo for obrigado a remover um Estado de Combate ou outro efeito benéfico.<br>A tentativa de remover o Estado de Combate ou o efeito benéfico é anulada.</p>",
+  "7vVJfzGefUgqM4ig/description": "<p>Use esta habilidade quando o alvo for submetido a um movimento forçado.<br>O movimento forçado é anulado.</p>",
+  "aye5ehMn60kJffdq/description": "<p>O alvo recebe [Barreira: ((NP do alvo x 4) + 10)].</p><p>Você pode usar este Poder EX várias vezes durante o mesmo Momento, desde que pague o custo a cada uso.</p>",
+  "UUp1xLFzlyI8NIwE/description": "<p>O alvo recebe +[(NP / 2) + 2] de bônus no dano físico ou no dano mágico causado por ações de [Momento: Maior] <br>Trate este efeito como um Outro Estado.</p><p>Você pode usar este Poder EX várias vezes durante o mesmo Momento, desde que pague o custo a cada uso.</p>",
+  "c3GIheUYK24sQWdt/description": "<p>O Multiplicador de Ódio do alvo aumenta em +2.<br>Trate este efeito como um Outro Estado.</p><p>Você pode usar este Poder EX várias vezes durante o mesmo Momento, desde que pague o custo a cada uso.</p>",
+  "QWjNgauodMrMu5Mr/description": "<p>O PV Máx. do alvo aumenta em +[(NP x 3) + 10].</p><p>Você pode usar este Poder EX várias vezes durante o mesmo Momento, desde que pague o custo a cada uso.</p>",
+  "zAlPoroSJk0pA7ck/description": "<p>O alvo recebe +2 de bônus em [Iniciativa].</p><p>(Destino 1): O bônus em [Iniciativa] é +4 em vez de +2.</p><p>Você pode usar este Poder EX várias vezes durante o mesmo Momento, desde que pague o custo a cada uso.</p>",
+  "zRGmWFrRJXGPRPvj/description": "<p>Um inimigo extra com nível igual ou inferior ao NP do cenário aparece na cena atual.<br>Esse inimigo tem a condição [Pós-Ação] e deve aparecer a pelo menos 4 Qd de distância de qualquer PJ.</p><p>(Destino 3): Outro inimigo do mesmo tipo aparece no mesmo quadrado que o primeiro.</p>",
+  "5HrEeVZ2WJ0Ewhoy/description": "<p>Durante a próxima cena, as Ações de Cenário para as quais os PJs fazem Testes Básicos têm a dificuldade aumentada em +1.<br>Em testes opostos, o Mestre faz o teste dele com +1 de bônus.</p>",
+  "mAl4fPFH0ICuVBBg/description": "<p>Durante a próxima cena, sempre que um PJ for rolar na Tabela de Exaustão, ele faz duas rolagens e aplica os dois resultados.</p>"
+}

@@ -1,0 +1,437 @@
+=== qG0EHp5tnMAif7NW/description
+# Arabesco do Arco-Íris
+<p>Esta habilidade só pode ser usada em alvos voluntários. Escolha uma entre [Chama], [Frio], [Choque], [Sagrado], [Corrupção] e [Espírito]. O dano causado pelo alvo passa a ter a tag escolhida.</p>
+<p>(Efeito): Enquanto esta [Harmonia] estiver em efeito, aumente seu [Ódio] em +1 no Processo de Encerramento de cada rodada.</p>
+<hr>
+<p>Uma canção de suporte que, com uma melodia que lembra terras estrangeiras, invoca poderes mágicos de vários atributos e os concede aos ataques.</p>
+
+=== QPdM1tvsAkQMHX09/description
+# Nota Repetida
+<p>Você não pode escolher a si mesmo como alvo desta habilidade. O alvo pode realizar imediatamente uma ação de [Momento: Maior] com a tag [Ataque com Arma], [Ataque Mágico] ou [Ataque Especial]. Você assume o custo de [Ódio] da ação do alvo.</p>
+<p>(Destino 1): Reduza em -2 o custo de [Ódio] assumido (mínimo 0).</p>
+<hr>
+<p>Uma técnica especial que faz os aliados se moverem e atacarem num ritmo repetitivo. Como comandante do campo de batalha, você é uma ameaça aos olhos dos inimigos.</p>
+
+=== dIbtyhZUCNnfNUEn/description
+# Batida Ressonante
+<p>Cause [(NH)D + (Poder de Ataque)] de dano físico ao alvo.</p>
+<p>(Extra): O alvo sofre [Perseguição] com valor igual à sua [Iniciativa].</p>
+<hr>
+<p>Uma técnica especial que imbui uma arma com uma melodia e usa essa vibração para cravar os ataques. A vibração se propaga até o oponente através da arma, e o impacto seguinte abre um grande ferimento.</p>
+
+=== iViPYubWe3w3JuT1/description
+# Cavalgada da Valquíria
+<p>Esta habilidade não pode afetar você. Os alvos realizam imediatamente, uma vez, uma ação de [Momento: Movimento] com a tag [Movimento].</p>
+<hr>
+<p>Uma técnica especial que faz ressoar a melodia que acompanha a donzela de batalha quando ela conduz a alma de um guerreiro, e move rapidamente os companheiros.</p>
+
+=== 43fvwyqxMUYQ5PeK/description
+# Ritardando
+<p>Após o fim deste Processo Principal, você pode fazer um [Movimento Normal] de até [Velocidade] Qd.</p>
+<p>(Menor): Reduza a distância percorrida em -1 Qd; o movimento se torna um [Movimento Seguro].</p>
+<hr>
+<p>Uma técnica especial em que você desacelera o passo aos poucos para não ser notado, frustra as expectativas do inimigo e atravessa os obstáculos.</p>
+
+=== lAWru4PfucyxuqaE/description
+# Rondó da Donzela Vestida de Vento
+<p>O alvo recebe [Anulação (Ataques Não Corpo a Corpo): 10]. Esta [Anulação] é removida após ser aplicada uma vez. O custo de [Ódio] desta habilidade é igual a [Número de Alvos].</p>
+<p>(NP8): Aumente o valor da [Anulação] para 20.<br>(NP15): Aumente o valor da [Anulação] para 30.<br>(NP22): Aumente o valor da [Anulação] para 40.<br>(NP29): Aumente o valor da [Anulação] para 50.</p>
+<hr>
+<p>Uma técnica especial que cria um campo de força para proteger o alvo tocando uma melodia de libertação e bênçãos. A melodia repetida cria uma corrente de vento que desvia os ataques.</p>
+
+=== TvivMJU0IPU19UQ9/description
+# Serenata Dedicada à Deusa
+<p>O alvo recupera [[valor de POD] + (Recuperação)] PV.</p>
+<p>O custo de [Ódio] desta habilidade é igual a [Número de Alvos].</p>
+<hr>
+<p>Uma técnica especial que cura os ferimentos do alvo tocando uma melodia de compaixão e devoção. As melodias, que lembram uma noite tranquila, penetram suavemente no corpo.</p>
+
+=== UcynHZbtxK8gd0PW/description
+# Sforzato
+<p>Mude para [Alvo: Amplo 2 (E)] a habilidade de [Momento: Maior / Alvo: Amplo 1 (E)] com a tag [Instrumento] que você usar neste Processo Principal.</p>
+<hr>
+<p>Uma técnica especial que, com um som forte e cheio de alma, amplia o alcance do efeito de uma técnica especial.</p>
+
+=== 5hBBRWiJa1oprDjM/description
+# Batuta de Deslocamento
+<p>Você não pode escolher a si mesmo como alvo desta habilidade. O alvo pode realizar imediatamente uma ação de [Momento: Movimento] com a tag [Movimento]. Você assume o custo de [Ódio] da ação do alvo.</p>
+<hr>
+<p>Uma técnica especial que move os companheiros indicando o momento e o caminho a seguir, como se regesse com a batuta ou com as mãos.</p>
+
+=== povTpWNn3cvQpPJM/description
+# Economia de Fôlego
+<p>Use esta habilidade logo depois que o alvo rolar na [Tabela de Exaustão: Energia ou Dinheiro]. Reduza o resultado dessa rolagem em -3.</p>
+<p>(Destino 1): Se você já atingiu o Limite desta habilidade, pode pagar este custo para usá-la novamente.</p>
+<hr>
+<p>Uma técnica especial que anima os amigos com canções e melodias que tocam o coração, despertando a vitalidade ao longo da jornada.</p>
+
+=== omnqmst0W3C6y5Qi/description
+# Trovador
+<p>Você recebe um bônus de +2 nos [Testes de Negociação] e nos [Testes de Operação].</p>
+<p>(NH2): O bônus passa a ser +1D.</p>
+<hr>
+<p>Você faz jus ao título de Bardo, com conhecimento da etiqueta de diversos ambientes e destreza para tocar qualquer instrumento musical.</p>
+
+=== bN3dsAGH8yEOX64L/description
+# Afinação
+<p>Durante este Processo Principal, você recebe um bônus de +[NHx5] nas rolagens de dano de [Ataque Especial] com a tag [Instrumento].</p>
+<hr>
+<p>Uma técnica especial que intensifica o efeito da música tocada ao identificar a pulsação da mente do alvo e afinar a melodia de acordo com ela.</p>
+
+=== otOW89OjiwPDXmZf/description
+# Adereços Típicos
+<p>Use esta habilidade logo antes de fazer um [Teste de Análise]. Você recebe um bônus de +2D nesse teste.</p>
+<hr>
+<p>Uma técnica especial que extrai, das canções aprendidas como &lt;Bardo&gt;, o conhecimento das tradições míticas e desvenda a verdadeira identidade do que está diante de você.</p>
+
+=== H501df9vhZwBiuQa/description
+# Tarantela Peçonhenta
+<p>Escolha um entre [Rigidez], [Cambaleante], [Atordoado], [Confuso], [Deterioração] e [Aflito]. Os alvos removem o estado escolhido no Processo de Encerramento de cada rodada.</p>
+<p>(Efeito): Enquanto esta [Harmonia] estiver em efeito, aumente seu [Ódio] em +1 no Processo de Encerramento de cada rodada.</p>
+<hr>
+<p>Uma canção de suporte que cura os males dos aliados tocando uma dança leve que desperta a vitalidade.</p>
+
+=== Gubxh39ZZeVOpqBf/description
+# Adoração
+<p>Você só pode escolher como alvo desta habilidade personagens voluntários. Troque seus [PV] pelos [PV] do alvo.</p>
+<hr>
+<p>Magia que recita uma escritura de louvor à vida e troca a força vital entre você e o alvo. Suas preces e sua fé transcendem os limites do seu corpo físico.</p>
+
+=== M17JMzEdFY20wiRx/description
+# Brilho Argênteo
+<p>Cause [(NH)D + (Poder Mágico)] de dano mágico ao alvo, e o alvo fica [Cambaleante].</p>
+<hr>
+<p>Uma magia ofensiva que envolve o inimigo num brilho prateado ofuscante, cegando-o e queimando todo o seu corpo.</p>
+
+=== EIJs8jDiltLICOsm/description
+# Cura da Aurora
+<p>O alvo recupera [3D + (Poder Mágico) + (Recuperação)] PV.</p>
+<hr>
+<p>Um feitiço que envolve o campo de batalha no esplendor de uma aurora e cura os ferimentos dos muitos aliados que ali estão. Seu poder de cura pode virar o rumo da batalha num instante.</p>
+
+=== 1quigEmKne0jW1Vy/description
+# Visão Bistou
+<p>Escolha [Ataque com Arma] ou [Ataque Mágico]. O alvo recebe +1D no [Teste de Acerto] das habilidades com a tag escolhida. Você sofre -1D no [Teste de Acerto] das habilidades com a tag escolhida. Este efeito dura até o fim da rodada.</p>
+<hr>
+<p>Um feitiço que permite compartilhar sua concentração com os aliados para desferir um golpe certeiro.</p>
+
+=== pQy0fzlus81ibz80/description
+# Orientação Serena
+<p>Quando você não tem uma [Armadura Pesada] equipada, recebe um bônus de +1D nos [Testes de Análise].</p>
+<hr>
+<p>Uma técnica especial que clareia a mente num estado relaxado e sereno, permitindo julgamentos calmos.</p>
+
+=== 1j8QL3yOoSxmiES9/description
+# Devoção
+<p>Na [Etapa de Aplicação do Dano], você recebe o Dano de PV previsto que um alvo que não seja você receberia. O alvo não recebe dano. Você não recebe nenhum Estado Negativo em decorrência dessa substituição. Você só pode usar esta habilidade uma vez em resposta a um mesmo ataque.</p>
+<hr>
+<p>Magia que, no instante em que um aliado é ferido, transfere o ferimento para você. Uma prece devota salva um amigo do perigo.</p>
+
+=== VT85YKiEpy6VzNDY/description
+# Estilo Escudo Duplo
+<p>Esta habilidade só produz efeito quando você tem dois [Escudos] equipados nos seus [espaços de mão]. Você é imune a [Atordoado].<br>(NH2): Você é imune a [Cambaleante].<br>(NH3): Um [Escudo] que você tem equipado recebe a tag [Contundente] e é tratado como uma arma corpo a corpo com [Alcance: Corpo a corpo]. O (Poder de Ataque) do escudo é igual à sua (Defesa Física). Você pode mudar o [Escudo] ao qual este efeito se aplica com &laquo;Trocar Equipamento&raquo;.</p>
+<hr>
+<p>Um estilo de luta em que se empunha um escudo em cada mão para reforçar a defesa. Essa postura inabalável em qualquer situação é como a muralha de um castelo.</p>
+
+=== ZhMthR9zordzGSGq/description
+# Lâmina Fiel
+<p>Cause [(NH+2)D + (Poder de Ataque)] de dano físico ao alvo.</p>
+<p>(Destino 1): Aumente o dano em +[mod. de POD].<br>(Destino 2): Aumente o dano em +[valor de POD].</p>
+<hr>
+<p>Uma técnica especial em que você brande a lâmina com pureza de coração, sem abrir mão da sua fé e das suas convicções. Esse golpe simples e obstinado às vezes é guiado pelo carma e abre caminho até mesmo para o destino.</p>
+
+=== hYLyQviH1qwrvUev/description
+# Conversão de Força
+<p>Requer &laquo;Maestria Reativa&raquo; para ser usada. Você não pode usar &laquo;Cura Reativa&raquo;, mas recebe +[NH de &laquo;Maestria Reativa&raquo; &times; 5] em uma rolagem de dano que fizer. Este efeito dura até o fim da rodada.</p>
+<hr>
+<p>Uma técnica especial que desvia o poder mágico da cura reativa e o envolve numa arma para aumentar sua força. Porém, é preciso ter cuidado, pois o efeito de cura original não pode ser usado.</p>
+
+=== 1JiCgL52MhKTiVLW/description
+# Graça da Fé
+<p>Você recebe um bônus de +2 em [Precisão] e um bônus de +1 em [Resistência].</p>
+<hr>
+<p>Pelo poder da sua fé, você foi agraciado com a força para combater e afastar demônios e calamidades.</p>
+
+=== g2BgGOPSr2AzKnB8/description
+# Forja de Cura
+<p>Cause [2D + (Poder de Ataque)] de dano físico ao alvo. Alvos secundários dentro de [Alvo: Área (E) / Alcance: Corpo a corpo] centrado em você recuperam [(Recuperação) + (NHx3)] PV.</p>
+<hr>
+<p>Uma técnica especial que compara o ato de brandir a arma ao movimento de forjar, símbolo da criação, gerando um poder de cura que fecha as feridas dos aliados ao redor junto com o ataque.</p>
+
+=== rmDupGz4rvjbUMXX/description
+# Luz de Cura
+<p>O alvo recupera [(Recuperação) + (NHx3)] PV.</p>
+<p>⟦r1⟧{[(Recuperação) + (NHx3)] PV}</p>
+<p>&nbsp;</p>
+<hr>
+<p>Magia de cura simples, ativada com um encantamento e um gesto muito breves. O efeito é pequeno, mas ela pode ser usada junto com várias outras ações.</p>
+
+=== Es9PoU2cNPqsZc15/description
+# Luz Sagrada
+<p>Cause [(NHx2)D + (Poder Mágico)] de dano mágico ao alvo.</p>
+<p>(Alvo: Morto-Vivo, Corrupção): O dano se torna penetrante.</p>
+<hr>
+<p>Uma magia de ataque que emite um feixe concentrado de luz e perfura o inimigo. Essa luz sagrada é a inimiga natural dos seres impuros.</p>
+
+=== zgPEiSZZd2Qzy6oH/description
+# Escudo Sagrado
+<p>Cause [(Seu NH de &laquo;Maestria Reativa&raquo; + 1)D + ((Defesa Mágica) de um [Escudo] que você tem equipado)] de dano penetrante ao alvo.</p>
+<hr>
+<p>Uma técnica especial que aplica o conceito de "refletir ataques" do escudo para inverter o efeito da cura reativa e arrancar a vitalidade do alvo.</p>
+
+=== mmJ1DrF8cFCLmdoW/description
+# Evocar Reação
+<p>Você recebe um bônus de +[Poder Mágico] na quantidade de PV recuperados quando usa &laquo;Cura Reativa&raquo; ou &laquo;Cura Reativa em Área&raquo;. Este efeito dura até o fim da rodada.</p>
+<p>(Destino 1): Se você já atingiu o Limite desta habilidade, pode pagar este custo para usá-la novamente.<br>(Ódio 2): Se você já atingiu o Limite desta habilidade, pode pagar este custo para usá-la novamente.</p>
+<hr>
+<p>Magia que amplifica os efeitos da cura reativa realizando rituais simplificados com palavras de oração e gestos.</p>
+
+=== sHW2rgQRNAhERfAa/description
+# Feixe do Julgamento
+<p>Cause [(NH+2)D + (Poder Mágico)] de dano mágico ao alvo.</p>
+<p>(Destino 1): Se você já atingiu o Limite desta habilidade, pode pagar este custo para usá-la novamente.<br>(Destino 1): Você pode usar esta habilidade com [Alvo: Três].</p>
+<hr>
+<p>Uma magia de ataque que concentra a luz sagrada emitida por todo o corpo e a dispara num feixe que varre os inimigos. O esplendor do julgamento reduz a cinzas, conforme a sua vontade, toda a malícia que se põe à sua frente.</p>
+
+=== U91Ie965quVcFKJr/description
+# Rouxinol
+<p>Quando o alvo rolar na "Tabela de Exaustão: Energia ou Itens", ele pode rolar duas vezes e escolher o resultado que preferir. [Efeito Adquirido] Seus [PV Máx.] aumentam em +8.</p>
+<hr>
+<p>Mesmo no campo de batalha, você nunca deixa de lado a atenção aos detalhes. Essa sua postura acalma o coração dos companheiros.</p>
+
+=== QmbONzg8l3RQVKS1/description
+# Penitência
+<p>Use esta habilidade logo antes de fazer um [Teste de Vigor]. Você recebe um bônus de +2D nesse teste.</p>
+<hr>
+<p>Uma técnica especial que suporta toda sorte de sofrimentos com a força mental obtida por meio de diversas penitências. Com a mente serena, até o fogo parece fresco.</p>
+
+=== cbCZ1DMnMeRMS2PM/description
+# Punidor
+<p>Cause [2D + [Poder Mágico]] de dano mágico aos alvos.&nbsp;</p>
+<p>(Destino 2): Os alvos recebem o estado [Confuso].</p>
+<hr>
+<p>Uma magia ofensiva que faz chover o esplendor que julga os pecados da terra e derrota inúmeros inimigos. A luz da danação perfura impiedosamente todos os seres hostis.</p>
+
+=== rDI2LrKaascfQJyS/description
+# Golpe Radiante
+<p>Durante este Processo Principal, você recebe um bônus de +[NH] nos [Testes de Acerto] e um bônus de +[(NH)D] nas rolagens de dano. Além disso, esse dano recebe a tag [Sagrado].</p>
+<hr>
+<p>Uma técnica especial que envolve armas e magias num brilho sagrado e desfere um golpe poderoso.</p>
+
+=== DZ0yaaO8248umTPv/description
+# Cura Reativa em Área
+<p>Escolha como alvo todos os personagens que acabaram de receber Dano de PV de um ataque. O alvo recupera 2D PV. Esta habilidade só pode ser usada uma vez em resposta a um mesmo ataque.</p>
+<p>(Destino 1): Aumente em +5 a quantidade de PV recuperados.</p>
+<hr>
+<p>Uma magia que, em resposta aos ataques inimigos, espalha um campo de força curativo por uma área ampla. É a magia de nível superior da cura reativa.</p>
+
+=== CRxubC0bsN7CTFSO/description
+# Cura Reativa em Área II
+<p>Adquirida com NP 11 ou mais. Escolha como alvo todos os personagens que acabaram de receber Dano de PV de um ataque. O alvo recupera +[Poder Mágico] PV. Esta habilidade só pode ser usada uma vez em resposta a um mesmo ataque.</p>
+<p>(Destino 1): Aumente em +[mod. de POD] a quantidade de PV recuperados.</p>
+<hr>
+<p>Uma magia que, em resposta aos ataques inimigos, espalha um campo de força curativo por uma área ampla. Esse poder de cura, agora capaz de se estender por uma área ainda maior, permite reerguer a força de combate diante de diversos ataques problemáticos.</p>
+
+=== oB8RoIOCvCcs3ZfG/description
+# Restauração Reativa
+<p>Use esta habilidade ao mesmo tempo que &laquo;Cura Reativa&raquo; ou &laquo;Cura Reativa em Área&raquo;. Remova qualquer Estado Negativo que o alvo de &laquo;Cura Reativa&raquo; ou &laquo;Cura Reativa em Área&raquo; tenha acabado de receber de um ataque.</p>
+<hr>
+<p>Magia que emite uma luz purificadora que cura os males dos aliados ao mesmo tempo que a cura reativa.</p>
+
+=== SAPjImvRQxFrPtWN/description
+# Expurgo Reativo
+<p>Use esta habilidade ao mesmo tempo que &laquo;Cura Reativa&raquo; ou &laquo;Cura Reativa em Área&raquo;. Remova um Estado de Combate do inimigo que provocou o uso de &laquo;Cura Reativa&raquo; ou &laquo;Cura Reativa em Área&raquo;.</p>
+<hr>
+<p>Uma técnica especial que aplica ofensivamente a magia de cura reativa e "recupera" a situação favorável ao lado atacante, "restaurando-a" ao estado original.</p>
+
+=== GzNcnf9VUHuiVSNJ/description
+# Cura Reativa
+<p>Escolha como alvo um personagem que acabou de receber Dano de PV de um ataque. O alvo recupera ⟦r1⟧{2D PV}. Esta habilidade só pode ser usada uma vez em resposta a um mesmo ataque.</p>
+<p>(Topo de Ódio): Você pode reduzir a 0 o custo de [Ódio] desta habilidade.</p>
+<hr>
+<p>Magia que responde ao ataque de um inimigo e cura os ferimentos recentes dos aliados. É a magia de cura exclusiva do &lt;Clérigo&gt;, chamada de Cura de Ativação Reativa.</p>
+
+=== tUEvDHp9plTxzSST/description
+# Cura Reativa II
+<p>Substitua &laquo;Cura Reativa&raquo; por esta habilidade a partir do NP 11. Escolha como alvo um personagem que acabou de receber Dano de PV de um ataque. O alvo recupera +[Poder Mágico] PV. Esta habilidade só pode ser usada uma vez em resposta a um mesmo ataque.</p>
+<p>(Topo de Ódio): Você pode reduzir a 0 o custo de [Ódio] desta habilidade.</p>
+<hr>
+<p>Magia que responde ao ataque de um inimigo e cura os ferimentos recentes dos aliados. Com o uso de técnicas de nível superior, você consegue exercer um poder de cura constante.</p>
+
+=== otX3p1oYOERYjMyv/description
+# Maestria Reativa
+<p>Você recebe um bônus de +[(NH)D] na quantidade de PV recuperados ao usar &laquo;Cura Reativa&raquo; ou &laquo;Cura Reativa em Área&raquo;.</p>
+<hr>
+<p>Você é especialista na cura reativa, a magia exclusiva do &lt;Clérigo&gt;. Suas preces invocam um poder de cura ainda maior.</p>
+
+=== 9wzzmdUD4Dcczkrq/description
+# Martelo Retornante
+<p>Cause [(NH+1)D + (Poder de Ataque)] de dano físico ao alvo.</p>
+<hr>
+<p>Uma técnica especial que ataca arremessando armas pesadas, normalmente inadequadas para arremesso. Com o poder da sua fé, sua arma deixa um rastro luminoso que atravessa seus inimigos e retorna para você.</p>
+
+=== uHogAh8CVN1vxhmz/description
+# Restauração Sacra
+<p>O alvo remove um Estado Negativo que o esteja afetando ou, em vez disso, reduz seu [Ódio] em -1.&nbsp;</p>
+<p>(Destino 1): O alvo pode remover dois Estados Negativos.</p>
+<hr>
+<p>Magia que emite um brilho purificador e cura os aliados próximos. Também tem o efeito de acalmar a hostilidade do inimigo.</p>
+
+=== r1qfb8sTlIfgD5b8/description
+# Muralha Sacra
+<p>Reduza em -[Poder Mágico] o Dano de PV previsto que o alvo receberia. Esta habilidade só pode ser usada uma vez em resposta a um mesmo ataque.</p>
+<hr>
+<p>Uma magia que cria uma parede protetora em forma de cúpula ao redor dos aliados para reduzir o dano dos ataques inimigos.</p>
+
+=== NKT9LL34cXudXUc5/description
+# Santuário
+<p>O alvo recebe um bônus de +[NHx2] em [Defesa Física] e [Defesa Mágica]. Este efeito dura até o início do seu próximo Processo Principal ou até o alvo sair do quadrado em que você está.</p>
+<hr>
+<p>Magia que cria um santuário que afasta desastres e protege os aliados próximos.</p>
+
+=== 6We6X6DnoYV7xU4y/description
+# Santuário II
+<p>Adquirida com NP 11 ou mais. O alvo recebe um bônus de +[mod. de POD] em [Defesa Física] e [Defesa Mágica]. Este efeito dura até o início do seu próximo Processo Principal ou até o alvo sair do quadrado em que você está.</p>
+<p>(NH2): Aumente o bônus para +[[mod. de POD] + 4].<br>(NH3): Aumente o bônus para +[[mod. de POD] + 8].</p>
+<hr>
+<p>Magia que cria um santuário que afasta desastres e protege os aliados próximos. Não importa que tipo de hostilidade turbilhone pelo campo de batalha: o santuário se torna um refúgio.</p>
+
+=== KTzqy5e1Zvenb6c2/description
+# Pacto do Escudo
+<p>O alvo recebe [Anulação]. O valor desta [Anulação] é igual a [(Defesa Física) de um [Escudo] que você tem equipado]. Este efeito de [Anulação] dura até o fim da rodada.</p>
+<hr>
+<p>Uma técnica especial que faz um escudo consagrado emitir luz e concede proteção aos aliados por um curto período.</p>
+
+=== WESzhZy1BfSwexbH/description
+# Acalmar a Mente
+<p>Reduza seu [Ódio] em -1.</p>
+<p>(Menor): Você pode fazer um [Movimento Seguro] de 1 Qd. Este efeito adicional não pode ser ativado se você estiver sob o estado [Rigidez].</p>
+<hr>
+<p>Magia que cria pontos cegos na consciência do inimigo e o distrai. Você também pode aproveitar a oportunidade para se deslocar ao redor do inimigo.</p>
+
+=== UoEkdlEzbGq01NjA/description
+# Reviver a Alma
+<p>Você precisa ter &laquo;Ressurreição&raquo; para adquirir esta habilidade. Você pode usar &laquo;Ressurreição&raquo; imediatamente.</p>
+<p>(NH2): Quando você usa esta habilidade, &laquo;Ressurreição&raquo; pode ser usada com [Alcance: 4 Qd].</p>
+<hr>
+<p>Uma magia que simplifica o ritual de encantamento da magia de ressurreição e ressuscita aliados a qualquer momento. Você consegue avaliar a situação da batalha, aproveitar as brechas do inimigo e chamar de volta as almas dos aliados.</p>
+
+=== 0LLvUjlI0ty1fTB0/description
+# Símbolo do Sacramento
+<p>Adquirida com NP 11 ou mais. Da próxima vez que o alvo receber um Estado Negativo ou um estado com a tag [Selo], esse estado é removido imediatamente. Trate este efeito como um Estado de Combate que é removido após ser aplicado uma vez.</p>
+<hr>
+<p>Uma magia que desenha no ar um símbolo que representa um sacramento sagrado e concede proteção contra desastres.</p>
+
+=== SpPA6JCUWy9r2evF/description
+# Símbolo do Sol
+<p>O alvo fica imune a dano com as tags [Chama], [Frio] ou [Choque] proveniente de Objetos de cena ou de [Artifícios]. Trate este efeito como um Estado de Combate.&nbsp;</p>
+<p>(Destino 1): Se você já atingiu o Limite desta habilidade, pode pagar este custo para usá-la novamente.</p>
+<hr>
+<p>Uma habilidade que protege contra diversos desastres com a proteção do sol.</p>
+
+=== VVeylJ1tTYkZG3YQ/description
+# Estilo Túnica Branca
+<p>Esta habilidade só produz efeito quando você não tem uma [Armadura Pesada] nem um [Escudo] equipados. Você recebe um bônus de +[NHx3] em [Recuperação] e um bônus de +[NHx3] na quantidade de PV recuperados ao usar &laquo;Cura Reativa&raquo; ou &laquo;Cura Reativa em Área&raquo;.</p>
+<hr>
+<p>Um estilo de combate em que você usa trajes simples, sem armadura nem escudo, se dedica à oração e exerce poderosos poderes de cura.</p>
+
+=== WLr1kmXgsElIG3qC/description
+# Mordida Ardente
+<p>Cause [(NH+2)D + (Poder de Ataque)] de dano físico ao alvo.</p>
+<p>(Alvo: Qualquer Estado Negativo): Aumente o dano em +8.</p>
+<hr>
+<p>Uma técnica especial que envolve o ataque com arma em presas de fogo, causando queimaduras além do dano do golpe.</p>
+
+=== N69EayanbqvwzNu0/description
+# Mordida Ardente II
+<p>Adquirida com NP 11 ou mais. Cause [4D + (Poder de Ataque)] de dano físico ao alvo.</p>
+<p>(Alvo: Qualquer Estado Negativo): Aumente o dano em +16.<br>(NP21 &amp; Alvo: Qualquer Estado Negativo): O dano aumenta em mais +10.</p>
+<hr>
+<p>Uma habilidade que desfere um golpe poderoso envolvendo o ataque com arma em presas de fogo. A presa flamejante, símbolo da destruição, arde ainda mais violentamente usando a dor do inimigo como combustível.</p>
+
+=== iuTKRIqDaHGOYs7g/description
+# Chamado da Tempestade
+<p>Cause [2D + (Poder Mágico)] de dano mágico ao alvo.</p>
+<p>(Efeito): Você recebe um bônus de +[NHx4] nas rolagens de dano com as tags [Frio] e [Choque]. Trate este efeito como um Estado de Combate.</p>
+<hr>
+<p>Um feitiço ofensivo que invoca uma tempestade poderosa para abater inimigos numa área ampla. A tempestade permanece por algum tempo, fortalecendo as tormentas e os trovões que você controla. Enquanto a tempestade não se dissipar, o campo de batalha é o seu domínio.</p>
+
+=== r9lNYo4vKZAIxPve/description
+# Folha de Camuflagem
+<p>Você pode reduzir seu [Ódio] em -1.</p>
+<p>(Topo de Ódio): Você pode reduzir seu [Ódio] em mais -1.</p>
+<hr>
+<p>Um feitiço que desvia a atenção do inimigo escondendo você em meio a um redemoinho de folhas.</p>
+
+=== hBOJUSL3kS0VIgRj/description
+# Invocação de Combate: Miconídeo
+<p>Escolha um único quadrado como alvo. Você pode usar [Obstrução] contra os personagens no quadrado escolhido. Este efeito dura até o fim da rodada.</p>
+<p>(Destino 1): Você pode usar esta habilidade com [Momento: Iniciativa].</p>
+<hr>
+<p>Uma técnica especial que invoca miconídeos, espíritos ancestrais que encarnam a diversidade da natureza. Cogumelos de rostos encantadores brotam para atrapalhar o deslocamento dos inimigos.</p>
+
+=== s3CADGliGNdZbqMj/description
+# Rasgo Crescente
+<p>Cause [(NH+3)D + (Poder de Ataque)] de dano físico ao alvo.</p>
+<p>(Extra): Alvos secundários (exceto o alvo inicial) dentro de [Alvo: Dois / Alcance: 2 Qd] a partir de você sofrem 10 de dano direto. Esse dano ativa a [Perseguição] do alvo secundário uma vez, como se ele tivesse falhado no [Teste de Esquiva].</p>
+<hr>
+<p>Uma técnica especial que faz do vento um aliado e libera uma onda de choque junto com o ataque. Uma onda em forma de lua crescente se espalha e engolfa muitos inimigos.</p>
+
+=== 3iTagalmdrOhvF0y/description
+# Coroa de Visco
+<p>Esta habilidade só produz efeito se o alvo já tiver [Regeneração]. O valor da [Regeneração] do alvo aumenta em +[Poder Mágico].</p>
+<hr>
+<p>Magia que intensifica o poder regenerativo que circula no corpo do alvo. Com a proteção divina do visco, aquele que une, ela conecta e faz ressoar a força vital da terra com a do alvo, concedendo uma vitalidade que parece infinita.</p>
+
+=== BWrt8tl4TSWqMj3l/description
+# Flor da Restauração
+<p>O alvo remove um Estado Negativo que o esteja afetando.</p>
+<p>(Ódio 1): Esta habilidade pode ser usada com [Alvo: Dois].</p>
+<hr>
+<p>Magia que espalha o perfume de flores com poder de cura e livra os aliados de estados negativos. Também pode ser usada como substituta de perfume.</p>
+
+=== hfFyVoeTFQWDETno/description
+# Canto da Ave Madrugadora
+<p>O alvo remove [Atordoado], [Cambaleante] e [Rigidez].</p>
+<p>(Destino 1): O custo de [Ódio] desta habilidade passa a ser 0.</p>
+<hr>
+<p>Uma técnica especial que desperta os aliados próximos evocando magicamente o canto dos pássaros que anunciam a chegada da manhã.</p>
+
+=== NSDv4w7KBVpz3iAf/description
+# Confiar a Vida
+<p>Você sofre 20 de dano direto. O alvo recupera a mesma quantidade de PV que você perdeu pelo efeito desta habilidade.</p>
+<p>(NP4): O dano direto aumenta para 30.<br>(NP8): O dano direto aumenta para 40.<br>(NP11): O dano direto aumenta para 50.</p>
+<hr>
+<p>Uma técnica especial que deposita a vitalidade no ar que circula pela terra e pela atmosfera e assume os ferimentos infligidos ao alvo.</p>
+
+=== MGZ83FNtd3kqFJGl/description
+# Bolor Fearth
+<p>Cause [2D + (Poder de Ataque)] &nbsp;de dano físico ao alvo.</p>
+<p>(Acerto): O alvo recebe [Fraqueza (Magia): 10]. Trate esta [Fraqueza] como um Estado Negativo.</p>
+<p>(NP16): A [Fraqueza] aumenta para 15.&nbsp;<br>(Destino 1): O valor da [Fraqueza] é dobrado.</p>
+<hr>
+<p>Uma técnica especial que envolve os ataques com arma em esporos de cor venenosa e corrói o corpo do alvo com o golpe. Os inimigos infestados pelos esporos perdem boa parte da sua resistência à magia.</p>
+
+=== NwgiUbN0ICAv8Yzg/description
+# Presa de Flanco
+<p>Use esta habilidade logo antes de o alvo fazer um [Teste de Esquiva]. Reduza o resultado desse teste em -2. Esta habilidade só pode ser usada quando você tiver uma habilidade de [Invocação de Servo] em efeito.</p>
+<hr>
+<p>Uma técnica especial em que você dá instruções ao servo que o acompanha e realiza com ele um ataque em pinça, em perfeita sincronia. Essa cooperação certamente abaterá a presa.</p>
+
+=== u1GSa1JGZkx2DL7Z/description
+# Cura Pulsante de Gaia
+<p>O alvo recebe [Regeneração: (Poder Mágico)].</p>
+<hr>
+<p>Magia de cura de nível superior que aplica uma recuperação pulsante a vários aliados de uma só vez. A proteção do pulsar da terra resguarda você.</p>
+
+=== 2OSX7LgP4fDPUKcV/description
+# Vento de Granizo
+<p>Cause [(NH)D + (Poder Mágico)] de dano mágico ao alvo, e o alvo fica [Atordoado].</p>
+<hr>
+<p>Magia de ataque que sopra uma rajada de granizo sobre uma área ampla para congelar o inimigo. O forte vento contrário retarda temporariamente as reações inimigas.</p>
+
+=== Frw7CKxE4p9G8iJm/description
+# Brisa de Cura
+<p>O alvo recupera PV. A quantidade recuperada é igual ao valor da [Regeneração] que o afeta no momento.</p>
+<hr>
+<p>Magia que converte o poder da recuperação pulsante que age sobre o alvo em uma brisa curativa, recuperando-o instantaneamente.</p>

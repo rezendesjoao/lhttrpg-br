@@ -1,0 +1,290 @@
+=== HwzSPavwIP3Ggqrf/description
+# Long Range Cover
+<p>Durante a [Etapa de Aplicação de Dano], você recebe o dano aos PV previsto que um alvo que não seja você receberia. O alvo não recebe dano. Você só pode usar esta habilidade uma vez em resposta a cada ataque.</p>
+<p>(Destino 1): Se você já tiver atingido o Limite desta habilidade, pode pagar este custo para usá-la novamente.</p>
+<hr>
+<p>Uma técnica especial que bloqueia ataques no lugar de aliados distantes. Você está preparado para ataques inesperados vindos de longe.</p>
+
+=== 8eqWDhBmA2r5n8dl/description
+# Mighty Bow Style
+<p>Esta habilidade só produz efeito quando você tem um [Arco] equipado. O alcance do [Arco] equipado aumenta em +1 Qd. Você passa a poder fazer [Ataques à Distância] no alcance Corpo a corpo.</p>
+<hr>
+<p>Um estilo de luta concentrado no tiro com arco, que alveja livremente os inimigos à distância.</p>
+
+=== 690CDges5ynl4dZ5/description
+# Observation
+<p>Esta habilidade tem como alvo a próxima cena. A dificuldade do teste é igual à menor [Dificuldade de Identificação] entre todos os inimigos que aparecem na cena. Você descobre o nome, a aparência, o nível e as tags de dois inimigos que aparecem na cena (à escolha do Mestre). Você sofre [Fadiga: (POD base)].&nbsp;</p>
+<p>(Falha Crítica): O inimigo percebe seu reconhecimento.</p>
+<hr>
+<p>Uma técnica especial que observa a situação à distância e revela a identidade do próximo inimigo a ser enfrentado.</p>
+
+=== W7JssanwCVyWWtdv/description
+# Payload
+<p>Aumente seus [Espaços de Inventário] em +[NHx4].</p>
+<hr>
+<p>Você consegue carregar muita bagagem. O corpo treinado para proteger também tem utilidade em situações como essa.</p>
+
+=== pENZWUURtyCOpk6c/description
+# Relief Guard
+<p>Você pode fazer um [Movimento Normal] de até [Velocidade] Qd. Depois que você terminar seu movimento, se houver aliados no mesmo quadrado que você, cada um deles pode reduzir seu [Ódio] em -2.</p>
+<p>(Menor): Aumente em +1 Qd a distância percorrida.</p>
+<hr>
+<p>Uma técnica especial em que você se posiciona para proteger os aliados e atrai para si a atenção do inimigo.</p>
+
+=== XhFxN7V1K2SFG8EF/description
+# Resilience
+<p>Aumente sua [Recuperação] em +[mod. de POD].</p>
+<hr>
+<p>Você domina técnicas que reforçam ainda mais a capacidade natural de cura do corpo de um Aventureiro. Se for só um arranhão, provavelmente sara sem que você nem perceba.</p>
+
+=== QQMt240b0mfkDPA4/description
+# Smash
+<p>Durante este Processo Principal, você recebe um bônus de +[NHx3] nas rolagens de dano de [Ataque com Arma].</p>
+<hr>
+<p>Uma habilidade que aumenta a força dos ataques seguintes ao brandir a arma com vigor.</p>
+
+=== oJ03nBD9SBLbnkz6/description
+# Smash Ⅱ
+<p>Adquirida com NP 11 ou mais. Durante este Processo Principal, você recebe um bônus de +[NHx4] nas rolagens de dano de [Ataque com Arma].</p>
+<p>(NP17): Aumente o bônus para +[NHx5].<br>(NP23): Aumente o bônus para +[NHx7].</p>
+<hr>
+<p>Uma habilidade que aumenta a força dos ataques seguintes ao brandir a arma com vigor. A experiência acumulada transforma um simples movimento preparatório em uma estratégia mortal.</p>
+
+=== 7BBT8VAc7qR5w8Bz/description
+# Soldier Coerce
+<p>Use esta habilidade quando for fazer um [Teste de Negociação] contra um personagem hostil. Faça um [Teste de Acerto] em vez de um [Teste de Negociação].</p>
+<hr>
+<p>Uma técnica especial de empunhar a arma para conduzir negociações coercitivas. Neste mundo, há negociações em que as armas falam mais alto que as palavras.</p>
+
+=== JVAcIG3TPP3TlJEq/description
+# Stealth Mission
+<p>Use esta habilidade imediatamente depois que o alvo fizer uma rolagem em uma tabela de exploração. O resultado dessa rolagem na tabela de exploração não acontece.</p>
+<hr>
+<p>Uma técnica especial em que você se oculta e conduz uma marcha furtiva, evitando os terrenos perigosos e os monstros que bloqueiam o caminho dos seus companheiros durante a aventura.</p>
+
+=== aBRxIeTqahFQ1eMs/description
+# Survivability
+<p>Quando o alvo rolar na [Tabela de Exaustão: Estamina, Itens], reduza em -1 o resultado da rolagem.</p>
+<p>(Bônus): Você recebe +10 em [PV Máx.].</p>
+<hr>
+<p>Você é especialista em sobreviver em ambientes hostis. Seus companheiros conseguirão sair em segurança da zona mortal.</p>
+
+=== 4FbB0qPeewB0zMHO/description
+# Tank Desant
+<p>Esta habilidade tem como alvo um personagem disposto. Você pode fazer um [Movimento Normal] de até [Velocidade] Qd. Ao mesmo tempo, o alvo faz um [Movimento Seguro] até o quadrado onde você terminar seu movimento.</p>
+<p>(Menor): Aumente em +1 Qd a distância percorrida.&nbsp;<br>(Alvo: Extra): Este uso da habilidade não conta para o seu Limite.</p>
+<hr>
+<p>Uma habilidade que permite acompanhar o ritmo dos companheiros e se mover junto com eles. Para os guerreiros, jamais se afastar de quem se deve proteger é uma regra importante.</p>
+
+=== 0dINeC8PVazp7AsS/description
+# Taunting Blow
+<p>Cause ⟦r1⟧{[1D + (Poder de Ataque)]}&nbsp; de dano físico ao alvo.</p>
+<p>(Sucesso): Um alvo secundário dentro de [Alvo: Individual / Alcance: (NHx2) Qd.] a partir de você pode reduzir seu [Ódio] em -2.</p>
+<hr>
+<p>Uma técnica especial que, com um ataque grandioso acompanhado de provocações, atrai para si a atenção do inimigo e a desvia dos aliados.</p>
+
+=== O3llAl4sOn0GJz3z/description
+# Taunting Shout
+<p>Escolha como alvo um aliado que não seja você e que tenha acabado de sofrer dano de um ataque. O alvo pode reduzir seu [Ódio] em -1.</p>
+<hr>
+<p>Uma técnica que desvia dos aliados a atenção do inimigo, gritando com os inimigos que os atacam.</p>
+
+=== QPQ1NnDmomiclRYp/description
+# Trap Cover
+<p>Use esta habilidade quando um alvo que não seja você for receber dano de um Objeto de cena ou de um [Artifício]. Durante a [Etapa de Aplicação de Dano], você recebe o dano aos PV previsto que o alvo receberia. O alvo não recebe dano. Você só pode usar esta habilidade uma vez em resposta a cada ataque.</p>
+<hr>
+<p>Uma técnica especial que protege os aliados de danos causados por armadilhas e afins, recebendo o dano no lugar deles.</p>
+
+=== nbNjgqhKtBspDzCH/description
+# Acrobat
+<p>Você recebe um bônus de +1D em [Testes de Atletismo].</p>
+<hr>
+<p ⟦a1⟧><span ⟦a2⟧>Você pegou o jeito de se exercitar sem depender apenas da força.</span></p>
+
+=== ruw72IRPwNUOQ3ge/description
+# Blade Artist
+<p>Você recebe um bônus de +1D em [Testes de Acerto].</p>
+<hr>
+<p>Suas armas são como seus próprios membros. A lâmina em sua mão alcança o corpo do inimigo com beleza e precisão.</p>
+
+=== LCqhkyYv7ZfSxxTy/description
+# Dark Vision
+<p>Você não é afetado por [Escuridão] nem por outros efeitos indesejados semelhantes. Além disso, enquanto estiver em [Escuridão] ou em condição semelhante, você recebe um bônus de +1 em [Testes de Esquiva].</p>
+<hr>
+<p><span ⟦a1⟧>Você domina a arte de se deslocar sem esforço no escuro. A escuridão é sua aliada.</span></p>
+
+=== qfC7ylAaXdC6UUZF/description
+# Economize
+<p>Use esta habilidade logo depois que o alvo rolar na [Tabela de Exaustão: Energia, Dinheiro]. O resultado da rolagem passa a ser 0.</p>
+<p>(Bônus): Você recebe +1 Ponto de Destino Inicial.</p>
+<hr>
+<p ⟦a1⟧><span ⟦a2⟧>A capacidade de remediar as falhas dos companheiros com reações rápidas, poupando dinheiro e evitando o desgaste.</span></p>
+
+=== liKd3F5bllHugD9U/description
+# Exceptional Blow
+<p>Suas rolagens de dano de [Ataque com Arma] e [Ataque Especial] recebem um bônus de +[(NPx2) + 10].</p>
+<hr>
+<p ⟦a1⟧><span ⟦a2⟧>Uma habilidade que compreende perfeitamente o centro de gravidade, o alcance e as características da arma e desfere o ataque mais perfeito possível. Quando você usa sua arma favorita como uma extensão de si mesmo, o lampejo em que você e a arma se tornam um só é um golpe fatal e certeiro.</span></p>
+
+=== Md437mZLmmKVVdtY/description
+# Explorer
+<p>Você recebe um bônus de +2 nos testes de [Detectar Anomalias], [Analisar Objeto de Cena] e [Desarmar Objeto de Cena].</p>
+<p>(NH2): O bônus passa a ser +1D em vez de +2.</p>
+<hr>
+<p ⟦a1⟧><span ⟦a2⟧>Você tem o conhecimento e as habilidades necessários para explorar regiões selvagens e masmorras.</span></p>
+
+=== WNN712CBOLYzZD0Q/description
+# Fatal Moment
+<p>Quando você obtiver um Crítico no [Teste de Precisão] de um [Ataque com Arma], adicione +[valor de FOR] à rolagem de dano desse ataque.</p>
+<hr>
+<p><span ⟦a1⟧>Você consegue desferir um golpe fatal sem deixar escapar a brecha momentânea que o inimigo revela.</span></p>
+
+=== liQAAbvF6Cr5DHSu/description
+# Fencer Style
+<p>Esta habilidade só produz efeito quando você tem apenas uma única arma corpo a corpo [Uma Mão] equipada em um [espaço de mão]. Seu [Poder de Ataque] passa a ser [(Poder de Ataque) da arma x2]. Durante a primeira rodada de uma cena, você recebe um bônus de +1 em [Velocidade].</p>
+<p>(NH2): O bônus em Velocidade passa a ser permanente, e não apenas durante a primeira cena.</p>
+<hr>
+<p>Um estilo de luta que valoriza o poder de ataque e a mobilidade, manejando com elegância uma arma empunhada em uma só mão.</p>
+
+=== 7Q99ST4PbWhPGjDP/description
+# Hiding Entry
+<p>Use esta habilidade quando você aparecer em uma cena. Você aparece nessa cena [Oculto]. Enquanto estiver [Oculto] por causa desta habilidade, [Movimento Normal] e [Movimento Seguro] não removem [Oculto]. Esta habilidade não pode ser usada se o Mestre decidir que não é possível entrar oculto na cena.</p>
+<hr>
+<p ⟦a1⟧><span ⟦a2⟧>Uma técnica especial que permite agir sem ser perturbado pelo que está ao redor: você prende a respiração para ocultar sua presença e se mistura à paisagem.</span></p>
+
+=== M6OIdR0UGRsItaRM/description
+# Infiltration
+<p>Você não pode ser alvo de [Obstrução]. Este efeito dura até o fim da rodada.</p>
+<hr>
+<p ⟦a1⟧><span ⟦a2⟧>Uma habilidade em que você observa com atenção os movimentos do inimigo e assume uma postura para evitar interferências e se infiltrar nas linhas inimigas.</span></p>
+
+=== CkYNOaw2Rwiwa2Hp/description
+# Instant Focus
+<p>Durante este Processo Principal, você recebe um bônus de +1D em [Testes de Acerto]. Além disso, as condições (Extra) dos ataques que você fizer são cumpridas automaticamente.</p>
+<hr>
+<p ⟦a1⟧><span ⟦a2⟧>Uma técnica especial que aguça a percepção por meio da concentração e aumenta a precisão dos ataques.</span></p>
+
+=== dcPRJN0zLzXVO1Pu/description
+# Pinpoint
+<p>Durante este Processo Principal, você recebe um bônus de +[NHx3] nas rolagens de dano de [Ataque com Arma].</p>
+<hr>
+<p>Uma técnica especial que aumenta a força dos ataques por meio de uma mira precisa.</p>
+
+=== n5iNiLzvlsupyd2o/description
+# Pinpoint II
+<p>Adquirida com NP 11 ou mais. Durante este Processo Principal, você recebe um bônus de +[NHx5] nas rolagens de dano de [Ataque com Arma].</p>
+<p>(NP21): O bônus passa a ser [NHx7].</p>
+<hr>
+<p>Uma técnica especial que aumenta a força dos ataques por meio de uma mira precisa. Seus sentidos enxergam num instante o ponto capaz de levar o alvo à destruição.</p>
+
+=== 0sqKuE5Umk7zvy6j/description
+# Quick Assault
+<p>Cause [(NH)D + (Poder de Ataque)] de dano físico ao alvo.</p>
+<p>(Sucesso): Durante o Processo de Iniciativa da próxima Rodada, você é tratado como o personagem com a maior [Iniciativa].</p>
+<hr>
+<p ⟦a1⟧><span ⟦a2⟧>Uma técnica especial que ataca com um passo rápido, de arma em punho. Caracteriza-se por deixar pouca abertura no movimento, o que permite passar imediatamente ao ataque seguinte.</span></p>
+
+=== luI6M79bNz43fUvx/description
+# Razor Edge
+<p>Cause [1D + (Poder de Ataque)] de dano físico ao alvo.</p>
+<p>(Sucesso): O alvo sofre uma penalidade de -[NHx2] em [Defesa Física]. Trate este efeito como um Estado Negativo.</p>
+<hr>
+<p>Uma técnica especial que mira e ataca a cabeça e outros pontos vitais, deixando o inimigo indefeso com a dor e o impacto.</p>
+
+=== i5rTbuMaIaYPRDTU/description
+# Razor Edge II
+<p>Adquirida com NP 11 ou mais. Cause [2D + (Poder de Ataque)] de dano físico ao alvo.</p>
+<p>(Sucesso): O alvo recebe [Fraqueza (Físico): 10]. Trate este efeito como um Estado Negativo.</p>
+<hr>
+<p>Uma técnica especial que mira e ataca a cabeça e outros pontos vitais, deixando o inimigo indefeso com a dor e o impacto. Seu ataque despretensioso se torna um poderoso trampolim para o próximo aliado.</p>
+
+=== FTwg8b1aFXJT66wY/description
+# Risk Management
+<p>Quando o alvo rolar na [Tabela de Exaustão: Energia, Dinheiro], reduza em -1 o resultado dessa rolagem.</p>
+<p>(Bônus): Você recebe +10 em [PV Máx.].</p>
+<hr>
+<p>Você é muito bom em identificar perigos e evitá-los.</p>
+
+=== 1l31WrnLeRBIZEbH/description
+# Road Mirage
+<p>Você pode fazer um [Movimento Normal] de [[Velocidade] -1] Qd. Depois disso, você fica [Oculto] e pode fazer um [Movimento Seguro] de 1 Qd. mantendo esse estado.</p>
+<hr>
+<p>Uma habilidade para se mover pelas brechas na atenção e nos sentidos do inimigo e se esconder. Os inimigos perdem você de vista, como se você fosse uma ilusão.</p>
+
+=== dLKPTWnJN8RaKK6T/description
+# Scouting
+<p>Esta habilidade tem como alvo a próxima cena. Faça seu [Teste de Atletismo] uma única vez. Compare o resultado com a [Dificuldade de Identificação] de cada inimigo que aparece na próxima cena. Para cada sucesso, você descobre o nome, a aparência, o nível e as tags daquele inimigo. Você sofre [Fadiga: (FOR base)].</p>
+<p>(Falha Crítica): O inimigo percebe seu reconhecimento.</p>
+<hr>
+<p><span ⟦a1⟧>Uma técnica especial que faz um reconhecimento prévio antes de entrar em batalha e repassa aos aliados as informações sobre o inimigo que vocês vão enfrentar.</span></p>
+
+=== RMI134Hdvrfhd7do/description
+# Shake Off
+<p>Você só pode escolher aliados como alvo desta habilidade. Seu [Ódio] passa a ser [(Ódio) do alvo - 2].</p>
+<hr>
+<p ⟦a1⟧><span ⟦a2⟧>Uma técnica especial em que você oculta sua figura erguendo uma cortina de fumaça ou se abrigando atrás de uma cobertura. Os inimigos perdem você de vista, o que dificulta que o escolham como alvo.</span></p>
+
+=== zT9QoyVFCkdGLl6b/description
+# Sharp Blade
+<p>Durante este Processo Principal, você recebe um bônus de +1D em [Testes de Acerto] de [Ataque com Arma].</p>
+<p>(Destino 1): O bônus passa a ser +3D.</p>
+<hr>
+<p ⟦a1⟧><span ⟦a2⟧>Uma técnica especial que brande a arma em uma trajetória certeira para medir a distância e aumentar a precisão dos ataques seguintes.</span></p>
+
+=== SmXXao5cFoYaQgXO/description
+# Six Fingers
+<p>Você recebe um bônus de +1D em [Testes de Desarme].</p>
+<hr>
+<p ⟦a1⟧><span ⟦a2⟧>Você é muito habilidoso com as mãos. Neutraliza qualquer armadilha melhor do que ninguém.</span></p>
+
+=== C2dp8qMUVcTTEg2W/description
+# Speedy Walk
+<p>Você pode realizar imediatamente &laquo;Analisar Objeto de Cena&raquo; ou &laquo;Desarmar Objeto de Cena&raquo;.</p>
+<hr>
+<p><span ⟦a1⟧>Uma técnica especial que, com destreza manual, investiga a estrutura de armadilhas e mecanismos e os neutraliza. Você consegue fazer proezas como desarmar armadilhas com a arma em punho.</span></p>
+
+=== RFqlalBmXdzFVDhQ/description
+# Stealth Blade
+<p>Cause [3D + (Poder de Ataque)] de dano físico ao alvo.</p>
+<p>(Abaixo no Ódio): Aumente o dano em +[NHx4].</p>
+<hr>
+<p><span ⟦a1⟧>Uma técnica especial que esconde a arma na sombra do corpo e desfere um ataque de onde o inimigo menos espera. Se o inimigo não estiver prestando atenção em você, é uma surpresa devastadora.</span></p>
+
+=== zTndE9gMk7r0OQ38/description
+# Treatment Skills
+<p>Aumente sua [Recuperação] em +[mod. de INT].</p>
+<hr>
+<p><span ⟦a1⟧>Você domina não só a arte de ferir e derrotar inimigos com armas, mas também a de usar primeiros socorros e remédios para curar os ferimentos dos aliados. É, de fato, um ofício que encarna a ligação indissociável entre a vida e a morte.</span></p>
+
+=== JMOuw4qpFT0Noad3/description
+# Trick Step
+<p>Você pode fazer um [Movimento Seguro] de até 2 Qd.</p>
+<p>(Menor): Se você já tiver atingido o Limite desta habilidade, pode pagar este custo para usá-la novamente.</p>
+<hr>
+<p>Uma técnica especial que passa por entre inimigos e obstáculos com movimentos que pegam o oponente desprevenido.</p>
+
+=== rIYbrmI4dCLAvvtn/description
+# Trinket Walk
+<p>Durante este Processo Principal, reduza a 0 o custo de [Ódio] das suas ações de [Momento: Maior].</p>
+<hr>
+<p>Uma habilidade que ofusca o inimigo e passa por ele fora do seu campo de visão, preparando o terreno para o próximo ataque. O inimigo sentirá a dor sem nem saber quem desferiu o ataque seguinte.</p>
+
+=== pR8SOT8bjjsmsRlr/description
+# Twin Arm Style
+<p>Esta habilidade só produz efeito quando você tem duas armas corpo a corpo [Uma Mão] equipadas. Você recebe a condição [Duas Armas] e seu [Poder de Ataque] passa a ser [a soma do (Poder de Ataque) das duas armas].</p>
+<p>(NH2): Aumente seu [Poder de Ataque] em +3.<br>(NH3): O bônus em [Poder de Ataque] passa a ser +6.</p>
+<hr>
+<p><span ⟦a1⟧>Um estilo de luta que valoriza o número de golpes e o poder de ataque, empunhando duas armas ao mesmo tempo, uma em cada braço.</span></p>
+
+=== 9j6ooTDC86OJjUDN/description
+# Twin arm style II
+<p>Adquirida com NP 11 ou mais. Esta habilidade só produz efeito quando você tem duas armas corpo a corpo [Uma Mão] equipadas. Você recebe a condição [Duas Armas] e seu [Poder de Ataque] passa a ser [a soma do (Poder de Ataque) das duas armas].</p>
+<p>(NH2): Aumente seu [Poder de Ataque] em +6.<br>(NH3): O bônus em [Poder de Ataque] passa a ser +[mod. de DES].</p>
+<hr>
+<p>Um estilo de luta que valoriza o número de golpes e o poder de ataque, empunhando duas armas ao mesmo tempo, uma em cada braço. As duas armas são brandidas sem interrupção, desferindo ataques com um ímpeto sem igual.</p>
+
+=== ikn10Qij7qXx9bIc/description
+# Undercover Work
+<p>Use esta habilidade logo depois de fazer uma rolagem em uma tabela de exploração. Você pode ver os resultados da tabela de exploração no intervalo de [resultado da rolagem + 1 a -1] e escolher o resultado que preferir.</p>
+<hr>
+<p ⟦a1⟧><span ⟦a2⟧>Uma técnica especial que permite realizar pequenas investigações e artimanhas em segredo, até dos seus amigos, para conduzir a aventura a seu favor. O falcão habilidoso esconde as garras. Ao lado dos amigos, que riem dizendo que a aventura de hoje foi fácil, você sorri em segredo.</span></p>

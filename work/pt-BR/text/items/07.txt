@@ -1,0 +1,306 @@
+=== pRv5asWaoqzD1DOY/description
+# R3 M5 Eternal Dream
+<p>Quando você aplicar [Deterioração], aumente a intensidade em +6.</p>
+<p>Uma adaga que, segundo dizem, leva rapidamente a vítima ao sonho eterno&hellip;&hellip;à morte. Graças à maldição que carrega e ao formato da lâmina, repleta de sulcos intrincados, ela provoca com eficiência a exaustão pelo veneno e pela perda de sangue.</p>
+<hr>
+<p>Pétala de Nenúfar Negro [Material-Base] (40G) + Espada Curta (60G) x 2 + [Catalisador Mágico 3] (25G) x 4 + Custo de Fabricação (110G)</p>
+
+=== vb8hmVXPtQgRoEAF/description
+# R3 M5 Mana Eater
+<p>No início de uma cena, você recebe [Anulação (Ataques Mágicos): 10].</p>
+<p>Uma espada grande com uma inscrição que neutraliza a magia hostil. Atenua o poder dos ataques mágicos dirigidos ao seu dono.</p>
+<hr>
+<p>Mercúrio Antimagia [Material-Base] (40G) + Zweihander (110G) + [Catalisador Mágico 3] (25G) x 5 + Custo de Fabricação (95G)</p>
+
+=== xI9cng8DzJvdnb3h/description
+# R3 M5 Tundra Reclaimer
+<p>No início de uma cena, você recebe [Anulação (Frio): 20]. Quando esta arma for usada em um [Ataque Corpo a Corpo] contra um alvo com a tag [Natureza] ou [Fada], você recebe +3D de bônus na rolagem de dano.</p>
+<p>Uma machadinha que, dizem, guarda as almas dos pioneiros do norte. Concede a quem a empunha o poder de repelir o frio e de rechaçar a fúria violenta da natureza.</p>
+<hr>
+<p>Prego Fundido [Material-Base] (50G) + Machadinha (50G) x 2 + [Catalisador Mágico 3] (25G) x 3 + Custo de Fabricação (85G)</p>
+
+=== jrmP57cX1eV5NSYU/description
+# R4 M4 Evil Star
+<p>[Momento: Ação] Usado simultaneamente com suas habilidades "Andorinha Giratória" e "Dardos Múltiplos". O alcance do ataque aumenta em +1Qd.
+Uma arma de arremesso imbuída do conceito de morte por meio da gravação de maus presságios e estrelas agourentas e da realização de rituais mágicos. Embora seja difícil de manejar, ostenta grande poder e longo alcance.</p><hr><p>Lâmina Manchada de Sangue[Material-Base](50G)+Shuriken de 4 Pontas(60G)×2+[Catalisador Mágico 4](30G)×2+Custo de Fabricação(90G)</p>
+
+=== nF51c0pQXGZmrJT3/description
+# R4 M4 Lightning Blaster
+<p>[Momento: Rolagem de Dano] Usado na rolagem de dano de um [Ataque Corpo a Corpo] de "Alvo: Individual" feito com esta arma. O dano causado se torna dano mágico com a tag [Choque] e aumenta ainda em +10. Uma vez por cenário.
+Lança de uma mão feita de um metal desconhecido, com uma ponta que lembra um relâmpago. Como sua forma sugere, ela pode liberar descargas elétricas pela ponta quando se entoa uma palavra-chave. Como até os Atacantes com Arma conseguem causar dano mágico com ela, é popular entre os aventureiros. No entanto, por causa de sua relação com o dano base, não tem muita procura entre os jogadores de alto nível.</p><hr><p>[Material-Base](60G)+ (100G)+[ 4](30G)×3+Custo de Fabricação(90G)</p>
+
+=== 3zdW0czUX4d0s4Zb/description
+# R4 M6 Agastya's Forbidden Staff
+<p>[Momento: Abertura] Designe um inimigo a até 4Qd de você. O alvo não poderá usar [Destino] a menos que pague imediatamente 1 ponto de [Destino]. Este efeito dura até o fim da rodada. 1/Cena&nbsp;</p>
+<hr>
+<p>Uma bengala entalhada com um padrão geométrico que lembra 14 folhas de planta. Parece que originalmente era uma peça embutida em alguma outra grande máquina, mas hoje é usada como arma pela utilidade de seus circuitos mágicos internos. Quando o circuito é ativado, ele pode transmitir um comprimento de onda que obstrui o poder mágico ao redor.</p>
+<hr>
+<table ⟦a1⟧><colgroup><col ⟦a2⟧> </colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>Circuito Lógico [Material-Base] (60G)</td>
+</tr>
+<tr ⟦a5⟧>
+<td ⟦a6⟧>2x Cajado de Olmo (110G)</td>
+</tr>
+<tr ⟦a7⟧>
+<td ⟦a8⟧>3x [Catalisador Mágico 4] (30G)</td>
+</tr>
+<tr ⟦a9⟧>
+<td ⟦a10⟧>-</td>
+</tr>
+<tr ⟦a11⟧>
+<td ⟦a12⟧>Custo de Fabricação (140G)</td>
+</tr>
+</tbody>
+</table>
+
+=== hbtQDVFv2v4OdhVf/description
+# R4 M6 Order of Tegine
+<p>Apenas na primeira rodada da cena, sua [Velocidade] recebe +2 e sua rolagem de dano recebe +5.
+</p><hr><p>[Material-Base](50G)+ (90G)+[ 4](30G)×6+Custo de Fabricação(170G)</p>
+
+=== KPMHRZLlirsUWAgj/description
+# R5 M4 Afterglow Eater
+<p>Seu [Poder Mágico] aumenta em +3. [Momento: Movimento] Recupere [número de entidades com a tag [Morto-Vivo] na cena de combate atual × 5] PV. Uma vez por cena.
+Nome do item: Adaga Drena-Almas Uma espada curta talhada em osso, em que a lâmina branca e o cabo formam uma só peça. Quando seu portador se concentra, ela absorve aos poucos as almas dos mortos-vivos próximos e as converte em almas positivas, curando os ferimentos de quem a empunha. Tem uma textura estranha e totalmente sem brilho, mas resplandece lindamente por um breve instante depois de absorver uma alma. Embora seu uso seja limitado, muitos a carregam como recurso reserva de autorrecuperação graças à sua capacidade de cura.</p><hr><p>[Material-Base](60G)+ (90G)+[ 5](40G)×4+Custo de Fabricação(120G)</p>
+
+=== BGwybdLkSe68wEly/description
+# R5 M4 Haōken
+<p>[Você: Ódio 5+], adicione +2D à sua rolagem de dano.
+Uma soqueira inspirada na arma de um rei que, com os próprios punhos, subjugou uma terra devastada por sub-humanos. Seu poder só é liberado quando o usuário se vê numa situação desesperadora, forçado a aceitar as intenções hostis do inimigo.</p><hr><p>[Material-Base](60G)+ (140G)+[ 5](40G)×3+Custo de Fabricação(170G)</p>
+
+=== ty5wu30I6dK7px2y/description
+# R5 M5 Crying Bow: Suzumushi
+<p>Qualquer personagem que sofrer 1 ou mais pontos de dano de PV de um [Ataque à Distância] desta arma não poderá entrar no estado [Oculto]. Este efeito dura até o fim da cena.
+Um arco mágico que ressoa com o som límpido de um sino quando é tensionado. O som do sino continua ecoando mesmo depois que a flecha é disparada, revelando a localização de quem é atingido.</p><hr><p>Sino do Canto do Vento [Material-Base] (80G) + Arco Curto (150G) + Brinco da Acuidade (40G) + Joia do Vaga-Lume (40G) + [Catalisador Mágico 5] (40G) ×3 + Custo de Fabricação (150G)</p>
+
+=== f6klWsEGG3h4n0fH/description
+# R5 M5 Moon Crystal Guardian Sword
+<p>[Momento: Ver texto & Destino 1] Usado quando você remove um Estado Negativo. Escolha um dos Estados Negativos que você acabou de remover e aplique-o a um alvo em "Individual/Alcance: 2Qd" de você.
+Uma espada curta que reflete a luz como a lua. Ela é dotada de uma forte defesa contra maldições, e quem tenta ferir seu portador acaba atraído para as duas covas.</p><hr><p>[Material-Base](80G)+ (90G)+ (60G)×2+[ 5](40G)×2+Custo de Fabricação(180G)</p>
+
+=== R13AtiQ4HcNBokUf/description
+# R5 M5 Owazamono: Dark Nue
+<p>Você é considerado como tendo o NH de "Assassinar" e de "Eco Retornante" aumentado em +1 (mesmo que exceda o NH Máximo).
+Uma enorme espada montante de lâmina negra como breu, que parece sugar a luz. Seu fio faz o oponente calcular mal a distância, infligindo ferimentos mais profundos.</p><hr><p>[Material-Base](80G)+ (220G)+[ 5](40G)×3+Custo de Fabricação(200G)</p>
+
+=== 6Y9wK32dU7UHJiLx/description
+# R5 M6 Moonlight Curved Sword
+<p>Quando você obtiver um acerto crítico em um [Ataque com Arma] com esta arma, aplica também [Perseguição:5] ao alvo.
+Uma espada curva mágica que brilha com a luz de três luas. Quem olha diretamente para sua lâmina enquanto ela está em estado instável é afetado pela loucura da lua, e seus movimentos ficam lentos.</p><hr><p>Aço Lunar Enferrujado [Material-Base] (60G) + Cimitarra (100G) + Anel de Cristal (110G) + [Catalisador Mágico 5] (40G) ×4 + Custo de Fabricação (180G)</p>
+
+=== zNG2LL5nqqrqipAk/description
+# R6 M4 Kaishakuken Decapitator
+<p>Quando você usa "Golpe Excepcional", o efeito passa a ser "+[(NP×3)+15]" em vez de "+[(NP×2)+10]".
+A espada mágica renascida de textos antigos, uma arma de carrasco. Ela é capaz de desferir um único golpe decisivo que decapita qualquer inimigo.</p><hr><p>[Material-Base](100G)+ (230G)+[ 6](50G)×2+Custo de Fabricação(200G)</p>
+
+=== yHkHB7Jn0LqzsqmN/description
+# R6 M4 Kodama Wand
+<p>[Momento: Rolagem de Dano] Adicione +6 à rolagem de dano do seu [Ataque Mágico]. Uma vez por cena.
+Uma varinha mágica imbuída do poder de uma árvore ancestral que ressoa como um sino. De vez em quando, ela amplifica o poder dos feitiços lançados pelo usuário.</p><hr><p>Galho Sempre-Verde [Material-Base] (80G) + Varinha de Pinho (140G) + [Catalisador Mágico 6] (50G) ×4 + Custo de Fabricação (200G)</p>
+
+=== etkXh6NgJycO4RXs/description
+# R6 M6 Medusa Gaze
+<p>[Momento: Instantânea] Usado contra um alvo em "Alvo: Individual / Alcance: 4Qd". Aplica [Rigidez] ao alvo. Se o alvo não sofrer nenhum dano de PV durante este Processo Principal, a [Rigidez] é removida ao fim do Processo Principal. Uma vez por cena.
+Flecha do Olhar Maléfico Uma flecha criada para liberar maldições junto com sua haste, imbuída de uma pedra mágica que, segundo dizem, possui o poder do olhar maléfico. Quem testemunha seu disparo tem a alma trespassada e fica sujeito a uma amarra invisível.</p><hr><p>Pedra Olho-de-Serpente [Material-Base] (100G) + Besta Leve (230G) ×2 + [Catalisador Mágico 6] (50G) ×2 + Custo de Fabricação (230G)</p>
+
+=== gfSlwpfSuSceQr9a/description
+# R6 M6Blue Maelstrom Ax
+<p>Exclusivo para Guardiões. [Momento: Abertura & Ódio 2] Usado em "Alvo: Área Ampla 2 (Escolha)/Alcance: Corpo a corpo". Faz o alvo entrar no estado [Nadando]. Este efeito dura até o fim da rodada ou até você sair deste Qd. Uma vez por cena.
+Grande Redemoinho do Portão do Eco Descoberto no centro do Grande Redemoinho do Portão do Eco. Dizem que foi impregnado com uma poderosa magia rotacional vinda do grande vórtice. Quando brandido, cria um turbilhão que agita o ar e limita os movimentos do inimigo.</p><hr><p>Melodia das Ondas [Material-Base] (100G) + Maça Dentada (170G) + Gema de Escamas de Peixe I (45G) ×2 + [Catalisador Mágico 6] (50G) ×4 + Custo de Fabricação (260G)</p>
+
+=== ObncdTTMeiWI7g34/description
+# R7 M5 Hoisting Spear
+<p>[Momento: Movimento] Você pode mover um alvo dentro de "Alvo: Individual/Alcance: 2Qd" de onde ele está até o seu quadrado com [Movimento Instantâneo (Forçado)]. Este efeito pode ser usado uma vez por cena. No entanto, pode ser usado novamente gastando 1 ponto de [Destino].
+</p><hr><p>[Material-Base](120G)+ (160G)×2+[ 7](60G)×2+Custo de Fabricação(280G)</p>
+
+=== 9OBDx2iyjKz0AT3t/description
+# R7 M5 Phantom Twin Blade
+<p>Quando você estiver no estado [Duas Armas] e [Abaixo no Ódio], adicione +2D à rolagem de dano de [Ataque Corpo a Corpo] com esta arma.
+Uma espada que parece ter sido forjada da própria sombra, com a superfície lisa e imaculada como uma noite negra como breu. Quando empunhada em par, pode lançar ilusões que confundem os sentidos. Se um inimigo desviar a atenção do seu fio, por pouco que seja, será abatido por um golpe fatal.</p><hr><p>[Material-Base](100G)+ (160G)×2+[ 7](60G)×2+Custo de Fabricação(250G)</p>
+
+=== 58eYKySw5PKCr204/description
+# R7 M6 Atlas Gauntlet
+<p>O "Baque do Urso-Pardo" que você usar pode mover o alvo até 2Qd com [Movimento Instantâneo (Forçado)].
+Esta manopla maciça dá a ilusão de estar sendo usada por uma raça um tamanho maior que a do portador. Quando a palavra-chave é entoada, um braço colossal que lembra o gigante Atlas se manifesta como energia espiritual. Embora o dano não aumente, qualquer oponente apanhado pela varredura desse braço enorme fica cambaleante.</p><hr><p>Concha Fosca [Material-Base] (120G) + Soqueira de Latão (210G) + Braçadeira (150G) + [Catalisador Mágico 7] (60G) ×3 + Custo de Fabricação (310G)</p>
+
+=== JfSNn4TY0SDRwIQL/description
+# R8 M5 Dead End
+<p>Sua habilidade "Varredor" pode ter como alvo "[POD]×3+10 ou menos" em vez de "[POD]×3 ou menos".
+「Bem-vindo ao seu domínio.」Uma besta mágica com uma mira especial gravada com uma escrita élfica antiga de traço infantil. O virote que ela dispara gira enquanto voa, o que lhe confere grande poder de ataque. Além disso, tem efeito perfurante, de modo que às vezes consegue derrotar inimigos relativamente fracos com um único disparo.</p><hr><p>Dentes Serrilhados do Tirano [Material-Base] (140G) + Besta Leve (230G) + Veneno Mortal II (60G) ×3 + [Catalisador Mágico 8] (70G) ×3 + Custo de Fabricação (280G)</p>
+
+=== 8ecIWd3D3HhuQE8X/description
+# R8 M5 Labrin's Thorny Chainlash
+<p>[Momento: Imediatamente Após o Dano] Usado quando você sofre dano de um alvo dentro de "Alcance: 2Qd". Aplica [Deterioração:5] ao alvo. Esta [Deterioração] não substitui a [Deterioração] que o alvo já tenha; em vez disso, soma-se à intensidade dela.
+Um chicote feito de várias correntes de prata entrelaçadas e impregnado com uma maldição de espinheiro. Ele se enrosca em qualquer um que tente ferir seu usuário, como se tivesse vontade própria, e revida cravando espinhos amaldiçoados.</p><hr><p>Espinhos de Cacto [Material-Base] (140G) + Chicote de Corrente (100G) × 3 + [Catalisador Mágico 8] (70G) × 2 + Custo de Fabricação (300G)</p>
+
+=== dFNGFU6QrrwQwoMW/description
+# R8 M6 Hungry Fang
+<p>[Momento: Ação] Use isto ao mesmo tempo que sua "Estocada Escarlate". Mude o efeito de "Estocada Escarlate" de "recupera seus [PV]" para "aplica [Perseguição: NH de Estocada Escarlate ×4] ao alvo".
+Uma lança de uma mão com o dente de um dragão ancestral na ponta. A ponta fere a presa e então suga sangue ou poder mágico do ferimento, inchando e penetrando ainda mais fundo no inimigo.</p><hr><p>Fóssil Misterioso [Material-Base] (120G) + Língua de Boi (230G) + Frasco de Golpes Poderosos I (40G) ×4 + [Catalisador Mágico 8] (70G) ×3 + Custo de Fabricação (350G)</p>
+
+=== bQFUxwNfrKdxebo4/description
+# R8 M6 Kurokasumi no kodachi
+<p>Exclusivo para Assassinos. Quando você equipar esta arma como a única arma no seu [espaço de mão], a rolagem de dano do seu [Ataque Corpo a Corpo] aumenta em +2D. Além disso, o efeito de "Varredor" muda de [【POD】×3] para [【POD】×5]. Corpo a corpo 1D-2 Leve Quando você equipar esta arma como a única arma no seu [espaço de mão], a rolagem de dano do seu [Ataque Corpo a Corpo] aumenta em +2D. O efeito muda de [【POD】×3] para [【POD】×5].
+Uma armadura espessa forjada com o raro ferro verdadeiro, refinada continuamente para ganhar durabilidade. Embora seja leve, seu verdadeiro poder se revela quando é empunhada com as duas mãos, e dizem que sua lâmina perfura até as escamas de um dragão ancestral.</p><hr><p>Lâmina de Ferro Verdadeiro [Material-Base] (120G) + Chokutou (270G) + Pergaminho de Varredura I (30G) ×2 + [Catalisador Mágico 8] (70G) ×4 + Custo de Fabricação (380G)</p>
+
+=== yafLnYdAMue42iLf/description
+# R9 M5 Haunting Flame
+<p>Exclusivo para Magos. Adiciona +2 ao seu [Poder Mágico]. [Momento: Encerramento] Causa [seu Ódio] pontos de dano direto aos alvos em [Área Ampla 2 (Escolha)] / [Corpo a corpo]. Se o alvo estiver no estado [Identificado], o dano aumenta ainda em 10.
+Uma espada curta com um belo padrão na lâmina, que tremula como fogo. Para quem dirige um ódio intenso ao seu portador, ela se torna uma chama real, queimando o corpo dessa pessoa com o fogo do ódio.</p><hr><p>Chama Incessante Material-Base (180G) + Sabre de Abordagem (200G) + Anel Branco (210G) + [Catalisador Mágico 9] (90G) ×2 + Custo de Fabricação (370G)</p>
+
+=== fJsdBJI9C4UzVZQ3/description
+# R9 M5 Kōryū no tsume
+<p>[Momento: Iniciativa & Pessoal: Pré-Ação] Você causa imediatamente 【Valor Base de FOR】 pontos de dano direto a "Alvo: Individual / Alcance: 2Qd". Se o alvo não ficar [Incapacitado] ou [Morto] com esse dano, você passa para [Pós-Ação] e recebe [Perseguição: 20]. Pode ser usado, por cenário, um número de vezes igual ao [NH] da "Ação de Kung Fu" que você adquiriu.
+Manopla Leve Uma manopla inspirada na garra de um dragão, que concede ao portador a agilidade do dragão. O personagem equipado pode disparar pelo campo de batalha com o recuo dos próprios ataques, realizando movimentos velozes e aparentemente impossíveis.</p><hr><p>[Material-Base](140G)+ (310G)×2+[ 9](90G)×2+Custo de Fabricação(330G)</p>
+
+=== aZ0GqP0A5821aQ5L/description
+# R9 M6 Mamorugatana Hitorishizuka
+<p>[Momento: Instantânea] Você recebe [Barreira:40]. Além disso, você recebe +1 no [Teste de Defesa] contra ataques que não sejam de alcance Corpo a corpo (este efeito é tratado como um Estado de Combate e se perde no mesmo momento em que a [Barreira] deste efeito se perder). Uma vez por cena.
+Um wakizashi esguio cuja lâmina é revestida de cristais de gelo que se espalham quando ele é desembainhado. A geada que habita a lâmina envolve seu portador, formando uma muralha de gelo que bloqueia e desvia os ataques inimigos e protege o corpo de quem o empunha.</p><hr><p>Cristal da Nevasca [Material-Base] (140G) + Nagamaki (490G) + Joia de Barreira I (40G) ×4 + [Catalisador Mágico 9] (90G) ×3 + Custo de Fabricação (510G)</p>
+
+=== Pip3W95nvQmtviIj/description
+# Raging Warmonger
+<p>Quando você iniciar o Processo Principal com [Ódio] 10 ou mais, você recupera 40 pontos de [PV], e um dos Estados Negativos que você está sofrendo é removido.
+「Trabalhe, trabalhe e siga trabalhando」— uma espada de duas mãos com uma escrita desbotada dos Alv, de traço infantil, entalhada em toda a lâmina como um padrão. A magia antiga perdida concede continuamente vitalidade ao seu portador, com o único propósito de lutar. Esse efeito, semelhante a uma maldição, fica mais ativo quanto mais intenso é o combate, restaurando a saúde do portador enquanto ele é bombardeado de hostilidade e afastando as influências nocivas.</p><hr><p>Fragmento de Amuleto Antigo [Material-Base] (680G) + Espadão (1400G) + [Catalisador Mágico 20] (370G) ×3 + Custo de Fabricação (1370G)</p>
+
+=== uy3eZnUzHC9w57FQ/description
+# Rapid Command
+<p>Seu [Poder Mágico] aumenta em +4. [Momento: Movimento] Escolha uma habilidade que você possua com a tag [Invocação de Servo]. Ative imediatamente o "Efeito Garantido" dessa habilidade. Uma vez por cena.
+Um chicote especial criado para dar ordens a monstros. Sua ponta se divide em três partes, e cada uma termina em uma estatueta: a cabeça de uma serpente, símbolo do soberano da terra; um touro furioso, que representa o poder do solo; e uma águia, a rainha dos céus. Essas estatuetas amplificam o poder mágico de quem empunha o chicote. Os monstros comandados por este chicote cumprem suas ordens imediatamente. 10 8 5 Aumenta a eficácia dos comandos dados aos monstros.</p><hr><p>Fio de Aço Verdadeiro [Material-Base] (440G) + Foice de Corrente (460G) + Apito da Carruagem de Ferro (750G) + [Catalisador Mágico 16] (250G) ×3 + Custo de Fabricação (1190G)</p>
+
+=== BIXQxP4AjhfAPyno/description
+# Rapier
+<p>Uma espada afiada, feita para estocar. Muitas têm padrões elaborados.</p>
+
+=== 0IUKtiZzHrF0mgNm/description
+# Repeater
+<p>Uma besta capaz de recarregar a munição automaticamente. Seu poder aumenta com os disparos.</p>
+
+=== mT937itePuIWRTug/description
+# Resonance Crusher
+<p>Quando você usar "Palma Silenciosa", pode aplicar [Cambaleante] ao alvo em vez do dano direto. Este efeito pode ser usado uma vez por cena.
+Manoplas Blindadas dos Alv Armadura Comum Um par de enormes manoplas prateadas que cobrem até os cotovelos, parte de uma série que incorpora ao armamento objetos do cotidiano dos Alv. Combinando dispositivos mágicos de construção com manoplas feitas de estacas encontradas em ruínas dos Alv e materiais de uma fera poderosa, este item alcança uma nova função: gerar vibrações poderosas. O espetáculo vistoso das palmas brilhando em tons de arco-íris ao ativar o dispositivo o tornou popular entre os Aventureiros que se importam mais com a estética do que com o desempenho. 15 8 7 5 6 Vibração Vibrante Ativa 3 Gera vibrações poderosas que podem desequilibrar o inimigo e reduzir sua defesa temporariamente. O efeito é mais forte quando usado em conjunto com outras peças de armadura da mesma série. Redução de Defesa -2 2 Pessoal Estaca dos Alv Escama de Fera Núcleo Mágico Lingote de Metal Básico 100 1</p><hr><p>[Material-Base](340G)+ (680G)+[ 14](190G)×4+Custo de Fabricação(900G)</p>
+
+=== 2ZUSwFPMBAegDKrr/description
+# Restraint
+<p>O dano do seu "Ataque Perturbador" aumenta em +10.
+A Lança Radiante, uma lança mágica concedida a um guerreiro honrado que lutou na linha de frente das guerras antigas, protegendo seus companheiros dos ataques. Sua ponta fica tão afiada que põe em perigo o próprio portador.</p><hr><p>Agente Polidor dos Alv[Material-Base](340G)+Farrality(510G)+[Catalisador Mágico 14](190G)×5+Custo de Fabricação(680G)</p>
+
+=== R7hPK0NRN6Mut1Dv/description
+# Reverberant
+<p>[Momento: Ação] Use esta habilidade ao mesmo tempo em que usar uma habilidade de [Harmonia]. O NH da habilidade de [Harmonia] usada simultaneamente é tratado como +1 (pode exceder o NH Máximo). Uma vez por cenário.〔NP11〕O efeito no momento da ativação não é aplicado.
+A lança tem a haste oca e pode produzir vários sons conforme é brandida. Se for brandida no ritmo de uma canção, o som ecoa e intensifica o efeito dela.</p><hr><p>Flauta Mágica Quebrada [Material-Base] (30G) + Azagaia Leve (70G) + [Catalisador Mágico 2] (20G) ×4 + Custo de Fabricação (90G)</p>
+
+=== ZJa311KCnt3xGCOa/description
+# Rigid Glove
+<p>Manopla de combate feita de um metal de alta rigidez.</p>
+
+=== uKILK6jKJMY9ekqH/description
+# Riot Edge
+<p>[Você: Topo de Ódio] Você não entra no estado [Cambaleante]. [Momento: Ver texto] Usado quando o alvo fica [Incapacitado] ou [Morto] por um [Ataque Corpo a Corpo] com esta arma. Você recebe [Regeneração:10]. Esta [Regeneração] não substitui nenhuma [Regeneração] que você já esteja recebendo; em vez disso, soma-se à intensidade dela.
+Uma longa espada montante com desenhos elaborados de carvalho e folhagem densa. Toda vez que seu portador derrota um inimigo, ela concede ao corpo dele um tremendo poder regenerativo.</p><hr><p>Núcleo da Lâmina Rouba-Vida[Material-Base](220G)+Ultraje(480G)+Poção de Regeneração II(260G)×2+[Catalisador Mágico 11](120G)×2+Custo de Fabricação(540G)</p>
+
+=== MC8aZVsuB9BN5tXR/description
+# Ritual of Peace
+<p>O valor de aumento de Ódio da sua habilidade "Uivo do Mago" passa a ser 0.
+Um cajado que, segundo dizem, aguça o espírito do dono e concede um nível excepcional de concentração. Ele facilita o controle sobre a liberação maciça de poder mágico.</p><hr><p>Espinhos da Autodisciplina [Material-Base] (50G) + Cajado de Olmo (110G) + [Catalisador Mágico 3] (25G) ×3 + Custo de Fabricação (85G)</p>
+
+=== qMFuqZDvBTKse27s/description
+# Rod of Vertigo
+<p>Sua habilidade "Mesmerizar" passa a ter alcance de "6Qd".
+Um bastão curto com uma gema peculiar incrustada na ponta, com padrões em espiral. As ondas emitidas pela gema causam forte tontura e dificultam os movimentos. Eficaz contra mortos-vivos e golens, este item é presença constante entre os Encantadores especializados em controle de multidões desde a época do jogo.</p><hr><p>Orbe de Dragão Imaturo [Material-Base] (300G) + Varinha de Cedro (450G) + Veneno Extenuante II (140G) ×2 + [Catalisador Mágico 12] (150G) ×3 + Custo de Fabricação (630G)</p>
+
+=== JMfaNUrAm1xtLyIy/description
+# Ryōwazamono
+<p>Uma espada bem-feita é chamada de obra de qualidade, e a melhor entre elas, de obra de qualidade superior. Uma peça admirada pelos samurais.</p>
+
+=== aFuFZKAT8coK0iVm/description
+# Saber
+<p>Uma espada curva de fio afiado.</p>
+
+=== BuAgrlrEHCJGKUmD/description
+# Saint Rilith's Ax
+<p>Suas habilidades "Símbolo do Sol" e "Santuário" passam a ter "Alvo: Área Ampla 2 (Escolha)", e o efeito de "Santuário" passa a durar até o alvo estar a mais de 3 Qd de você, em vez de apenas até ele sair do seu Qd.
+O Machado de Santa Lirys, personagem de uma história do Povo da Terra. Ela era a filha de um pobre lenhador, mas, depois que o pai foi morto por um tirano, empunhou um machado, inspirou o povo e liderou uma rebelião para vingá-lo. A história termina aí e o destino dela é desconhecido, mas o machado que guiou e protegeu o povo agora está em suas mãos.</p><hr><p>Grande Presa de Jade [Material-Base] (620G) + Mangual Pesado (1400G) + [Catalisador Mágico 19] (340G) ×3 + Custo de Fabricação (1080G)</p>
+
+=== pZ5eE00vciTu18bO/description
+# Schiavona
+<p>Uma espada de dois gumes com um guarda-mão de decoração intrincada.</p>
+
+=== hWisbrUfGqVDMNZs/description
+# Scimitar
+<p>Uma lâmina grande e curva, adequada para cortar.</p>
+
+=== sMge4lo1VtAm674P/description
+# Scythe
+<p>Uma foice de duas mãos com cabo longo e lâmina longa.</p>
+
+=== zpbNvVwVKgOK6phD/description
+# Sealing Sword: Yozakura
+<p>Sua [Recuperação] aumenta em +6. [Momento: Ver texto] Usado quando você aplica [Barreira] a si mesmo. A intensidade da [Barreira] aumenta em +30. Uma vez por cena.
+A espada que, segundo dizem, era empunhada pelas sacerdotisas guerreiras que lutavam em segredo para erradicar o mal do mundo. Quando se golpeia com uma prece, uma nevasca de flores de cerejeira dança na superfície da lâmina, protegendo quem a empunha.</p><hr><p>Pedra Olho-de-Dragão [Material-Base] (240G) + Guntou (380G) + Constructo Branco II (230G) ×2 + [Catalisador Mágico 12] (150G) ×2 + Custo de Fabricação (640G)</p>
+
+=== hcVqKuIu9m1oykk8/description
+# Self Bow
+<p>Um arco entalhado em madeira dura.</p>
+
+=== nFOt90TTMS6jmgmy/description
+# Shide no Ōtsuchi
+<p>Sua habilidade "Vencedor" passa a ter Alvo: Área Ampla 5 (Escolha).
+Uma grande maça de prata gravada com palavras de luto pelos inimigos caídos. Seu brilho jamais se apaga, mesmo depois de abater incontáveis adversários em batalha, incutindo medo nos inimigos e inspirando os aliados.</p><hr><p>Placa de Prata Gravada [Material-Base] (340G) + Maça Pesada (380G) + [Catalisador Mágico 13] (170G) ×4 + Custo de Fabricação (670G)</p>
+
+=== T8ayT5ACL6uz5qIi/description
+# Shinsakutō
+<p>Uma obra autêntica criada por ferreiros selecionados de todo o império. A inscrição é a prova de que se trata de uma das melhores peças do mundo.</p>
+
+=== xtArLaWHBMALCGPb/description
+# Shinshintō
+<p>Uma espada forjada por um mestre artesão que pôs nela corpo e alma para oferecê-la aos deuses.</p>
+
+=== xwxESdv1rHOey4lH/description
+# Shinuchigatana
+<p>Uma espada única, criada por um espadeiro à custa de muitos estudos repetidos.</p>
+
+=== clHUsfvcVTpUDuT8/description
+# Shogetsu Sword
+<p>Uma espada curva de duas mãos, de lâmina larga e curva que lembra a lua.</p>
+
+=== QKZVg8oGI169M0pH/description
+# Short Bow
+<p>Um arco pequeno para combate.</p>
+
+=== NJvXZVz5vZOvOhjT/description
+# Short Spear
+<p>Uma lança de mão com cabo mais curto, para facilitar o manejo.</p>
+
+=== 1qCwpEvOuTvcAWMx/description
+# Short Sword
+<p>Uma espada de dois gumes com lâmina de cerca de 50 cm. Fácil de manejar.</p>
+
+=== KCoWTimVfRQrs1YH/description
+# Shōsō no shajiku
+<p>[Momento: Abertura] Sua [Iniciativa] aumenta em um valor igual ao seu [Ódio]. Este efeito dura até o fim da rodada. Uma vez por cena.
+Um bastão curto de metal que converte a hostilidade dirigida a quem o empunha em uma força que aprimora as capacidades físicas. Quanto mais forte a frustração, maior a força que impulsiona por trás.</p><hr><p>Bastão de Ferro Antigo [Material-Base] (40G) + Varinha de Carvalho (90G) ×2 + [Catalisador Mágico 2] (20G) ×2 + Custo de Fabricação (80G)</p>
+
+=== KrfgkVbhvNZGB43o/description
+# Shotel
+<p>Uma espada curva de dois gumes com uma grande lâmina curvada em forma de S.</p>
+
+=== Fod971WHxDBvx4Am/description
+# Shuriken
+<p>Um shuriken de formato reto. Excelente em discrição e poder.</p>
+
+=== WaTgMLcCFnFbuCtI/description
+# Sickle
+<p>Uma arma derivada de uma ferramenta agrícola.</p>
+
+=== EU3cO96fgQAa0pF3/description
+# Side Winder
+<p>Você é tratado como tendo adquirido "Ataque de Assistência" com NH1. Se já a tiver, o [Teste de Precisão] do seu "Ataque de Assistência" recebe +1. [Momento: Ação] Use isto ao mesmo tempo que seu "Ataque de Assistência". Gaste 1 ponto de [Destino] como custo. Se o seu "Ataque de Assistência" for bem-sucedido, você também aplica [Rigidez] ao alvo.
+Um chicote batizado em homenagem à serpente venenosa, predadora do deserto. Parece ter vontade própria, enredando os inimigos e tirando-lhes a liberdade.</p><hr><p>Haste Quebrada [Material-Base] (60G) + Enforcador (55G) + [Catalisador Mágico 4] (30G) ×5 + Custo de Fabricação (115G)</p>
+
+=== Zwri23ThD488qIvL/description
+# Snake Whip
+<p>Um chicote rígido formado por muitas varetas curtas ligadas entre si.</p>

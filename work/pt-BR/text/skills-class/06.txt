@@ -1,0 +1,412 @@
+=== TDXfaKFF1JnhbZpH/description
+# Reflexos Relâmpago
+<p>Use esta habilidade quando for atacado enquanto estiver em [Pré-Ação]. Depois que o Processo Principal atual terminar, você pode iniciar imediatamente o seu Processo Principal. Você não pode declarar [Espera] por meio deste efeito. <span ⟦a1⟧>Se você já estiver em [Espera], a [Espera] é cancelada imediatamente.</span></p>
+<hr>
+<p>Uma técnica especial que anula o ataque do inimigo e aproveita o embalo para se preparar imediatamente para o contra-ataque. A reação é rápida como um relâmpago.</p>
+
+=== 2p92Mp57Tw2aacax/description
+# Ajuste de Distância
+<p>Use quando for atacado. Você pode fazer instantaneamente um [Movimento Seguro] de até 1 Qd.&nbsp;</p>
+<p>(Destino 1): Você pode fazer imediatamente o inimigo que o atacou realizar um [Movimento Seguro (Forçado)] de até 1 Qd.</p>
+<hr>
+<p>Uma técnica que permite enxergar o alcance da sua presa e medir a distância ideal. Não cometer erros é a lógica inquestionável da guerra. Você sabe que abandoná-la é o tipo de estratagema que merece ser chamado de tolo.</p>
+
+=== r4ZufHNp7I6ABiPO/description
+# Olho da Mente
+<p>Você não é afetado por [Escuridão] nem por outros efeitos indesejados semelhantes. Além disso, você pode tratar personagens com [Oculto] como se não tivessem essa condição, podendo percebê-los e escolhê-los como alvo de ações.</p>
+<hr>
+<p>Você consegue detectar seus inimigos com o olho da mente, e não com a visão.</p>
+
+=== iqEraP1KtPyqiuIV/description
+# A Cavalo
+<p>Sua [Velocidade] aumenta em 1. Este efeito é tratado como Estado de Combate e dura até o fim da rodada.</p>
+<hr>
+<p>Uma técnica especial que cruza o campo de batalha mais rápido do que ninguém e invade as linhas inimigas. Uma disputa de velocidade, um contra um, é a flor da batalha. É o verdadeiro coração de um samurai.</p>
+
+=== 9Uy370gOpgcxZbKg/description
+# Quebra em Pinça
+<p>Cause [(NH+3)D + (Poder de Ataque)] de dano físico ao alvo.</p>
+<p>(Topo de Ódio): Você recebe +5 de bônus na sua próxima rolagem de dano contra alvos secundários dentro de [Alvo: Amplo 2 (E) / Alcance: Corpo a corpo] centrado em você. Trate este efeito como um Estado de Combate que é removido depois de ser aplicado uma vez.</p>
+<hr>
+<p>Uma técnica especial que usa uma arma pesada, como um malho ou um machado, para realizar uma investida poderosa. Um golpe como o de um aríete que arromba o portão de um castelo, dando impulso aos aliados.</p>
+
+=== soto1ia0iaBoxrH3/description
+# Prontidão
+<p>Você passa imediatamente para [Pré-Ação].</p>
+<hr>
+<p>Uma técnica especial que recupera a postura desfeita logo após uma ação e parte para a próxima com um ímpeto tremendo. Um samurai que afiou a mente ao limite jamais deixa escapar uma boa oportunidade na batalha.</p>
+
+=== LLwQBpgV9ZzczWlt/description
+# Eco Retornante
+<p>Use esta habilidade logo depois de ser atacado. Cause [NHx4] de dano direto ao personagem que fez o ataque.</p>
+<p>(Destino 1): Aumente o dano em +6.</p>
+<hr>
+<p>Uma técnica que responde ao ataque do inimigo com um contra-ataque.</p>
+
+=== jhiV7mWPAlxE7FGH/description
+# Eco Retornante II
+<p>Adquirida com NP 11 ou mais. Use esta habilidade logo depois de ser atacado. Cause [NH x [mod. de DES]] de dano direto ao personagem que fez o ataque.</p>
+<p>(Destino 1): Aumente o dano em +[NP].</p>
+<hr>
+<p>Uma técnica especial que desfere um contra-ataque inevitável, percorrendo de volta a trajetória do ataque inimigo. Lapidada pelo treino, sua agudeza alcançou a velocidade do som, como um kodama.</p>
+
+=== F7AEujdLAqtGeH5D/description
+# Desafio Samurai
+<p>Esta habilidade só pode ter como alvo um aliado que não seja você. O alvo pode reduzir o próprio [Ódio] em -3.&nbsp;</p>
+<p>(Destino 1): Esta habilidade pode ser usada com [Alcance: 20 Qd].</p>
+<hr>
+<p>Uma façanha de provocação que atrai ataques golpeando o inimigo com o próprio espírito, seja erguendo a arma, seja bradando o próprio nome.</p>
+
+=== nmLYwZRCCktQyldV/description
+# Saya
+<p>Cause [(NH+1)D + (Poder de Ataque)] de dano físico ao alvo.</p><p>Você pode fazer o alvo realizar um [Movimento Seguro (Forçado)] de até 1 Qd, mas ele deve se aproximar de você.</p>
+
+=== I40CSIqUR1PXiY8s/description
+# Saya (Flecha)
+<p>Cause ⟦r1⟧{[(NH+1)D + (Poder de Ataque)]}&nbsp; de dano físico ao alvo.</p>
+<p>Você pode fazer o alvo realizar um [Movimento Seguro (Forçado)] de até 1 Qd, mas ele deve se aproximar de você.</p>
+<hr>
+<p>Uma técnica que dispara flechas que produzem um silvo especial ao cortar o vento. O som peculiar, semelhante ao grito de uma ave de rapina, excita o inimigo e tem o efeito de incitá-lo a investir contra o atirador.</p>
+
+=== CU3xwAuw2eyzEsOT/description
+# Escola: Espada Samurai Flamejante
+<p>Esta habilidade só produz efeito quando você está equipado com apenas uma arma corpo a corpo de [Uma Mão]. Seu [Poder de Ataque] passa a ser [(Poder de Ataque) da arma x2]. Na primeira rodada de uma cena, sua [Esquiva] e sua [Resistência] aumentam em 1.&nbsp;</p>
+<p>(NH2): Sua [Esquiva] e sua [Resistência] aumentam em 1 durante a cena inteira.</p>
+<hr>
+<p>Um estilo de luta que tira o máximo proveito de armas fáceis de manejar e ataca o inimigo com movimentos leves, como um fogo furioso.</p>
+
+=== c9SY9PN1HSzJEOjs/description
+# Escola: Trovão de Kazamori
+<p>Use esta habilidade logo depois de ser atacado. Cause [NHx4] de dano direto ao personagem que fez o ataque.</p>
+<p>(Destino 1): Aumente o dano em +6.</p>
+<hr>
+<p>Um estilo de combate que une ataque e defesa: empunhando armas nas mãos esquerda e direita, você reforça a defesa com a mão inábil e ataca com a mão dominante.</p>
+
+=== o4jltF2v4eD8Fwb4/description
+# Sensitivo
+<p>Use esta habilidade logo antes de fazer um [Teste de Percepção]. Você recebe +2D de bônus nesse teste.</p>
+<hr>
+<p>Uma técnica especial que, pela concentração da mente, permite detectar rapidamente anomalias diversas e mudanças nos sinais ao redor.</p>
+
+=== 6KbpvbJpeCv0JOAK/description
+# Espinho do Picanço
+<p>Cause ⟦r1⟧{[(NH)D + (Poder de Ataque)]}&nbsp; de dano físico ao alvo.</p>
+<p>(Alvo: Pós-Ação): O alvo sofre [Deterioração: 10].</p>
+<p>(Alvo: Pré-Ação): A [Iniciativa] do alvo passa a ser 0. Este efeito dura até o fim da rodada.</p>
+<hr>
+<p>Uma técnica especial que atrapalha as ações do inimigo golpeando a cabeça, a garganta e outros pontos com uma arma de duas mãos. O efeito é grande quando você mira em um inimigo exposto.</p>
+
+=== AM1mlOqmWX0GwyBq/description
+# Espinho do Picanço II
+<p>Adquirida com NP 11 ou mais. Cause [2D + (Poder de Ataque)] de dano físico ao alvo.</p>
+<p>(Alvo: Pós-Ação): O alvo sofre [Deterioração: (valor de INT)].</p>
+<p>(Alvo: Pré-Ação): A [Iniciativa] do alvo passa a ser 0. Este efeito dura até o fim da rodada.</p>
+<hr>
+<p>Uma técnica especial que perfura os pontos vitais do inimigo com a precisão de quem passa uma linha pela agulha, tolhendo suas ações. O inimigo privado de liberdade torna-se a oferenda antecipada de um picanço, à espera de ser espetado num galho e bicado.</p>
+
+=== tgU1rgcnc0ZD5cIJ/description
+# Corte de Flechas
+<p>Você precisa estar em [Espera]. Use esta habilidade quando fizer um teste de Esquiva ou de Resistência contra um ataque com as tags [Alvo: Individual] e [Ataque à Distância] ou [Ataque Mágico]. Em caso de sucesso no [Teste de Esquiva], o ataque não só falha como também causa dano ao atacante, como se ele tivesse atingido a si mesmo.</p>
+<hr>
+<p>Uma técnica especial que repele instantaneamente as flechas apontadas para você. O lampejo de um samurai que alcançou os segredos da arte é capaz de cortar até a magia.</p>
+
+=== zHqjtp92qjbTCkuz/description
+# Turbilhão Cortante
+<p>Mude um [Ataque Corpo a Corpo] de [Alvo: Individual] para [Alvo: Amplo 1 (E)] durante este Processo Principal.&nbsp;</p>
+<p>(Destino 1): Mude o Momento desta habilidade para [Instantânea].</p>
+<hr>
+<p>Uma técnica especial que eleva o espírito de luta e dispara um lampejo de espada como um redemoinho, ceifando muitos inimigos de uma só vez. É um dos golpes especiais que podem ser considerados sinônimo de &lt;Samurai&gt;.</p>
+
+=== 0JfBFTQf9eLzURbX/description
+# Percepção Instantânea
+<p>Quando você for sofrer dano, em vez disso trate todo o dano como sem efeito, como se o seu [Teste de Esquiva] tivesse sido bem-sucedido.</p>
+<p>(Topo de Ódio): Você recupera 20 PV.</p>
+<hr>
+<p>Uma técnica especial que enxerga instantaneamente os movimentos do inimigo e anula o ataque, recebendo-o com uma respiração primorosa. Nesse momento, você encarna a essência das artes marciais: "deter a lança".</p>
+
+=== z18gj8Qh7eGxB1S3/description
+# Percepção Instantânea II
+<p>Substitua &laquo;Percepção Instantânea&raquo; por esta habilidade com NP 11 ou mais. Quando você for sofrer dano, em vez disso trate todo o dano como sem efeito, como se o seu [Teste de Esquiva] tivesse sido bem-sucedido.</p>
+<p>(Topo de Ódio): Você recupera +[[valor de FOR] x3] PV.</p>
+<hr>
+<p>Uma técnica especial que identifica o ponto de partida e a trajetória do movimento do inimigo e o anula por completo. Nesse momento, sua percepção alcança um domínio que ultrapassa até os limites das suas próprias artes marciais e da sua força física.</p>
+
+=== H8gkLn3DNUSUVnbo/description
+# Espada das Nuvens Reunidas
+<p>Use esta habilidade logo depois que o alvo fizer uma rolagem de dano. Reduza o resultado da rolagem de dano do alvo em -[seu (Poder de Ataque)].</p>
+<hr>
+<p>Uma técnica especial que corta o ataque do inimigo com a sua própria arma e o neutraliza. Sua katana afasta os infortúnios dos seus aliados, como a espada divina que aplacou um incêndio furioso.</p>
+
+=== bRpxzakEsL2dfIZs/description
+# Vencedor
+<p>Use esta habilidade quando deixar um inimigo [Incapacitado] ou [Morto]. Esta habilidade só pode ter como alvo um aliado que não seja você. O alvo pode reduzir o próprio [Ódio] em -1.</p>
+
+=== iFrPbNu56eLvwQdd/description
+# Hélice do Moinho
+<p>Cause [(NH+1)D + (Poder de Ataque)] de dano físico ao alvo.</p>
+<p>(Topo de Ódio): Você pode usar esta habilidade com [Alvo: Linha 1 (E)].</p>
+<hr>
+<p>Uma técnica especial que gira a lança como um moinho de vento e desfere uma estocada poderosa para atacar de uma só vez os inimigos ao redor. Uma onda de choque em forma de tornado engole muitos inimigos.</p>
+
+=== LZos0e1m9wXT0VsA/description
+# Arquifeitiço
+<p>Durante o seu primeiro Processo Principal nesta rodada, reduza a 0 o custo de [Ódio] de todas as ações que você realizar.</p>
+<hr>
+<p>Ao criar uma barreira em forma de caixa que bloqueia o poder mágico e se colocar dentro dela, você torna menos perceptível a onda de poder mágico que acompanha a entoação dos feitiços. Isso permite usar grandes magias sem atrair a atenção dos inimigos.</p>
+
+=== lWYYHbg7kzK3eJmc/description
+# Soberano da Nevasca
+<p>Adquirida com NP 11 ou mais. &laquo;Lança de Gelo&raquo; e &laquo;Vento Gélido&raquo; ignoram o estado &nbsp;[Anulação: Frio] dos alvos.</p>
+<p>(NH2): O custo de [Ódio] de "Linha Congelante" é reduzido em -1 (mínimo 0).</p>
+<hr>
+<p>Você é um feiticeiro especializado em magias que manipulam o ar gélido. Até as feras capazes de suportar o frio extremo param, indefesas, diante do verdadeiro frio que você traz.</p>
+
+=== MPtj6oqwp633p1vN/description
+# Estaca Queimada
+<p>Cause [2D + (Poder Mágico)] de dano mágico ao alvo, e o alvo sofre [Deterioração: (NHx5)].</p>
+<hr>
+<p>Um feitiço ofensivo que faz brotar dos pés do inimigo, uma após a outra, estacas incandescentes que o perfuram. Depois de cravada, a ponta da estaca permanece dentro do corpo do inimigo e continua a queimá-lo por dentro. Fazendo jus ao nome, seu calor consome os inimigos sem piedade.</p>
+
+=== TfXeDJQnZbWds7Cs/description
+# Estaca Queimada II
+<p>Adquirida com NP 11 ou mais. Cause [3D + (Poder Mágico)] de dano mágico ao alvo, e o alvo sofre [Deterioração: (valor de POD)].</p>
+<hr>
+<p>Uma magia de ataque que faz surgir dos pés do inimigo incontáveis estacas incandescentes que o perfuram. A estaca em brasa queima a carne dele e executa a crucificação pelos crimes cometidos contra você.</p>
+
+=== UhnwVzSu6PETw1Sj/description
+# Estilo Conjuração Tranquila
+<p>Esta habilidade só produz efeito quando você tem ao menos um [espaço de mão] vazio. Você pode reduzir em -1 (mínimo 0) o custo de [Ódio] de &laquo;Maximizar Feitiço&raquo; e &laquo;Nuvem da Morte&raquo;.</p>
+<p>(NH2): Durante o Pré-Jogo, escolha uma habilidade de [Ataque Mágico] que você conheça. Até o fim do cenário, o custo de [Ódio] dessa habilidade é reduzido em -1 (mínimo 0).</p>
+<hr>
+<p>Um estilo de combate que dispensa a entoação das magias, traçando os sinais do encantamento com a mão livre.</p>
+
+=== xpb7pxCzGAe4ZD69/description
+# Contrasselo
+<p>Cancele um estado com a tag [Selo] que esteja no alvo.</p>
+<hr>
+<p>Uma magia que neutraliza amarras mágicas lançando contra elas o seu próprio poder mágico. A destruição por meio do poder mágico é o verdadeiro valor do &lt;Feiticeiro&gt;. O alvo não se limita ao que pode ser visto a olho nu.</p>
+
+=== SPY7LVxs83rX2LaM/description
+# Queda das Trevas
+<p>Esta habilidade tem quadrados como alvo. Coloque o Objeto de cena [Penumbra] nos quadrados escolhidos como alvo. A tag deste Objeto de cena passa a ser [Mágico].&nbsp;</p>
+<p>(NH2): Esta habilidade passa a ter [Alcance: 4 Qd].&nbsp;<br>(NH3): Esta habilidade passa a ter [Alvo: Amplo 2 (E)].</p>
+<hr>
+<p>Uma magia que espalha a escuridão com poder mágico e obstrui a visão.</p>
+
+=== v0GirKGdNvQg917v/description
+# Nuvem da Morte
+<p>Esta habilidade só produz efeito contra inimigos [Lacaio] que não tenham as tags [Morto-Vivo] ou [Inorgânico]. O alvo fica [Incapacitado] ou [Morto] (à sua escolha).</p>
+<hr>
+<p>Uma magia de ataque que gera uma névoa venenosa de poder mágico, que interrompe a circulação da força vital e do poder mágico. Neutraliza instantaneamente inimigos fracos.</p>
+
+=== pSZ0CNQRTx8205qz/description
+# Fita de Diamante
+<p>Cause [(NH &times; 2)D + (Poder Mágico)] de dano mágico. No próximo Processo Principal do alvo, independentemente do valor de [Ódio] naquele momento, trate você como [Topo de Ódio] e os aliados que não sejam você como [Abaixo no Ódio].</p>
+<hr>
+<p>Uma magia de ataque que prende o inimigo com uma faixa de ar gélido e o congela. A faixa liga você aos inimigos e concentra a atenção deles em você.</p>
+
+=== EQj9p8sLIxmb7PbM/description
+# Maestria em Energia: Frio
+<p>Você recebe +[(NH)D] de bônus nas rolagens de dano de ataques que tenham a tag [Frio]. Cada ataque não pode receber o efeito de mais de uma habilidade &laquo;Maestria em Energia&raquo; ao mesmo tempo.</p>
+<hr>
+<p>Você concentrou seu treinamento no manejo do elemento frio. O poder das magias com que você o manipula não tem rival.</p>
+
+=== DO96XfmXINX8mogq/description
+# Maestria em Energia: Chama
+<p>Você recebe +[(NH)D] de bônus nas rolagens de dano de ataques que tenham a tag [Chama]. Cada ataque não pode receber o efeito de mais de uma habilidade &laquo;Maestria em Energia&raquo; ao mesmo tempo.</p>
+<hr>
+<p>Você treina com foco no manejo do elemento fogo. O poder das magias com que você o manipula não tem rival.</p>
+
+=== HTzo4GYww8jzrvLB/description
+# Maestria em Energia: Choque
+<p>Você recebe +[(NH)D] de bônus nas rolagens de dano de ataques que tenham a tag [Choque]. Cada ataque não pode receber o efeito de mais de uma habilidade &laquo;Maestria em Energia&raquo; ao mesmo tempo.</p>
+<hr>
+<p>Você treina com foco no manejo do elemento choque elétrico. O poder das magias com que você o manipula não tem rival.</p>
+
+=== g7J9cvDukmhvqZC1/description
+# Muralha de Fogo
+<p>Esta habilidade pode ser posicionada a até 4 Qd, dentro da sua linha de visão. Coloque o Objeto de cena [Parede de Fogo] em uma linha com comprimento de até [NH &times; 2] Qd, dentro do alcance. O Nível do Objeto de cena é igual ao seu NP.</p>
+<hr>
+<p>Uma magia que invoca chamas e as estende como uma muralha.</p>
+
+=== i7p4D76crcu1csM7/description
+# Flecha de Labareda
+<p>Cause ⟦r1⟧{[(NH+2)D + (Poder Mágico)]} de dano mágico ao alvo.</p>
+<p>(Alvo: Qualquer Estado Negativo): Aumente o dano em +[número de Estados Negativos x 4].</p>
+<hr>
+<p>Uma magia de ataque que dispara flechas flamejantes que trespassam os inimigos. O número de flechas disparadas aumenta conforme os males que afligem o oponente, queimando o inimigo de lado a lado.</p>
+
+=== mBrKFbatkrWycl2M/description
+# Agulha Fulgurante
+<p>Cause [(NHx2)D + (Poder Mágico)] de dano mágico ao alvo.</p>
+<p>(Alvo: Dragão, Gigante, Lacaio): O dano passa a ser penetrante.</p>
+<hr>
+<p>Uma magia de ataque que cria incontáveis agulhas de poder mágico e as projeta contra um único inimigo. Os ferrões penetram pelas brechas da armadura, ignorando a defesa e ferindo inimigos enormes e alguns inimigos de pouca resistência.</p>
+
+=== dULHZqfwHSIOP51U/description
+# Linha Congelante
+<p>Cause [(NH)D + (Poder Mágico)] de dano mágico ao alvo. O alvo deve fazer um [Movimento Seguro (forçado)] até um quadrado escolhido por você dentro da área de efeito de &laquo;Linha Congelante&raquo;.</p>
+<hr>
+<p>Um feitiço ofensivo que libera em linha reta uma torrente gelada, como uma avalanche, e atinge o inimigo. Forte o bastante para dilacerar o corpo, ela empurra os inimigos e desfaz a formação deles.</p>
+
+=== Nf12iY48kUKKTyRa/description
+# Vento Gélido
+<p>Cause ⟦r1⟧{[(NH)D + (Poder Mágico)]}&nbsp; de dano mágico ao alvo, e o alvo sofre [Atordoado].</p>
+<hr>
+<p>Uma magia de ataque que sopra uma rajada de temperatura extremamente baixa e congela os inimigos ao alcance. Congelados pelo frio, os inimigos perdem o discernimento e se tornam alvos fáceis.</p>
+
+=== HXocpz11eCmKTPE5/description
+# Lança de Gelo
+<p>Cause [(NH)D + (Poder Mágico)] de dano mágico ao alvo, e o alvo sofre [Cambaleante].</p>
+<hr>
+<p>Um feitiço ofensivo que cria pingentes de gelo em forma de lança e perfura o inimigo. Ao mesmo tempo que o perfura, causa queimaduras de frio que tornam os movimentos do inimigo mais lentos.</p>
+
+=== K6IbIdZQ5X6nQidy/description
+# Forma Gasosa
+<p>Os [Testes de Esquiva] contra os seus ataques com [Alvo: Individual] recebem +2 de bônus, e os [Testes de Esquiva] contra os seus ataques com [Alvo: Área, Amplo, Linha] sofrem -2 de penalidade. Trate este efeito como um Estado de Combate.</p>
+<hr>
+<p>Uma magia que transforma o seu corpo em algo como névoa ou fumaça, atrapalhando a mira do inimigo. No entanto, o corpo instável fica vulnerável a ataques que varrem tudo ao redor de uma só vez.</p>
+
+=== N9ObBEx76NtBEut4/description
+# Sintaxe do Grimório
+<p>Sua [Iniciativa] passa a ser 0 até o fim da rodada. Dentro da sua linha de visão, designe como alvo os Qd de [Alvo: Amplo (NHx2) (T) / Alcance: 4 Qd]. Se você fizer um [Ataque Mágico] com [Alvo: Área] no primeiro Processo Principal desta rodada, o alvo desse ataque muda para [todos os que estiverem nos Qd designados como alvo (Indiscriminado)].</p>
+<hr>
+<p>Uma técnica especial que desenha um círculo mágico tridimensional, acumulando poder mágico ao redor enquanto entoa o feitiço. Amplia drasticamente a área de efeito da magia, mas torna impossível um controle preciso.</p>
+
+=== KqlcDNHZPtF28nWE/description
+# Raio da Impaciência
+<p>Use esta habilidade imediatamente depois de sofrer dano. O alvo sofre [Perseguição: seu [Ódio] &times; 3] e [Rigidez].&nbsp;</p>
+<p>(NP11): O valor da [Perseguição] passa a ser [~ &times; 6] em vez de [~ &times; 3].&nbsp;<br>(NP21): [~ &times; 9].</p>
+<hr>
+<p>Uma magia que faz flutuar uma esfera de luz elétrica ao redor de quem a conjura. A esfera de luz estoura como uma semente de balsamina, paralisando o inimigo.</p>
+
+=== 66dmLpG5seWPV6Nz/description
+# Sintaxe Laminar
+<p>Durante o seu primeiro Processo Principal nesta rodada, seus [Ataques Mágicos] com [Alvo: Individual] passam a ter [Alvo: Três].</p>
+<hr>
+<p>Uma técnica especial que espalha poder mágico pelo espaço para erguer, centrado em você, um círculo mágico em camadas na forma de um pilar, preparando várias magias de ataque para o próximo uso. A magia completa ataca vários inimigos ao mesmo tempo.</p>
+
+=== 5Aeiyt2aFMjFWeA7/description
+# Sintaxe Reticular
+<p>Durante o seu primeiro Processo Principal nesta rodada, seus [Ataques Mágicos] com [Alvo: Individual (ou mais), Área (E)] passam a ter [Alvo: Amplo 1 (E)].</p>
+<hr>
+<p>Uma técnica especial que espalha magia amplamente pelo chão para formar um enorme círculo mágico plano; ao reagir com a próxima magia de ataque em área, ela estende o efeito por uma região ampla.</p>
+
+=== 2p4B0iqpTpaxLCEO/description
+# Câmara de Relâmpagos
+<p>Cause [8D + (Poder Mágico)] de dano mágico ao alvo.</p>
+<p>(Falha): Este uso da habilidade não conta para o seu Limite.</p>
+<hr>
+<p>Uma magia de ataque que aprisiona o inimigo em uma barreira e o queima espalhando incontáveis raios dentro dela. A barreira de relâmpagos em forma de pentagrama se torna uma jaula que aprisiona a vida do inimigo.</p>
+
+=== LpHrqEjHMddfxK3a/description
+# Nebulosa de Relâmpagos
+<p>Cause ⟦r1⟧{[(NH+4)D + (Poder Mágico)]}&nbsp; de dano mágico ao alvo.</p>
+<hr>
+<p>Uma magia de ataque de área ampla que aniquila o inimigo cobrindo o campo de batalha com relâmpagos rodopiantes que lembram uma nebulosa. É uma das magias que representam o &lt;Feiticeiro&gt;, simples porém poderoso, que devasta uma grande área com seu alto poder de fogo.</p>
+
+=== 4mEBogKELMx3Kkg9/description
+# Prevenção Ofensiva
+<p>Use esta habilidade logo depois que o alvo rolar na [Tabela de Exaustão: Energia ou Itens]. Reduza o resultado dessa rolagem em -3.</p>
+<p>(Destino 1): Se você já tiver atingido o Limite desta habilidade, pode pagar este custo para usá-la de novo.</p>
+<hr>
+<p>Uma técnica especial que reduz o desgaste da viagem prevendo as situações possíveis e elaborando contramedidas. O raciocínio dos &lt;Feiticeiros&gt;, que manipulam a causa e o efeito das coisas com magia, também pode ser aplicado dessa forma.</p>
+
+=== CkG8Wg2xgXXFFi63/description
+# Orbe de Lava
+<p>Cause [(NH)D + (Poder Mágico)] de dano mágico ao alvo.</p>
+<hr>
+<p>Um feitiço ofensivo que esmaga grupos de inimigos criando uma massa de lava escaldante e lançando-a livremente pelos ares.</p>
+
+=== vMjIdYJ3rcjtXsEK/description
+# Borrão Orbital
+<p>Durante este Processo Principal, os [Testes de Esquiva] contra os seus ataques sofrem -1D de penalidade.</p>
+<hr>
+<p>Uma magia que borra a sua aparência com ilusões para confundir o inimigo e dificultar a reação dele ao próximo ataque.</p>
+
+=== JumQ4MDZFFWI0XRe/description
+# Campo de Plasma
+<p>Cause [(NH)D + (Poder Mágico)] de dano mágico. Você recebe [Barreira: (mod. de POD) &times; NH].</p>
+<hr>
+<p ⟦a1⟧><span ⟦a2⟧>Um feitiço ofensivo em que você se reveste de uma poderosa magia de relâmpago e a arremessa contra o inimigo. A proteção do relâmpago também serve como armadura para proteger você.</span></p>
+
+=== QnDvZxrK17cVKF2m/description
+# Projétil Prismático
+<p>Ao usar esta habilidade, escolha uma entre [Chama] [Frio] [Choque]. Acrescente a tag escolhida às tags desta habilidade. Cause [(NH+2)D + (Poder Mágico)] de dano mágico ao alvo.</p>
+<p>(Falha): Este uso da habilidade não conta para o seu Limite.</p>
+<hr>
+<p ⟦a1⟧><span ⟦a2⟧>Uma magia que dispara flechas mágicas de sete cores, capazes de mudar de elemento livremente.</span></p>
+
+=== N6QU0FcWoPJDFwJX/description
+# Bateria Robusta
+<p>Durante este Processo Principal, você recebe +[NHx5] de bônus nas rolagens de dano de [Ataque Mágico].</p>
+<hr>
+<p>Uma técnica especial em que você para e se concentra para acumular poder mágico. O poder mágico concentrado aumenta muito a força das magias de ataque.</p>
+
+=== sWnZbeLEesEXOEdJ/description
+# Bateria Robusta II
+<p>Adquirida com NP 11 ou mais. Durante este Processo Principal, você recebe +[NHx7] de bônus nas rolagens de dano de [Ataque Mágico].</p>
+<p>(NP21): O bônus aumenta para [NHx9].</p>
+<hr>
+<p>Uma técnica especial em que você para e se concentra para acumular poder mágico. A magia liberada ao amalgamar o poder mágico do próprio corpo com a energia espiritual absorvida da terra e da atmosfera já não é um poder comum.</p>
+
+=== uPfqK275pzDKNSOq/description
+# Torre Deslizante
+<p>Você pode fazer um [Teleporte] de até 5 Qd. No entanto, esse movimento deve ser feito em linha reta, ou ele falha.</p>
+<hr>
+<p>Uma magia que desloca você instantaneamente por uma curta distância em linha reta. Você assume uma aparência de sombra e desliza, ignorando os obstáculos que existam no caminho.</p>
+
+=== 3fMPZd2sM1gBaPWS/description
+# Sentir Aura
+<p>Use esta habilidade logo antes de fazer um [Teste de Percepção]. Você recebe +2D de bônus nesse teste.</p>
+<hr>
+<p>Uma técnica especial que concentra poder mágico nos órgãos dos sentidos para captar com sensibilidade os sinais emitidos por seres vivos e objetos.</p>
+
+=== MIhVZafdGWEflzAk/description
+# Raio Serpente
+<p>Cause [2D + (Poder Mágico)] de dano mágico ao alvo.</p>
+<p>(Extra): Um alvo secundário dentro de [Alvo: Individual / Alcance: 2 Qd] a partir do alvo inicial sofre [NHx5] de dano direto. Esse dano ativa a [Fraqueza] do alvo secundário, como se ele tivesse falhado no [Teste de Esquiva].</p>
+<hr>
+<p>Uma magia de ataque que dispara um feixe de relâmpagos concentrados. A descarga explode com o impacto, ferindo os inimigos próximos.</p>
+
+=== ZfwK9SOPMWUC6t8a/description
+# Maximizar Feitiço
+<p>Ao usar esta habilidade, você pode gastar até três [Pontos de Destino] (pode ser 0). Você recebe +[([Pontos de Destino] gastos + NH) x 5] de bônus nas rolagens de dano de [Ataque Mágico].</p>
+<p>(NP11): O multiplicador do bônus passa a ser x10.&nbsp;<br>(NP21): O multiplicador do bônus passa a ser x15.</p>
+<hr>
+<p>Uma técnica especial que maximiza o poder da magia criando joias que amplificam o poder mágico. Seu brilho, que pode ser considerado a materialização da alma, reescreve a causa e o efeito e gera um poder enorme.</p>
+
+=== SSBKyLkDMbR2IDxE/description
+# Estilo Espada Feiticeira
+<p>Você pode equipar [Lâmina]. Esta habilidade só tem efeito quando você está equipado com uma [Lâmina] em um [espaço de mão]. Você também pode equipar uma [Pedra Mágica] em um [espaço de mão].&nbsp;</p>
+<p>(NH2): Sua [Esquiva] e sua [Resistência] aumentam em +1.&nbsp;</p>
+<p>(NH3): Sua [Defesa Física] aumenta em + (mod. de INT).</p>
+<hr>
+<p>Um estilo de combate que combina pedras mágicas com uma espada, em vez de um cajado, para ativar a magia. Quem o domina adquire um poder defensivo capaz de sustentá-lo na linha de frente, mesmo pertencendo a uma classe de ataque mágico.</p>
+
+=== uv0K7IkuF9zFQntd/description
+# Estrada da Tormenta
+<p>Adquirida com NP 11 ou mais. &laquo;Campo de Plasma&raquo; ignora o estado [Anulação: Choque] dos alvos, e o valor da [Barreira] aumenta em +[Recuperação].</p>
+<p>(NH2): Você recebe +1D no seu [Teste de Precisão] de &laquo;Câmara de Relâmpagos&raquo;.</p>
+<hr>
+<p>Você é um feiticeiro especializado em magias que manipulam descargas elétricas. Esse poder, comparável à ira divina, será seu aliado no ataque e na defesa.</p>
+
+=== PlBrggC1nxjTWMur/description
+# Erupção Vulcânica
+<p>Cause [(NH)D + (Poder Mágico)] de dano mágico ao alvo.</p>
+<p>(Efeito): No Processo de Encerramento desta rodada, cause [mod. de INT &times; NH] de dano direto, como dano extra, a "tudo o que estiver em todos os Qd designados ao escolher o alvo desta habilidade (Indiscriminado)".&nbsp;</p>
+<hr>
+<p>Uma magia ofensiva que ativa o poder mágico da terra e cria chamas explosivas como uma erupção vulcânica. As chamas sobem aos céus e depois caem de volta sobre a terra, transformando os arredores em terra arrasada.</p>
+
+=== uv6vHrohVZnfLsLa/description
+# Senhores do Vulcão
+<p>Adquirida com NP 11 ou mais. &laquo;Flecha de Labareda&raquo; e &laquo;Orbe de Lava&raquo; ignoram o estado &nbsp;[Anulação: Chama] dos alvos.</p>
+<p>(NH2): O custo de [Ódio] de &laquo;Estaca Queimada&raquo; é reduzido em -1 (mínimo 0).</p>
+<hr>
+<p>Você é um feiticeiro especializado na magia de manipular chamas. Você usa livremente chamas destrutivas, difíceis de controlar.</p>
+
+=== yKbK4Mz9EtRA3Gjh/description
+# Comando de Ataque
+<p>Durante este Processo Principal, você recebe +2D de bônus em dano físico.</p>
+<hr>
+<p>Uma técnica especial que aumenta a força dos ataques físicos realizados pelos servos invocados, dando instruções precisas ou ordens cheias de ânimo.</p>

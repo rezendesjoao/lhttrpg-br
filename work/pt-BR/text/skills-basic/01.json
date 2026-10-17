@@ -1,0 +1,18 @@
+{
+  "fl482m53K1KVmt4U/description": "<p>Você causa [Poder Mágico + 1D] de dano mágico.</p>",
+  "WM5upuUBddixPdjC/description": "<p>Você causa [Poder de Ataque + 1D] de dano físico.</p>",
+  "oIUaP3VXGHGlKm4h/description": "<p>Você pode mover um item de um [Espaço de Inventário] para um [Espaço de Equipamento], ou vice-versa. Você também pode largar ou pegar um item no seu quadrado, ou trocar uma peça de equipamento. Não há limite para o número de trocas de equipamento que você pode fazer com uma única ação. Você pode usar esta habilidade básica quantas vezes quiser durante um Briefing.</p>",
+  "0kYKskp1c9eXs0DW/description": "<p>Use esta habilidade depois de fazer, durante este Processo Principal, um ataque que tenha causado pelo menos 1 de dano a um alvo [Incapacitado]. Esse alvo fica [Morto].</p>",
+  "Ql4JC6Et0zoSMkEL/description": "<p>Você pode fazer um [Movimento Normal] de até [Velocidade] + 2 Qd. &nbsp;Logo em seguida, você perde uma Ação Menor. Se não tiver uma Ação Menor para perder, você não pode usar esta habilidade.</p>",
+  "AkE9jnFrKsm8i89o/description": "<p>Esta habilidade tem como alvo tudo dentro do alcance que tenha [Dificuldade de Detecção]. O alvo remove quaisquer efeitos [Encoberto] ou [Oculto]. Você não precisa remover esses efeitos dos seus aliados.</p>",
+  "obao1W79fgYWcx5o/description": "<p>Esta habilidade só pode ter como alvo um personagem com [Dificuldade de Identificação]. O alvo fica [Identificado].</p>",
+  "pLccgRPUqH0oIYYE/description": "<p>Use esta habilidade quando tentar obter informações sobre os inimigos da próxima cena.</p>\n<p>(Resultado: 10) Você descobre o número de inimigos que vão aparecer.<br>(Resultado: 20) Você descobre o nome do inimigo de menor nível (se vários empatarem no mesmo nível, o Mestre escolhe) e também se ele tem a tag [Chefe] ou [Lacaio].<br>(Falha Crítica): O inimigo percebe o seu reconhecimento.</p>",
+  "NHwN2c3MQtppMdtA/description": "<p>Você fica [Oculto]. No entanto, você não pode usar esta habilidade se estiver no Topo de Ódio, se outro personagem puder fazer uma [Obstrução] contra você ou se estiver sob algum Estado Negativo.</p>",
+  "PtOCLZ1FmScvQhNk/description": "<p>Esta habilidade tem como alvo um único Item com [Dificuldade de Análise]. O alvo fica [Analisado].</p>",
+  "V30xXzllUuzBfafd/description": "<p>Esta habilidade tem como alvo um único Objeto de cena com [Dificuldade de Análise]. O alvo fica [Analisado].</p>",
+  "ZHAPIDBQHQCFWtiH/description": "<p>Esta habilidade tem como alvo um único Objeto de cena que esteja [Analisado] e tenha [Dificuldade de Desarme]. Os efeitos do alvo terminam.</p>",
+  "tS3O6p4M5xmHkwAh/description": "<p>Use quando um aliado que não seja você for sofrer dano. Você sofre o dano no lugar do alvo, e o alvo não é afetado pelo ataque. Você precisa estar no estado [Pré-Ação] para usar esta habilidade e passa ao estado [Pós-Ação] depois de usá-la. Esta habilidade só pode ser usada uma vez em resposta a cada ataque. Inimigos não podem usar esta habilidade.</p>",
+  "lEAXTaLa3FdWMn0A/description": "<p>Você pode fazer um [Movimento Normal] de até [Velocidade] Qd.</p>",
+  "Snhgn7GWvwbtX6t1/description": "<p>Você pode fazer um [Movimento Seguro] de 1 Qd. Logo em seguida, você perde uma Ação Menor. Se não tiver uma Ação Menor para perder, você não pode usar esta habilidade.</p>",
+  "sDoZ2vHmSG9V6X4Z/description": "<p>Você pode mover um item do seu [Espaço de Inventário] para o [Espaço de Inventário] de um alvo voluntário. Se o alvo não tiver [Espaços de Inventário] vazios, o item cai no mesmo quadrado do alvo. Você pode usar esta habilidade básica quantas vezes quiser durante um Briefing.</p>"
+}

@@ -1,0 +1,422 @@
+=== PdhZTBDEa5bXUx0F/description
+# Healing Wind
+<p>O alvo recupera [(Recuperação) + (NHx4)] PV.&nbsp;</p>
+<p>(Menor): Antes que esta habilidade surta efeito, você pode fazer um [Movimento Normal] de até [Velocidade] Qd. Este efeito adicional não pode ser ativado se você estiver com [Rigidez].</p>
+<hr>
+<p>Magia que cria um vento curativo que sara os aliados próximos. Ao manipular a direção do vento, o conjurador também pode ser carregado por ele.</p>
+
+=== 33dmQzoe97AHu6HM/description
+# Heartbeat Healing
+<p>O alvo recebe [Regeneração: (Poder Mágico) + 10].</p>
+<hr>
+<p>Magia que ativa a vitalidade do alvo e cura seus ferimentos aos poucos. É uma magia de recuperação exclusiva do &lt;Conjurador da Floresta&gt;, chamada Recuperação Pulsante.</p>
+
+=== 5HcDncaQmrS4DbS1/description
+# Heartbeat Healing II
+<p>Substitua &laquo;Cura Pulsante&raquo; por esta habilidade no NP 11 ou mais. O alvo recebe [Regeneração: (Poder Mágico)x 2].</p>
+<hr>
+<p>Magia que ativa a vitalidade do alvo e cura seus ferimentos aos poucos. Com a prática, a eficácia dessa magia básica de recuperação pulsante também aumenta muito.</p>
+
+=== GJaoZx51fopiKZ3b/description
+# Lightning Fall
+<p>Cause [(NH+2)D + (Poder Mágico)] de dano mágico ao alvo. Se você usou &laquo;Queda do Relâmpago&raquo; na rodada anterior, reduza o custo de [Ódio] desta habilidade em -1 (mínimo 0).</p>
+<hr>
+<p>Magia de ataque que invoca nuvens de tempestade sobre a cabeça do inimigo e faz cair relâmpagos.</p>
+
+=== lMbKh8xXrt6tjjbb/description
+# Mercy Rain
+<p>O alvo remove todos os estados [Perseguição] e [Deterioração] que o afetam no momento.&nbsp;</p>
+<p>(Destino 1): Reduza em 1 o [Ódio] do alvo, a não ser que o alvo seja você.</p>
+<hr>
+<p>Feitiço que espalha uma chuva de graça que purifica venenos e maldições. Quando a chuva para, um pequeno arco-íris surge sobre o campo de batalha e distrai um pouco os inimigos.</p>
+
+=== bUGj5HwPDYboOtdv/description
+# Natural Talk
+<p>Use esta habilidade quando fizer um teste de [Coleta de Informações]. Você recebe +2D nesse teste.</p>
+<hr>
+<p>Habilidade especial que, pela concentração da mente, permite comunicar-se com animais e plantas, ainda que de forma rudimentar.</p>
+
+=== hqUXusfQDo5OIJ0h/description
+# Nature's Companion
+<p>Você pode usar imediatamente uma habilidade de [Invocação de Servo]. No entanto, não pode usar uma habilidade de [Invocação de Servo] que já esteja em efeito.</p>
+<p>(Destino 1): Você pode usar uma habilidade de [Invocação de Servo] que já esteja em efeito.</p>
+<hr>
+<p>Conhecedor dos diversos aspectos da natureza, ele emprega com destreza os espíritos ancestrais que os encarnam.</p>
+
+=== 4PpwcKNld6sJ7Del/description
+# Nature's Revival
+<p>Você precisa ter &laquo;Ressurreição&raquo; para adquirir esta habilidade. Você pode usar &laquo;Ressurreição&raquo; imediatamente com [Alcance: 6 Qd.]</p>
+<p>(NH2): Quando você usa esta habilidade, o alvo de &laquo;Ressurreição&raquo; recebe [Regeneração: (Poder Mágico) + (Recuperação) + 10].</p>
+<hr>
+<p>Magia que revive aliados e, ao mesmo tempo, aplica a magia de recuperação pulsante. Uma magia de ressurreição exclusiva do &lt;Conjurador da Floresta&gt;, que concentra num único ponto a abundante vitalidade da natureza e a desperta.</p>
+
+=== R0hFQHFQjEcCE4hu/description
+# Nature's Wrath
+<p>Cause ⟦r1⟧{[2D + (Poder Mágico)]} de dano mágico ao alvo.</p>
+<p>(Você: Invocação de Servo): Aumente o dano em +[NH da Invocação de Servo ativa x 6].</p>
+<hr>
+<p>Magia de ataque que manipula a natureza ao redor e atinge o inimigo com árvores e rochas. Seu poder dobra quando ela se vale dos espíritos ancestrais que encarnam a natureza.</p>
+
+=== PjCqn1NtdP1wbVRq/description
+# Nature's Wrath II
+<p>Adquirida com NP 11 ou mais. Cause [2D + (Poder Mágico)] de dano mágico ao alvo.</p>
+<p>(Você: Invocação de Servo): Aumente o dano em +[NH da Invocação de Servo ativa x [mod. de POD]].</p>
+<hr>
+<p>Magia de ataque que manipula os elementos naturais ao redor e golpeia os inimigos um após o outro. Em sintonia com o espírito ancestral, seu poder aumenta drasticamente.</p>
+
+=== YuqzFN61nLk6wLyc/description
+# Regen Mastery
+<p>Você recebe um bônus igual à sua [Recuperação] no valor de [Regeneração] de &laquo;Cura Pulsante&raquo; e &laquo;Cura Pulsante de Gaia&raquo;.</p>
+<hr>
+<p>Você domina a magia de cura exclusiva do Conjurador da Floresta, a cura pulsante. Uma afinidade mais profunda com a natureza sara ferimentos graves a olhos vistos.</p>
+<p>&nbsp;</p>
+
+=== XeRGlQPhVm4XPJ2c/description
+# Servant Summon: Alraune
+<p>Você recebe a tag [Natureza]. Você recebe um bônus de +[NHx3] em [Recuperação].</p>
+<p>(Efeito): Alvos secundários com [Lacaio] dentro de [Alvo: Amplo 4 (E) / Alcance: Corpo a corpo], centrado em você, recebem [Cambaleante].</p>
+<hr>
+<p>Habilidade especial que invoca e emprega o espírito ancestral Alraune, que encarna a fertilidade e o fascínio da natureza. Alraune tem a forma de uma bela moça que se debruça para fora de pétalas de muitos tipos.</p>
+
+=== Ize5W9GpSXpRqzUq/description
+# Servant Summon: Forest Bear
+<p>Você recebe a tag [Natureza]. Receba + [NH &times; 4] nas rolagens de dano físico que você fizer.&nbsp;</p>
+<p>(Efeito): Você recebe [Barreira: [valor de FOR]].&nbsp;<br>(NP 11): Passa a ser + [NH &times; 5] em vez de + [NH &times; 4].&nbsp;<br>(NP 21): + [NH &times; 7].</p>
+<hr>
+<p>Habilidade especial que invoca e emprega o espírito ancestral Urso da Floresta, que encarna a majestade da natureza e a serenidade da floresta. Guardião furioso, o Urso da Floresta protege você e abate os seus inimigos.</p>
+
+=== TRl1raE1omi8ixS8/description
+# Servant Summon: Gray Wolf
+<p>Você recebe a tag [Natureza]. Quando você faz uma rolagem de dano e causa pelo menos 1 ponto de dano de PV, o alvo desse ataque recebe [Perseguição: NHx4].</p>
+<p>(Efeito): Você pode fazer um [Movimento Seguro] de 1 Qd.&nbsp;<br>(NP8): O valor da [Perseguição] passa a ser [NH x6].<br>(NP20): O valor da [Perseguição] passa a ser [NH x8]</p>
+<hr>
+<p>Habilidade especial que invoca e emprega o espírito ancestral Lobo Cinzento, a encarnação da selvageria e da ferocidade da natureza. O lobo cinzento age em conjunto com você para caçar a presa.</p>
+
+=== 7Jos26QVXaM5g6vk/description
+# Servant Summon: Myconid
+<p>Você recebe a tag [Natureza]. Some + (mod. de INT) à sua [Recuperação].</p>
+<p>(Efeito): Alvos secundários dentro de [Alvos: [NH] / Alcance: 4Qd.], centrado em você, devem fazer um [Movimento Seguro (forçado)] de até 2 Qd.</p>
+<hr>
+<p>Habilidade especial que invoca e emprega os miconídeos, espíritos ancestrais que encarnam a diversidade da natureza. Um enxame de encantadores espíritos-cogumelo se infiltra sob os pés do alvo e o arrasta para onde bem entender.</p>
+
+=== W15N9fNxko2tNDrT/description
+# Servant Summon: Strangle Vine
+<p>Escolha como alvo um objeto de cena com a tag [Natural] e a tag [Terreno] ou [Armadilha]. Interrompa o efeito indesejável desse objeto de cena até o fim da rodada.</p>
+<hr>
+<p>Magia que invoca vinhas selvagens que se entrelaçam para cobrir atoleiros ou formar pontes sobre fendas, anulando temporariamente terrenos perigosos.</p>
+
+=== PLMcVI7vVBjp2yOG/description
+# Servant Summon: Wild Boar
+<p>Você recebe a tag [Natureza]. Você recebe um bônus de +1 em [Velocidade].</p>
+<p>(Efeito): Um alvo secundário dentro de [Alvo: Individual / Alcance: 4 Qd.] a partir de você sofre [NHx4] de dano direto.</p>
+<hr>
+<p>Habilidade especial que invoca e emprega o Javali, um espírito ancestral que encarna a selvageria da natureza. O grande javali carrega você pelo campo de batalha.</p>
+
+=== s2gEprQxpXSSUeSd/description
+# Servant Summon: Wild Boar II
+<p>Adquirida com NP 11 ou mais. Você recebe a tag [Natureza]. Você recebe um bônus de +1 em [Velocidade].</p>
+<p>(Efeito): Um alvo secundário dentro de [Alvo: Individual / Alcance: 4 Qd.] a partir de você sofre [NHx7] de dano direto.</p>
+<p>(NP21): Aumente o dano para [NHx10].</p>
+<hr>
+<p>Habilidade especial que firma um pacto de alto nível com o Javali, um espírito ancestral que encarna a selvageria da natureza, e o emprega. O javali gigante percorre o campo de batalha com todo o seu ímpeto e esmaga o inimigo.</p>
+
+=== zbHr5dx4qlTLZHIc/description
+# Solitary Cedar Style
+<p>Esta habilidade só produz efeito quando você não está sob o efeito de uma habilidade de [Invocação de Servo]. Você recebe um bônus de +[NHx5] nas rolagens de dano.</p>
+<p>(NH3): Durante o Processo de Encerramento de cada rodada, você pode reduzir o seu [Ódio] em -1.</p>
+<hr>
+<p>Estilo de combate que desfere um golpe poderoso ao encarar o céu e a terra com o próprio corpo, transformando-se no próprio espírito ancestral, uma das faces da natureza.</p>
+
+=== iM9KaEDbleWjkQuo/description
+# Tiny Fountain
+<p>Use esta habilidade antes de o alvo rolar na [Tabela de Exaustão: Estamina, Dinheiro]. Reduza o resultado da rolagem em -3.</p>
+<hr>
+<p>Magia que faz brotar uma fonte de água pura durante a viagem. A água alivia o cansaço e concede uma pequena bênção.</p>
+
+=== BNGF5nAf9gGcrfhp/description
+# Totem Grace
+<p>Você recebe um bônus de +3 em [Precisão] e um bônus de +[mod. de POD] em [Defesa Física].</p>
+<hr>
+<p>Pela graça dos seus ancestrais, você tem o poder de caçar os seus inimigos.</p>
+
+=== bSj3JS0D9zyNtQFG/description
+# Under-Tree Path
+<p>O alvo fica imune a dano com as tags [Corrupção], [Frio] ou [Choque] que venha de Objetos de cena ou de [Artifícios]. Trate este efeito como um Estado de Combate.&nbsp;</p>
+<p>(Destino 1): Se você já tiver atingido o Limite desta habilidade, pode pagar este custo para usá-la de novo.</p>
+<hr>
+<p>Magia que reúne os poderes curativos e protetores da floresta e traz segurança aos aliados. Como diz o ditado: quem a boa árvore se chega, boa sombra o cobre.</p>
+
+=== LqtehwMJxDvfytV3/description
+# Utility Summon: Gray Wolf
+<p>Você recebe o estado [Montado: Lobo Cinzento]. Enquanto estiver no estado [Montado: Lobo Cinzento], você pode usar os Poderes EX &laquo;Caminhante da Relva&raquo; e &laquo;Presa Arrastadora&raquo;, e as suas rolagens de dano aumentam em + [NH de &laquo;Invocação de Servo: Lobo Cinzento&raquo; &times; 4].</p>
+<hr>
+<p>Habilidade especial que invoca um grande lobo cinzento que pode ser montado e que luta ao seu lado. Quanto mais forte o vínculo, mais afiadas as presas do lobo.</p>
+
+=== qi4V3gPgyvNivMsS/description
+# Utility Summon: Shrieker
+<p>Escolha um quadrado como alvo. Se houver algum personagem [Oculto] no quadrado escolhido, remova imediatamente o estado [Oculto] dele. Durante cada Processo de Encerramento, se houver algum personagem [Oculto] no quadrado alvo, você pode aplicar o efeito de remoção de novo. Este efeito dura até o fim da cena.</p>
+<hr>
+<p>Habilidade que invoca o Gritador, um espírito ancestral que encarna o burburinho da floresta. Cogumelos que gritam como o rugido do vento alertam sobre presenças ocultas.</p>
+
+=== 7NtxqWF7SveSLOXa/description
+# Accuracy Support
+<p>O alvo recebe um bônus de +2 em [Testes de Precisão]. Esta habilidade pode ser usada várias vezes durante um mesmo Briefing.</p>
+
+=== 8jV89tQYGvXCnv1o/description
+# Astral Chaff
+<p>O alvo pode reduzir o seu [Ódio] em -1 durante cada Processo de Encerramento. Esta habilidade pode ser usada várias vezes durante um mesmo Briefing.</p>
+<hr>
+<p><span ⟦a1⟧>Magia de suporte que envolve os aliados numa névoa prateada, que oculta a presença deles e desvia a atenção do inimigo.</span></p>
+
+=== tqrOlWIrKO8Wcjdv/description
+# Astral Hypno
+<p>O alvo recebe [Atordoado] e [Aflito].</p>
+<p>(Ódio 2): Esta habilidade pode ser usada com [Alvo: Área (E)].</p>
+<hr>
+<p>Magia de ataque especial que emite ondas de efeito hipnótico para deter os movimentos do inimigo. Em vez de induzir o sono como uma reação biológica, é uma magia que grava o conceito de "sono" na própria existência do alvo, por isso é eficaz até contra inimigos que não precisam dormir.</p>
+
+=== FDmBSqH6GVLcBxDr/description
+# Astral Mastery
+<p>Você recebe um bônus de +[(NH)D] nas rolagens de dano de ataques com a tag [Espírito].</p>
+<hr>
+<p>Você é perito nas magias e técnicas que deixam cicatrizes mentais nos inimigos, uma das marcas registradas do Encantador.</p>
+
+=== nCKq7ng3RkauoqTt/description
+# Blackout
+<p>Esta habilidade só produz efeito contra inimigos [Lacaio] que estejam sob qualquer Estado Negativo. O alvo fica [Incapacitado] ou [Morto] (à sua escolha).</p>
+<hr>
+<p>Magia que amplifica os males que afligem o inimigo e neutraliza o alvo. Não são só armas e corpos que o Encantador fortalece.</p>
+
+=== XxrNHHbYU7m2R9Ro/description
+# Brain Vice
+<p>Cause [(NH+3)D + (Poder Mágico)] de dano mágico ao alvo. O alvo reduz em -1 o alcance das suas ações com [Alcance: 2 Qd.] ou mais. Trate este efeito como um Estado Negativo que interage com [Aflito].</p>
+<hr>
+<p>Magia de ataque que envolve o inimigo num pilar de luz negra como azeviche, que atormenta a mente e fere o alvo pelo seu lado intangível. Os inimigos atingidos por esta magia perdem a concentração, e a precisão dos seus disparos e magias cai drasticamente.</p>
+
+=== wdzuPYTbCqtgZEeU/description
+# Cast On Beat
+<p>Você pode usar imediatamente duas habilidades com [Momento: Menor] de Encantador ou do arquétipo Mago.</p>
+<hr>
+<p>Habilidade especial que comprime os cânticos mágicos e libera magias uma após a outra, em intervalos curtos.</p>
+
+=== FuXkz7KJYisiTpQ1/description
+# Dancing Staff
+<p>Você recebe um bônus de +1D em [Testes de Operação].</p>
+<hr>
+<p ⟦a1⟧><span ⟦a2⟧>As ferramentas que você encanta começam a se mover como se estivessem vivas, permitindo que você as manipule com mais precisão e eficiência.</span></p>
+
+=== qrjxLVLHFvJH6wBU/description
+# Eidolon Style
+<p>Só tem efeito quando todos os seus [espaços de mão] estão vazios. O seu [Poder de Ataque] e o seu &nbsp;[Poder Mágico] de mãos nuas passam a ser iguais a [NP + ((mod. de INT)&times; 2)]. Você recebe uma tag [Arma Ilusória] no início da cena. Esta tag é perdida no fim da cena.&nbsp;</p>
+<hr>
+<p>Estilo de luta em que o usuário cria inúmeras armas por meio de genjutsu e as manipula livremente.</p>
+
+=== SFwauhFqcGEDzRkq/description
+# Electrical Fuzz
+<p>O alvo recebe [Deterioração] com valor igual a [(Poder Mágico) + (NHx3)].</p>
+<hr>
+<p>Magia de ataque especial que cria várias esferas de trovão do tamanho de um punho e as prende ao inimigo. As esferas descarregam em intervalos regulares e causam dano continuamente.</p>
+
+=== aMFhEmeufnUgngB0/description
+# Elixir
+<p>O alvo recebe um bônus de +[NHx3] em [Recuperação]. Esta habilidade pode ser usada várias vezes durante um mesmo Briefing.</p>
+<hr>
+<p>Magia de suporte que amplifica a força mental dos aliados e aumenta o seu poder de cura.</p>
+
+=== v7fwzzH2GOqTUvx1/description
+# Force Step
+<p>Esta habilidade só pode ser usada em uma pessoa voluntária que não seja você. O alvo pode fazer um [Movimento Seguro] de 1 Qd. Esta habilidade pode ser usada várias vezes no mesmo Processo Principal.</p>
+<hr>
+<p>Magia que empurra o alvo pelas costas com poder mágico, fazendo-o se mover sem se deter diante dos diversos obstáculos.</p>
+
+=== SIAiaBF3yCf1UMhm/description
+# Gain Immunity
+<p>Escolha um entre: [Deterioração], [Cambaleante], [Atordoado]. O alvo fica imune ao estado escolhido. Esta habilidade pode ser usada várias vezes durante um mesmo Briefing.</p>
+<hr>
+<p>Magia de suporte que derrama poder mágico na mente e no corpo do alvo, conferindo-lhe de antemão imunidade contra males específicos.</p>
+
+=== WYTsn2sq10hcRLVS/description
+# Gazer Style
+<p>Esta habilidade só produz efeito quando você não está equipado com itens que tenham a tag [Elmo] ou [Manto]. Quando você aplica um Estado Negativo a um alvo, também pode causar a ele [NHx2] de dano direto por Estado Negativo aplicado.</p>
+<hr>
+<p>Estilo de combate que fortalece diversas maldições por meio do olhar. Seus praticantes também são chamados de usuários do olho místico ou do mau-olhado.</p>
+
+=== D9JXUJOTMhCeZGsy/description
+# Haste
+<p>Durante cada Processo Principal do alvo, ele recebe uma Ação Menor adicional.</p>
+<hr>
+<p>Magia de suporte que aumenta a velocidade de ação dos aliados e lhes permite realizar diversas ações.</p>
+
+=== Ks6MrUDPOGDFmzKO/description
+# Infinity Force
+<p>Use esta habilidade no início do Processo Principal do alvo. Durante o Processo Principal do alvo, ele reduz a 0 o custo de [Ódio] de todas as suas ações.&nbsp;</p>
+<hr>
+<p>Magia que liberta o potencial latente do alvo e lhe permite exibir todo o seu poder por um período muito curto. Envolto numa aura dourada, o alvo pode usar técnicas e magias poderosas sem se preocupar com o custo.</p>
+
+=== VmsZT4In5WbGZsN5/description
+# Keen Edge
+<p>O alvo recebe um bônus de +[NHx3] nas rolagens de dano. Esta habilidade pode ser usada várias vezes durante um mesmo Briefing.</p>
+<hr>
+<p>Magia de suporte que fortalece armas e aumenta o seu poder. Em vez de reforçá-las fisicamente, ela aprimora a sua função como ferramenta; por isso, lançada sobre cajados e pedras mágicas, também aumenta o poder das magias de ataque.</p>
+
+=== VIbVpmkaJ7FOWi7i/description
+# Keen Edge II
+<p>Adquirida com NP 11 ou mais. O alvo recebe um bônus de +[NHx4] nas rolagens de dano. Esta habilidade pode ser usada várias vezes durante um mesmo Briefing.</p>
+<p>(NP21): Aumente o bônus para +[NHx5].</p>
+<hr>
+<p>Magia de suporte que fortalece armas e aumenta o seu poder. Ao reforçar diretamente a essência e o conceito da arma, transforma armas comuns de loja em obras-primas e, se já forem obras-primas, em tesouros louvados nas lendas.</p>
+
+=== dLpcVPq6xld7ZCpO/description
+# Mana Channeling
+<p>O alvo pode escolher uma habilidade com [Limite: n/Cena] que já tenha usado e recuperar um uso dela. Um alvo que não puder recuperar o uso de nenhuma habilidade recebe, em vez disso, +1 [Ponto de Destino]. Você não pode escolher a si mesmo como alvo desta habilidade.</p>
+<hr>
+<p>Magia que liga você aos seus aliados por caminhos invisíveis, que se estendem como uma rede pelo campo de batalha, e distribui poder mágico entre eles. Num instante, os aliados recobram a vitalidade e recuperam todas as forças.</p>
+
+=== Wml3IKkooN1vFeuX/description
+# Mana Link
+<p>Use esta habilidade quando o alvo adquirir qualquer Estado de Combate. Remova imediatamente esse Estado de Combate.</p>
+<p>(Ódio 1): Se você já tiver atingido o Limite desta habilidade, pode pagar este custo para usá-la de novo.</p>
+<hr>
+<p>Magia que racha o caminho por onde circula o poder mágico e faz com que ele vaze, desfazendo o efeito vantajoso que o inimigo tentava obter.</p>
+
+=== 1qPZ0fDtbGwpazJS/description
+# Mesmerize
+<p>Você não pode escolher como alvo inimigos com a tag [Chefe]. O alvo não pode ficar no estado [Pré-Ação] no Processo de Abertura de cada rodada. Este efeito é tratado como um Estado Vital com a tag [Selado] e dura até que o alvo consuma 2 [Pontos de Destino] ou até que o efeito seja cancelado pela restrição da tag [Encantamento].</p>
+<hr>
+<p ⟦a1⟧><span ⟦a2⟧>Habilidade especial que coloca a mente do alvo em estado hipnótico e o deixa incapaz de agir.</span></p>
+
+=== PFFkSYVXbYj3jSmy/description
+# Mind Bolt
+<p>Cause [3D + (Poder Mágico)] de dano mágico ao alvo.</p>
+<hr>
+<p>Magia de ataque que dispara flechas mágicas que perfuram não só o corpo, mas também a mente.</p>
+
+=== Hpl8XzeIPjwij1wG/description
+# Mind Shock
+<p>Cause [(NH)D + (Poder Mágico)] de dano mágico ao alvo, e o alvo recebe [Confuso].</p>
+<hr>
+<p ⟦a1⟧><span ⟦a2⟧>Magia ofensiva que provoca uma explosão de grande impacto não só no corpo, mas também na mente, desnorteando muitos inimigos. Seu brilho esmagador de almas mergulha as forças inimigas no caos.</span></p>
+
+=== jOlKHi5hWyxgX8wm/description
+# Nailing Curse
+<p>Use Maldição do Prego quando o alvo for perder um Estado Negativo que o afeta. Perca uma tag [Arma Ilusória] como custo. A remoção do Estado Negativo é anulada.</p>
+<hr>
+<p>Magia que agrava um mal cravando uma arma ilusória no corpo do inimigo e despejando poder mágico diretamente nele. As armas fantasmas usadas desaparecem.</p>
+
+=== Jc3oXpmbJs68dQgB/description
+# Nightmare Sphere
+<p>Cause [(NH)D + (Poder Mágico)] de dano mágico ao alvo, e o alvo recebe [Rigidez].</p>
+<hr>
+<p>Magia ofensiva que cria um campo de força repleto de vibrações que corroem a mente, provocando pesadelos nos inimigos em seu interior. Diante da visão aterradora, os inimigos paralisam de medo.</p>
+
+=== odlmqJGE3CdigLzB/description
+# Overrunner
+<p>O alvo recebe um bônus de +1 em [Velocidade]. Esta habilidade pode ser usada várias vezes durante um mesmo Briefing.</p>
+<hr>
+<p>Magia de suporte que reforça a velocidade do alvo e aumenta a sua mobilidade.</p>
+
+=== m9XQTBtlkWl9bdwi/description
+# Prismize
+<p>Durante este Processo Principal, se você fizer um [Ataque Mágico] com a tag [Espírito] que acerte o alvo mas não cause sequer 1 ponto de dano de PV, você pode mudar esse ataque para que tenha uma das seguintes tags: [Chama], [Frio], [Choque], [Sagrado] ou [Corrupção].</p>
+<hr>
+<p>Habilidade especial que transforma o poder mágico em diversas propriedades, alterando os atributos e as características de magias conhecidas. O poder mágico que você manipula livremente parece emitir um brilho de sete cores.</p>
+
+=== H2vWlTQ2SKVfi2zK/description
+# Psycho Tuner
+<p>Adquirida com NP 11 ou mais. As suas habilidades &laquo;Raio Mental&raquo; e &laquo;Esfera do Pesadelo&raquo; ignoram [Anulação: Espírito].&nbsp;</p>
+<p>(NH 2): O Estado Negativo causado pela habilidade &laquo;Prensa Cerebral&raquo; passa a ser tratado como um Estado Vital com a tag [Selo], e, para removê-lo, o alvo precisa consumir 2 [Pontos de Destino].</p>
+<hr>
+<p>Você tem habilidade em penetrar as menores fissuras da mente e manipulá-las à vontade. Seus oponentes conhecerão o terror dos ataques mentais, contra os quais escudos e armaduras de nada valem.</p>
+
+=== 5i24f8JYOeJUP5n9/description
+# Pulse Bullet
+<p>Cause [NH+2] de dano direto ao alvo. Este dano ativa [Perseguição] uma vez, como se o alvo tivesse falhado no seu [Teste de Esquiva]. Esta habilidade pode ser usada várias vezes no mesmo Processo Principal.</p>
+<hr>
+<p>Magia que dispara pequenos projéteis de luz que perseguem o alvo e alvejam o inimigo. Pode ser ativada imediatamente, sem recitação, e sempre atinge o oponente.</p>
+
+=== BnQ87oAoK3zPRKPr/description
+# Pulse Bullet II
+<p>Adquirida com NP 11 ou mais. Cause [NH+[mod. de POD]] de dano direto ao alvo. Este dano ativa [Perseguição] uma vez, como se o alvo tivesse falhado no seu [Teste de Esquiva]. Esta habilidade pode ser usada várias vezes no mesmo Processo Principal.</p>
+<hr>
+<p ⟦a1⟧><span ⟦a2⟧>Magia que dispara incontáveis projéteis de luz que perseguem o alvo e alvejam o inimigo. Um a um, esses projéteis inevitáveis são pequenos, mas a sua quantidade causa um dano impossível de ignorar.</span></p>
+
+=== 5OLo4vbJ4FPIjGde/description
+# Security Wall
+<p>Da próxima vez que o alvo receber um estado com a tag [Selado], esse estado é removido imediatamente. Trate este efeito como um Estado de Combate que é removido depois de ser aplicado uma vez.</p>
+<hr>
+<p>Magia de suporte que examina a fundo as defesas dos aliados, encontra vulnerabilidades espirituais e aplica de antemão múltiplas contramedidas.</p>
+
+=== 3wXkDispVwG3DZvc/description
+# Spinning Fate
+<p>Use esta habilidade logo depois de o alvo rolar na [Tabela de Exaustão: Estamina ou Itens]. Reduza o resultado dessa rolagem em -3.</p>
+<p>(Destino 1): Se você já tiver atingido o Limite desta habilidade, pode pagar este custo para usá-la de novo.</p>
+<hr>
+<p>Magia que gira a roda da fortuna só um pouquinho para trás e mantém o azar e o infortúnio afastados.</p>
+
+=== TialHbL9YuoXsjUL/description
+# Sustainer Style
+<p>Esta habilidade só produz efeito quando você tem pelo menos dois [espaços de acessório] vazios. Você pode manter os efeitos de até três habilidades de [Encantamento], em vez de apenas duas.</p>
+<p>(NH2): Basta ter um ou mais [espaços de acessório] vazios para esta habilidade produzir efeito.</p>
+<hr>
+<p>Estilo de combate em que magias de suporte são aplicadas a talismãs, anéis e outros objetos feitos à mão, e assim mantidas. Isso permite manter mais magias ao mesmo tempo do que o normal.</p>
+
+=== aqz7rOL28o8ArPiY/description
+# Thorn Bind Hostage
+<p>O alvo recebe dois acúmulos de [Perseguição] com valor igual a [[mod. de INT] + 8].</p>
+<p>(Destino 1): O alvo recebe três acúmulos em vez de dois.</p>
+<hr>
+<p>Magia que prende o inimigo com espinhos mágicos de brilho azul-celeste. Eles não atrapalham em nada os movimentos, mas, quando o alvo é atacado, os espinhos estouram e lançam uma onda de choque contra o inimigo.</p>
+
+=== KZ7wydDWVXr58Evf/description
+# Thorn Bind Hostage II
+<p>Adquirida com NP 11 ou mais. O alvo recebe dois acúmulos de [Perseguição] com valor igual a [[valor de INT]].</p>
+<p>(Destino 1): O alvo recebe três acúmulos em vez de dois.</p>
+<hr>
+<p>Magia que prende o inimigo com espinhos mágicos de brilho azul-celeste. Os espinhos explodem com o impacto, infligindo dano mortal aos inimigos com farpas mágicas e explosões.</p>
+
+=== pAso04dSJJOVuWtd/description
+# True Guide
+<p>O alvo recebe um bônus de +2 no seu próximo [Teste de Acerto]. Este efeito dura até o fim da cena ou até ser aplicado uma vez. Esta habilidade pode ser usada várias vezes no mesmo Processo Principal.&nbsp;</p>
+<p>(Destino 1): Esta habilidade pode ser usada com [Alvo: Área (E)].</p>
+<hr>
+<p>Magia que cria, diante dos aliados, uma mira que auxilia os seus ataques e os torna certeiros.</p>
+
+=== C5GUQAhlYTM7CsDU/description
+# Undo
+<p>O alvo escolhe um estado [Perseguição], [Rigidez] ou [Aflito] que o afete no momento e o remove. Esta habilidade pode ser usada várias vezes no mesmo Processo Principal.</p>
+<hr>
+<p>Magia que inverte os feitiços que causam males de estado e os usa para curar os males dos aliados.</p>
+
+=== YMitN948fM3euXEK/description
+# Weapon Citadel
+<p>Use esta habilidade quando o alvo for receber dano de PV. Perca qualquer número de tags [Arma Ilusória] como custo. O dano de PV que o alvo receberá passa a ser [(mod. de POD) &times; [número de tags de Arma Ilusória usadas]].</p>
+<hr>
+<p>Magia que usa armas ilusórias para bloquear os ataques inimigos. Pode ser usada de várias formas, como assumir a forma de um escudo ou abater flechas e magias que se aproximam, mas a arma fantasma usada desaparece.</p>
+
+=== 2d5v2xmjmJNfAQfk/description
+# Anchor Howl
+<p>Você recebe [Anulação: (mod. de FOR)]. Este efeito dura até o fim da rodada.</p>
+<p>(Topo de Ódio): Você recupera 5 PV.</p>
+<hr>
+<p>Habilidade especial que solta um brado de guerra e atrai para si a hostilidade do inimigo. Ao encorajar a si mesmo, você também se prepara para os ataques inimigos.</p>
+
+=== ywccMowlbeELjQlj/description
+# Anchor Howl II
+<p>Substitua &laquo;Uivo da Âncora&raquo; por esta habilidade no NP 11 ou mais. Você recebe [Anulação: (mod. de FOR)]. Este efeito dura até o fim da rodada.</p>
+<p>(Topo de Ódio): Você recupera [valor de FOR] PV.</p>
+<hr>
+<p>Habilidade especial que solta um brado de guerra e atrai para si a hostilidade do inimigo. Ao ver você se inflamar e encará-los, os inimigos o enxergarão como uma muralha intransponível.</p>
+
+=== Xv4XPF0LHvG6x7Ou/description
+# Armor Crush
+<p>Cause [(NH+1)D + (Poder de Ataque)] de dano físico ao alvo. O alvo sofre uma penalidade de -5 em [Defesa Física]. Trate este efeito como um Estado Negativo.</p>
+<p>(Destino 1): A penalidade passa a ser -10.</p>
+<hr>
+<p>Habilidade especial que destrói a armadura e a pele do inimigo com um golpe poderoso, causando dano e reduzindo a sua defesa. É uma técnica que aproveita o peso de um machado ou de um martelo.</p>
+
+=== Gc7C0S58CBisPDj8/description
+# Armor Crush II
+<p>Adquirida com NP 11 ou mais. Cause [3D + (Poder de Ataque)] de dano físico ao alvo. O alvo recebe [Fraqueza (Dano Físico): 10]. Trate este efeito como um Estado Negativo.</p>
+<p>(NP21): O valor da Fraqueza aumenta para 15 em vez de 10.<br>(Destino 1): Dobre a intensidade da Fraqueza.</p>
+<hr>
+<p>Habilidade especial que destrói a armadura e a pele do inimigo com um golpe poderoso, causando dano e reduzindo a sua defesa. Diante desse golpe, qualquer defesa se rasga como papel.</p>

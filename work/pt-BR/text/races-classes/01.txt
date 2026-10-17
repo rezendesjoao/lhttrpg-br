@@ -1,0 +1,11 @@
+=== bnWCJb1oEpfBBEe8/description
+# Arcanista
+<p>Também conhecido como: Erudito da Magia.</p>
+
+=== ebHweV50nA1uQtp0/description
+# Devoto
+<p>Também conhecido como: Orante.</p>
+
+=== qCsTYcKRvNE8tPHN/description
+# Tático
+<p>Também conhecido como: Estrategista.</p>

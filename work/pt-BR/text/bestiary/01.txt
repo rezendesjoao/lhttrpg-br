@@ -1,0 +1,1152 @@
+=== FEnvx4LpUNiYJMyZ/items.SMM1LfZwgQ076xOl.description
+# Abel the Young Noble Vagabond Vampire (Vampire Bohemian Prince) › Blood-sucking Ribcage
+<p>Este inimigo recupera 6 PV.</p>
+<p>Destino 1: O alvo também sofre [Rigidez], que não pode ser removida até que o alvo saia do quadrado do inimigo.</p>
+
+=== FEnvx4LpUNiYJMyZ/items.6OdS89SvmAI49eVG.description
+# Abel the Young Noble Vagabond Vampire (Vampire Bohemian Prince) › Forest of Severed Spines
+<p>Os alvos sofrem 5 pontos de dano direto, e este inimigo pode remover de si mesmo um Estado Negativo.</p>
+
+=== FEnvx4LpUNiYJMyZ/items.8cVjVXsCAtTU2uVT.description
+# Abel the Young Noble Vagabond Vampire (Vampire Bohemian Prince) › Night's Blood Ties
+<p>Quando este inimigo sofre dano de [Radiância], suas defesas caem para 0 e ele sofre [Rigidez].</p>
+
+=== FEnvx4LpUNiYJMyZ/items.mlIDyrN87bBNYZmG.description
+# Abel the Young Noble Vagabond Vampire (Vampire Bohemian Prince) › Repeat Action
+<p>Uma vez por Rodada, quando este inimigo fica em [Pós-Ação], ele imediatamente volta a ficar em [Pré-Ação]. Depois disso, até o fim da Rodada, sua Iniciativa cai para 0.</p>
+
+=== FEnvx4LpUNiYJMyZ/items.PPNIsMd7oNiiDn3O.description
+# Abel the Young Noble Vagabond Vampire (Vampire Bohemian Prince) › Scattering Cloud Mist
+<p>Ativada quando este inimigo falha em um teste de defesa. Proceda como se o inimigo tivesse obtido um Crítico; ele também pode se mover até 4 quadrados como uma reação instantânea.</p>
+<p>Pode ser usada 1/Cenário; Destino 2: 2/Cenário. " &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+
+=== FEnvx4LpUNiYJMyZ/items.TDrfC9qaaKNDAuQo.description
+# Abel the Young Noble Vagabond Vampire (Vampire Bohemian Prince) › Seduction of the Evil Eye
+<p>Um alvo no mesmo quadrado que este inimigo é forçado a sair do quadrado. O alvo sofre Fraqueza 5 até o fim do Processo Principal.&nbsp;</p>
+
+=== kVB3cfRDZPcX2olF/items.f5rYPS71boSvCFWK.description
+# Blue-scaled Sea Dragon › Repeat Action
+<p>Uma vez por Rodada, quando este inimigo fica em [Pós-Ação], ele imediatamente volta a ficar em [Pré-Ação]. Depois disso, até o fim da Rodada, sua [Iniciativa] passa a ser 0.</p>
+
+=== kVB3cfRDZPcX2olF/items.0Q7PsYHgHOXGWDBr.description
+# Blue-scaled Sea Dragon › Water Current Manipulation
+<p>O alvo precisa estar, no momento, em contato com o Objeto de cena [Submerso] ou similar. O alvo é compelido a se mover para o mesmo quadrado deste inimigo.</p>
+
+=== kVB3cfRDZPcX2olF/items.WjGl8cE7GQGR7AkD.description
+# Blue-scaled Sea Dragon › Water-Walking Dragon
+<p>Este inimigo não tem Ação de Movimento.</p>
+
+=== 0zl36mSijgkYsTCu/items.vywcHNV8V3jxYRRa.description
+# Burning Dead › Black Flames of Regret
+<p>Quando este inimigo aparece em uma Cena, dois inimigos Esqueleto Arqueiro podem, opcionalmente, aparecer com ele. Em vez disso, podem ser usados um Esqueleto Arqueiro e dois Esqueletos. Os inimigos que aparecem por causa deste efeito não geram Itens Deixados.</p>
+
+=== 0zl36mSijgkYsTCu/items.MJnL4m5sPuMBjWBx.description
+# Burning Dead › Ethereal Body
+<p>Quando este inimigo sofre dano de [Frio] ou [Espírito], trate a defesa dele como 0. Este inimigo não é afetado por Objetos de cena com a tag [Mecânico] ou [Natural], a menos que queira. Sempre que este inimigo faz um [Movimento Normal], esse movimento é sempre considerado um [Movimento Seguro].</p>
+
+=== 0zl36mSijgkYsTCu/items.dMbT4kPH7VWcQXIg.description
+# Burning Dead › Renew Action
+<p>Use quando este inimigo ficar em [Pós-Ação]. Este inimigo fica imediatamente em [Pré-Ação], e sua [Iniciativa] passa a ser 0 até o fim da Rodada.</p>
+
+=== vbbSX0S7e2jBUnWy/items.nJNPv32cFXmt7MKz.description
+# Clockwork Fast Ladybug › Complex GPS Sensor
+<p>Use quando este inimigo for alvo de um ataque de alvo individual. O [Ódio] do atacante passa imediatamente a ser igual ao valor do Topo de Ódio.<br>(Destino 1): Esta habilidade pode ser usada novamente.</p>
+
+=== vbbSX0S7e2jBUnWy/items.Ot0dtxMPsbw4tPjU.description
+# Clockwork Fast Ladybug › Idling-Control Mechanism
+<p>Os alvos recebem [Anulação: 5]. Se um alvo sair do quadrado deste inimigo, o efeito persiste até o fim da Rodada.</p>
+
+=== vbbSX0S7e2jBUnWy/items.0nNIpGsFLcWDsPCr.description
+# Clockwork Fast Ladybug › Lurking Machine Troops
+<p>Este inimigo começa toda Cena [Oculto]. A cada Rodada em que sofrer pelo menos 1 ponto de dano, ele fica [Oculto] durante o Processo de Encerramento. Se este inimigo sofrer dano de [Chama], ele deve se mover 3 quadrados e sofre [Rigidez] e [Falha].</p>
+
+=== vbbSX0S7e2jBUnWy/items.PQO9xZiadQR3VzPA.description
+# Clockwork Fast Ladybug › Platoon Command Vehicle
+<p>Quando este inimigo aparece em uma Cena, dois inimigos de NP 3 ou menos com a tag [Engrenagem], ou um inimigo normal, podem escolher reorganizar sua posição (sem limite de distância). Os inimigos que alteraram sua posição com este efeito não concedem Itens Deixados.</p>
+
+=== V4tLapbkLUma87us/items.ybYNUSaJIIByw6MN.description
+# Diatryma › Majesty of the Moa
+<p>Quando este inimigo aparece em uma Cena, quaisquer dois inimigos de NP1 com a tag [Natureza] ou [Mítico] podem, opcionalmente, aparecer com ele. Em vez disso, podem ser usados um inimigo e dois inimigos [Lacaio] de NP1 com a tag [Natureza] ou [Mítico]. Os inimigos que aparecem por causa deste efeito não geram Itens Deixados.</p>
+
+=== V4tLapbkLUma87us/items.YHQtSaQDAgLlg0jA.description
+# Diatryma › Renew Action
+<p>Use quando este inimigo ficar em [Pós-Ação]. Este inimigo fica imediatamente em [Pré-Ação], e sua [Iniciativa] passa a ser 0 até o fim da Rodada.</p>
+
+=== ThzHgLQY63AmV3Fh/description
+# Goblin Champion
+<table ⟦a1⟧><colgroup><col ⟦a2⟧> </colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>Itens Deixados</td>
+</tr>
+<tr ⟦a5⟧>
+<td ⟦a6⟧>1~4</td>
+<td ⟦a7⟧>Fragmento de Espada Mágica [Catalisador Mágico 9] (90G) x 3</td>
+</tr>
+<tr ⟦a8⟧>
+<td ⟦a9⟧>5~6</td>
+<td ⟦a10⟧>Espada Mágica Roubada [Valioso] (180G) x 3</td>
+</tr>
+<tr ⟦a11⟧>
+<td ⟦a12⟧>Fixo</td>
+<td ⟦a13⟧>Fixo: Espada Quebrada [Material-Base] (140G)</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<p>⟦r1⟧{[Esquiva]}<br>⟦r2⟧{[Resistência]}</p>
+
+=== ThzHgLQY63AmV3Fh/items.INuhT6coSa5NXvCn.description
+# Goblin Champion › Bloody Roar
+<ul>
+<li>Esta ação é tratada como um Poder EX.</li>
+<li>Use imediatamente quando os [PV] deste inimigo caírem para 220 ou menos.</li>
+<li>Este inimigo recebe 2 Pontos de Destino e 50 de Barreira.</li>
+<li><span ⟦a1⟧><span ⟦a2⟧>Além disso, ele usa imediatamente 《Relâmpago da Lâmina Furiosa》.</span></span></li>
+<li><span ⟦a3⟧><span ⟦a4⟧>Nesse uso, o dano direto causado por Relâmpago da Lâmina Furiosa será de 20 pontos em vez de 10 pontos.</span></span></li>
+</ul>
+<p>&nbsp;</p>
+
+=== ThzHgLQY63AmV3Fh/items.pAuWnOPVE8sS8tQc.description
+# Goblin Champion › Furious Blade Lightning
+<p>Este inimigo realiza um [Teleporte Instantâneo] para o mesmo Qd do alvo e causa 10 pontos de dano direto a ele.</p>
+<p>Com esta habilidade, você pode escolher um Estado Negativo que este inimigo esteja sofrendo e removê-lo.</p>
+<p>Depois que esta ação terminar, este inimigo pode usar Relâmpago da Lâmina Furiosa novamente (quantas vezes forem necessárias), se possível.</p>
+<p>No entanto, mesmo que você use Relâmpago da Lâmina Furiosa várias vezes em um mesmo Processo de Encerramento, não pode escolher o mesmo alvo novamente.</p>
+
+=== ThzHgLQY63AmV3Fh/items.SK8y88jIkikUM12Y.description
+# Goblin Champion › Goblin Rage
+<ul>
+<li>Use esta habilidade quando este inimigo sofrer dano de [Espírito/Mental].&nbsp;</li>
+<li>Este inimigo usa imediatamente Relâmpago da Lâmina Furiosa.&nbsp;</li>
+<li>Aumente em +5 o dano de Relâmpago da Lâmina Furiosa.</li>
+</ul>
+
+=== ThzHgLQY63AmV3Fh/items.7vopuYc74Sq71W8N.description
+# Goblin Champion › Goblin Sword King
+<p>⟦r1⟧{[2D+7]}</p>
+<p>⟦r2⟧{[2D+40]} de dano físico.</p>
+<p>[Menor] Esta habilidade especial tem "Alcance: 2Qd".</p>
+<p>[Destino 1] Aplica também [Perseguição: 10] ao alvo.</p>
+
+=== ThzHgLQY63AmV3Fh/items.4DZgwPwe75JX8Rgo.description
+# Goblin Champion › Intimidation Sword Wind
+<p>Não pode ser usada no Processo Principal em que este inimigo tiver "se movido".</p>
+<p>⟦r1⟧{[2D+7]}</p>
+<p>⟦r2⟧{[2D+40]} de dano físico.</p>
+<p>[Destino 1] Se o Ódio do alvo for 4 ou menos, o alvo perde imediatamente a vontade de lutar e entra no estado [Pós-Ação].</p>
+
+=== ThzHgLQY63AmV3Fh/items.nkfw3UnqreZQKgOL.description
+# Goblin Champion › Re-action
+<p>Use quando ele ficar em [Pós-Ação]. Este inimigo fica em [Pré-Ação] com [Iniciativa] 0.&nbsp;</p>
+
+=== go6ODeCe36JscMsR/items.Qr355vRreS7aHneW.description
+# King of the Iceberg › Bear of the Ice Field
+<p>Este inimigo não pode usar Deslocar-se. Este inimigo não sofre as penalidades do estado [Nadando].</p>
+
+=== go6ODeCe36JscMsR/items.LvmkUtknWoOKMRQV.description
+# King of the Iceberg › Repeat Action
+<p>Uma vez por Rodada, quando este inimigo fica em [Pós-Ação], ele imediatamente volta a ficar em [Pré-Ação]. Depois disso, até o fim da Rodada, sua [Iniciativa] passa a ser 0.</p>
+
+=== go6ODeCe36JscMsR/items.rxz44iLC1tmjuzWx.description
+# King of the Iceberg › Wind of the Mountain Bear
+<p>[37+2D] de dano físico, e o alvo sofre [Rigidez] e [Atordoado].<br>(Menor): [Rigidez] e [Atordoado] não podem ser removidos enquanto o alvo estiver no quadrado deste inimigo.<br>(Destino 1): Dano +10.</p>
+
+=== QARbx7GUYLD1wiOv/items.ODqiqsg6bZAmwKVJ.description
+# Kobold Leader › Kobold Platoon
+<p>Quando este inimigo aparece em uma Cena, dois inimigos Conjurador Kobold podem, opcionalmente, aparecer com ele. Em vez disso, podem ser usados um Conjurador Kobold e dois Kobolds. Os inimigos que aparecem por causa deste efeito não geram Itens Deixados.</p>
+
+=== QARbx7GUYLD1wiOv/items.kuXGQSibgWiJwJ5x.description
+# Kobold Leader › Kobold Tactics
+<p>Este inimigo não é afetado por Objetos de cena com a tag [Mecânico], a menos que queira. Além disso, sempre que este inimigo estiver no mesmo quadrado que outro personagem com a tag [Kobold], ele recebe bônus de +1 em [Testes de Esquiva].</p>
+
+=== QARbx7GUYLD1wiOv/items.rFQZq2iuOx2bKsNF.description
+# Kobold Leader › Renew Action
+<p>Use quando este inimigo ficar em [Pós-Ação]. Este inimigo fica imediatamente em [Pré-Ação], e sua [Iniciativa] passa a ser 0 até o fim da Rodada.</p>
+
+=== 1UnbrYWynvESkazH/items.EOYdcxFWuvSw6UE8.description
+# Living Idol › Evil Idol's Halo
+<p>O alvo sofre 5 de dano direto. Se o alvo tiver [Perseguição], 1 acúmulo dela é ativado (trate como se o alvo tivesse falhado em seu teste de defesa). Este inimigo pode remover 1 Estado Negativo de si mesmo.</p>
+
+=== 1UnbrYWynvESkazH/items.K5URRrNZTLc4KOdM.description
+# Living Idol › Repeat Action
+<p>Uma vez por Rodada, quando este inimigo fica em [Pós-Ação], ele imediatamente volta a ficar em [Pré-Ação]. Depois disso, até o fim da Rodada, sua [Iniciativa] passa a ser 0.</p>
+
+=== 1UnbrYWynvESkazH/items.GASmsbRDoUvxfbg0.description
+# Living Idol › Sitting Position
+<p>Quando este inimigo sofre dano de [Espírito], ele sofre também [Perseguição: 5] e [Atordoado]. Este inimigo não pode usar [Disparada] nem [Deslocar-se].</p>
+
+=== 0Gmd94qhWyunBcPh/items.Bj8nYrlwBKrHI50u.description
+# Mizkun of Shadows › Genius Talisman
+<p>Quando este inimigo aparece em uma Cena, ele aparece [Oculto]. Quando este inimigo faz um [Movimento Normal] ou um [Movimento Seguro], ele não perde [Oculto]. Quando este inimigo sofre dano de [Corrupção], ele também sofre [Cambaleante].</p>
+
+=== 0Gmd94qhWyunBcPh/items.lOqGWwgbXt2CORL9.description
+# Mizkun of Shadows › Hidden Mastermind
+<p>Quando este inimigo aparece em uma Cena, quaisquer dois inimigos de NP3 ou menos com a tag [Humanoide] ou [Humano] podem, opcionalmente, aparecer com ele. Em vez disso, podem ser usados um inimigo e dois inimigos [Lacaio] de NP3 com a tag [Humanoide] ou [Humano]. Os inimigos que aparecem por causa deste efeito não geram Itens Deixados.</p>
+
+=== 0Gmd94qhWyunBcPh/items.imXwkc9OfGD9Fvbb.description
+# Mizkun of Shadows › Renew Action II
+<p>Use esta habilidade em um alvo que acabou de ficar em [Pós-Ação]. O alvo fica imediatamente em [Pré-Ação], e sua [Iniciativa] passa a ser 0 até o fim da Rodada.</p>
+
+=== 2XQ0riyKt6rm2PLv/description
+# Occupation Leader
+<table ⟦a1⟧><colgroup><col ⟦a2⟧></colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>Itens Deixados</td>
+</tr>
+<tr ⟦a5⟧>
+<td ⟦a6⟧>1~3</td>
+<td ⟦a7⟧>Olhos de Aranha&nbsp; [Catalisador Mágico 3] (25G) x 8</td>
+</tr>
+<tr ⟦a8⟧>
+<td ⟦a9⟧>4-5</td>
+<td ⟦a10⟧>Trompa do Domador de Feras</td>
+</tr>
+<tr ⟦a11⟧>
+<td ⟦a12⟧>6</td>
+<td ⟦a13⟧>Arco-Gob Duplo&nbsp;</td>
+</tr>
+<tr ⟦a14⟧>
+<td ⟦a15⟧>Fixo</td>
+<td ⟦a16⟧>Teia Sombria [Material-Base] (60G)</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>Esquiva &nbsp;⟦r1⟧{[2D+3]}</li>
+<li>Resistência &nbsp;⟦r2⟧{[2D+3]}</li>
+</ul>
+<p>&nbsp;</p>
+
+=== 2XQ0riyKt6rm2PLv/items.bHbLzTKd2v6mxXr9.description
+# Occupation Leader › Double Bow-Gun
+<p>[2D+45] de Dano Físico<br>(Menor) Este ataque passa a ter [Alcance: 3 Qd]<br>(Destino 1) +5 de dano.</p>
+<hr>
+<ul>
+<li>Oposto ⟦r1⟧{[3D+2]}</li>
+<li>Causa ⟦r2⟧{[2D+45]} de dano físico.</li>
+</ul>
+
+=== 2XQ0riyKt6rm2PLv/items.jB6AsymbDkPbBR9u.description
+# Occupation Leader › Goblin Command
+<p>Tem como alvos esta unidade e mais uma unidade com a tag [Goblin]. Esses dois alvos podem remover um Estado Negativo cada um.&nbsp;<br>(Você: Montado) Este inimigo recebe [Barreira: 10]</p>
+
+=== 2XQ0riyKt6rm2PLv/items.qUbvFy14L2NwqiRA.description
+# Occupation Leader › Goblin Occupation Platoon
+<p>Quando este inimigo entra na Cena, surgem duas unidades de Goblin da Machadinha ou de Sacerdote Goblin.&nbsp;<br>Qualquer uma delas pode ser substituída por dois Evocadores de Maldições Goblin.&nbsp;<br>Os inimigos que aparecem por causa deste efeito não geram Itens Deixados&nbsp;</p>
+
+=== 2XQ0riyKt6rm2PLv/items.oNpArIqPfF7Mq5IG.description
+# Occupation Leader › Goblin Rage (Refer)
+<ul>
+<li>Use esta habilidade quando este inimigo sofrer dano de [Espírito].&nbsp;</li>
+<li>Este inimigo usa imediatamente Besta Dupla.&nbsp;</li>
+<li>Aumente os alvos de Besta Dupla para [Alvo: 4].<hr></li>
+<li>Oposto ⟦r1⟧{[3D+2]}</li>
+<li>Causa ⟦r2⟧{[2D+45+4]} de dano físico.</li>
+</ul>
+
+=== 2XQ0riyKt6rm2PLv/items.H6DXOCpZQKNz430a.description
+# Occupation Leader › Re-mobilization II
+<p>Use quando o alvo ficar em [Pós-Ação]. O alvo fica em [Pré-Ação] com [Iniciativa] 0.&nbsp;</p>
+
+=== ujE5p2I528Fd0pMD/items.RcCEo2MsAZCGkM8j.description
+# Oobold Dinsword › Kobold Fencing
+<p>Este inimigo não é afetado por Objetos de cena com a tag [Mecânico], a menos que queira.</p>
+
+=== ujE5p2I528Fd0pMD/items.bNNYoAGeYuEyRTvq.description
+# Oobold Dinsword › Renew Action
+<p>Use quando este inimigo ficar em [Pós-Ação]. Este inimigo fica imediatamente em [Pré-Ação], e sua [Iniciativa] passa a ser 0 até o fim da Rodada.</p>
+
+=== 9jDO1f6QBYNMdvR6/items.EGlhZ7gsVdD5eYCj.description
+# Ratman Swarm Caller › March of the Rats
+<p>Quando este inimigo aparece em uma Cena, um inimigo Lacaio Homem-Rato e dois inimigos Rato de Esgoto podem, opcionalmente, aparecer com ele. Os inimigos que aparecem por causa deste efeito não geram Itens Deixados.</p>
+
+=== 9jDO1f6QBYNMdvR6/items.vsRL57Ex2NJY3et8.description
+# Ratman Swarm Caller › Rat-Fu
+<p>Todo [Movimento Normal] deste inimigo sempre conta como [Movimento Seguro].</p>
+
+=== 9jDO1f6QBYNMdvR6/items.aI09hrq738CgQ4Mw.description
+# Ratman Swarm Caller › Renew Action
+<p>Use quando este inimigo ficar em [Pós-Ação]. Este inimigo fica imediatamente em [Pré-Ação], e sua [Iniciativa] passa a ser 0 até o fim da Rodada.</p>
+
+=== KTnJ5FAYZCRAaXw3/description
+# Bambooshoot Boar
+<table ⟦a1⟧><colgroup><col ⟦a2⟧> </colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>Itens Deixados</td>
+</tr>
+<tr ⟦a5⟧>
+<td ⟦a6⟧>1~3</td>
+<td ⟦a7⟧>Broto de Bambu Macio [Valioso](15G)</td>
+</tr>
+<tr ⟦a8⟧>
+<td ⟦a9⟧>4~5</td>
+<td ⟦a10⟧>Carne de Javali [Valioso](20G)</td>
+</tr>
+<tr ⟦a11⟧>
+<td ⟦a12⟧>6</td>
+<td ⟦a13⟧>Presa-Semente [Catalisador Mágico 2](20G)x3</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>⟦r1⟧{[Esquiva]}<br>⟦r2⟧{[Resistência]}</p>
+
+=== KTnJ5FAYZCRAaXw3/items.Aa2Z4w1xkvQtcgjT.description
+# Bambooshoot Boar › Bambooshoot Missile
+<p>Use esta habilidade depois que outro inimigo for atacado. O personagem que atacou o alvo sofre 5 de dano direto.</p>
+
+=== KTnJ5FAYZCRAaXw3/items.6HwdoFOWJgo9jTnA.description
+# Bambooshoot Boar › Fierce Charge
+<p>⟦r1⟧{[2D+4&nbsp;]}</p>
+<p>Causa ⟦r2⟧{[2D+12]} de dano físico ao alvo.&nbsp;<br>(Menor): Até o fim do Processo Principal atual, trate o Multiplicador de Ódio deste inimigo como x2.</p>
+
+=== KTnJ5FAYZCRAaXw3/items.5g2i6Wt9Dsp7xKyq.description
+# Bambooshoot Boar › Stampede
+<p>O inimigo pode fazer um [Movimento Seguro] de até 2 Qd.&nbsp;<br>Durante este Processo Principal, quando este inimigo usar &laquo;Investida Feroz&raquo;, ele pode escolher como alvo um personagem no meio do movimento<br>(Menor): Aumente em +2 a distância percorrida.</p>
+
+=== CMoSzyPDmFgdKRmO/description
+# Brier Weasal
+<table ⟦a1⟧><colgroup><col ⟦a2⟧> </colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>Itens Deixados</td>
+</tr>
+<tr ⟦a5⟧>
+<td ⟦a6⟧>1~3</td>
+<td ⟦a7⟧>2Dx2 de ouro</td>
+</tr>
+<tr ⟦a8⟧>
+<td ⟦a9⟧>4~6</td>
+<td ⟦a10⟧>Cauda Espinhosa [Valioso](30G)</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>⟦r1⟧{[Esquiva]}<br>⟦r2⟧{[Resistência]}</p>
+
+=== CMoSzyPDmFgdKRmO/items.9OiEugzv0P7AeIHH.description
+# Brier Weasal › Skipping Thorns
+<p>⟦r1⟧{[4+2D]}</p>
+<p>⟦r2⟧{[4+2D]} de Dano Mágico<br>(Menor): Bônus de ataque +2</p>
+
+=== CMoSzyPDmFgdKRmO/items.Z3jhpLPMGBUcq7A8.description
+# Brier Weasal › Thorn Burst
+<p>Use quando outro inimigo for causar dano. Aumente o dano em +10</p>
+
+=== IvtNLVl58nsRoFIq/description
+# Crimson Maple
+<table ⟦a1⟧><colgroup><col ⟦a2⟧> </colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>Itens Deixados</td>
+</tr>
+<tr ⟦a5⟧>
+<td ⟦a6⟧>Fixo</td>
+<td ⟦a7⟧>Seiva Carmesim [Valioso](10G)</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+=== IvtNLVl58nsRoFIq/items.hWcgZkxZfr7poNPe.description
+# Crimson Maple › Blaze Seed
+<p>Este inimigo recebe bônus de +10 na rolagem de dano de seu [Ataque Mágico].</p>
+
+=== IvtNLVl58nsRoFIq/items.1zYiZHvCTqjkcYtZ.description
+# Crimson Maple › Crimson Seed
+<p>&nbsp;Causa ⟦r1⟧{[15+2D]} de Dano Mágico ao alvo.<br>(Menor): O alvo sofre [Deterioração: 5].</p>
+
+=== IvtNLVl58nsRoFIq/items.0u2y7aaQAPY4bb8S.description
+# Crimson Maple › Flame Leaf
+<p>Este inimigo sempre tem [Fraqueza (Frio): 5]. Imune a [Confuso].</p>
+
+=== n1hqp1CmOII4fW0L/description
+# Goblin Hexer
+<table ⟦a1⟧><colgroup><col ⟦a2⟧> </colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>Itens Deixados</td>
+</tr>
+<tr ⟦a5⟧>
+<td ⟦a6⟧>1~5</td>
+<td ⟦a7⟧>Cajado Retorcido [Valioso] (20G)</td>
+</tr>
+<tr ⟦a8⟧>
+<td ⟦a9⟧>6</td>
+<td ⟦a10⟧>Pó de Arco-Íris [Material-Base] (30G)</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>⟦r1⟧{[Esquiva]}<br>⟦r2⟧{[Resistência]}</p>
+
+=== n1hqp1CmOII4fW0L/items.mqA50ZdhsQWOkjGS.description
+# Goblin Hexer › Electric Curse Arrow
+<p>⟦r1⟧{[3D+2]}</p>
+<p>⟦r2⟧{[2D+15]} de dano mágico<br>(Menor) +5 de dano.<br>Se falhar no [Teste de Acerto], este inimigo recebe [Rigidez]</p>
+
+=== n1hqp1CmOII4fW0L/items.ha6cLrryHExUaF8a.description
+# Goblin Hexer › Goblin Rage
+<p>Use esta habilidade quando este inimigo sofrer dano de [Espírito].&nbsp;<br>Este inimigo usa imediatamente Flecha de Maldição Elétrica.&nbsp;<br>Aumente em +3 o dano de Flecha de Maldição Elétrica.</p>
+
+=== n1hqp1CmOII4fW0L/items.mYyCPmfJNmyGI7IQ.description
+# Goblin Hexer › Goblin’s Curse Stone
+<p>Se o alvo tiver um [Espaço de Inventário] vazio, ele recebe o item [Pedra Amaldiçoada].<br>Para cada [Pedra Amaldiçoada] em sua posse, o alvo sofre -1 em [Testes de Acerto].&nbsp;</p>
+
+=== KjmxGJLjcQaQ0bzE/description
+# Goblin Monk
+<table ⟦a1⟧><colgroup><col ⟦a2⟧> </colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>1~3</td>
+<td ⟦a5⟧>Joia do Chamado da Vida I [Consumível] (20G)</td>
+</tr>
+<tr ⟦a6⟧>
+<td ⟦a7⟧>4~6</td>
+<td ⟦a8⟧>Adorno de Penas Espalhafatoso [Valioso] (25G)</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>⟦r1⟧{[Esquiva]}<br>⟦r2⟧{[Resistência]}</p>
+
+=== KjmxGJLjcQaQ0bzE/items.5NWizMDeb7bryzd0.description
+# Goblin Monk › Goblin Grappling Technique
+<p>⟦r1⟧{2D+4]}</p>
+<p>⟦r2⟧{[2D+12]} de dano físico.<br>(Menor) Este ataque recebe &nbsp;[Teste de Acerto]+2. Se o [Teste de Acerto] falhar, este inimigo sofre [Rigidez].</p>
+
+=== KjmxGJLjcQaQ0bzE/items.JUMIeofBMgrEEsNN.description
+# Goblin Monk › Goblin Rage
+<p>Use esta habilidade quando este inimigo sofrer dano de [Espírito].&nbsp;<br>Este inimigo usa imediatamente Técnica de Agarrão Goblin.&nbsp;<br>Aumente em +3 o dano de Técnica de Agarrão Goblin.</p>
+
+=== KjmxGJLjcQaQ0bzE/items.hn8cVWjUNhmLsAF8.description
+# Goblin Monk › Possessed Demon Fist
+<p>Use quando aliados dentro de [Alcance: 3 Qd] desta unidade ficarem em estado [Incapacitado] ou [Morto]<br>A Técnica de Agarrão Goblin deste inimigo recebe +4 de dano. Este efeito se acumula a cada uso de Punho do Demônio Possesso e dura até o fim da Cena.&nbsp;</p>
+
+=== I7OG4gUbJ8FxGyFs/description
+# Gray Pudding
+<table ⟦a1⟧><colgroup><col ⟦a2⟧> </colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>Itens Deixados</td>
+</tr>
+<tr ⟦a5⟧>
+<td ⟦a6⟧>1~4</td>
+<td ⟦a7⟧>Antídoto I (conforme a Tabela de Itens)</td>
+</tr>
+<tr ⟦a8⟧>
+<td ⟦a9⟧>5~6</td>
+<td ⟦a10⟧>Núcleo Viscoso [Valioso](30G)</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>⟦r1⟧{[Esquiva]}<br>⟦r2⟧{[Resistência]}</p>
+
+=== I7OG4gUbJ8FxGyFs/items.QgoRWKhwL5AFxGAy.description
+# Gray Pudding › Amorphous Body
+<p>Quando este inimigo sofre dano de [Frio], ele também sofre [Aflito] e [Atordoado]</p>
+
+=== I7OG4gUbJ8FxGyFs/items.ihufOEXlK4nbodBV.description
+# Gray Pudding › Coat&Digest
+<p>⟦r1⟧{[2D+4]}</p>
+<p>⟦r2⟧{[15+2D]} de Dano Mágico. O alvo sofre [Atordoado]<br>(Alvo: Engolfado): O dano se torna penetrante</p>
+
+=== I7OG4gUbJ8FxGyFs/items.Pt0i6FQauspHGs6p.description
+# Gray Pudding › Devour
+<p>Um alvo com [Atordoado] recebe a tag [Devorado]. Trate este efeito como um Estado Negativo que só pode ser removido quando o alvo e este inimigo não estiverem no mesmo quadrado</p>
+
+=== BGdvASgfLOwaL3HS/description
+# Kobold
+<table ⟦a1⟧><colgroup><col ⟦a2⟧> </colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>Itens Deixados</td>
+</tr>
+<tr ⟦a5⟧>
+<td ⟦a6⟧>Fixo</td>
+<td ⟦a7⟧>Presa de Kobold [Valioso] (10G)</td>
+</tr>
+</tbody>
+</table>
+
+=== BGdvASgfLOwaL3HS/items.S3eYxHhqYmpjMUMP.description
+# Kobold › Dash&Jump
+<p>Este inimigo pode fazer um [Movimento Seguro] de 1 Qd. Durante esse movimento, o inimigo pode se mover na diagonal<br>(Menor): Aumente a distância em +1 Qd.</p>
+
+=== BGdvASgfLOwaL3HS/items.Vk3QiePW7MMjldum.description
+# Kobold › Kobo Slash
+<p>[23+2D] de Dano Físico<br>(Menor): Dano +5</p>
+
+=== BGdvASgfLOwaL3HS/items.O1UuwsKGVgJH7HpX.description
+# Kobold › Kobold Tactics
+<p>Este inimigo não é afetado por Objetos de cena com a tag [Mecânico], a menos que queira. Além disso, sempre que este inimigo estiver no mesmo quadrado que outra criatura com a tag [Kobold], ele recebe bônus de +1 em [Testes de Esquiva]</p>
+
+=== woG03LchUhzKefnM/description
+# Kobold Caster
+<table ⟦a1⟧><colgroup><col ⟦a2⟧> </colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>Itens Deixados</td>
+</tr>
+<tr ⟦a5⟧>
+<td ⟦a6⟧>1</td>
+<td ⟦a7⟧>Cajado de Olmo (conforme a Lista de Itens)</td>
+</tr>
+<tr ⟦a8⟧>
+<td ⟦a9⟧>2~6</td>
+<td ⟦a10⟧>Pedra de Cores Vivas [Catalisador Mágico 1](15G)x2</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<ul>
+<li>Esquiva &nbsp;&nbsp;⟦r1⟧{[2D+1]}</li>
+<li>Resistência ⟦r2⟧{[2D+2]}</li>
+</ul>
+
+=== woG03LchUhzKefnM/items.Fmy1rEmHZQwNpFzu.description
+# Kobold Caster › Kobold Tactics
+<p>Este inimigo não é afetado por Objetos de cena com a tag [Mecânico], a menos que queira. Além disso, sempre que este inimigo estiver no mesmo quadrado que outra criatura com a tag [Kobold], ele recebe bônus de +1 em [Testes de Esquiva]</p>
+
+=== woG03LchUhzKefnM/items.JKUe3FpYu8MGFO5w.description
+# Kobold Caster › Spell Adep
+<p>+10 de dano em Ataque Mágico</p>
+
+=== woG03LchUhzKefnM/items.XWyCCPdYFDX0HcXb.description
+# Kobold Caster › Thunder Kobolt
+<p>⟦r1⟧{[3D+2]}</p>
+<p>⟦r2⟧{[17+2D]} de Dano Mágico<br>(Menor): O alvo sofre [Cambaleante]</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+=== o6zPMHYCilQW0nbF/description
+# Kobold Heavyarm
+<table ⟦a1⟧><colgroup><col ⟦a2⟧> </colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>Itens Deixados</td>
+</tr>
+<tr ⟦a5⟧>
+<td ⟦a6⟧>1~4</td>
+<td ⟦a7⟧>Cota de Anéis (conforme a Lista de Itens)</td>
+</tr>
+<tr ⟦a8⟧>
+<td ⟦a9⟧>5~6</td>
+<td ⟦a10⟧>Fecho Sólido [Valioso](45G)</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>⟦r1⟧{[Esquiva]}<br>⟦r2⟧{[Resistência]}</p>
+
+=== o6zPMHYCilQW0nbF/items.BbCd0UB9Sr8hi9Bh.description
+# Kobold Heavyarm › Kobo Blade
+<p>⟦r1⟧{2D+4]}</p>
+<p>⟦r2⟧{[2D+10]} de dano físico ao alvo.&nbsp;<br>(Menor): Aumente o dano em +10.<br>(Alvo: Topo de Ódio): Adicione +1 à Precisão desta habilidade</p>
+
+=== o6zPMHYCilQW0nbF/items.MqqKFOtYuwUg0RbH.description
+# Kobold Heavyarm › Kobold Tactics
+<p>Este inimigo não é afetado por Objetos de cena com a tag [Mecânico], a menos que queira. Além disso, sempre que este inimigo estiver no mesmo quadrado que outra criatura com a tag [Kobold], ele recebe bônus de +1 em [Testes de Esquiva]</p>
+
+=== o6zPMHYCilQW0nbF/items.vfyMd3ydC3n6lrXZ.description
+# Kobold Heavyarm › Shield Wall
+<p>O alvo recebe [Anulação: 5]. Esta [Anulação] dura até que o alvo e este inimigo não estejam mais no mesmo quadrado, ou até o fim da Rodada.</p>
+
+=== FJuLFQlPW1cHmYHY/description
+# Kobold Hunter
+<table ⟦a1⟧><colgroup><col ⟦a2⟧></colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>Itens Deixados</td>
+</tr>
+<tr ⟦a5⟧>
+<td ⟦a6⟧>1~4</td>
+<td ⟦a7⟧>Cota de Anéis (conforme a Lista de Itens)</td>
+</tr>
+<tr ⟦a8⟧>
+<td ⟦a9⟧>5~6</td>
+<td ⟦a10⟧>Fecho Sólido [Valioso](45G)</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>⟦r1⟧{[Esquiva]}<br>⟦r2⟧{[Resistência]}</p>
+
+=== FJuLFQlPW1cHmYHY/items.JsHmHdyVV0ImYGcD.description
+# Kobold Hunter › Hunter's Sight
+<p>Durante este Processo Principal, este inimigo recebe bônus de +5 nas rolagens de dano de [Ataque à Distância].</p>
+
+=== FJuLFQlPW1cHmYHY/items.LHmNK41NHnNwVOMr.description
+# Kobold Hunter › Kobo Shot
+<p>⟦r1⟧{3D+2]}</p>
+<p>⟦r2⟧{[2D+20]} de Dano Físico<br>(Menor): Esta habilidade passa a ter [Alcance: 4 Qd]</p>
+
+=== FJuLFQlPW1cHmYHY/items.yeJaSoAUuZS9yKge.description
+# Kobold Hunter › Kobold Tactics
+<p>Este inimigo não é afetado por Objetos de cena com a tag [Mecânico], a menos que queira. Além disso, sempre que este inimigo estiver no mesmo quadrado que outra criatura com a tag [Kobold], ele recebe bônus de +1 em [Testes de Esquiva]</p>
+
+=== xNwWWJld1OGFOL7b/description
+# Kobold Medic
+<table ⟦a1⟧><colgroup><col ⟦a2⟧> </colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>Itens Deixados</td>
+</tr>
+<tr ⟦a5⟧>
+<td ⟦a6⟧>1~3</td>
+<td ⟦a7⟧>Incenso Purificador [Catalisador Mágico 1](15G)</td>
+</tr>
+<tr ⟦a8⟧>
+<td ⟦a9⟧>4~5</td>
+<td ⟦a10⟧>Kit de Primeiros Socorros Rudimentar [Valioso](25G)</td>
+</tr>
+<tr ⟦a11⟧>
+<td ⟦a12⟧>6</td>
+<td ⟦a13⟧>Poção de Regeneração I (conforme a Lista de Itens)</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>⟦r1⟧{[Esquiva]}<br>⟦r2⟧{[Resistência]}</p>
+
+=== xNwWWJld1OGFOL7b/items.BoHh3ucjIBrRtlpd.description
+# Kobold Medic › Kobo Assist
+<p>⟦r1⟧{2D+4]}</p>
+<p>O alvo sofre [Perseguição: 10]<br>(Menor): Esta habilidade passa a ter [Alcance: 3 Qd]</p>
+
+=== xNwWWJld1OGFOL7b/items.vYSj7QbKvV3REWim.description
+# Kobold Medic › Kobold Tactics
+<p>Este inimigo não é afetado por Objetos de cena com a tag [Mecânico], a menos que queira. Além disso, sempre que este inimigo estiver no mesmo quadrado que outra criatura com a tag [Kobold], ele recebe bônus de +1 em [Testes de Esquiva]</p>
+
+=== xNwWWJld1OGFOL7b/items.Y7MF3R4BFPyFul25.description
+# Kobold Medic › Medic Barrier
+<p>O alvo recebe [Barreira: 10], ou o alvo pode remover sua tag [Lacaio] até o fim da Rodada.</p>
+
+=== jl4GUvtM8FnoQI9X/description
+# Kobold Partizan
+<table ⟦a1⟧><colgroup><col ⟦a2⟧> </colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>Itens Deixados</td>
+</tr>
+<tr ⟦a5⟧>
+<td ⟦a6⟧>1~3</td>
+<td ⟦a7⟧>Escama Cintilante [Valioso](15G)</td>
+</tr>
+<tr ⟦a8⟧>
+<td ⟦a9⟧>4~6</td>
+<td ⟦a10⟧>Ponta de Lança Afiada [Valioso](30G)</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>⟦r1⟧{[Esquiva]}<br>⟦r2⟧{[Resistência]}</p>
+
+=== jl4GUvtM8FnoQI9X/items.mJg4QHoNF7zLCch6.description
+# Kobold Partizan › Kobo Thrust
+<p>⟦r1⟧{[3D+3]}</p>
+<p>⟦r2⟧{[25+2D]} de Dano Físico<br>(Menor): O alvo faz um [Movimento Seguro (forçado)] de 1 Qd.</p>
+
+=== jl4GUvtM8FnoQI9X/items.giCa0jV4azy27iFJ.description
+# Kobold Partizan › Kobold Charge
+<p>Este inimigo pode fazer um [Movimento Seguro] de até 3 Qd.<br>Este movimento deve ser feito em linha reta a partir do ponto de partida.<br>(Menor): Antes do [Movimento Seguro], este inimigo pode fazer um [Movimento Normal] de 1 Qd em qualquer direção.</p>
+
+=== jl4GUvtM8FnoQI9X/items.J0qNHnIP08B4dO96.description
+# Kobold Partizan › Kobold Tactics
+<p>Este inimigo não é afetado por Objetos de cena com a tag [Mecânico], a menos que queira. Além disso, sempre que este inimigo estiver no mesmo quadrado que outra criatura com a tag [Kobold], ele recebe bônus de +1 em [Testes de Esquiva]</p>
+
+=== pj4rVktI0RNfUnj2/description
+# Kobold's Crane
+<table ⟦a1⟧><colgroup><col ⟦a2⟧> </colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>Itens Deixados</td>
+</tr>
+<tr ⟦a5⟧>
+<td ⟦a6⟧>Fixo</td>
+<td ⟦a7⟧>Gancho Arrancado [Valioso](10G)</td>
+</tr>
+</tbody>
+</table>
+
+=== pj4rVktI0RNfUnj2/items.o98VUIFweeF07hin.description
+# Kobold's Crane › A Mere Machine
+<p>Não gera Dano de Ódio e ignora os bônus de defesa de Abaixo no Ódio&nbsp;<br>Se este inimigo for alvo de Desarmar Objeto de Cena [Dificuldade de Desarme: 10], ele fica [Incapacitado].<br>Este inimigo não pode realizar Ações de Movimento.</p>
+
+=== pj4rVktI0RNfUnj2/items.OOAmYBE5uNTPU2rx.description
+# Kobold's Crane › Crane Shock
+<p>⟦r1⟧{[3D+2]}</p>
+<p>⟦r2⟧{[2D+25]} de Dano Físico<br>(Menor): O alvo sofre [Atordoado]. Um alvo secundário com a tag [Kobold] dentro de [Alvo: Individual / Alcance: 4 Qd] deste inimigo (exceto outros inimigos Guindaste Kobold) é obrigado a fazer um [Teleporte (forçado)] para o mesmo quadrado do alvo inicial.</p>
+
+=== 6nAQi2EMdzhRD1iJ/description
+# Oobold
+<table ⟦a1⟧><colgroup><col ⟦a2⟧> </colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>Itens Deixados</td>
+</tr>
+<tr ⟦a5⟧>
+<td ⟦a6⟧>1~4</td>
+<td ⟦a7⟧>Presa Grande [Valioso](15G)</td>
+</tr>
+<tr ⟦a8⟧>
+<td ⟦a9⟧>5~6</td>
+<td ⟦a10⟧>Espada de Madeira Aguerrida [Valioso](40G)</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>⟦r1⟧{[Esquiva]}<br>⟦r2⟧{[Resistência]}</p>
+
+=== 6nAQi2EMdzhRD1iJ/items.Iz8pRGLeBXqUhgP9.description
+# Oobold › Bold Slap
+<p>⟦r1⟧{2D+4]}</p>
+<p>⟦r2⟧{[2D+12]} de Dano Físico<br>(Resultado 13): O alvo sofre [Confuso].</p>
+
+=== 6nAQi2EMdzhRD1iJ/items.51c9uVUgFnR8CFAk.description
+# Oobold › Bold Smack
+<p>Use esta habilidade logo depois que um inimigo falhar em um [Teste de Acerto]. O alvo sofre 5 de dano direto.&nbsp;<br>O alvo recebe bônus de +1D em seu próximo [Teste de Acerto].<br>Trate este efeito como um Estado de Combate que é removido depois de ser aplicado uma vez.</p>
+
+=== 6nAQi2EMdzhRD1iJ/items.rxGu7V5bi8ipSeNB.description
+# Oobold › Kobold Tactics
+<p>Este inimigo não é afetado por Objetos de cena com a tag [Mecânico], a menos que queira. Além disso, sempre que este inimigo estiver no mesmo quadrado que outra criatura com a tag [Kobold], ele recebe bônus de +1 em [Testes de Esquiva]</p>
+
+=== eI2ltaMZcEfAziLD/description
+# Pixie
+<table ⟦a1⟧><colgroup><col ⟦a2⟧> </colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>Itens Deixados</td>
+</tr>
+<tr ⟦a5⟧>
+<td ⟦a6⟧>1~5</td>
+<td ⟦a7⟧>Hidromel [Catalisador Mágico 1](15G)</td>
+</tr>
+<tr ⟦a8⟧>
+<td ⟦a9⟧>6</td>
+<td ⟦a10⟧>Asas do Crepúsculo [Material-Base](30G)</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<ul>
+<li>⟦r1⟧{[Esquiva ]}</li>
+<li>⟦r2⟧{[Resistência]}</li>
+</ul>
+
+=== eI2ltaMZcEfAziLD/items.JrKBXRD6uEAWGG3U.description
+# Pixie › Hidden Flight
+<p>O inimigo fica [Oculto]<br>(Menor): O inimigo pode fazer um [Movimento Seguro] de até 2 Qd sem perder [Oculto]</p>
+
+=== eI2ltaMZcEfAziLD/items.iBnJSUljRlyTSktF.description
+# Pixie › Shocking Sting
+<p>⟦r1⟧{[3D+3]}</p>
+<p>⟦r2⟧{[25+2D]} de Dano Físico<br>(Você: Oculto): O alvo sofre [Cambaleante]</p>
+
+=== eI2ltaMZcEfAziLD/items.D5yGpe3oG5vXf0lJ.description
+# Pixie › Spirit of the Wind
+<p>Este inimigo sempre tem [Anulação (Choque): 5] e [Voando], e é imune a [Rigidez]<br>Sempre que este inimigo sofrer dano de [Corrupção], trate a defesa dele como 0.</p>
+
+=== UZeoLYZNTJYYqWfi/description
+# Ratman Minion
+<table ⟦a1⟧><colgroup><col ⟦a2⟧> </colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>Itens Deixados</td>
+</tr>
+<tr ⟦a5⟧>
+<td ⟦a6⟧>1</td>
+<td ⟦a7⟧>Arco Curto (conforme a Lista de Itens)</td>
+</tr>
+<tr ⟦a8⟧>
+<td ⟦a9⟧>2~6</td>
+<td ⟦a10⟧>Queijo Dourado [Valioso](30G)</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>⟦r1⟧{[Esquiva]}<br>⟦r2⟧{[Resistência]}</p>
+
+=== UZeoLYZNTJYYqWfi/items.mGRRNHGjbMIdpvuu.description
+# Ratman Minion › Rat Shield
+<p>Use esta habilidade quando o alvo ficar [Incapacitado] ou [Morto].&nbsp;<br>O alvo remove o estado [Incapacitado] ou [Morto] e recupera 5 PV.<br>Em seguida, este inimigo sofre 10 de dano direto.</p>
+
+=== UZeoLYZNTJYYqWfi/items.ccouf3ElLu1r6Ogc.description
+# Ratman Minion › Rat Shot
+<p>⟦r1⟧{[2+3D]}</p>
+<p>⟦r2⟧{[22+2D]} de Dano Físico ao alvo.&nbsp;<br>(Menor): O alvo sofre [Deterioração: 5]</p>
+
+=== UZeoLYZNTJYYqWfi/items.WETIpOBfo9fiHWTf.description
+# Ratman Minion › Rat-Fu
+<p>Todo [Movimento Normal] deste inimigo sempre conta como [Movimento Seguro].</p>
+
+=== PaoiKZi9U27CUM3a/description
+# Repeater
+<table ⟦a1⟧><colgroup><col ⟦a2⟧> </colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>Itens Deixados</td>
+</tr>
+<tr ⟦a5⟧>
+<td ⟦a6⟧>Fixo</td>
+<td ⟦a7⟧>Feixe de Flechas [Valioso](5G)x3</td>
+</tr>
+</tbody>
+</table>
+
+=== PaoiKZi9U27CUM3a/items.WTjC7tjiVZAKTGuh.description
+# Repeater › Rapid Fire
+<p>⟦r1⟧{[2+3D]}</p>
+<p>⟦r2⟧{[20+2D]} de Dano Físico, e o alvo sofre [Perseguição: 5]<br>(Alvo: Perseguição): O acúmulo de [Perseguição] que este ataque ativou não é removido</p>
+
+=== PaoiKZi9U27CUM3a/items.39GgpVZwNWKFeB8T.description
+# Repeater › Unreasoning Operation
+<p>&nbsp;Este inimigo não gera Dano de Ódio e ignora os bônus de defesa de Abaixo no Ódio.<br>Se este inimigo for alvo de Desarmar Objeto de Cena e a [Dificuldade de Desarme: 10] for superada, ele fica [Incapacitado].<br>Este inimigo não pode realizar Ações de Movimento</p>
+
+=== v4Irj0APuiJURFur/description
+# Scarecrow
+<table ⟦a1⟧><colgroup><col ⟦a2⟧> </colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>Itens Deixados</td>
+</tr>
+<tr ⟦a5⟧>
+<td ⟦a6⟧>1~4</td>
+<td ⟦a7⟧>Feixe de Palha [Valioso](20G)</td>
+</tr>
+<tr ⟦a8⟧>
+<td ⟦a9⟧>5~6</td>
+<td ⟦a10⟧>
+<p>Trigo Dourado [Catalisador Mágico 1](15G)x2</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>⟦r1⟧{[Esquiva]}<br>⟦r2⟧{[Resistência]}</p>
+
+=== v4Irj0APuiJURFur/items.oULqUhIFmnzHMrur.description
+# Scarecrow › Farm Archer
+<p>⟦r1⟧{[2+3D]}</p>
+<p>⟦r2⟧{[25+2D]} de Dano Físico<br>(Resultado 17+): Aumente o dano em +10. O alvo faz um [Movimento Seguro (Forçado)] de 1 Qd.</p>
+
+=== v4Irj0APuiJURFur/items.eZgXByGjK3DwLU26.description
+# Scarecrow › It's a Trick!
+<p>&nbsp;Este inimigo sempre aparece com [Oculto]. Sempre que este inimigo sofrer dano de [Corrupção], ele também fica [Cambaleante]</p>
+
+=== v4Irj0APuiJURFur/items.lR44H8XnAbw8DXWs.description
+# Scarecrow › Surprise Arrow
+<p>(Você: Oculto): Durante o Processo Principal deste inimigo, ele recebe bônus de +2D na Precisão de [Ataque à Distância]</p>
+
+=== 2qCSEywo5D0H7VAm/description
+# Sewer Rat
+<table ⟦a1⟧><colgroup><col ⟦a2⟧> </colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>Itens Deixados</td>
+</tr>
+<tr ⟦a5⟧>
+<td ⟦a6⟧>Fixo</td>
+<td ⟦a7⟧>Cauda de Rato [Valioso](10G)</td>
+</tr>
+</tbody>
+</table>
+
+=== 2qCSEywo5D0H7VAm/items.i6zZBH780M3dRvGO.description
+# Sewer Rat › Filthy Fangs
+<p>⟦r1⟧{[20+2D]} de Dano Físico<br>(Menor): O alvo sofre [Deterioração: 5]</p>
+
+=== 2qCSEywo5D0H7VAm/items.5pzsHlm1iwKAivie.description
+# Sewer Rat › Raging Rat
+<p>Use quando o personagem no [Topo de Ódio] estiver fora de [Alcance: Corpo a corpo]<br>Este inimigo pode fazer um [Movimento Seguro] de até 3 Qd.<br>(Destino 1): Se o limite de usos desta habilidade já tiver sido atingido, você pode pagar este custo para usá-la novamente</p>
+
+=== b0QGiVfsMPLkg0K1/description
+# Triffid
+<table ⟦a1⟧><colgroup><col ⟦a2⟧> </colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>Itens Deixados</td>
+</tr>
+<tr ⟦a5⟧>
+<td ⟦a6⟧>Fixo</td>
+<td ⟦a7⟧>Vinha Flexível [Valioso](10G)</td>
+</tr>
+</tbody>
+</table>
+
+=== b0QGiVfsMPLkg0K1/items.4yYAzEKvv1PNsWTR.description
+# Triffid › Creeping Roots
+<p>O inimigo pode fazer um [Movimento Seguro] de até 2 Qd.</p>
+
+=== b0QGiVfsMPLkg0K1/items.C4MX0OLFl0hbAqYR.description
+# Triffid › Heart of Plants
+<p>Este inimigo sempre tem [Fraqueza (Chama): 5] e é imune a [Confuso]</p>
+
+=== b0QGiVfsMPLkg0K1/items.1HZMHOslwOpF3asQ.description
+# Triffid › Vine Whip
+<p>⟦r1⟧{[25+2D]} de Dano Físico<br>(Menor): O alvo sofre [Rigidez]</p>
+
+=== CftxDr4CQDArE8mp/description
+# Zombie
+<table ⟦a1⟧><colgroup><col ⟦a2⟧> </colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>Itens Deixados</td>
+</tr>
+<tr ⟦a5⟧>
+<td ⟦a6⟧>Fixo</td>
+<td ⟦a7⟧>Carne de Zumbi [Valioso](10G)</td>
+</tr>
+</tbody>
+</table>
+
+=== CftxDr4CQDArE8mp/items.sOM1iFF7LTtEJDrN.description
+# Zombie › Chomp
+<p>O inimigo recebe +5 de dano em [Ataque Corpo a Corpo]<br>(Alvo: Rigidez): Em vez disso, o bônus é +15</p>
+
+=== CftxDr4CQDArE8mp/items.mflG9utd40e4xOxK.description
+# Zombie › Grab
+<p>⟦r1⟧{[25+2D]} de Dano Físico<br>(Menor): O alvo sofre [Rigidez]</p>
+
+=== CftxDr4CQDArE8mp/items.GadJJQaOVNf8hjbB.description
+# Zombie › Wriggling Rot
+<p>O inimigo sempre tem [Fraqueza (Sagrado): 5]. Imune a [Atordoado] e [Cambaleante]. Personagens no mesmo quadrado não podem usar itens com a tag [Consumível]. Este inimigo não pode usar Disparada.</p>
+
+=== cZsamX078eaEWGQc/description
+# Assassin Bee
+<table ⟦a1⟧><colgroup><col ⟦a2⟧> </colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>Itens Deixados</td>
+</tr>
+<tr ⟦a5⟧>
+<td ⟦a6⟧>1~3</td>
+<td ⟦a7⟧>Ferrão Grande [Valioso] (20G)</td>
+</tr>
+<tr ⟦a8⟧>
+<td ⟦a9⟧>4~6</td>
+<td ⟦a10⟧>
+<p>Mel Negro [Valioso] (35G)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>⟦r1⟧{[Esquiva]}<br>⟦r2⟧{[Resistência]}</p>
+
+=== cZsamX078eaEWGQc/items.klMK0QP3DOcDXcCM.description
+# Assassin Bee › Insect Wings
+<p>Este inimigo sempre tem [Voando].</p>
+
+=== cZsamX078eaEWGQc/items.mg6XF3MxuolwoEBZ.description
+# Assassin Bee › Pursuing Sting
+<p>Use esta habilidade quando o alvo usar uma habilidade com a tag [Movimento].&nbsp;<br>O alvo sofre [Deterioração: 3].</p>
+
+=== cZsamX078eaEWGQc/items.r19Lb5pSym6EJbGp.description
+# Assassin Bee › Stinger Baptism
+<p>⟦r1⟧{2D+5]}</p>
+<p>⟦r2⟧{[2D+15]} de Dano Físico<br>(Alvo: Deterioração): Aumente o dano em +5.</p>
+
+=== YYvAtpLqOpMfNYpT/description
+# Disease Beast
+<table ⟦a1⟧><colgroup><col ⟦a2⟧> </colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>Itens Deixados</td>
+</tr>
+<tr ⟦a5⟧>
+<td ⟦a6⟧>Fixo</td>
+<td ⟦a7⟧>Amostra de Doença [Valioso] (15G)</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+
+=== YYvAtpLqOpMfNYpT/items.yvicqbgRw6KoliOZ.description
+# Disease Beast › Cloud of Miasma
+<p>Esta habilidade só pode ter como alvo personagens com [Deterioração].<br>O valor de [Deterioração] do alvo aumenta em +3.</p>
+
+=== YYvAtpLqOpMfNYpT/items.Gc68GHiw49DdSi2l.description
+# Disease Beast › Spirit of the Earth
+<p>Este inimigo sempre tem [Anulação (Corrupção): 5] e é imune a [Deterioração]<br>Além disso, sempre que sofrer dano de [Choque], trate a defesa dele como 0.</p>
+
+=== YYvAtpLqOpMfNYpT/items.tDyC0R9Z1a3OGvHz.description
+# Disease Beast › Spreading Contagion
+<p>O alvo sofre [Perseguição: 15]<br>(Alvo: Qualquer Estado Negativo exceto Perseguição): O alvo sofre [Aflito].</p>
+
+=== OiTrWAaGCzGqPbhm/description
+# Flame Pillar
+<table ⟦a1⟧><colgroup><col ⟦a2⟧> </colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>Itens Deixados</td>
+</tr>
+<tr ⟦a5⟧>
+<td ⟦a6⟧>Fixo</td>
+<td ⟦a7⟧>Catalisador de Fogo [Catalisador Mágico 2] (20G)</td>
+</tr>
+</tbody>
+</table>
+
+=== OiTrWAaGCzGqPbhm/items.DTBUct3QZVMwvR89.description
+# Flame Pillar › Fire Gazer
+<p>⟦r1⟧{[3D+3]}</p>
+<p>⟦r2⟧{[2D+23]} de Dano Mágico<br>Esta habilidade não pode ser usada contra o mesmo alvo em Rodadas consecutivas.&nbsp;<br>(Efeito): Ao fim do Processo Principal atual, o alvo faz um [Teleporte] para o mesmo quadrado deste inimigo.</p>
+
+=== OiTrWAaGCzGqPbhm/items.KbJt7pLqCLBeC15M.description
+# Flame Pillar › Unreasoning Operation
+<p>Este inimigo não gera Dano de Ódio, e os bônus de defesa de Abaixo no Ódio não se aplicam contra os ataques dele.&nbsp;<br>Se este inimigo for alvo de Desarmar Objeto de Cena [Dificuldade de Desarme: 10], ele fica [Incapacitado].&nbsp;<br>Este inimigo não pode realizar Ações de Movimento.</p>
+
+=== 1q8Wy5XVga1MLaXL/description
+# Owlbear
+<table ⟦a1⟧><colgroup><col ⟦a2⟧> </colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>Itens Deixados</td>
+</tr>
+<tr ⟦a5⟧>
+<td ⟦a6⟧>1~3</td>
+<td ⟦a7⟧>Penas Vibrantes [Valioso] (20G)</td>
+</tr>
+<tr ⟦a8⟧>
+<td ⟦a9⟧>4~5</td>
+<td ⟦a10⟧>Pata de Urso [Valioso] (35G)</td>
+</tr>
+<tr ⟦a11⟧>
+<td ⟦a12⟧>6</td>
+<td ⟦a13⟧>Pele do Urso Louco [Material-Base] (40G)</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>⟦r1⟧{[Esquiva]}<br>⟦r2⟧{[Resistência]}</p>
+
+=== 1q8Wy5XVga1MLaXL/items.xIk5sfQ4zYQBRl33.description
+# Owlbear › Lord of the Forest
+<p>Use antes que um inimigo que não seja este sofra Dano de PV de um ataque.&nbsp;<br>Este inimigo sofre o dano no lugar dele, e o alvo não é afetado pelo ataque.<br>Além disso, o dano que este inimigo sofre é reduzido em -5.</p>
+
+=== 1q8Wy5XVga1MLaXL/items.FOHc6ZtfCrNAShUQ.description
+# Owlbear › Ursine Claw
+<p>⟦r1⟧{TESTE}</p>
+<p>⟦r2⟧{[2D+16]} de Dano Físico.&nbsp;<br>(Menor): O alvo sofre [Rigidez]. Esta [Rigidez] só pode ser removida quando o alvo e este inimigo não estiverem mais no mesmo quadrado.</p>
+
+=== pdiO4DgAunjymb1b/description
+# PK Samurai
+<table ⟦a1⟧><colgroup><col ⟦a2⟧> </colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>Itens Deixados</td>
+</tr>
+<tr ⟦a5⟧>
+<td ⟦a6⟧>1~5</td>
+<td ⟦a7⟧>2Dx3 de ouro</td>
+</tr>
+<tr ⟦a8⟧>
+<td ⟦a9⟧>6</td>
+<td ⟦a10⟧>Estatueta Entalhada [Valioso] (40G)</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>⟦r1⟧{[Esquiva]}<br>⟦r2⟧{[Resistência]}</p>
+
+=== pdiO4DgAunjymb1b/items.SPEUtFL0rkQlTNF7.description
+# PK Samurai › Izuna's Return
+<p>Use esta habilidade quando um inimigo que não seja este realizar um ataque.&nbsp;<br>O alvo desse ataque sofre 10 de dano direto.</p>
+
+=== pdiO4DgAunjymb1b/items.lEHEwVsAnmeRd50a.description
+# PK Samurai › Rage Strike
+<p>⟦r1⟧{TESTE}</p>
+<p>⟦r2⟧{[2D+16]} de dano físico<br>(Menor): Até o fim do Processo Principal atual, trate o Multiplicador de Ódio deste inimigo como x2.</p>
+
+=== GjIM2oezJWF7OMjf/description
+# PK Swashbuckler
+<table ⟦a1⟧><colgroup><col ⟦a2⟧> </colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>Itens Deixados</td>
+</tr>
+<tr ⟦a5⟧>
+<td ⟦a6⟧>1~5</td>
+<td ⟦a7⟧>2Dx2 de ouro</td>
+</tr>
+<tr ⟦a8⟧>
+<td ⟦a9⟧>6</td>
+<td ⟦a10⟧>Hambúrguer Crescente x3 (conforme a Lista de Itens)</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>⟦r1⟧{[Esquiva]}<br>⟦r2⟧{[Resistência]}</p>
+
+=== GjIM2oezJWF7OMjf/items.bm8Xqxc46FRqbHsz.description
+# PK Swashbuckler › Swashbuckler's Flurry
+<p>⟦r1⟧{TESTE}</p>
+<p>⟦r2⟧{[2D+27]} de dano físico.&nbsp;<br>(Menor): O alvo sofre [Perseguição: 10].</p>
+
+=== GjIM2oezJWF7OMjf/items.mgLugtZOA0fieb05.description
+# PK Swashbuckler › Unicorn Jump
+<p>Este inimigo recebe [Voando] e faz um [Movimento Seguro] de até 3 Qd.&nbsp;<br>Ao fim do movimento, o inimigo perde [Voando].&nbsp;<br>(Menor): Aumente em +1 Qd a distância percorrida.</p>
+
+=== CfW7dWV2jkk62U54/description
+# Ratman Bonehead
+<table ⟦a1⟧><colgroup><col ⟦a2⟧> </colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>Itens Deixados</td>
+</tr>
+<tr ⟦a5⟧>
+<td ⟦a6⟧>1~3</td>
+<td ⟦a7⟧>Incisivo Lascado [Valioso] (20G)</td>
+</tr>
+<tr ⟦a8⟧>
+<td ⟦a9⟧>4~6</td>
+<td ⟦a10⟧>Crânio Grosso [Valioso] (40G)</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>⟦r1⟧{[Esquiva]}<br>⟦r2⟧{[Resistência]}</p>
+
+=== CfW7dWV2jkk62U54/items.kMiFFz45oObaXl1G.description
+# Ratman Bonehead › Rat-Fu
+<p>Todo [Movimento Normal] deste inimigo sempre conta como [Movimento Seguro].</p>
+
+=== CfW7dWV2jkk62U54/items.UG21NWOvT8kowUcv.description
+# Ratman Bonehead › Titanic Stomp
+<p>⟦r1⟧{TESTE}</p>
+<p>⟦r2⟧{[2D+16]} de Dano Físico. O alvo sofre [Deterioração: 5].&nbsp;<br>(Menor): Adicione +2 ao [Teste de Acerto] desta habilidade.</p>
+
+=== CfW7dWV2jkk62U54/items.qII7h7NYWNUZE85W.description
+# Ratman Bonehead › Vigilant Cry
+<p>O alvo recebe [Anulação: 5].<br>Este efeito de [Anulação] é removido assim que este inimigo ficar [Incapacitado] ou [Morto].</p>
+
+=== geThBzOVp3iHBptL/description
+# Ratman Harvester
+<table ⟦a1⟧><colgroup><col ⟦a2⟧> </colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>Itens Deixados</td>
+</tr>
+<tr ⟦a5⟧>
+<td ⟦a6⟧>1~4</td>
+<td ⟦a7⟧>Ensopado de Carne (conforme a Lista de Itens)</td>
+</tr>
+<tr ⟦a8⟧>
+<td ⟦a9⟧>5~6</td>
+<td ⟦a10⟧>Cogumelo Branco Saboroso [Valioso] (45G)</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>⟦r1⟧{[Esquiva]}<br>⟦r2⟧{[Resistência]}</p>
+
+=== geThBzOVp3iHBptL/items.kUw0XrwID7vO6pFU.description
+# Ratman Harvester › Calming Blue Mushroom Gas
+<p>⟦r1⟧{TESTE}</p>
+<p>⟦r2⟧{[2D+10]} de Dano Mágico<br>(Alvo: Deterioração): O alvo sofre [Perseguição] com valor igual ao do efeito de [Deterioração] que o afeta no momento.</p>

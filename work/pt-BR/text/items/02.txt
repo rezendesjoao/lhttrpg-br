@@ -1,0 +1,422 @@
+=== aPDB4jGZPEH078nm/description
+# R6 Jolly Roger
+<p>Você não perde sua capacidade de [Obstrução] mesmo nos estados [Cambaleante] ou [Atordoado]. Seu teste de "Coerção Armada" recebe +2. No início do combate, você também pode aumentar seu [Ódio] em +1.
+Uma ombreira adornada com um aterrorizante desenho de caveira. Dizem que um demônio está preso a ela, e de vez em quando ela solta, de repente, uma gargalhada estridente. Tem um excelente efeito de atrair os inimigos ao redor mesmo quando o usuário não consegue se mover, mas, depois da Catástrofe, o item ficou amaldiçoado e quem o usa passou a ser visto como sinistro, o que fez o número de usuários diminuir.</p><hr><p>Brasão da Caveira[Material-Base](80G)+Couro Endurecido(270G)+[Catalisador Mágico 6](50G)×2+Custo de Fabricação(190G)</p>
+
+=== SCkeSW9pZkId8V6v/description
+# R6 White crocodile leather jack boots
+<p>Você recebe a tag [Aquático]. No início de uma Cena, você recebe [Anulação (Frio, Veneno, Radiância):15].
+Botas feitas com o couro de um Crocodilo Branco. São resistentes e permitem atravessar com facilidade terrenos lamacentos e instáveis.</p><hr><p>[Material-Base](80G)+ (130G)×2+[ 6](50G)×4+Custo de Fabricação(190G)</p>
+
+=== gTCWqACSHXk3QoSG/description
+# R7 Banshiki no kēpu
+<p>[Momento: Ver texto] Use quando você for alvo de [Obstrução]. Inflige [Atordoado] a um alvo com "Alvo: Área (Escolha)/Alcance: Corpo a corpo" e permite que você continue sem perder o movimento. Uma vez por Cena.〔Pessoal: Artista〕Acrescenta +2 ao seu [Teste de Negociação].
+que muda de cor conforme a intenção de quem a veste. Dizem que abriga a alma de um bufão errante que despreza todas as amarras, e ela engana aqueles que tentam atrapalhar quem a porta.</p><hr><p>Escama de Cores Vívidas [Material-Base] (120G) + Capa (170G) + Pergaminho de Furtividade I (100G) + [Catalisador Mágico 7] (60G) ×2 + Custo de Fabricação (260G)</p>
+
+=== iJr8V8cRh5pY6abM/description
+# R7 Crown of the dead
+<p>Você sempre recebe [Anulação (Veneno):20][Fraqueza (Radiância):10]. Você recebe +3D nas rolagens de dano com as tags [Morto-Vivo][Veneno] que fizer.
+Uma coroa que, dizem, era usada no sepultamento de pessoas nobres. Concede proteção contra os poderes ligados às trevas, ao veneno e à morte. Em consequência, oferece pouca resistência ao poder sagrado.</p><hr><p>[Material-Base](120G)+ (160G)+[ 7](60G)×4+Custo de Fabricação(230G)</p>
+
+=== aqFBrHjaeRP7e839/description
+# R7 Full moon feldspar bangle
+<p>Você recebe +10 em [Poder Mágico] quando obtém um acerto crítico com um [Ataque Mágico], acrescentando +20 à rolagem de dano. [Momento: Abertura] Este efeito dura até o fim da Rodada. Uma vez por Cena.
+Uma pulseira adornada com uma pedra mágica que emite um brilho azul como o da lua cheia. Tem um efeito que intensifica o poder mágico de quem a usa.</p><hr><p>[Material-Base](100G)+ (210G)×2+[ 7](60G)×2+Custo de Fabricação(250G)</p>
+
+=== v76MocDDphZuV2dJ/description
+# R7 Void
+<p>[Momento: Ação] Use ao mesmo tempo que o [Ataque com Arma] de uma arma com a tag [Espada][Lança][Machado][Corpo a Corpo]. Muda o ataque para "Alcance: 2Qd". Uma vez por Cena.
+Uma proteção de antebraço imbuída de uma magia que distorce o espaço. Um único golpe desferido com esta mão pode atingir inimigos à distância.</p><hr><p>Material-Base de Padrão Maldito[Material-Base](100G)+Braçadeira(120G)+Bracelete de Mana(120G)+[Catalisador Mágico 7](60G)×2+Custo de Fabricação(200G)</p>
+
+=== vrahucK95iJzvded/description
+# R8 Lightning Protection
+<p>Seu [Poder de Ataque] aumenta em +3. No início de uma Cena, você recebe [Anulação (ataques de quem tem [Iniciativa] menor que a sua):5].
+Manoplas gravadas com o brasão de um herói antigo conhecido por sua velocidade. Concedem a quem as usa uma velocidade excepcional e a capacidade de prever e evitar os ataques de oponentes mais lentos que ele.</p><hr><p>Alma Liberta [Material-Base] (140G) + Braçadeira (120G) ×2 + [Catalisador Mágico 8] (70G) ×2 + Custo de Fabricação (260G)</p>
+
+=== vnnKe4lCQReAPwMJ/description
+# R8 True Emerald
+<p>"Avaliar Item""Identificar Inimigo" +2 。[Momento: Ação] "Amarra Astral" 。"Amarra Astral" 「 :3 」 。Uma vez por Cenário.
+Uma joia feita infundindo poder mágico no Jade da Verdadeira Percepção, que, dizem, tem o poder de enxergar a verdade. Concede a quem a usa a capacidade de descobrir informações ocultas.</p><hr><p>Grande Cristal Mágico [Material-Base] (120G) + Anel Branco (210G) + Livro Ilustrado dos Monstros (Iniciante) (40G) ×3 + Enciclopédia (40G) ×3 + [Catalisador Mágico 8] (70G) ×3 + Custo de Fabricação (310G)</p>
+
+=== c0KUiIIHCb7JOvPF/description
+# R9 Black Eagle Boots
+<p>[Momento: Ação] Use ao mesmo tempo que a sua "Disparada". Esse movimento se torna um [Teleporte Instantâneo]. Uma vez por Cenário.
+Botas imbuídas de uma magia que controla o vento, adornadas com as asas de um grande falcão. Permitem saltos instantâneos e deslocamento em alta velocidade pelo ar.</p><hr><p>Pena Gigante Corta-Vento [Material-Base] (140G) + Grevas (130G) ×3 + [Catalisador Mágico 9] (90G) ×4 + Custo de Fabricação (430G)</p>
+
+=== 3iSjohiZtE0Iu2zo/description
+# R9 Large sea monster fin helmet
+<p>Apenas para o arquétipo Guerreiro. Você recebe a tag [Aquático]. [Você: Topo de Ódio] Você recebe [Barreira:10] no início do Processo de Abertura de cada Rodada. Esta [Barreira] não substitui a [Barreira] que você já está recebendo; em vez disso, soma-se ao valor dela.
+Um elmo inspirado na Barbatana Dorsal Fende-Céu, símbolo do Rei Sahuagin. A barbatana, que se ergue em direção ao céu, fica mais forte e resistente conforme as emoções de quem o usa se intensificam.</p><hr><p>Escama de Escudo Pálido [Material-Base] (180G) + Bacinete (160G) + Pergaminho do Peixe I (50G) ×2 + [Catalisador Mágico 9] (90G) ×3 + Custo de Fabricação (290G)</p>
+
+=== PM1lmcfzhlhVKRcR/description
+# R9 Nightmare's Cloak
+<p>Você recebe um bônus de +1 no NH das suas habilidades com as tags [Suporte][Canção de Auxílio] (pode ultrapassar o NH Máximo). Se o alvo do seu ataque estiver nos estados [Atordoado][Confuso][Aflito], você recebe um bônus de +2D na rolagem de dano contra esse alvo.
+Manto Tecido por Fadas, um casaco mágico que, dizem, é usado pelas fadas que atravessam os sonhos humanos. Concede a quem o veste a capacidade de ler com precisão as fraquezas mentais do inimigo.</p><hr><p>[Material-Base](140G)+ [Material-Base](140G)+ (170G)×3[ 9](90G)×4+Custo de Fabricação(180G)</p>
+
+=== 2peQ04aQC8G0FBKO/description
+# Rainfall Scarab
+<p>O dano da sua "Bala de Pulso" aumenta em +2.
+Um diadema adornado com um besouro que brilha em dourado. Melhora a cadência das magias de dano usadas pelos Encantadores, permitindo que façam chover projéteis de luz como as pancadas de chuva do início do verão. De início ignorado por ser tão simples, ficou famoso da noite para o dia com o surgimento do "Sprinkler", uma build incomum centrada neste item.</p><hr><p>Olho Negro [Material-Base] (440G) + Brinco da Previsão do Vento (400G) + Amuleto da Fênix Dourada (410G) + [Catalisador Mágico 15] (220G) ×2 + Custo de Fabricação (590G)</p>
+
+=== yephzs31PVERhOTr/description
+# Red Ring
+<p>Um anel com uma joia de um vermelho ardente. Possui um forte poder mágico.</p>
+
+=== SN4VPL7jrTDKZppW/description
+# Rose Circlet
+<p>Um diadema luxuoso com um motivo de rosas.</p>
+
+=== ELMINbO0EKSOZIKB/description
+# Sigil Guard
+<p>+1 no seu [Poder Mágico]. Luvas tecidas com um círculo mágico simples.</p>
+
+=== czh4n02BM3lNiGKK/description
+# Silky Beret
+<p>Uma boina de toque agradável, feita com fartura de um precioso fio de seda.</p>
+
+=== UHk3hzDXocN0HBIl/description
+# Sircoat
+<p>Um casaco belamente decorado que o cavaleiro veste por cima da armadura.</p>
+
+=== 3NlgeChZwDbAb1ZU/description
+# Skillfull Earring
+<p>+1 de bônus em Operação.&nbsp;</p>
+<p ⟦a1⟧><span ⟦a2⟧>Brincos que permitem a você se mover com rapidez e precisão.</span></p>
+
+=== zXfkHfwq8dIaFUou/description
+# Solid Crown
+<p>Apenas &lt;Guardião&gt; &lt;Monge&gt;. Proteção de cabeça feita de um metal duro e leve.</p>
+
+=== 1gsR44wIspgSkfz1/description
+# Spirit Belt
+<p>Você recebe [Anulação (Espírito): 60] no início da Cena.</p>
+
+=== R0sZOoojdUD9tQRN/description
+# Spirit Brooch
+<p>Você recebe [Anulação (Espírito): 15] no início da Cena.</p>
+
+=== jisGv2FUKkJq5qTP/description
+# Spirit Earrings
+<p>Você recebe [Anulação (Espírito): 30] no início da Cena.</p>
+
+=== PVKMntQMP8PyVkwr/description
+# Spirit Medallion
+<p>Você recebe [Anulação (Espírito): 80] no início da Cena.</p>
+
+=== kVcXAkTtBq2dfJQf/description
+# Spirit Piercing
+<p>Você recebe [Anulação (Espírito): 10] no início da Cena.</p>
+
+=== a03ir2Om3aU7U2nf/description
+# Spirit Talisman
+<p>Você recebe [Anulação (Espírito): 45] no início da Cena.</p>
+
+=== 33kcJlfUQUFWt37d/description
+# Talisman of Evil Poison
+<p>Você recebe [Anulação (Veneno): 45] no início da Cena.</p>
+
+=== rRvGrVLYoZ6oo6p6/description
+# Talisman of lightning
+<p>Você recebe [Anulação (Choque): 45] no início da Cena.</p>
+
+=== FKnlJaN2CZEfG65d/description
+# Telescope
+<p>Para observar objetos à distância. É proibido usá-la para fins indevidos!</p>
+<p>Alcance de Visão +1</p>
+
+=== UPGPtuit11vA9MaX/description
+# Thief's Gloves
+<p>+1 de bônus em Desarme. O tato das pontas dos dedos fica mais aguçado, auxiliando em trabalhos de precisão.</p>
+
+=== h22pnPdJR5gOaLYP/description
+# Titanas Gloves
+<p>[Acessório] [Botas] [Raro] [M3]</p>
+<p>[Poder de Ataque] +2</p>
+
+=== KdCUprBH5K4MUHwd/description
+# Torch
+<p>Todos os efeitos de [Penumbra] [Noite] e [Escuridão] dentro do alcance&nbsp; são anulados.</p>
+<hr>
+<p>A duração deste objeto termina junto com a Cena.</p>
+
+=== OqCieaUFG9egRqEz/description
+# Traveler Hat
+<p>Proteja-se dos inimigos naturais das viagens: o sol forte e o vento frio. Chapéu de aba.</p>
+
+=== ePU5VZ6CCfjqpHxO/description
+# Van Brace
+<p>+4 no seu [Poder de Ataque]. Uma grande manopla que protege o braço.</p>
+
+=== q5P416MBCRZeYAgQ/description
+# White Ring
+<p>Um anel com uma joia branca e cintilante. Imbuído de magia.</p>
+
+=== KSysLh4H2FnbO0Qm/description
+# Willow Band
+<p>Uma faixa feita de casca resistente, curtida e trançada.</p>
+
+=== SQv93MvUZquPqNhz/description
+# Wind Foresight Piercing
+<p>+2 em Percepção. Os cinco sentidos ficam mais aguçados, e até as menores mudanças podem ser percebidas.</p>
+
+=== VWLg0O5yg2ksSCyb/description
+# Academia Robe
+<p>Uma túnica simples, mas resistente, usada por eruditos.</p>
+
+=== 5oQ7LZwwy840JUFB/description
+# Arkibus
+<p>Armadura que reforça os pontos vitais da parte superior do corpo, como prevenção contra disparos de atiradores.</p>
+
+=== 5KHHtluAH6T1wuY4/description
+# Banded Armor
+<p>Armadura reforçada com grossas tiras de couro presas sobre a cota de malha.</p>
+
+=== cRyrARwQ9FIxQemt/description
+# Breastplate
+<p>Armadura de placas que protege o peito.</p>
+
+=== j9bGQnpJXWM1NuE6/description
+# Brigandine
+<p>Armadura que protege o tronco com pequenas peças de metal costuradas no avesso do couro.</p>
+
+=== h4ugd7aiS6Im3EKl/description
+# Chain Shirt
+<p>Uma armadura de metal tecida com correntes finas.</p>
+
+=== k0SsQyIw09jbcZgJ/description
+# Combat Armor
+<p>Armadura de infantaria que usa muitas peças de metal para aumentar a defesa.</p>
+
+=== 1HxrxUYPkt17DxS6/description
+# Combat Dress
+<p>Armadura de tecido projetada para não atrapalhar nem em batalhas intensas. Muitas têm uma bela aparência.</p>
+
+=== qwPPbobjqSSekbtF/description
+# Feather Stitch Robe
+<p>Uma túnica bordada com poder mágico, que aumenta drasticamente a defesa.</p>
+
+=== h4GD6kKBLzzvfW51/description
+# Field Armor
+<p>Armadura de cavaleiro com todas as partes moldadas em chapas de metal para aumentar a defesa.</p>
+
+=== MDXMapLIqCSVkaNn/description
+# Fine Clothes
+<p>Para relaxar nos dias de folga, quando não há missões, ou para sair num encontro. O costume é ter várias.</p>
+
+=== c1aHrx4VEBF2Nf9Q/description
+# Formal Clothes
+<p>Itens inúteis no dia a dia. Tenha-as à mão para reuniões importantes com o Povo da Terra. Por favor, não as transforme em roupa do dia a dia.</p>
+
+=== amCdNDDzyYr0q9dZ/description
+# Hard Leather
+<p>Armadura leve e dura, feita de couro curtido fervido e endurecido com cera.</p>
+
+=== TlpqvUaV7ShJmfdd/description
+# Hardened Bear Leather
+<p>Armadura de couro com vários rebites.</p>
+<hr>
+<p>A [Defesa Física] desta armadura aumenta em +4.</p>
+
+=== TiTJX9fkuf2DTe1t/description
+# Hermit Quilt
+<p>Armadura de tecido simples, porém resistente, usada pelos chamados eremitas e sábios.</p>
+
+=== gcXMpJ3odxuAy2rn/description
+# Hide Armor
+<p>Armadura de couro feita com a pele de grandes feras.</p>
+
+=== 75y2LifmUR3yF4Kc/description
+# Hoovercourt
+<p>Cota de malha feita de aço fino.</p>
+
+=== pc76sGmpYTnKcEqo/description
+# Hunter's Clothes
+<p>Armadura usada por caçadores. Nem as presas das feras a perfuram com facilidade.</p>
+
+=== v7aX1USouRHPpZKQ/description
+# Lamellar Armor
+<p>Armadura de corpo inteiro feita de pequenas peças de metal unidas entre si.</p>
+
+=== 1XznZbuJ2Uy7rV86/description
+# Leather Armor
+<p>Armadura feita de camadas de couro curtido.</p>
+
+=== Ux0b2gmNKO9sgeS4/description
+# Linen Cloth
+<p>Armadura de tecido feita costurando-se muitas camadas de um linho resistente.</p>
+
+=== K83QWCaGr7Aawm9H/description
+# Lolika Hamata
+<p>Cota de malha feita para cobrir a maior parte do corpo. Combina proteção e flexibilidade.</p>
+
+=== jqEmroFrkT6lh68P/description
+# Martial Arts Dress
+<p>Armadura de tecido que não atrapalha nem durante movimentos intensos. Muitas têm desenhos chamativos.</p>
+
+=== NeeC0MRkwQcQqde4/description
+# Master Tunic
+<p>Uma veste curta de couro de fera demoníaca, com tiras de metal costuradas no forro para reforçar os pontos vitais.</p>
+
+=== S2Onxk2eq9jfGXQR/description
+# Padded Armor
+<p>Armadura de tecido com enchimento nos pontos-chave de uma roupa grossa.</p>
+
+=== m4uzcTqlM5pqGwD6/description
+# Plate Coat
+<p>Armadura com chapas de metal presas no avesso de couro ou tecido resistente, para conciliar liberdade de movimento e poder defensivo.</p>
+
+=== vLX21PtFeOyzrVBg/description
+# Plate Mail
+<p>Armadura que cobre o corpo inteiro com chapas de metal marteladas no formato do corpo.</p>
+
+=== 2YxHRf4oGLnK78oz/description
+# Quilted Armor
+<p>Armadura de tecido feita acrescentando enchimento a uma armadura de tecido grosso e reforçando-a com magia.</p>
+
+=== EusT36tNmzUpE3y1/description
+# R10 Maya's War Costume
+<p>Você é tratado como tendo "Ataque Móvel" e "Passo Relâmpago" com NH +1 (pode ultrapassar o NH Máximo). A distância de movimento do "Ritardando" que você usa recebe +1Qd.
+Manto da Legião. O manto favorito de um lendário poeta dos campos de batalha. Aliviado pela magia e dotado de uma estrutura única, oferece a máxima eficácia em táticas de manobra.</p><hr><p>Faixa de Guerra do Destruidor[Material-Base](220G)+Camisa de Malha(490G)+[Catalisador Mágico 10](110G)×3+Custo de Fabricação(410G)</p>
+
+=== zoVmFJyM8gghy4ER/description
+# R10 Prismatic Mail
+<p>[Momento: Instantânea] Você remove uma [Perseguição] que esteja recebendo e recebe uma [Barreira] de mesmo valor. Uma vez por Cena.
+Uma armadura lamelar em que cada placa de ferro foi infundida com uma magia que desvia a direção dos impactos. Ela consegue armazenar o impacto recebido de um ataque, invertê-lo e anular o próximo ataque.</p><hr><p>Cristal Mágico de Elemento Enviesado [Material-Base] (220G) + Armadura Lamelar (530G) + Amuleto de Akane (Amuleto da Flor Vermelha) (140G) + [Catalisador Mágico 10] (110G) ×3 + Custo de Fabricação (510G)</p>
+
+=== JhuiBwhQ937nWiBi/description
+# R11 Forest Walk Clothes
+<p>Você recebe [Anulação (Natural, Natural):10] quando você e seus aliados no mesmo quadrado realizam uma ação com a tag [Reconhecimento], e você recebe +2 no teste de "Detectar Anomalias".
+Uma armadura discreta para trabalho ao ar livre. Feita com o couro de várias feras mágicas e impregnada com diversas resinas da floresta, tem uma defesa surpreendentemente alta. Além disso, sua magia se irradia ao redor de quem a veste, facilitando bloquear a detecção e ocultar a própria presença. Também acalma a flora e a fauna ao redor, fazendo-as hesitar em atacar.</p><hr><p>Bola de Pelo Dourada [Material-Base] (220G) + Túnica Acadêmica (480G) + [Catalisador Mágico 11] (120G) ×4 + Custo de Fabricação (440G)</p>
+
+=== DT4KYGoXve7Ohwio/description
+# R11 Might of Vikum
+<p>Enquanto você estiver tocando um Objeto de cena com a tag [Natural], sua [Recuperação] aumenta em +6. Seu "Estilo Cedro Solitário" é tratado como tendo NH +1 (pode ultrapassar o NH Máximo). (Você: Natureza) Você recebe [Anulação]. O valor desta [Anulação] é [(NH da sua habilidade [Invocação de Servo] ativa) ×3].
+Uma peça de armadura feita trançando cipós parasitas e endurecendo a casca de uma grande árvore. Ao se conectar profundamente com a natureza, concede a quem a usa o poder de sua vitalidade e selvageria.</p><hr><p>Árvore Parasita Abençoada[Material-Base](240G)+Camisa de Malha(490G)×2+[Catalisador Mágico 11](120G)×2+Custo de Fabricação(650G)</p>
+
+=== 4T0VPWO6xAkAY83U/description
+# R15 Grail Knight Armor
+<p>Você recebe [Anulação (Natural):20]. [Momento: Iniciativa] Só pode ser usado quando o seu [Ódio] for 10 ou mais. Você pode recuperar instantaneamente 100 pontos de [PV]. 1Uma vez por Cenário.
+A armadura do lendário cavaleiro a quem foi confiada a missão de encontrar o Santo Graal perdido e que completou uma difícil exploração das profundezas secretas do Reino Mágico. Concede a quem a usa a coragem para perseverar diante de qualquer adversidade e cumprir sua missão.</p><hr><p>Disco Giratório Perpétuo[Material-Base](380G)+Armadura de Combate(1200G)+Kabuto Negro(440G)+[Catalisador Mágico 15](220G)×4+Custo de Fabricação(940G)</p>
+
+=== czC6mpr9x5TKMNri/description
+# R16 Phoenix Dance Vest
+<p>[Momento: Instantânea] Como custo, este item perde uma tag [Bordado]. Se as tags [Bordado] chegarem a zero, a tag [Quebrado] é acrescentada a este item no fim da Cena. Você entra no estado [Voando] e pode usar o Poder EX "Mergulho Aéreo". Este efeito dura até o fim da Cena.
+Uma veste sem mangas para o tronco, feita de um rico tecido vermelho com uma fênix bordada em fio de ouro. Ao liberar o poder contido no bordado, quem a veste pode flutuar livremente no ar por um curto período.</p><hr><p>Enxofre Verdadeiro [Material-Base] (500G) + Armadura Acolchoada (1100G) + Pergaminho de Voo II (320G) + [Catalisador Mágico 16] (250G) ×2 + Custo de Fabricação (780G)</p>
+
+=== 95jAJ5yCGKfiT78F/description
+# R17 Burke of Spruce
+<p>Você recebe a tag [Alta Proteção]. Quando você usa "Confiar a Vida", os [PV] que você recupera continuam os mesmos, mas os [PV] que você gasta como custo são reduzidos em 30.
+Uma armadura rara feita de casca de árvore encantada. Inabalável diante do calor do verão ou do frio do inverno, guarda a magia do abeto que, como senhor da floresta, vela por todos os seres vivos.</p><hr><p>Minério Brilhante [Material-Base] (560G) + Brigandina (1100G) ×2 + Pergaminho de Alta Proteção I (250G) + [Catalisador Mágico 17] (280G) ×3 + Custo de Fabricação (910G)</p>
+
+=== I7aQpNybAJ7j8PyO/description
+# R18 Lighthouse Armor
+<p>[Momento: Instantânea] Só pode ser usado durante o combate. Este item recebe a tag [Quebrado] e você recebe 4 pontos de [Destino]. Além disso, sua [Rolagem de Dano] recebe +2D até o fim da Cena. Do momento do uso até o fim da Cena, este item não pode ser equipado.
+Armadura da Graça de Phoenic. Lendária. Uma bela armadura de placas usada pela heroína, a Dama Cavaleira Phoenic, durante a Guerra de Resistência dos Alv. Durante a feroz batalha, sua armadura se despedaçou, mas ela lutou com uma ferocidade digna de um rakshasa, com a pele exposta. Essa lenda fala de seu espírito indomável. 120 80 10 9 15 Aumenta a resistência a dano físico em 15%. Concede +5 de bônus ao poder de ataque ao sofrer dano. 1500</p><hr><p>Pedra do Sábio[Material-Base](620G)+Armadura de Combate(1200G)+[Catalisador Mágico 18](310G)×4+Custo de Fabricação(1120G)</p>
+
+=== 0TRkj7MI3tNTD1d1/description
+# R2 Lion Armor
+<p>[Momento: Abertura] Coloque em [Pós-Ação] 1 inimigo a até 4 Qd de você que tenha a tag [Natureza] e não tenha as tags [Chefe] [Raide]. 1/Cenário</p>
+<p>Uma armadura acolchoada com uma imponente cabeça de leão de pelúcia costurada no peito. Tem um mecanismo embutido: ao erguer os dois braços bem para o alto, a cara do leão fica ameaçadora e solta um rugido igualzinho ao de verdade. O rugido apela ao instinto de quem a ataca por desdenhá-la como um bicho de pelúcia, e tem o efeito de assustá-lo, ainda que só por um instante.</p>
+<hr>
+<p>Pelo Lustroso [Material-Base] (30G) + Armadura de Peles (130G) + [Catalisador Mágico 2] (20G) x 3 + Custo de Fabricação (70G)</p>
+
+=== 8w4SegQpUzRyBqxS/description
+# R2 Shadowlurker
+<p>No início de uma Cena, você recebe [Anulação (Corrupção): 20]. [Você: Oculto]: Quando você participa de um Teste Oposto como agressor, o defensor sofre uma penalidade de -1D.</p>
+<p>Um traje tecido com um material especial que não reflete a luz. A silhueta de quem o veste se funde à escuridão, tornando-o difícil de ver.</p>
+<hr>
+<p>Asas do Crepúsculo [Material-Base] (30G) + Traje de Artes Marciais (120G) + [Catalisador Mágico 2] (20G) x 3 + Custo de Fabricação (110G)</p>
+
+=== HOxOFl0VGZos0PCv/description
+# R3 Berserk Hide
+<p>[Momento: Abertura]: Você recebe um bônus de +5 na sua próxima rolagem de dano. Trate este efeito como um Estado de Combate que é removido após ser aplicado uma vez. Você também sofre [Fraqueza: 10]. Trate este efeito como um Estado Negativo que dura até o fim da Rodada.</p>
+<p>Traje de antigos guerreiros, transmitido em Ezzo. Dizem que, vestidos com peles de urso, eles enlouqueciam em batalha e derrotavam os inimigos à custa de si mesmos.</p>
+<hr>
+<p>Pelo de Urso Enlouquecido [Material-Base] (40G) + Armadura de Peles (130G) + [Catalisador Mágico 3] (25G) x 3 + Custo de Fabricação (105G)</p>
+
+=== ryNfgOIIj8g3aBno/description
+# R3 Hermit's Robe
+<p>Apenas personagens cuja Classe pertence ao arquétipo Mago podem usar este item.</p>
+<p>No início de uma Cena, você recebe [Anulação (Chama, Frio, Choque): 10]. Trate a sua habilidade Manto Crepuscular adquirida como se tivesse NH +1 (o NH Máximo pode ser ultrapassado). Se você não tiver adquirido a habilidade, você a adquire com NH1.</p>
+<hr>
+<ul>
+<li>Seda de Aranha Sombria [Material-Base] (50G)</li>
+<li>Mantelete (60G) &times; 3</li>
+<li>[Catalisador Mágico 3] (25G) &times; 2</li>
+<li>Custo de Fabricação (120G)</li>
+</ul>
+
+=== 2HA2fqJEnHjZlVL8/description
+# R4 Armor of Bloody Oath
+<p>[Momento: Imediatamente Após o Dano Ser Aplicado] Use quando você sofrer 20 ou mais de dano aos PV. Você usa Cura imediatamente. [NP12] O efeito deste item não pode ser ativado.</p>
+<hr>
+<p>Uma armadura que, dizem, contém a vontade de um protetor que se dedicou a defender a humanidade dos semi-humanos. Ela estimula a magia de cura em resposta aos ferimentos de quem a usa.</p>
+<hr>
+<table ⟦a1⟧><colgroup><col ⟦a2⟧> </colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>Talismã Sombrio [Material-Base] (50G)</td>
+</tr>
+<tr ⟦a5⟧>
+<td ⟦a6⟧>Cota de Talas (200G)</td>
+</tr>
+<tr ⟦a7⟧>
+<td ⟦a8⟧>Poção de Cura I (40G)</td>
+</tr>
+<tr ⟦a9⟧>
+<td ⟦a10⟧>3x [Catalisador Mágico 4] (30G)</td>
+</tr>
+<tr ⟦a11⟧>
+<td ⟦a12⟧>Custo de Fabricação (120G)</td>
+</tr>
+</tbody>
+</table>
+
+=== leZu3f0Kz9Lp2nHY/description
+# R5 Box Armor
+<p>Apenas &lt;Lorde Demônio&gt;. Enquanto ela estiver equipada, não é possível equipar itens de [Cabeça]. Uma caixa com as palavras "Lorde Demônio" escritas. Você pode se trancar dentro dela.</p>
+
+=== zE8Xs7pnJklK1yrz/description
+# R5 Dux Tredegim
+<p>O "Atirador Silencioso" que você adquiriu é tratado como tendo NH +1 (pode ultrapassar o NH Máximo). Se você não o tiver, ele é tratado como tendo NH1.
+Uma armadura de couro inspirada na armadura de um general famoso como o melhor arqueiro do antigo reino. O centro de gravidade e as articulações foram projetados para facilitar o disparo, permitindo tiros únicos poderosos.</p><hr><p>Tesoura Corta-Almas[Material-Base](60G)+Couro Tachonado(180G)+[Catalisador Mágico 5](40G)×3+Custo de Fabricação(180G)</p>
+
+=== np6iVGkVK9HA2xhz/description
+# R5 Reactive Mail
+<p>[Momento: Imediatamente Após o Dano] Use quando você sofrer dano com a tag [Mental][Radiância][Veneno]. Você recebe [Anulação (mesma tag do dano sofrido):10]. Se este efeito for ativado várias vezes, a [Anulação] não é substituída; em vez disso, os valores se somam.
+Uma armadura mágica que recebe uma pseudovida por meio da magia. Pode gerar um campo que reduz o dano de determinados elementos.</p><hr><p>Cristal Mágico Liquefeito [Material-Base] (60G) + Cota de Talas (200G) + [Catalisador Mágico 5] (40G) ×5 + Custo de Fabricação (260G)</p>
+
+=== BU4VCvPgfguKCOdA/description
+# R6 Mist Kasumi Uchikake
+<p>Exclusivo de Kannagi. [Momento: Ver texto] Use quando você iniciar o seu Processo Principal. Você pode fazer um [Teleporte Instantâneo] de até 2Qd. Quando o seu Processo Principal terminar, você volta, com um [Teleporte Instantâneo], ao quadrado em que estava quando o iniciou. Uma vez por Cenário.
+- Armadura leve bordada com o padrão da Escrita Enevoada, exclusiva dos Kannagi. Possui uma capacidade de pseudoteleporte que permite deslocamentos instantâneos a curtas distâncias, mas o usuário é devolvido à posição original depois de certo tempo.</p><hr><p>Tecido Kasuri da Névoa [Material-Base] (80G) + Gibão de Viajante (270G) + [Catalisador Mágico 6] (50G) ×2 + Custo de Fabricação (220G)</p>
+
+=== 7Sq8OFK2SkZhxpGt/description
+# R6 Shikigami Repeat Haori
+<p>Exclusivo de Kannagi. [Defesa Física] 9. [Defesa Mágica] 17. [Momento: Imediatamente Após o Teste] Você pode rolar de novo o teste que acabou de fazer. Este efeito não pode ser usado durante o combate. 1 Cena [você pode usar este efeito [NH de "Invocar Shikigami" que você possui atualmente] vezes.
+Um haori adornado com o padrão de selos deixado por um raro onmyōji que, dizem, comandava cem espíritos. Fortalece o laço entre quem o veste e seus onmyō, permitindo aproveitar melhor o poder deles.</p><hr><p>Casulo Lustroso [Material-Base] (80G) + Roupas de Caçador (180G) + Constructo Branco I (40G) ×2 + [Catalisador Mágico 6] (50G) ×3 + Custo de Fabricação (180G)</p>
+
+=== FOoFeAlorPZ9BlEc/description
+# R7 Battle Maiden Breastplate
+<p>Apenas personagens femininas. Concede +1D no [Teste de Negociação] contra qualquer pessoa do sexo oposto. [Momento: Ver texto] Pode ser usado a qualquer momento. Você recebe uma Conexão com qualquer pessoa do sexo oposto. Essa Conexão é perdida no Pós-Jogo. Uma vez por Cenário. [Momento: Iniciativa] Você recebe 2 pontos de [Destino]. Depois, acrescente a tag [Quebrado] a este item.
+Uma armadura inspirada nas vestes das valquírias, que, segundo dizem, inspiram os espíritos dos heróis no além. Ela realça o charme de quem a veste, tornando difícil para o sexo oposto ignorar suas palavras.</p><hr><p>[Material-Base](100G)+ (140G)×3+[ 7](60G)×3+Custo de Fabricação(350G)</p>
+
+=== SA54Rie71dYOOwvO/description
+# R8 Dragon's Armor
+<p>Você é tratado como tendo "Controle da Respiração" com NH +2 (pode ultrapassar o NH Máximo).
+Uma armadura de batalha em que se infundiram padrões mágicos por meio de bordado e tingimento, projetada para responder com eficiência à magia da terra. Quando usada em conjunto com uma técnica especial de respiração, maximiza a capacidade natural de cura de quem a veste.</p><hr><p>Fragmento da Alma de um Mestre do Punho [Material-Base] (140G) + Traje de Artes Marciais (120G) ×3 + [Catalisador Mágico 8] (70G) ×4 + Custo de Fabricação (320G)</p>
+
+=== 1umoOUMz1hIo1I6l/description
+# R8 Summer Solstice Breastplate
+<p>Você sempre recebe [Anulação (Chama, Frio):15]. Aliados além de você também recebem [Anulação (Chama, Frio):15] enquanto estiverem no mesmo quadrado que você (esta [Anulação] só é removida quando eles se afastam do quadrado em que você está).
+Uma grande armadura adornada com um brasão solar e abençoada com o poder do sol. Como o sol que dissipa o calor e o frio, sua magia beneficia não só quem a veste, mas também quem está ao redor.</p><hr><p>Madeira Parasita Abençoada [Material-Base] (140G) + Cota de Placas (30,000G) + Broche de Chama (※1) (110G) × 2 + [Catalisador Mágico 8] (70G) × 3 + Custo de Fabricação (270G)</p>
+
+=== gZIqPjpbCsge5FOc/description
+# R8 Type 39 Magical Armor  (light)
+<p>Você é tratado como tendo "Foco Instantâneo" com NH 1. Se você já o tiver, seu "Foco Instantâneo" passa a ter "Usos: 2 por Cena". [Momento: Ver texto] Use quando você sofrer um movimento forçado. Reduza esse movimento em 1 Qd.
+Uma peça de armadura que incorpora um mecanismo desconhecido, que se acredita ser parte de uma máquina de guerra mágica. Suas propriedades mudam de acordo com quem a veste, e ela também tem diversas funções de auxílio às ações.</p><hr><p>Armadura Mágica de Contra-Passagem [Material-Base] (120G) + Gibão de Viajante (270G) + Cota de Placas (30,000G) + [Catalisador Mágico 8] (70G) ×3 + Custo de Fabricação (340G)</p>
+
+=== MtNpIRCMgJMoT6T4/description
+# R8 Type 39 Magical Armor (Heavy)
+<p>Você é tratado como tendo "Foco Instantâneo" com NH 1. Se você já o tiver, seu "Foco Instantâneo" passa a ter "Usos: 2 por Cena". [Momento: Ver texto] Use quando você sofrer um movimento forçado. Reduza esse movimento em 1 Qd.
+Uma peça de armadura que incorpora um mecanismo desconhecido, que se acredita ser parte de uma máquina de guerra mágica. Suas propriedades mudam de acordo com quem a veste, e ela também tem diversas funções de auxílio às ações.</p><hr><p>Armadura Mágica de Contra-Passagem [Material-Base] (120G) + Gibão de Viajante (270G) + Cota de Placas (30,000G) + [Catalisador Mágico 8] (70G) ×3 + Custo de Fabricação (340G)</p>

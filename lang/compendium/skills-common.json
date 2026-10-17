@@ -1,0 +1,578 @@
+{
+  "LHTRPG-PTBR-COMPENDIUM": {
+    "skills-common": {
+      "label": "Habilidades Comuns e de Subclasse",
+      "documentName": "Item",
+      "folders": {
+        "LOzmIdDzB3a3qG6r": "Subclasse"
+      },
+      "byName": {
+        "Animal Tamer": "X9eRhFd3hNqEnon2",
+        "Apprenticeship": "fqOxSKzAczwVMeAK",
+        "Armor Forge": "tOMrVUfRfbbbi2y1",
+        "Armsmith": "wJOJLAO7SZ5Rl5Xv",
+        "Attack Mastery": "3vKjMbSwssbdHvGE",
+        "Card Mastery": "jxfwyzh0O14ABEVj",
+        "Careful Traveler": "dj9gMvrOwDK2Z9GE",
+        "Clothmake": "KAyhvoFTvBEfOE8V",
+        "Contaminate Weapon": "7P9cT9UEWptSQofW",
+        "Cooking": "ey2zUMldqCQnV70r",
+        "Dealing Card": "VC0rm49nWYVnykut",
+        "Delayed Trigger": "G9AGd2BJcJY7DaAS",
+        "Dispense Poison": "1NHC53aNdnIoFoN0",
+        "Double Set": "02rs62Tq9tUgb9gP",
+        "Duel": "gUy0CyByNNG8KOxi",
+        "Enable Valleable Eye": "pFT1oeWiXDZOHwvw",
+        "Energy Drain": "eSJksPB91XP3fq6e",
+        "Fake Death": "RxWmfCd9sSUlZMYm",
+        "Final Blow": "UpveDn9717piHzdH",
+        "Fortune Star": "SeBOFUJaAuDz9ADZ",
+        "Gangster Battle": "KLkzA8WsDFJuX6O9",
+        "Good Sailor": "vuaHDTzyt6lpEX5u",
+        "Healing Prayer": "vjHqq5VF4rN5NMwc",
+        "Heavy Arms Mastery": "dSjYEWGLpMQldSgR",
+        "High Feeding": "jcjaTIAm9RPxZeqY",
+        "Horse Riding": "ulHMOiTsuFHwJUGC",
+        "Imbue": "kDK3LujRVNzJY2Sh",
+        "Inspiration": "Puy1MStUkpJzEWPF",
+        "Instant Draw": "6wbf791Vpc7chequ",
+        "Jeweler": "YFYFvny4oAJOOBAj",
+        "Long Range Shot": "b3ST7GuUTV1wTdis",
+        "Long Stride": "yi2oJO3NwcjpQhtW",
+        "Magic Mastery": "OE226ClfICNAzm6P",
+        "Masterpiece": "wBORUWZyw8UZovem",
+        "Material Gatherer": "itnBMAz9kK6bc5yG",
+        "Miasmize": "AuBusUIhYqusPIEa",
+        "Mist Maker": "vk5TZUE1gZZhaClc",
+        "Noble Aura": "k0wkRPEH9WGAkyAU",
+        "Pharmacist": "TosHEFCa4DAiCsch",
+        "Physical Toughness": "Thw0yW4ro29i7tJ2",
+        "Picky Choice": "LCXowVol5o7coC6j",
+        "Poison Mastery": "g8IZFi0dPnWnUM9l",
+        "Potion Mastery": "YnJI3hBpZOWpXAAj",
+        "Quick Checker": "ElZy6HQUHlnWjTlt",
+        "Quick Delivery": "N1zVRK41micME7j9",
+        "Ravage": "D2IKCep47FdlHWBa",
+        "Remapping": "6az4SQ5FHE4Ytgx1",
+        "Resist Soul": "fthEPpUDxksztJ6g",
+        "Retentive Memory": "ZilwJWBciI5JK9FM",
+        "Ruingling's Words": "8TBzCEusgVNMOSSh",
+        "Scramble": "rCgdovrS2tBsqHl9",
+        "Scribe Scroll": "Lxk3xiEDy0xDYOkZ",
+        "Search Enemy": "1bWDhPMb2IwXTnqX",
+        "Sigilation": "uL2yOUFC0roxWadE",
+        "Spray Potion": "0cByTYQaxNCLyDvd",
+        "Standby Caution": "JsRsDXq5ZIe0UXKh",
+        "Steadfast": "nWqQhcJPahbbXUmo",
+        "Super Star": "Y20YeS6GTDzLf6e3",
+        "Swear-by-Sword": "MgebijuT9RC87KQt",
+        "Table Turning": "l29DgWR4ELIGrWGF",
+        "Training: DEX": "Xd0Tn4utRLiGBx4E",
+        "Training: INT": "nDw6BMVSWx2swSdY",
+        "Training: POW": "GkOBlHytYAvETTGm",
+        "Training: STR": "tbNvs7h1xCwBeSvN",
+        "Trap Jack": "zTcbmcaZ62fM0wEU",
+        "Treasure Hunt": "O6yE6yl2Vvc8Iy49",
+        "Value Up": "usfD28zGHfOQRtKU",
+        "Weak Point": "rL0Gm1eWuv8Lm4yC",
+        "Weapon Bash": "Zd6eIek0BNnB4aI9",
+        "Weapon Mastery: Blade": "JAKzzT7CX45ad1Ht",
+        "Weapon Mastery: Bow": "IpkjTXlIkh2ZNunq",
+        "Weapon Mastery: Hafted": "1KZnyyz5R6ZmpqgM",
+        "Weapon Mastery: Katana": "sqfQ1Xy4BTc5yelU",
+        "Weapon Mastery: Light": "E6j1CRH3G6WllYPk",
+        "Weapon Mastery: Martial Arts": "QJ2RPcbscWZmi5NC",
+        "Weapon Mastery: Spear": "eenizil5RysxdEfG",
+        "Weapon Mastery: Staff": "vchelNoMNSjxyeFm",
+        "Weapon Mastery: Throwing": "LpUz4UokjZwXfdux",
+        "Weapon Mastery: Whip": "kO81GzMIkL3HM0nY",
+        "Wheeler Dealer": "zrnebr4ntKEHvwji",
+        "Wolf Rider": "JJ8AOulPtfwzV1Tr",
+        "Woodcraft": "wBbRELHgFSfyR9do"
+      },
+      "entries": {
+        "X9eRhFd3hNqEnon2": {
+          "name": "Domador de Animais",
+          "description": "<p>Você pode usar esta habilidade se sua subclasse for Domador, Cavaleiro, Cocheiro ou Nômade.</p>\n<p>Você recebe um item básico com a tag [Invocação] e Nível do Item não superior ao seu [NP-2 (mínimo 1)].<br>(NH 2): &nbsp;Você pode receber um item com Nível do Item igual ou inferior ao seu NP.<br>(Conexão: Guerreiro, Nobre, Agricultor): O custo de Destino é eliminado.</p>\n<hr>\n<p>Uma proeza que permite criar, por meio de treinamento, um vínculo profundo com sua montaria e obter, como prova disso, um apito para invocá-la.</p>"
+        },
+        "fqOxSKzAczwVMeAK": {
+          "name": "Aprendizado",
+          "description": "<p>Esta habilidade só produz efeito se sua subclasse for Aprendiz. Você pode usar qualquer habilidade que já tenha adquirido e que exija uma subclasse diferente de Aprendiz para ser usada. No entanto, a cada uso, você deve gastar 2 Pontos de Destino adicionais.</p>\n<p>(Conexão: Subclasse Exigida pela Habilidade): Reduza em 1 o custo adicional de Pontos de Destino desta habilidade.</p>\n<hr>\n<p>Uma habilidade especial que aprende as técnicas de outra subclasse tornando-se aprendiz de um mestre dessa subclasse.</p>"
+        },
+        "tOMrVUfRfbbbi2y1": {
+          "name": "Forja de Armaduras",
+          "description": "<p>Você pode usar esta habilidade se sua subclasse for Ferreiro, Armadureiro ou Maquinista. Você recebe um item básico com a tag [Armadura Pesada], [Escudo] ou [Elmo] e Nível do Item não superior ao seu [NP-2 (mínimo 1)].</p>\n<p>(NH2): Você pode receber um item com Nível do Item igual ou inferior ao seu NP.<br>(Conexão: Soldado, General, Mercenário): Reduza o custo de Destino desta habilidade para 1.</p>\n<hr>\n<p>Uma habilidade especial de trabalhar o metal e criar armaduras.</p>"
+        },
+        "wJOJLAO7SZ5Rl5Xv": {
+          "name": "Forja de Armas",
+          "description": "<p>Você pode usar esta habilidade se sua subclasse for Ferreiro, Armeiro ou Armadureiro.<br>Você recebe um item com a tag [Uma Mão] cujo Nível do Item não exceda o seu NP.<br>(NH2): O item recebido pode ter a tag [Duas Mãos].<br>(NH3): O item recebido pode ter a tag [Armadura Pesada], [Armadura Média] ou [Armadura Leve].<br>(Conexão: Mercador, Minerador, Comerciante): Reduza o custo de [Ponto de Destino] desta habilidade para 1.</p>\n<hr>\n<p>Uma proeza que demonstra que você domina a técnica de criar diversas armas e armaduras.</p>"
+        },
+        "3vKjMbSwssbdHvGE": {
+          "name": "Maestria em Ataque",
+          "description": "<p>Você recebe um bônus de +[NHx2] em seu [Poder de Ataque].</p>\n<hr>\n<p>Você raramente falta ao seu treinamento com armas. Seus ataques ostentam um poder destrutivo maior que o de outros aventureiros.</p>",
+          "effects": {
+            "EffAtkMst3vKjMbS": {
+              "name": "Maestria em Ataque"
+            }
+          }
+        },
+        "jxfwyzh0O14ABEVj": {
+          "name": "Maestria em Cartas",
+          "description": "<p>Você pode usar itens [Amuleto] com Nível do Item igual ou inferior ao seu [NP+NH]. Você recebe +(NHx3) [Espaços de Inventário]. Você só pode guardar [Amuletos] nesses [Espaços de Inventário] adicionais, e os itens guardados não podem sofrer efeitos indesejados, como ações que não sejam suas ou a [Tabela de Exaustão: Itens].</p>\n<hr>\n<p>Você é hábil no manuseio de talismãs. Consegue manejar à vontade mais amuletos, e de níveis mais altos.</p>",
+          "effects": {
+            "OZyNX66FhmCdSZIs": {
+              "name": "Maestria em Cartas"
+            }
+          }
+        },
+        "dj9gMvrOwDK2Z9GE": {
+          "name": "Viajante Cauteloso",
+          "description": "<p>Se você fizer qualquer teste como resultado de uma rolagem em tabela, some 2 a esse teste.</p>\n<hr>\n<p>Consciente ou inconscientemente, você presta muita atenção ao seu redor. Diversas percepções vão ajudar você em sua aventura.</p>"
+        },
+        "KAyhvoFTvBEfOE8V": {
+          "name": "Confecção",
+          "description": "<p>Você pode usar esta habilidade se sua subclasse for Alfaiate, Coureiro ou Nômade. Você recebe um item básico com a tag [Armadura Leve], [Manto] ou [Bolsa] e Nível do Item não superior ao seu [NP-2 (mínimo 1)].</p>\n<p>(NH2): Você pode receber um item com Nível do Item igual ou inferior ao seu NP.</p>\n<p>(Conexão: Mercador, Agricultor, Serviçal): Reduza o custo de Destino desta habilidade para 1.</p>\n<hr>\n<p>A habilidade especial de trabalhar tecidos e couro para confeccionar roupas e bolsas.</p>"
+        },
+        "7P9cT9UEWptSQofW": {
+          "name": "Contaminar Arma",
+          "description": "<p>Ao usar esta habilidade, você pode consumir um item [Toxina] com Nível do Item de no máximo [NP - 5 (mínimo 1)] que inflija um Estado Negativo. Quando você causar dano com &laquo;Ataque Básico com Arma&raquo;, pode infligir ao alvo desse ataque o mesmo Estado Negativo que o item [Toxina] consumido teria infligido. Trate este efeito como um Estado de Combate.<br>(Destino 1 &amp; Você: Envenenador, Lâmina Amaldiçoada, Vingador): Se você já tiver atingido o Limite desta habilidade, pode pagar este custo para usá-la novamente.</p>\n<hr>\n<p>Uma habilidade especial em que a arma é carregada com uma maldição cujo efeito se manifesta diretamente pela ferida do oponente atacado.</p>"
+        },
+        "ey2zUMldqCQnV70r": {
+          "name": "Culinária",
+          "description": "<p>Você pode usar esta habilidade se sua subclasse for Chef, Criada ou Governanta.</p>\n<p>Você recebe dois itens com a tag [Comida] cujo Nível do Item não exceda aquele que você pode usar.</p>\n<p>(Conexão: Mercador, Agricultor, Serviçal): Você recebe três itens em vez de dois.</p>\n<hr>\n<p>Você é capaz de preparar pratos deliciosos com as próprias mãos.</p>"
+        },
+        "VC0rm49nWYVnykut": {
+          "name": "Dar as Cartas",
+          "description": "<p>Use esta habilidade quando um alvo que não seja você iniciar o próprio Processo Principal. Você pode usar imediatamente um [Amuleto] de [Alvo: Pessoal], e o alvo do Amuleto passa a ser o alvo desta habilidade.</p>\n<p>(Destino 1 &amp; Você: Talismanista, Cavaleiro Rúnico): Se você já tiver atingido o Limite desta habilidade, pode pagar este custo para usá-la novamente.</p>\n<hr>\n<p>Uma habilidade especial que aplica os efeitos de amuletos em outras pessoas. Você pode lançar amuletos em oponentes distantes arremessando-os, projetando feitiços e assim por diante.</p>"
+        },
+        "G9AGd2BJcJY7DaAS": {
+          "name": "Gatilho Retardado",
+          "description": "<p>Ao usar esta habilidade, você pode consumir um item [Amuleto]. No início do seu primeiro Processo Principal na cena seguinte, você recebe o efeito do [Amuleto] consumido.</p>\n<p>(Destino 1): Escolha um [Amuleto] adicional, diferente do primeiro [Amuleto] consumido, e consuma-o. No início do seu primeiro Processo Principal na cena seguinte, você recebe o efeito de ambos os [Amuletos] consumidos.</p>\n<hr>\n<p>Uma habilidade especial que prepara amuletos com antecedência para que surtam efeito mais tarde. Para você, até as cartas viradas para baixo, que não estão em sua mão, fazem parte de sua força.</p>"
+        },
+        "1NHC53aNdnIoFoN0": {
+          "name": "Preparar Veneno",
+          "description": "<p>Você pode usar esta habilidade se sua subclasse for Envenenador, Alquimista ou Lâmina Amaldiçoada. Você recebe dois itens com a tag [Toxina] cujo Nível do Item não exceda aquele que você pode usar.</p>\n<p>(Conexão: Espírito Livre, Farmacêutico, Fora da Lei): Você recebe três itens em vez de dois.</p>\n<hr>\n<p>Você sabe misturar poções e usá-las em batalha.</p>"
+        },
+        "02rs62Tq9tUgb9gP": {
+          "name": "Abertura Dupla",
+          "description": "<p>Você pode usar imediatamente duas ações de [Momento: Abertura].</p>\n<hr>\n<p>Uma habilidade especial que permite preparar rapidamente a situação de batalha, preparando-se com antecedência e explorando as brechas do inimigo. Não é raro que a diferença de estratégia na hora de agir influencie o rumo da batalha.</p>"
+        },
+        "gUy0CyByNNG8KOxi": {
+          "name": "Duelo",
+          "description": "<p>Você pode usar esta habilidade se sua subclasse for Campeão, Gladiador ou Duelista.</p>\n<p>Dê ao alvo a tag [Duelo]. Se um personagem com a tag [Duelo] estiver entre os alvos do seu ataque, você recebe +5 na rolagem de dano. Este efeito dura até o fim da cena ou até você ficar no estado [Oculto].&nbsp;</p>\n<p>(NP 11): &nbsp;Aumente o dano em +5.<br>(NP 21): &nbsp;Aumente o dano em mais +5.</p>\n<hr>\n<p>Uma habilidade que desafia um oponente determinado para um duelo. Batalhas espetaculares, em que você se choca de frente com toda a sua força, são exclusividade sua.</p>",
+          "effects": {
+            "m5N9qW3zL1mK6pT8": {
+              "name": "Duelo"
+            },
+            "PRCGG4V2cyz34BEk": {
+              "name": "Duelo (+5 de dano contra [Duelo])"
+            },
+            "1atX468LmivBz5H8": {
+              "name": "Duelo (NP11: +5)"
+            },
+            "TckYeAHvPpY6IZGD": {
+              "name": "Duelo (NP21: +5)"
+            }
+          }
+        },
+        "pFT1oeWiXDZOHwvw": {
+          "name": "Olho Inescapável",
+          "description": "<p>Você pode usar esta habilidade se sua subclasse for Rastreador, Espião ou Detetive.</p>\n<p>Entre os inimigos [Chefe] e [Raide] que aparecem na próxima cena, 1 inimigo (escolhido pelo Mestre) fica no estado [Identificado], e você obtém as informações dele. Se não houver nenhum inimigo que se enquadre, a habilidade falha, mas esse uso não conta para o limite.&nbsp;</p>\n<p>(Falha Crítica): O inimigo percebe o reconhecimento.</p>\n<hr>\n<p>Uma habilidade especial que detecta a presença de um inimigo formidável antes do combate e investiga as informações dele com antecedência. Nenhum inimigo escapa do seu olhar.</p>"
+        },
+        "eSJksPB91XP3fq6e": {
+          "name": "Dreno de Energia",
+          "description": "<p>Você pode usar esta habilidade se sua subclasse for Vampnella ou Lâmina Amaldiçoada.</p>\n<p>Aplique [Deterioração] aos alvos, e você recebe [Regeneração]. Ambos os Valores são iguais a [(mod. de FOR) &times; 2].&nbsp;</p>\n<p>(Alvo: Rigidez, Atordoado): Ambos os Valores aumentam para &nbsp;[(mod. de FOR) &times; 3].</p>\n<hr>\n<p>Uma habilidade que lança uma maldição que rouba a vitalidade do alvo. Seu oponente terá a força vital drenada lentamente até que, por fim, fique sem forças e desabe, servindo de alimento para saciar a sua fome.</p>",
+          "effects": {
+            "t2K6mY8sX4vL1zP7": {
+              "name": "Dreno de Energia"
+            }
+          }
+        },
+        "RxWmfCd9sSUlZMYm": {
+          "name": "Morte Fingida",
+          "description": "<p>Reduza seu [Ódio] em -5.</p>\n<hr>\n<p>Uma habilidade especial que desvia a atenção do inimigo fingindo-se de morto. Não é um truque que funcione repetidas vezes, mas é a melhor maneira de salvar a própria vida.</p>"
+        },
+        "UpveDn9717piHzdH": {
+          "name": "Golpe Final",
+          "description": "<p>Você pode usar esta habilidade se sua subclasse for Mercenário, Berserker ou Vingador.</p>\n<p>Se o alvo do ataque estiver [Cambaleante], [Atordoado], com [Deterioração] ou [Confuso] e sofrer pelo menos 1 ponto de dano, ele recebe a tag [Aflito].</p>\n<hr>\n<p>Uma habilidade especial que não deixa passar o instante em que o inimigo vacila e desfere um ataque de acompanhamento. No campo de batalha, quem mostra uma brecha desaparece. Esta técnica é o símbolo dessa regra de ferro.</p>"
+        },
+        "SeBOFUJaAuDz9ADZ": {
+          "name": "Estrela da Fortuna",
+          "description": "<p>Você recebe +2 [Pontos de Destino Iniciais].</p>\n<hr>\n<p>Você tem sorte. O Destino lhe dá uma pequena ajuda quando você enfrenta situações absurdas e difíceis.</p>",
+          "effects": {
+            "EkEWaZj6NtJY8JNr": {
+              "name": "Pontos de Destino +2"
+            }
+          }
+        },
+        "KLkzA8WsDFJuX6O9": {
+          "name": "Batalha de Gângster",
+          "description": "<p>Você pode usar esta habilidade se sua subclasse for Pirata, Fora da Lei ou Ladrão Fantasma.<br>Cause &nbsp;[2D + (Poder de Ataque)] de dano físico.&nbsp;</p>\n<p>(Acerto): O alvo deixa cair um item; role na tabela de espólio dele. Esta habilidade não pode ser usada mais de uma vez no mesmo cenário contra um alvo que já tenha deixado cair um item.</p>\n<p>(Erro): Seu [Ódio] aumenta em 1, mas a habilidade pode ser usada novamente.</p>\n<hr>\n<p>Uma habilidade especial que rouba itens valiosos do oponente ao mesmo tempo em que o ataca.</p>"
+        },
+        "vuaHDTzyt6lpEX5u": {
+          "name": "Bom Marinheiro",
+          "description": "<p>Você pode usar esta habilidade se sua subclasse for Pescador, Pirata ou Almirante.</p>\n<p>Você recebe a tag [Aquático]. Se o alvo do seu ataque tiver a tag [Aquático], você recebe +10 na rolagem de dano desse ataque.&nbsp;</p>\n<p>(NP 11): &nbsp;Aumente o dano em +5.<br>(NP 21): &nbsp;Aumente o dano em mais +5.</p>\n<hr>\n<p>Você é um nadador exímio e também luta bem na água, seja em mares ou rios. A água é o seu território de pesca.</p>",
+          "effects": {
+            "W721F0dDiBiYRFVb": {
+              "name": "Tag [Aquático]"
+            },
+            "EffGdSlrBase0001": {
+              "name": "Bom Marinheiro (Dano)"
+            },
+            "EffGdSlrCR110001": {
+              "name": "Bom Marinheiro (Dano NP11)"
+            },
+            "EffGdSlrCR210001": {
+              "name": "Bom Marinheiro (Dano NP21)"
+            }
+          }
+        },
+        "vjHqq5VF4rN5NMwc": {
+          "name": "Prece de Cura",
+          "description": "<p>Você pode usar esta habilidade se sua subclasse for Sacerdote de Guerra, Devoto/Mão de Prece ou Garota Mágica.</p>\n<p>Cure um alvo que não seja você em [[/r (@attributes.pow.value*2)+ @battle-status.power.restoration.total]]{[(POD Base) &times; 2 + (Recuperação)]}&nbsp;.</p>\n<hr>\n<p>Uma proeza que usa magia de cura por meio de preces. O sentimento de quem pensa nos companheiros feridos e caídos se torna um milagre de cura, dando-lhes coragem e esperança.</p>"
+        },
+        "dSjYEWGLpMQldSgR": {
+          "name": "Maestria em Armas Pesadas",
+          "description": "<p>Os modificadores negativos de [Iniciativa] de todos os itens que você tem equipados passam a ser 0.</p>\n<hr>\n<p>Usar armas e armaduras pesadas não deixa você mais lento. Há vários motivos para isso, como a engenhosidade do equipamento e os frutos do treinamento.</p>",
+          "effects": {
+            "2ytwPYfxYrHyfIrA": {
+              "name": "Armas Pesadas"
+            }
+          }
+        },
+        "jcjaTIAm9RPxZeqY": {
+          "name": "Alimentação Reforçada",
+          "description": "<p>Você pode usar esta habilidade se sua subclasse for Glutão, Explorador ou Guarda de Fronteira. Quando você receber o efeito de itens [Comida], reduza sua [Fadiga] em mais -[5 + (Recuperação)]. Este efeito dura até o fim da cena.</p>\n<p>(NP11): Reduza sua [Fadiga] em mais -10.<br>(NP21): Reduza sua [Fadiga] em outros -10.</p>\n<hr>\n<p>Uma habilidade especial que recupera a fadiga com eficiência, graças a truques para saborear os mais variados ingredientes e a técnicas de sobrevivência.</p>"
+        },
+        "ulHMOiTsuFHwJUGC": {
+          "name": "Equitação",
+          "description": "<p>Você fica no estado [Montado: Cavalo de Montaria]. Além disso, enquanto estiver no estado [Montado: Cavalo de Montaria], você pode usar o Poder EX &lt;&lt;Trote de Cavalo&gt;&gt;. [NH2] O Poder EX &lt;&lt;Coice de Cavalo&gt;&gt; também passa a estar disponível. [NP10] Você pode usar 《Trote de Guerra》 em vez de 《Trote de Cavalo》.</p>\n<hr>\n<p>Uma proeza que demonstra que você tem excelente habilidade de montaria e um cavalo próprio. É claro que lutar a cavalo também faz parte do seu repertório.</p>"
+        },
+        "kDK3LujRVNzJY2Sh": {
+          "name": "Imbuir",
+          "description": "<p>Você pode usar esta habilidade se sua subclasse for Lapidário, Joalheiro ou Devoto.</p>\n<p>Você recebe dois itens com a tag [Gema] cujo Nível do Item não exceda aquele que você pode usar.</p>\n<p>(Conexão: Artista, Arcanista, Minerador): Você recebe três itens em vez de dois.</p>\n<hr>\n<p>Uma habilidade especial que infunde poder mágico em gemas e metais preciosos para criar orbes mágicos.</p>"
+        },
+        "Puy1MStUkpJzEWPF": {
+          "name": "Inspiração",
+          "description": "<p>Você pode usar esta habilidade se sua subclasse for Vidente, Astrólogo ou Erudito.&nbsp;</p>\n<p>Você pode fazer uma pergunta ao Mestre uma vez. O Mestre deve responder \"sim\", \"não\" ou \"nenhum dos dois\". Se o Mestre não quiser responder, pode se recusar. Se o Mestre se recusar a responder, você recebe +2 [Pontos de Destino].</p>\n<hr>\n<p>Uma habilidade especial para se aproximar da verdade por meio do conhecimento acumulado ou de uma intuição semelhante a uma revelação divina.</p>"
+        },
+        "6wbf791Vpc7chequ": {
+          "name": "Saque Instantâneo",
+          "description": "<p>Você pode usar imediatamente um [Amuleto] de [Momento: Movimento].</p>\n<hr>\n<p>Uma habilidade especial que usa amuletos com movimentos fluidos. Em resposta a uma postura esplêndida ou vigorosa, o amuleto surte efeito imediatamente.</p>"
+        },
+        "YFYFvny4oAJOOBAj": {
+          "name": "Joalheiro",
+          "description": "<p>Você pode usar esta habilidade se sua subclasse for Artesão, Marceneiro, Joalheiro ou Conhecedor. Você recebe um item básico que tenha a tag [Acessório], mas não a tag [Pedra Mágica], com Nível do Item não superior ao seu [NP-2 (mínimo 1)].</p>\n<p>(NH2): Você pode receber um item com Nível do Item igual ou inferior ao seu NP.</p>\n<p>(Conexão: Artista, Nobre, Princesa do Jardim de Rosas): Reduza o custo de Destino desta habilidade para 1.</p>\n<hr>\n<p>Uma habilidade especial que combina diversos materiais para criar ornamentos e acessórios.</p>"
+        },
+        "b3ST7GuUTV1wTdis": {
+          "name": "Disparo de Longo Alcance",
+          "description": "<p>Você pode usar esta habilidade se sua subclasse for Bombardeiro, Caçador ou Nômade.</p>\n<p>Use ao mesmo tempo que um ataque de [Momento: Maior / Alvo: Individual] e com [Alcance: 1Qd ou mais]. O alcance do ataque aumenta em +2 Qd. e ele recebe +1D em [Precisão].</p>\n<hr>\n<p>Uma habilidade especial para mirar e atirar em presas a distâncias maiores. Leia o vento, observe o movimento, aguce sua concentração e abata os inimigos de longe.</p>"
+        },
+        "yi2oJO3NwcjpQhtW": {
+          "name": "Passada Larga",
+          "description": "<p>Use ao mesmo tempo que a habilidade &laquo;Correr&raquo; ou &laquo;Disparada&raquo;. Aumente a distância percorrida em +1 Qd.</p>\n<hr>\n<p>Uma habilidade especial que permite percorrer distâncias maiores com passadas largas e vigorosas. No campo de batalha, um único passo muitas vezes pode significar a diferença entre a vida e a morte.</p>"
+        },
+        "OE226ClfICNAzm6P": {
+          "name": "Maestria em Magia",
+          "description": "<p>Você recebe um bônus de +[NHx2] em seu [Poder Mágico].</p>\n<hr>\n<p>Você nunca deixa de lado o seu treinamento mágico. Sua magia será mais poderosa que a de outros &lt;Aventureiros&gt;.</p>",
+          "effects": {
+            "q8M8sMJTqkZzRSoQ": {
+              "name": "Maestria em Magia"
+            }
+          }
+        },
+        "wBORUWZyw8UZovem": {
+          "name": "Obra-Prima",
+          "description": "<p>Você pode usar esta habilidade se sua subclasse for Pintor, Romancista, Falsificador ou Conhecedor. Um item à sua escolha do seu inventário adquire a tag [Valor Extra n]. Faça uma rolagem na [Tabela de Tesouro: Dinheiro]; o Valor de [Valor Extra n] é igual à quantia de dinheiro obtida na rolagem. Ao vender o item, aumente o preço de venda dele nesse Valor.</p>\n<hr>\n<p>Uma proeza que acrescenta sua própria engenhosidade a um item, agregando-lhe valor como obra de arte.</p>"
+        },
+        "itnBMAz9kK6bc5yG": {
+          "name": "Coleta de Materiais",
+          "description": "<p>Você pode usar esta habilidade se sua subclasse for Coletor, Minerador, Guarda de Fronteira ou Comerciante.</p>\n<p>Você pode fazer uma rolagem na [Tabela de Tesouro: Reagentes Mágicos].&nbsp;</p>\n<p>(Conexão: Espírito Livre, Cartógrafo): Você recebe um bônus de +4 na rolagem.<br>(Conexão: Explorador, Caçador): Você recebe um bônus de +4 na rolagem.</p>\n<hr>\n<p>Uma habilidade que permite reunir materiais mágicos por diversos métodos, como coleta, busca e comércio.</p>"
+        },
+        "AuBusUIhYqusPIEa": {
+          "name": "Miasmatizar",
+          "description": "<p>Use esta habilidade ao mesmo tempo em que usar uma [Toxina].&nbsp;</p>\n<p>(Ódio 1): A [Toxina] pode ser usada com [Alcance: 4 Qd.].<br>(Ódio 2): A [Toxina] pode ser usada com [Alvo: Área (E)].<br>(Destino 1): A [Toxina] pode ser usada com [Alvo: Área (E)].</p>\n<hr>\n<p>Vaporize poções mágicas, aplique-as em algo e arremesse-as, e assim por diante, para afetar um alvo distante ou vários oponentes.</p>"
+        },
+        "vk5TZUE1gZZhaClc": {
+          "name": "Criador Místico",
+          "description": "<p>Você pode usar esta habilidade se sua subclasse for Artífice, Sigilomante, Alquimista, Mestre das Varinhas ou Maquinista.</p>\n<p>Você recebe um item básico com a tag [Pedra Mágica] ou [Mágico] cujo Nível do Item seja menor que [NP - 2 (no mínimo 1)].&nbsp;</p>\n<p>(NH2): Você pode receber um item com Nível do Item igual ou inferior ao seu NP.</p>\n<p>(Conexão: Mestre de Ofício, Colecionador, Mago): O custo de Destino é 0 em vez de 1.</p>\n<hr>\n<p>Uma habilidade especial que infunde poder mágico em diversas ferramentas e cria ferramentas mágicas especiais.</p>"
+        },
+        "k0wkRPEH9WGAkyAU": {
+          "name": "Aura Nobre",
+          "description": "<p>Você pode usar esta habilidade se sua subclasse for Nobre ou Sábio.</p>\n<p>Use esta habilidade quando fizer um [Teste de Negociação]. Você recebe +1D nesse teste.</p>\n<p>(Destino 1): O teste se torna um Crítico.</p>\n<hr>\n<p>Uma habilidade especial que impressiona o coração do oponente com a atmosfera nobre, o charme e a postura que lhe são naturais.</p>"
+        },
+        "TosHEFCa4DAiCsch": {
+          "name": "Farmacêutico",
+          "description": "<p>Você pode usar esta habilidade se sua subclasse for Herbalista, Farmacêutico ou Médico.</p>\n<p>Você recebe dois itens com a tag [Medicamento] cujo Nível do Item não exceda aquele que você pode usar.</p>\n<p>(Conexão: Artista, Alquimista, Coletor): Você recebe três itens em vez de dois.</p>\n<hr>\n<p>Você costuma misturar poções e se preparar para a aventura.</p>"
+        },
+        "Thw0yW4ro29i7tJ2": {
+          "name": "Robustez Física",
+          "description": "<p>Você recebe +16 [PV Máx.].</p>\n<hr>\n<p>Você tem um corpo muito resistente. Não importa a adversidade: se você permanecer de pé até o fim, conseguirá superá-la.</p>",
+          "effects": {
+            "FVvbt5NpcTuO8HVi": {
+              "name": "+16 PV"
+            }
+          }
+        },
+        "LCXowVol5o7coC6j": {
+          "name": "Escolha a Dedo",
+          "description": "<p>Use esta habilidade logo antes de fazer uma Rolagem de Tesouro. Você pode fazer a Rolagem de Tesouro duas vezes e ficar com qualquer um dos resultados.</p>\n<hr>\n<p>Uma habilidade especial que traz um pouco de sorte para o seu lado durante a jornada. Como um trevo de quatro folhas, sua mera existência atrai boa sorte. Em geral, você e seus companheiros viajam com tranquilidade.</p>"
+        },
+        "g8IZFi0dPnWnUM9l": {
+          "name": "Maestria em Venenos",
+          "description": "<p>Você recebe um bônus de +1D no [Teste de Acerto] das [Toxinas] que usar. Além disso, você pode usar [Toxinas] com Nível do Item igual ou inferior ao seu [NP+2].</p>\n<hr>\n<p>Você é hábil em lidar com poções em geral. É, ao mesmo tempo, criador e usuário de venenos poderosos.</p>",
+          "effects": {
+            "L4ZbtxcwGcPRd6ee": {
+              "name": "Maestria em Venenos"
+            }
+          }
+        },
+        "YnJI3hBpZOWpXAAj": {
+          "name": "Maestria em Poções",
+          "description": "<p>Você passa a poder usar itens [Poção] com Nível do Item de [NP+2] ou menos. As \"Poções de Cura (de qualquer grau)\" que você usar somam + [valor base de INT] à quantidade de [PV] recuperada. As \"Poções de Regeneração (de qualquer grau)\" que você usar recebem +[INT] no Valor da [Regeneração].</p>\n<hr>\n<p>Você é hábil no manuseio de poções. Sabendo armazenar e usar seus medicamentos, eles farão maravilhas.</p>"
+        },
+        "ElZy6HQUHlnWjTlt": {
+          "name": "Inspeção Rápida",
+          "description": "<p>Você realiza imediatamente &laquo;Identificar Inimigo&raquo; e mais uma ação de [Momento: Abertura] (você escolhe a ordem em que as realiza).</p>\n<hr>\n<p>Você consegue desvendar rapidamente as capacidades de seus oponentes.</p>"
+        },
+        "N1zVRK41micME7j9": {
+          "name": "Entrega Rápida",
+          "description": "<p>Você pode usar esta habilidade se sua subclasse for Mensageiro, Bombardeiro ou Colecionador.</p>\n<p>Mova qualquer item do seu [Espaço de Inventário] para o [Inventário] de um alvo que concorde com isso.</p>\n<hr>\n<p>Uma habilidade que permite entregar itens rapidamente a aliados distantes, arremessando-os ou disparando-os com ferramentas. Com você por perto, o item já estará lá quando a outra pessoa precisar dele.</p>"
+        },
+        "D2IKCep47FdlHWBa": {
+          "name": "Devastação",
+          "description": "<p>Durante este Processo Principal, as [Toxinas] que você usar causam 10 de dano direto além de seus efeitos normais.</p>\n<p>(NP11): Aumente o dano direto para 20.<br>(NP21): Aumente o dano direto para 30.</p>\n<hr>\n<p>Uma habilidade que modifica poções para tornar seus efeitos mais mortais. As poções que você empunha se tornam venenos letais e devastadores, que drenam a vida de seus alvos.</p>"
+        },
+        "6az4SQ5FHE4Ytgx1": {
+          "name": "Remapeamento",
+          "description": "<p>Você pode usar esta habilidade se sua subclasse for Cartógrafo, Batedor ou Explorador.</p>\n<p>Afeta a próxima cena de batalha. Você pode ver a ficha de encontro que será usada na próxima batalha. Entre os Objetos de cena que aparecem, você obtém as informações dos Objetos de cena com &ldquo;Dificuldade de Detecção: Automática&rdquo;, como se os tivesse visto.</p>\n<p>(Falha Crítica): O inimigo percebe o reconhecimento.</p>\n<hr>\n<p>Uma habilidade especial que faz o reconhecimento do terreno ao redor e rapidamente esboça um mapa.</p>"
+        },
+        "fthEPpUDxksztJ6g": {
+          "name": "Alma Resistente",
+          "description": "<p>Você pode usá-la quando quiser. Remove instantaneamente um estado com a tag [Selo] que você esteja sofrendo.</p>\n<hr>\n<p>Uma habilidade especial que repele restrições especiais impostas à alma. Os &lt;Aventureiros&gt; têm asas na alma. Sua alma transcenderá o horizonte de causa e efeito e voará livremente.</p>"
+        },
+        "ZilwJWBciI5JK9FM": {
+          "name": "Memória Prodigiosa",
+          "description": "<p>Você recebe um bônus de +1D em [Testes de Conhecimento].</p>\n<hr>\n<p>Você possui um vasto conhecimento sobre Theldesia.</p>",
+          "effects": {
+            "EgQ8IUm7NG0tN4As": {
+              "name": "Memória Prodigiosa"
+            }
+          }
+        },
+        "8TBzCEusgVNMOSSh": {
+          "name": "Palavras de Ruingling",
+          "description": "<p>Você pode usar esta habilidade se sua subclasse for Negociador, Cortesã ou Lorde Demônio.</p>\n<p>Quando você fizer um [Teste de Negociação] Oposto, use esta habilidade na pessoa que se opõe a você. Escolha um dos estados, [Atordoado] ou [Presunçoso], e aplique-o ao alvo.&nbsp;</p>\n<p>(Conexão: Alvo): Usar esta habilidade contra este alvo não consome o limite dela, e ela pode ser usada contra ele mesmo depois de o limite ter sido atingido.</p>\n<hr>\n<p>Uma habilidade especial que conduz a mente do oponente com um discurso habilidoso e arranca dele a resposta que você deseja.</p>"
+        },
+        "rCgdovrS2tBsqHl9": {
+          "name": "Pronta Resposta",
+          "description": "<p>Você remove imediatamente seu estado de [Espera].&nbsp;</p>\n<p>(Destino 1): Se você já tiver atingido o Limite desta habilidade, pode pagar este custo para usá-la novamente.</p>\n<hr>\n<p>Uma habilidade especial que aguarda o momento certo de agir e age imediatamente.</p>"
+        },
+        "Lxk3xiEDy0xDYOkZ": {
+          "name": "Pergaminho do Escriba",
+          "description": "<p>Você pode usar esta habilidade se sua subclasse for Escriba, Arcanista ou Ladrão de Feitiços.</p>\n<p>Você recebe dois itens com a tag [Pergaminho] cujo Nível do Item não exceda aquele que você pode usar.</p>\n<p>(Conexão: Intelectual, Erudito, Aprendiz): Você recebe três itens em vez de dois.</p>\n<hr>\n<p>A proeza de criar pergaminhos mágicos escrevendo feitiços em pergaminhos ou papéis em branco.</p>"
+        },
+        "1bWDhPMb2IwXTnqX": {
+          "name": "Buscar Inimigos",
+          "description": "<p>Esta habilidade tem como alvo a próxima cena. A dificuldade do teste é igual à menor [Dificuldade de Identificação] entre todos os inimigos que aparecem na cena. Você descobre o número de inimigos que aparecem, assim como o Nível de cada inimigo e se eles têm as tags [Chefe] ou [Lacaio].&nbsp;</p>\n<p>(Falha Crítica): O inimigo percebe o seu reconhecimento.</p>\n<hr>\n<p>Uma habilidade especial que vasculha os arredores e descobre o número e a força aproximada dos inimigos. Em raras ocasiões, o inimigo perceberá você.</p>"
+        },
+        "uL2yOUFC0roxWadE": {
+          "name": "Sigilação",
+          "description": "<p>Você pode usar esta habilidade se sua subclasse for Talismanista, Sigilomante ou Cavaleiro Rúnico. Você recebe dois itens com a tag [Amuleto] cujo Nível do Item não exceda aquele que você pode usar.</p>\n<p>(Conexão: Intelectual, Escriba, Vidente): Você recebe três itens em vez de dois.</p>\n<hr>\n<p>Você sabe escrever feitiços em fetiches para criar itens mágicos chamados talismãs ou cartas.</p>"
+        },
+        "0cByTYQaxNCLyDvd": {
+          "name": "Borrifar Poção",
+          "description": "<p>Você pode usar imediatamente um item [Medicamento] com [Alvo: Individual / Alcance: 4 Qd.]</p>\n<p>(Ódio 1 &amp; Destino 1): Mude o alvo para [Alvo: Área (E)].</p>\n<hr>\n<p>Uma habilidade especial que permite borrifar remédio líquido em forma de névoa, capaz de afetar até mesmo amigos distantes.</p>"
+        },
+        "JsRsDXq5ZIe0UXKh": {
+          "name": "Cautela em Espera",
+          "description": "<p>Você realiza imediatamente &laquo;Detectar Anomalias&raquo; e mais uma ação de [Momento: Abertura] (você escolhe a ordem em que as realiza).</p>\n<hr>\n<p>Uma habilidade para se preparar para a batalha prestando atenção aos arredores. Enquanto você estiver no campo de batalha, nenhuma mudança ou anomalia na situação lhe escapa.</p>"
+        },
+        "nWqQhcJPahbbXUmo": {
+          "name": "Inabalável",
+          "description": "<p>Use esta habilidade quando for movido à força. Ao sofrer um movimento forçado, reduza a distância em [NH] Qd. Se a distância do movimento chegar a 0 Qd ou menos, o movimento forçado é anulado.</p>\n<hr>\n<p>Uma habilidade que resiste a movimentos involuntários, desviando impactos e firmando os pés no chão com força.</p>"
+        },
+        "Y20YeS6GTDzLf6e3": {
+          "name": "Superestrela",
+          "description": "<p>Você pode usar esta habilidade se sua subclasse for Chindon'ya, Ídolo, Acrobata ou Lorde Demônio. Você pode fazer uma rolagem na [Tabela de Tesouro: Objetos de Valor]. Para cada Conexão que você tiver, você recebe um bônus de +1 nessa rolagem (até um máximo de +10).</p>\n<hr>\n<p>Uma proeza que representa alguém dotado de talento e carisma excepcionais. Você receberá presentes de seus fãs.</p>"
+        },
+        "MgebijuT9RC87KQt": {
+          "name": "Jurar pela Espada",
+          "description": "<p>Você pode usar esta habilidade se sua subclasse for Cavaleiro, Herói ou Wuxia.</p>\n<p>Só pode ter como alvo um personagem que concorde, exceto você. Quando você usar \"Proteger\" tendo esse personagem como alvo, a habilidade passa a ter [Alcance: 1 Qd.], você não fica em [Pós-Ação] e ela pode ser usada mesmo se você estiver em [Pós-Ação]. Este efeito dura até o fim do cenário.</p>\n<hr>\n<p>Uma habilidade especial que faz um voto de proteção com a própria espada. Enquanto eu mantiver este juramento, jamais deixarei que lâmina alguma me alcance.</p>"
+        },
+        "l29DgWR4ELIGrWGF": {
+          "name": "Virada de Mesa",
+          "description": "<p>Você pode usar esta habilidade se sua subclasse for Apostador, Duelista, Sobrevivente ou Tático. Use esta habilidade quando você e o alvo fizerem um Teste Oposto. Troque todos os dados que você rolou por todos os dados que o alvo rolou para determinar os novos resultados de ambas as partes, assim como quem vence e quem perde.</p>\n<hr>\n<p>Uma habilidade especial que desfere uma jogada para dar a volta por cima.</p>"
+        },
+        "Xd0Tn4utRLiGBx4E": {
+          "name": "Treinamento: DES",
+          "description": "<p>Você recebe +3 em DES.</p>\n<hr>\n<p id=\"tw-target-text\" class=\"tw-data-text tw-text-large tw-ta\" dir=\"ltr\" data-placeholder=\"Traducci&oacute;n\"><span class=\"Y2IQFc\" lang=\"en\">Você treina diariamente para se aprimorar, ampliando seus pontos fortes e compensando suas fraquezas.</span></p>",
+          "effects": {
+            "lkrKPglA5njAjMPK": {
+              "name": "DES +3"
+            }
+          }
+        },
+        "nDw6BMVSWx2swSdY": {
+          "name": "Treinamento: INT",
+          "description": "<p>Você recebe +3 em INT.</p>\n<hr>\n<p>Você acumula treinamento para se aprimorar todos os dias. Ampliar seus pontos fortes, compensar suas fraquezas e o acúmulo constante desses esforços, ainda que de formas diferentes, se tornarão o alimento que sustenta você.</p>",
+          "effects": {
+            "AQUyQ4uF4su0S9FM": {
+              "name": "INT +3"
+            }
+          }
+        },
+        "GkOBlHytYAvETTGm": {
+          "name": "Treinamento: POD",
+          "description": "<p>Você recebe +3 em POD.</p>\n<hr>\n<p>Você acumula treinamento para se aprimorar todos os dias. Ampliar seus pontos fortes, compensar suas fraquezas e o acúmulo constante desses esforços, ainda que de formas diferentes, se tornarão o alimento que sustenta você.</p>",
+          "effects": {
+            "H2w2TVG5FUWawG8g": {
+              "name": "POD +3"
+            }
+          }
+        },
+        "tbNvs7h1xCwBeSvN": {
+          "name": "Treinamento: FOR",
+          "description": "<p>Você recebe +3 em FOR.</p>\n<hr>\n<p>Você acumula treinamento para se aprimorar todos os dias. Ampliar seus pontos fortes, compensar suas fraquezas e o acúmulo constante desses esforços, ainda que de formas diferentes, se tornarão o alimento que sustenta você.</p>",
+          "effects": {
+            "yHtWqimUOrIUKK3s": {
+              "name": "FOR +3"
+            }
+          }
+        },
+        "zTcbmcaZ62fM0wEU": {
+          "name": "Sequestro de Armadilha",
+          "description": "<p>Você pode usar esta habilidade se sua subclasse for Mestre de Armadilhas, Designer ou Carpinteiro.</p>\n<p>Você pode ter como alvo um [Artifício] no estado [Processado]. O alvo realiza imediatamente uma ação de [Momento: Maior], uma única vez. Você decide a ação e o alvo dessa ação.</p>\n<hr>\n<p>Uma habilidade especial que compreende instantaneamente a estrutura de armadilhas e mecanismos e manipula temporariamente seus movimentos à vontade.</p>"
+        },
+        "O6yE6yl2Vvc8Iy49": {
+          "name": "Caça ao Tesouro",
+          "description": "<p>Use esta habilidade logo antes de fazer uma rolagem na Tabela de Tesouro. Você recebe um bônus de +[NHx5] nessa rolagem.</p>\n<hr>\n<p>Uma habilidade especial para encontrar tesouros escondidos usando ao máximo os cinco sentidos e a intuição. Você não deixa passar os tesouros escondidos em lugar nenhum, seja no fundo de um baú ou à sombra de uma grande rocha.</p>"
+        },
+        "usfD28zGHfOQRtKU": {
+          "name": "Valorização",
+          "description": "<p>Use esta habilidade quando o dado da rolagem de Itens Deixados do alvo mostrar 1. O alvo pode rolar esse dado novamente.</p>\n<p>(Bônus): Você recebe +1 [Ponto de Destino Inicial].</p>\n<hr>\n<p>Uma habilidade especial que, graças à sorte natural e a métodos delicados de desmonte, aumenta o valor dos materiais e itens obtidos dos inimigos.</p>",
+          "effects": {
+            "uM82mtqFrqruRHr1": {
+              "name": "Valorização (Destino)"
+            }
+          }
+        },
+        "rL0Gm1eWuv8Lm4yC": {
+          "name": "Ponto Fraco",
+          "description": "<p>Você pode usar esta habilidade se sua subclasse for Arcanista/Erudito da Magia, Treinador ou Tático/Estrategista.</p>\n<p>Use esta habilidade quando colocar um Inimigo no estado [Identificado]. Aplique a esse inimigo [Perseguição: (mod. de INT)].</p>\n<hr>\n<p>Uma habilidade especial que permite desvendar os hábitos e as fraquezas do inimigo com base em informações. O conhecimento e a experiência acumulados às vezes podem se tornar armas mais poderosas que espadas e magia.</p>",
+          "effects": {
+            "b9V3pL7sK2mY6zT1": {
+              "name": "Ponto Fraco"
+            }
+          }
+        },
+        "Zd6eIek0BNnB4aI9": {
+          "name": "Pancada com Arma",
+          "description": "<p>Cause [(NH+3)D + (Poder de Ataque)] de dano físico ao alvo.</p>\n<p>(Crítico): Aumente o dano em +2D.</p>\n<hr>\n<p>Uma habilidade especial que ataca o inimigo brandindo a arma com toda a força. Um golpe simples, porém pesado, que causa um estrago enorme se acertar em cheio.</p>"
+        },
+        "JAKzzT7CX45ad1Ht": {
+          "name": "Maestria em Armas: Lâmina",
+          "description": "<p><span class=\"Y2IQFc\" lang=\"en\">Some +[(NH)D] às rolagens de dano de [Ataque com Arma] com a tag [Lâmina]. Você pode adquirir esta habilidade várias vezes, mas cada aquisição deve ter um nome diferente e seu próprio NH, separado dos demais. &nbsp;Um mesmo ataque não pode receber o efeito de mais de uma &laquo;Maestria em Armas&raquo; ao mesmo tempo.</span></p>\n<hr>\n<p>Você é hábil em empunhar espadas.</p>",
+          "effects": {
+            "EffWpnMstBlade01": {
+              "name": "Maestria em Armas: Lâmina"
+            }
+          }
+        },
+        "IpkjTXlIkh2ZNunq": {
+          "name": "Maestria em Armas: Arco",
+          "description": "<p>Some +[(NH)D] às rolagens de dano de [Ataque com Arma] com a tag [Arco]. Você pode adquirir esta habilidade várias vezes, mas cada aquisição deve ter um nome diferente e seu próprio NH, separado dos demais. &nbsp;Um mesmo ataque não pode receber o efeito de mais de uma &laquo;Maestria em Armas&raquo; ao mesmo tempo.</p>\n<hr>\n<p>Você é hábil com arcos.</p>",
+          "effects": {
+            "nv9z1oEuxFBr5Q8O": {
+              "name": "Maestria em Armas: Arco"
+            }
+          }
+        },
+        "1KZnyyz5R6ZmpqgM": {
+          "name": "Maestria em Armas: Contundente",
+          "description": "<p>Some +[(NH)D] às rolagens de dano de [Ataque com Arma] com a tag [Contundente]. Você pode adquirir esta habilidade várias vezes, mas cada aquisição deve ter um nome diferente e seu próprio NH, separado dos demais. &nbsp;Um mesmo ataque não pode receber o efeito de mais de uma &laquo;Maestria em Armas&raquo; ao mesmo tempo.</p>\n<hr>\n<p>Você é hábil com o machado de batalha.</p>",
+          "effects": {
+            "EffWpnMstHafted1": {
+              "name": "Maestria em Armas: Contundente"
+            }
+          }
+        },
+        "sqfQ1Xy4BTc5yelU": {
+          "name": "Maestria em Armas: Katana",
+          "description": "<p id=\"tw-target-text\" class=\"tw-data-text tw-text-large tw-ta\" dir=\"ltr\" data-placeholder=\"Traducci&oacute;n\"><span class=\"Y2IQFc\" lang=\"en\">Some +[(NH)D] às rolagens de dano de [Ataque com Arma] com a tag [Katana]. Você pode adquirir esta habilidade várias vezes, mas cada aquisição deve ter um nome diferente e seu próprio NH, separado dos demais. &nbsp;Um mesmo ataque não pode receber o efeito de mais de uma &laquo;Maestria em Armas&raquo; ao mesmo tempo.</span></p>\n<hr>\n<p>Você é hábil no manejo de espadas.</p>",
+          "effects": {
+            "EffWpnMstKatana1": {
+              "name": "Maestria em Armas: Katana"
+            }
+          }
+        },
+        "E6j1CRH3G6WllYPk": {
+          "name": "Maestria em Armas: Leve",
+          "description": "<p>Some +[(NH)D] às rolagens de dano de [Ataque com Arma] com a tag [Leve]. Você pode adquirir esta habilidade várias vezes, mas cada aquisição deve ter um nome diferente e seu próprio NH, separado dos demais. &nbsp;Um mesmo ataque não pode receber o efeito de mais de uma &laquo;Maestria em Armas&raquo; ao mesmo tempo.</p>\n<hr>\n<p>Você é hábil com armas leves.</p>",
+          "effects": {
+            "EffWpnMstLight01": {
+              "name": "Maestria em Armas: Leve"
+            }
+          }
+        },
+        "QJ2RPcbscWZmi5NC": {
+          "name": "Maestria em Armas: Artes Marciais",
+          "description": "<p>Some +[(NH)D] às rolagens de dano de [Ataque com Arma] com a tag [Artes Marciais]. Você pode adquirir esta habilidade várias vezes, mas cada aquisição deve ter um nome diferente e seu próprio NH, separado dos demais. &nbsp;Um mesmo ataque não pode receber o efeito de mais de uma &laquo;Maestria em Armas&raquo; ao mesmo tempo.</p>\n<hr>\n<p>Você é hábil em combate.</p>",
+          "effects": {
+            "EffWpnMstMrtArt1": {
+              "name": "Maestria em Armas: Artes Marciais"
+            }
+          }
+        },
+        "eenizil5RysxdEfG": {
+          "name": "Maestria em Armas: Lança",
+          "description": "<p>Some +[(NH)D] às rolagens de dano de [Ataque com Arma] com a tag [Lança]. Você pode adquirir esta habilidade várias vezes, mas cada aquisição deve ter um nome diferente e seu próprio NH, separado dos demais. &nbsp;Um mesmo ataque não pode receber o efeito de mais de uma &laquo;Maestria em Armas&raquo; ao mesmo tempo.</p>\n<hr>\n<p>Você é hábil com a lança.</p>",
+          "effects": {
+            "EffWpnMstSpear01": {
+              "name": "Maestria em Armas: Lança"
+            }
+          }
+        },
+        "vchelNoMNSjxyeFm": {
+          "name": "Maestria em Armas: Cajado",
+          "description": "<p>Some +[(NH)D] às rolagens de dano de [Ataque com Arma] com a tag [Cajado]. Você pode adquirir esta habilidade várias vezes, mas cada aquisição deve ter um nome diferente e seu próprio NH, separado dos demais. &nbsp;Um mesmo ataque não pode receber o efeito de mais de uma &laquo;Maestria em Armas&raquo; ao mesmo tempo.</p>\n<hr>\n<p id=\"tw-target-text\" class=\"tw-data-text tw-text-large tw-ta\" dir=\"ltr\" data-placeholder=\"Traducci&oacute;n\"><span class=\"Y2IQFc\" lang=\"en\">Você é hábil com cajados.</span></p>",
+          "effects": {
+            "EffWpnMstStaff01": {
+              "name": "Maestria em Armas: Cajado"
+            }
+          }
+        },
+        "LpUz4UokjZwXfdux": {
+          "name": "Maestria em Armas: Arremesso",
+          "description": "<p>Some +[(NH)D] às rolagens de dano de [Ataque com Arma] com a tag [Arremesso]. Você pode adquirir esta habilidade várias vezes, mas cada aquisição deve ter um nome diferente e seu próprio NH, separado dos demais. &nbsp;Um mesmo ataque não pode receber o efeito de mais de uma &laquo;Maestria em Armas&raquo; ao mesmo tempo.</p>\n<hr>\n<p id=\"tw-target-text\" class=\"tw-data-text tw-text-large tw-ta\" dir=\"ltr\" data-placeholder=\"Traducci&oacute;n\"><span class=\"Y2IQFc\" lang=\"en\">Você é hábil no manejo de armas de arremesso.</span></p>",
+          "effects": {
+            "EffWpnMstThrwn01": {
+              "name": "Maestria em Armas: Arremesso"
+            }
+          }
+        },
+        "kO81GzMIkL3HM0nY": {
+          "name": "Maestria em Armas: Chicote",
+          "description": "<p>Some +[(NH)D] às rolagens de dano de [Ataque com Arma] com a tag [Chicote]. Você pode adquirir esta habilidade várias vezes, mas cada aquisição deve ter um nome diferente e seu próprio NH, separado dos demais. &nbsp;Um mesmo ataque não pode receber o efeito de mais de uma &laquo;Maestria em Armas&raquo; ao mesmo tempo.</p>\n<hr>\n<p>Você é hábil com chicotes.</p>",
+          "effects": {
+            "aOxyhs5YJwfOL0Ic": {
+              "name": "Maestria em Armas: Chicote"
+            }
+          }
+        },
+        "zrnebr4ntKEHvwji": {
+          "name": "Tubarão dos Negócios",
+          "description": "<p>Você pode usar esta habilidade se sua subclasse for Mercador/Comerciante, Vendedor ou Contador.</p>\n<p>Você pode usá-la quando quiser, exceto durante um combate. Seu [Teste de Negociação] recebe +2. Além disso, você fica imune aos estados [Atordoado] e [Presunçoso]. Este efeito dura até o fim da cena ou até o início de uma batalha.</p>\n<hr>\n<p>Uma habilidade especial que conduz as negociações a seu favor com a serenidade de uma verdadeira raposa velha. Se você conseguir manter a mente calma mesmo no calor do debate, todas as provocações e tentações serão inúteis.</p>"
+        },
+        "JJ8AOulPtfwzV1Tr": {
+          "name": "Cavaleiro de Lobo",
+          "description": "<p>Você pode usar esta habilidade se sua subclasse for Mercenário, Fora da Lei ou Vingador.</p>\n<p>Você fica no estado [Montado: Lobo Gigante]. Além disso, enquanto estiver no estado [Montado: Lobo Gigante], você pode usar os Poderes EX \"Disparada da Fera\" e \"Pisoteio Selvagem\" das habilidades básicas.</p>\n<hr>\n<p>Uma proeza que indica que você possui lobos de grande porte que pode montar. Os lobos carregam você nas costas e lutam ao seu lado.</p>"
+        },
+        "wBbRELHgFSfyR9do": {
+          "name": "Marcenaria",
+          "description": "<p>Você pode usar esta habilidade se sua subclasse for Marceneiro ou Luthier. Você recebe um item básico com a tag [Arco], [Cajado] ou [Instrumento] e Nível do Item não superior ao seu [NP-2 (mínimo 1)].</p>\n<p>(NH2): Você pode receber um item com Nível do Item igual ou inferior ao seu NP.</p>\n<p>(Conexão: Mestre de Ofício, Carpinteiro, Colecionador): Reduza o custo de Destino desta habilidade para 1.</p>\n<hr>\n<p>Uma habilidade especial para trabalhar materiais de origem vegetal, como a madeira.</p>"
+        }
+      }
+    }
+  }
+}

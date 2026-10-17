@@ -1,0 +1,1002 @@
+{
+  "LHTRPG-PTBR": {
+    "Settings": {
+      "Compendiums": {
+        "Name": "Traduzir os compêndios",
+        "Hint": "Mostra em português os nomes, as descrições e as regras dos compêndios do sistema (habilidades, itens, bestiário e regras). Desligado: os compêndios ficam em inglês."
+      },
+      "Display": {
+        "Name": "Traduzir tags e campos das habilidades",
+        "Hint": "Mostra em português as tags e os campos Momento, Alcance, Alvo, Custo, Limite e Teste. Os valores continuam gravados em inglês, que é o que a automação do sistema lê."
+      }
+    },
+    "World": {
+      "Title": "Traduzir documentos do mundo",
+      "MenuLabel": "Traduzir documentos do mundo",
+      "MenuHint": "Traduz os atores e itens do mundo que vieram dos compêndios do sistema e ainda estão em inglês (nomes, nomes de efeitos e, se quiser, descrições). Útil para mundos criados antes do módulo.",
+      "Hint": "Os documentos do mundo que vieram dos compêndios do sistema (pelo vínculo com o compêndio ou pelo nome em inglês) recebem o nome em português e os nomes dos efeitos traduzidos. Documentos renomeados à mão e os nomes dos personagens não mudam; tags e campos de regra também não.",
+      "CountActors": "Monstros: {count}",
+      "CountOwned": "Itens e habilidades em fichas: {count}",
+      "CountItems": "Itens no diretório: {count}",
+      "CountEffects": "Efeitos: {count}",
+      "Descriptions": "Traduzir também as descrições",
+      "DescriptionsHint": "Substitui a descrição atual pela do compêndio traduzido: alterações feitas à mão nas descrições serão perdidas.",
+      "Backup": "Faça um backup do mundo antes de continuar.",
+      "Apply": "Traduzir",
+      "Cancel": "Cancelar",
+      "Done": "{count} documento(s) traduzido(s).",
+      "Nothing": "Nenhum documento do mundo precisa de tradução.",
+      "NoLanguage": "Escolha o idioma Português (Brasil) para usar esta ferramenta."
+    }
+  },
+  "TYPES": {
+    "Item": {
+      "accessory": "Acessório",
+      "armor": "Armadura",
+      "bag": "Bolsa",
+      "connection": "Conexão",
+      "gear": "Outros",
+      "shield": "Escudo",
+      "skill": "Habilidade",
+      "ticket": "Tíquete",
+      "union": "União",
+      "weapon": "Arma",
+      "race": "Raça",
+      "class": "Classe",
+      "subclass": "Subclasse",
+      "usable": "Utilizável"
+    },
+    "Actor": {
+      "character": "Personagem Jogador",
+      "monster": "Monstro",
+      "pile": "Pilha (espólio / baú / mercador)"
+    }
+  },
+  "IMPORT": {
+    "Notif": {
+      "Items": "Importação pela API - Iniciando a importação de Itens da API do site oficial...",
+      "ItemsDone": "Importação pela API - Importação de Itens concluída!",
+      "Skills": "Importação pela API - Iniciando a importação de Habilidades da API do site oficial...",
+      "SkillsDone": "Importação pela API - Importação de Habilidades concluída!"
+    }
+  },
+  "INVENTORY": {
+    "Notif": {
+      "WrongItemType": "{item} ({type}) não pode ser equipado no espaço {slot}."
+    }
+  },
+  "LHTRPG": {
+    "Hands": {
+      "Main": "Mão Principal",
+      "Off": "Mão Secundária",
+      "Swap": "Trocar de mão (atacar com a outra arma)",
+      "Locked": "Ocupada por {weapon} [Duas Mãos]",
+      "Notif": {
+        "ShieldOffHand": "{item}: escudos vão na Mão Secundária.",
+        "TwoHandedOffHand": "{item} é [Duas Mãos]: vai na Mão Principal.",
+        "OffHandLocked": "{item} não pode ser equipado: {weapon} [Duas Mãos] ocupa as duas mãos.",
+        "NotHandItem": "{item} não pode ser empunhado em um espaço de mão.",
+        "Unequipped": "De volta ao inventário para equipar {item}: {items}.",
+        "Migrated": "Armas de Duas Mãos ocupam as duas mãos: o item da mão secundária foi desequipado de {list}.",
+        "MigratedCarried": "Só equipamentos podem ser equipados: de volta ao inventário para {list}."
+      }
+    },
+    "Add": "Adicionar",
+    "Biography": {
+      "Label": "Bio.",
+      "Title": "Biografia"
+    },
+    "ButtonLabel": {
+      "Cancel": "Cancelar",
+      "Delete": "Excluir",
+      "Edit": "Editar",
+      "Roll": "Rolar",
+      "CreateItem": "Criar item"
+    },
+    "Check": {
+      "Accuracy": "Precisão",
+      "Analysis": "Análise",
+      "Athletics": "Atletismo",
+      "Disable": "Desarme",
+      "Endurance": "Vigor",
+      "Evasion": "Esquiva",
+      "Knowledge": "Conhecimento",
+      "Negotiation": "Negociação",
+      "Operation": "Operação",
+      "Perception": "Percepção",
+      "Resistance": "Resistência"
+    },
+    "Connection": {
+      "Label": "Conex.",
+      "Name": "Nome"
+    },
+    "Description": {
+      "Label": "Descrição"
+    },
+    "Dex": "DES",
+    "Effect": {
+      "Label": "Efeitos",
+      "Source": "Origem",
+      "Duration": "Duração",
+      "OnUse": "Ao usar",
+      "OnUseHint": "Aplicado ao usar esta habilidade/item",
+      "New": "Novo Efeito",
+      "ModifiedTooltip": "Base {base}, com efeitos {effective}",
+      "Category": {
+        "temporary": "Efeitos Temporários",
+        "passive": "Efeitos Passivos",
+        "inactive": "Efeitos Inativos",
+        "suppressed": "Efeitos Suprimidos",
+        "unmet": "Condição Não Atendida"
+      },
+      "Migrated": "{count} efeito(s) ativo(s) migrado(s).",
+      "Phase": {
+        "attributes": {
+          "label": "Após os atributos",
+          "hint": "Aplicado depois que os modificadores de atributo são calculados, antes dos testes e dos atributos de combate. Fórmulas que leem atributos (@dex, @str.base…) já usam esta fase por conta própria."
+        }
+      }
+    },
+    "EffectConfig": {
+      "Title": "Configuração de Efeito Ativo",
+      "StatusTab": "Estado LH",
+      "Status": "Estado",
+      "StatusNone": "— Nenhum —",
+      "Rating": "Valor",
+      "Tag": "Tag",
+      "HintRated": "Se o alvo já tiver este estado, permanece o maior Valor.",
+      "HintList": "Adicionado como uma entrada a mais.",
+      "Preview": "Prévia",
+      "ConditionsTab": "Condições",
+      "FormulaHint": "Os valores podem ser fórmulas: @sr (Nível de Habilidade), @cr (Nível de Personagem), @dex (mod. de DES), @dex.base (valor de DES), @weapon.attack / @weapon.magic (Ataque / Poder Mágico da arma principal), @offhand.attack (arma da outra mão). Ex.: @sr*3, @sr+1, floor(@cr/2).",
+      "RatingFormulaHint": "Um número ou uma fórmula (@sr*5) resolvida quando a habilidade é usada"
+    },
+    "EffectDuration": {
+      "Label": "Duração (LH)",
+      "Manual": "— Manual —",
+      "EndOfProcess": "Fim do processo",
+      "EndOfRound": "Fim da rodada",
+      "EndOfScene": "Fim da cena",
+      "Hint": "Fim do processo: expira quando o processo atual termina (o Processo Principal do personagem ativo, ou o Processo de Abertura/Encerramento). Fim da rodada: expira quando a próxima rodada começa. Fim da cena: expira quando o combate termina. Fora de combate, as durações não expiram sozinhas.",
+      "Legend": "Duração do Log Horizon",
+      "CoreLegend": "Duração do Foundry",
+      "CoreHint": "Contada pelo Foundry em tempo ou em rodadas de combate, e só em efeitos que estão em um ator. Efeitos do Log Horizon normalmente usam a duração acima: deixe isto vazio. Efeitos aplicados ao usar uma habilidade ou item não a mantêm.",
+      "Short": {
+        "EndOfProcess": "Fim proc.",
+        "EndOfRound": "Fim rodada",
+        "EndOfScene": "Fim cena"
+      }
+    },
+    "EffectExpiry": {
+      "Title": "Efeitos Expirados",
+      "Reason": {
+        "EndOfProcess": "fim do processo",
+        "EndOfRound": "fim da rodada",
+        "EndOfScene": "fim da cena",
+        "SustainedLimit": "limite de sustentadas ({tag})",
+        "SustainedLimitGeneric": "limite de habilidades sustentadas"
+      }
+    },
+    "EffectTarget": {
+      "MaxHP": "PV Máx.",
+      "MaxFate": "Destino Máx.",
+      "Dice": "{check} (dados)",
+      "Custom": "Usar a chave como digitada",
+      "Group": {
+        "attributes": "Atributos",
+        "resources": "Recursos",
+        "checks": "Testes",
+        "checkDice": "Dados de Teste",
+        "battle": "Atributos de Combate",
+        "other": "Outros",
+        "roll": "Rolagens de Habilidade"
+      },
+      "Chip": {
+        "Character": "PJ",
+        "Monster": "Monstro"
+      },
+      "Warning": {
+        "Derived": "Campo derivado: será sobrescrito no recálculo",
+        "Unknown": "Chave fora do catálogo"
+      },
+      "RollCheckMod": "Bônus no Teste da habilidade",
+      "RollCheckDice": "Bônus no Teste da habilidade (dados)",
+      "RollDamageMod": "Bônus de Dano/Recuperação da habilidade",
+      "RollDamageDice": "Bônus de Dano/Recuperação da habilidade (dados)",
+      "SkillHateCost": "Custo de Ódio da habilidade",
+      "SkillRange": "Alcance da habilidade (Qd)",
+      "SkillNote": "Nota da habilidade"
+    },
+    "Sustained": {
+      "Dialog": {
+        "Title": "Limite de Habilidades Sustentadas",
+        "Hint": "Escolha qual encerrar: {tag} permite {limit} ativa(s).",
+        "EndSelected": "Encerrar a selecionada"
+      }
+    },
+    "EffectCreate": "Criar Efeito",
+    "EffectDelete": "Excluir Efeito",
+    "EffectEdit": "Editar Efeito",
+    "EffectToggle": "Ativar/Desativar Efeito",
+    "Int": "INT",
+    "Item": {
+      "Label": {
+        "Accuracy": "Precisão",
+        "Attack": "Ataque",
+        "BagLimit": "Limite de Armazenamento",
+        "BagSpace": "Espaço",
+        "Check": "Teste",
+        "Equipped": "Equipado",
+        "Initiative": "Iniciativa",
+        "MDef": "Def. Mág.",
+        "Magic": "Magia",
+        "Main": "Arma Principal",
+        "PDef": "Def. Fís.",
+        "Price": "Preço",
+        "Quantity": "Quantidade",
+        "Range": "Alcance",
+        "Rank": "Nível",
+        "Skill": "Habilidade",
+        "Target": "Alvo",
+        "ThrowToChat": "Enviar ao Chat",
+        "Timing": "Momento"
+      },
+      "Use": {
+        "Button": "Usar",
+        "Label": "Usado",
+        "Consumed": "Consumido",
+        "EffectsApplied": "Efeitos aplicados em: {names}",
+        "ApplyEffects": "Aplicar efeitos",
+        "NoActor": "Este item precisa estar com um personagem para ser usado.",
+        "NoTargets": "Marque como alvo os tokens que recebem os efeitos.",
+        "Blocked": "Não é possível usar {name} agora: Momento {timing} ({reason}).",
+        "GMOverride": "Momento {timing} ({reason}): uso liberado pelo Mestre.",
+        "Reason": {
+          "NotTurn": "não é o seu Processo Principal",
+          "Phase": "fase atual: {phase}",
+          "OutOfCombat": "apenas fora de combate",
+          "Briefing": "apenas antes do início do combate"
+        },
+        "Migrated": "{count} itens do tipo Outros viraram itens Utilizáveis (poções, pergaminhos…)."
+      }
+    },
+    "Label": {
+      "Defense": "Defesa",
+      "Equip": "Equipar",
+      "Equipment": "Equipamento",
+      "Fate": "Destino",
+      "Fatigue": "FADIGA",
+      "Guild": "Guilda",
+      "HP": "PV",
+      "Hate": "ÓDIO",
+      "Power": "Ofensiva",
+      "Race": "Raça",
+      "Remove": "Remover",
+      "Tags": "Tags",
+      "Tickets": "Tíquetes",
+      "Type": "Tipo",
+      "StatusTag": "Tag",
+      "StatusTagAny": "qualquer",
+      "StatusTagHint": "Tag de dano a que se aplica (ex.: Chama). Vazio: qualquer dano.",
+      "Items": "Itens",
+      "ToggleHateFatigue": "Mostrar/ocultar Fadiga e Ódio"
+    },
+    "Modifier": "Modificador",
+    "Monster": {
+      "Condition": "Condição",
+      "DefenseEqual": "Igual",
+      "DefenseMagical": "Mágica",
+      "DefensePhysical": "Física",
+      "HateMultiplier": "Mult. Ódio",
+      "Identification": "Dif. de Identificação",
+      "Initiative": "Iniciativa",
+      "LowerDefense": "Defesa Menor",
+      "MDef": "Def. Mág.",
+      "PDef": "Def. Fís.",
+      "Rank": "Nível",
+      "SendToChat": "Enviar Info ao Chat",
+      "Skills": "Habilidades",
+      "Speed": "Velocidade"
+    },
+    "Placeholder": {
+      "Class": "Classe",
+      "Name": "Nome",
+      "Race": "Raça",
+      "SubClass": "Subclasse"
+    },
+    "Pow": "POD",
+    "Skill": {
+      "Label": {
+        "Check": "Teste",
+        "CheckAuto": "Auto",
+        "Cost": "Custo",
+        "Damage": "Dano",
+        "DamageMagical": "Mágico",
+        "DamagePhysical": "Físico",
+        "Limit": "Limite",
+        "MacroEffect": "Macro",
+        "Range": "Alcance",
+        "SR": "NH",
+        "Target": "Alvo",
+        "Timing": "Momento",
+        "ExtraDice": "Dados extras",
+        "DamageRecovery": "Recuperação",
+        "ModFormulaHint": "Um número ou uma fórmula: @sr*5, @sr+2, @cr…",
+        "ModifiedHint": "Alterado pelos seus efeitos",
+        "DiceFormulaHint": "Um número ou uma fórmula: @sr, @sr+3, @sr*2…",
+        "DamageNoPower": "Sem poder",
+        "DamageNoPowerHint": "Não somar Poder de Ataque / Mágico / de Recuperação: só os dados e o modificador (uma fórmula pode somar @attack, @magic, @recovery)"
+      },
+      "Type": {
+        "Basic": "Básica",
+        "Combat": "Combate",
+        "General": "Geral",
+        "Monster": "Monstro",
+        "Item": "Item"
+      },
+      "Option": {
+        "Custom": "Personalizado…"
+      },
+      "Notif": {
+        "NoCharacter": "Selecione um personagem (ou o token dele) para rolar esta habilidade.",
+        "Missing": "Esta habilidade não existe mais."
+      },
+      "Placeholder": {
+        "MacroEffect": "-"
+      }
+    },
+    "Ticket": {
+      "Type": {
+        "Treasure": "Tíquete de Tesouro",
+        "Fate": "Tíquete de Destino",
+        "Connection": "Tíquete de Conexão",
+        "Reset": "Tíquete de Reinício"
+      },
+      "AddRank": "Adicionar um Tíquete de Tesouro deste NP"
+    },
+    "Status": {
+      "Label": "Estado"
+    },
+    "Str": "FOR",
+    "Tooltip": {
+      "AttackPower": "Poder de Ataque",
+      "Initiative": "Iniciativa",
+      "MagicDefense": "Defesa Mágica",
+      "MagicPower": "Poder Mágico",
+      "PhysDefense": "Defesa Física",
+      "RestorationPower": "Poder de Recuperação",
+      "Speed": "Velocidade"
+    },
+    "Union": {
+      "Label": "Uniões",
+      "Name": "União"
+    },
+    "WindowTitle": {
+      "AbilityCheck": "Teste de Atributo"
+    },
+    "StatusEffect": {
+      "fatigue": "Fadiga",
+      "weakness": "Fraqueza",
+      "incapacitated": "Incapacitado",
+      "dead": "Morto",
+      "staggered": "Cambaleante",
+      "dazed": "Atordoado",
+      "rigor": "Rigidez",
+      "confused": "Confuso",
+      "decay": "Deterioração",
+      "pursuit": "Perseguição",
+      "afflicted": "Aflito",
+      "overconfident": "Presunçoso",
+      "regen": "Regeneração",
+      "cancel": "Anulação",
+      "barrier": "Barreira",
+      "hidden": "Oculto",
+      "swimming": "Nadando",
+      "flying": "Voando",
+      "identified": "Identificado",
+      "standby": "Espera",
+      "hateTop": "Topo de Ódio",
+      "hateUnder": "Abaixo no Ódio",
+      "absent": "Ausente da Cena"
+    },
+    "StatusGroup": {
+      "bad": "Estado Negativo",
+      "life": "Estado Vital",
+      "combat": "Estado de Combate",
+      "other": "Outros Estados"
+    },
+    "Stats": {
+      "Label": "Atributos"
+    },
+    "Piles": {
+      "SheetLabel": "Ficha de Pilha (espólio, baú, mercador)",
+      "ChatAlias": "Inventário",
+      "DefaultLootName": "Espólio",
+      "ItemPilesActive": "O módulo Item Piles está ativo. O Log Horizon TRPG já inclui seu próprio espólio, baús e mercadores: usar os dois ao mesmo tempo pode gerar sobreposição.",
+      "Mode": {
+        "Loot": "Espólio",
+        "Chest": "Baú",
+        "Merchant": "Mercador"
+      },
+      "Gold": "ouro",
+      "Quantity": "Quantidade",
+      "Confirm": "Confirmar",
+      "Give": "Dar",
+      "GiveTo": "Dar para…",
+      "GiveItemTitle": "Dar {item}",
+      "GiveGoldTitle": "Dar ouro",
+      "Take": "Pegar",
+      "TakeAll": "Pegar tudo",
+      "TakeGold": "Pegar ouro",
+      "DepositGold": "Deixar ouro",
+      "SplitGold": "Dividir ouro",
+      "Buy": "Comprar",
+      "Sell": "Vender",
+      "SellConfirm": "Vender {quantity} × {item} por {gold} de ouro?",
+      "Delete": "Excluir",
+      "Configure": "Configurar",
+      "Open": "Aberto",
+      "Closed": "Fechado",
+      "Locked": "Trancado",
+      "OpenChest": "Abrir baú",
+      "CloseChest": "Fechar baú",
+      "ClosedHint": "O baú está fechado.",
+      "LockedHint": "O baú está trancado. Talvez alguém tenha a chave…",
+      "ShopOpen": "Aberto para negócios",
+      "ShopClosed": "Fechado",
+      "ShopClosedHint": "A loja está fechada no momento.",
+      "Contents": "Conteúdo",
+      "Stock": "Estoque",
+      "StockHint": "Estoque (vazio ou ∞ = ilimitado)",
+      "SoldOut": "Esgotado",
+      "Empty": "Não há nada aqui.",
+      "NothingForSale": "Nada à venda.",
+      "NothingToSell": "Você não tem nada para vender.",
+      "NoSalesHint": "Este mercador não compra itens.",
+      "DropHint": "Arraste itens para cá da barra lateral, de um compêndio ou de uma ficha de personagem.",
+      "NoInteractor": "Selecione o seu token (ou tenha um personagem atribuído) para interagir.",
+      "Config": {
+        "Mode": "Tipo",
+        "Distance": "Distância de interação",
+        "DistanceHint": "Em espaços da grade. 1 = adjacente, -1 = ilimitada.",
+        "DeleteWhenEmpty": "Excluir o token quando vazio",
+        "ImgClosed": "Imagem fechado",
+        "ImgOpen": "Imagem aberto (vazio = imagem do ator)",
+        "AcceptsSales": "Compra itens dos jogadores",
+        "InfiniteGold": "Ouro ilimitado",
+        "BuyPercent": "Preço de compra (% do preço do item)",
+        "SellPercent": "Preço de venda (% do preço do item)",
+        "ResellSold": "Revender itens comprados dos jogadores",
+        "ResellSoldHint": "Desligado: o que os jogadores vendem some depois de pago. Ligado: é posto à venda com estoque limitado (as unidades vendidas)."
+      },
+      "Settings": {
+        "ChatLog": {
+          "Name": "Registrar transferências de itens no chat",
+          "Hint": "Publica uma mensagem no chat sempre que um espólio for pego ou itens forem dados, comprados ou vendidos."
+        }
+      },
+      "Log": {
+        "Take": "<b>{actor}</b> pegou {item} de <b>{pile}</b>.",
+        "Deposit": "<b>{actor}</b> deixou {item} em <b>{pile}</b>.",
+        "Give": "<b>{actor}</b> deu {item} para <b>{target}</b>.",
+        "Drop": "<b>{actor}</b> largou {item} no chão.",
+        "Buy": "<b>{actor}</b> comprou {item} de <b>{pile}</b> por {gold} de ouro.",
+        "Sell": "<b>{actor}</b> vendeu {item} para <b>{pile}</b> por {gold} de ouro.",
+        "Split": "O ouro de <b>{pile}</b> foi dividido: {gold} para cada um entre {actors}."
+      },
+      "Warn": {
+        "InventoryFullLeft": "O inventário de {actor} está cheio. Ficou para trás: {items}."
+      },
+      "Error": {
+        "Generic": "Não foi possível concluir essa ação.",
+        "NoGM": "Um Mestre precisa estar conectado para fazer isso.",
+        "Timeout": "O Mestre não respondeu a tempo.",
+        "NoPermission": "Você não tem permissão para fazer isso.",
+        "NoActor": "Primeiro selecione o seu token ou tenha um personagem atribuído.",
+        "TooFar": "Você está longe demais de {pile}.",
+        "Closed": "{pile} está fechado.",
+        "Locked": "{pile} está trancado.",
+        "MerchantClosed": "{pile} está fechado.",
+        "NotPhysical": "{item} não é um objeto que possa ser carregado.",
+        "InventoryFull": "O inventário de {actor} está cheio: não há espaço para {item}.",
+        "NotEnoughGold": "{actor} não tem ouro suficiente.",
+        "InvalidAmount": "Quantidade inválida.",
+        "NoGold": "Não há ouro para dar.",
+        "NoTargets": "Não há outros personagens jogadores.",
+        "NoParty": "Não há personagens jogadores conectados com quem dividir o ouro.",
+        "OutOfStock": "{item} está esgotado.",
+        "NoSales": "{pile} não compra itens.",
+        "MerchantNoGold": "{pile} não tem ouro suficiente para comprar isso."
+      },
+      "GoldLabel": "Ouro",
+      "Max": "máx. {max}",
+      "EditImage": "Alterar imagem",
+      "Search": "Buscar…",
+      "AllTypes": "Todos",
+      "Sort": {
+        "Label": "Ordenar por",
+        "Manual": "Ordem guardada",
+        "Name": "Nome",
+        "Type": "Tipo",
+        "PriceAsc": "Preço (menor → maior)",
+        "PriceDesc": "Preço (maior → menor)"
+      },
+      "Description": "Descrição",
+      "BuyTab": "Comprar",
+      "SellTab": "Vender",
+      "Item": "Item",
+      "Price": "Preço",
+      "Convert": {
+        "Title": "Converter ator em pilha",
+        "Hint": "Transforma um ator existente (por exemplo, um mercador, baú ou espólio do Item Piles) em uma pilha do sistema. Mantém seus itens, ouro, imagem, tokens e permissões; os atributos são perdidos. Personagens atribuídos a jogadores não aparecem na lista.",
+        "Actor": "Ator",
+        "Mode": "Converter em",
+        "DropNonPhysical": "Excluir habilidades, conexões e uniões",
+        "Summary": "{physical} objetos e {gold} de ouro são mantidos; {other} outros itens; {tokens} token(s) em cenas.",
+        "Confirm": "Converter",
+        "AreYouSure": "Converter <b>{actor}</b> em uma pilha ({mode})? Os atributos dele serão perdidos. Isto não pode ser desfeito automaticamente.",
+        "Done": "{actor} agora é uma pilha ({mode}): {items} objetos mantidos, {dropped} itens removidos, {tokens} token(s) não vinculado(s) migrado(s).",
+        "NoActors": "Não há atores para converter.",
+        "PlayerOwned": "pertence a um jogador"
+      },
+      "TypePlural": {
+        "weapon": "Armas",
+        "armor": "Armaduras",
+        "shield": "Escudos",
+        "accessory": "Acessórios",
+        "bag": "Bolsas",
+        "gear": "Outros",
+        "ticket": "Tíquetes",
+        "usable": "Utilizáveis"
+      }
+    },
+    "Archetype": {
+      "Warrior": "Guerreiro",
+      "WeaponAttacker": "Atacante com Arma",
+      "Healer": "Curandeiro",
+      "Mage": "Mago"
+    },
+    "SkillBrowser": {
+      "Title": "Habilidades: {name}",
+      "Open": "Ver as habilidades que este personagem pode adquirir ou subir de nível",
+      "Browse": "Explorar",
+      "Search": "Buscar por nome, classe ou tag",
+      "HintPending": "Habilidades a escolher: adquira ou suba {combat} habilidade(s) de Combate e {general} habilidade(s) Geral(is). Uma habilidade não pode passar do seu NH Máximo nem do NP do personagem.",
+      "HintFree": "Adquira novas habilidades (NH 1) ou suba o NH das que o personagem já tem. Uma habilidade não pode passar do seu NH Máximo nem do NP do personagem.",
+      "HintTraining": "Criação de personagem: restam {left} de {max} habilidades [Treinamento].",
+      "TrainingFull": "Na criação de personagem você só pode adquirir {max} habilidades [Treinamento]",
+      "MaxSRShort": "NH Máx. {max}",
+      "Acquire": "Adquirir (NH 1)",
+      "Raise": "Subir para NH {sr}",
+      "Unpick": "Tirar da seleção",
+      "MaxSR": "Já está no NH Máximo ({max})",
+      "MaxCR": "O NH não pode passar do NP do personagem ({max})",
+      "Full": "Não restam escolhas deste tipo",
+      "Empty": "Nenhuma habilidade. Confira a Classe e a Raça do personagem, ou o filtro de origem.",
+      "NoPicks": "Nada selecionado ainda.",
+      "Confirm": "Adicionar ao personagem",
+      "ChatTitle": "{name} aprende",
+      "ChatNew": "{name} (NH 1)",
+      "ChatRaise": "{name} → NH {sr}",
+      "Undo": {
+        "Title": "Habilidades escolhidas: {name}",
+        "HintRank": "{name} agora tem NP {rank}. Estas habilidades foram escolhidas em um NP mais alto. Desfazer as marcadas?",
+        "HintClass": "{name} não tem mais a Classe Principal com que estas habilidades foram escolhidas. Desfazer as marcadas?",
+        "Delete": "Remover a habilidade",
+        "Lower": "NH {from} → {to}",
+        "Ranks": "Escolhida no NP {ranks}",
+        "Apply": "Desfazer as marcadas",
+        "Keep": "Manter todas"
+      },
+      "Source": {
+        "archetype": "Arquétipo",
+        "class": "Classe Principal",
+        "race": "Raça",
+        "subclass": "Subclasse",
+        "common": "Comum"
+      },
+      "Filter": {
+        "eligible": "Todas as minhas listas",
+        "archetype": "Arquétipo",
+        "class": "Classe Principal",
+        "race": "Raça",
+        "subclass": "Subclasse",
+        "common": "Comum",
+        "all": "Todas as habilidades (sem restrição)"
+      }
+    },
+    "RankUp": {
+      "Button": "Subir NP",
+      "Tooltip": "Subir o Nível de Personagem (Tíquete de Registro)",
+      "Title": "Subir Nível de Personagem: {name}",
+      "Confirm": "Subir o Nível de Personagem de {from} para {to}?",
+      "GainHP": "PV Máx. +{hp} (Modificador de PV da Classe Principal)",
+      "GainStats": "+1 em todos os Atributos Base",
+      "GainSkills": "Adquirir ou subir {combat} habilidade(s) de Combate e {general} habilidade Geral",
+      "Chat": "{name} alcança o NP {to}"
+    },
+    "StatAllocation": {
+      "Confirm": "Confirmar",
+      "Later": "Mais tarde",
+      "Human": {
+        "Title": "Humano: atributos bônus",
+        "Menu": "Escolher os atributos do Humano",
+        "Hint": "Humanos recebem +1 em {count} Atributos Base quaisquer. Escolha-os:"
+      },
+      "Bonus": {
+        "Title": "Pontos bônus: {name}",
+        "Menu": "Distribuir pontos bônus",
+        "Hint": "Um personagem novo tem {points} pontos bônus para distribuir livremente entre os Atributos Base. Nenhum Atributo Base pode passar de {max} neste momento.",
+        "Points": "Bônus",
+        "Base": "Atributo Base",
+        "Left": "Pontos restantes:"
+      }
+    },
+    "CharacterOptions": {
+      "Archetype": "Arquétipo",
+      "Identifier": "ID",
+      "HpPerRank": "PV / Nível",
+      "World": "Mundo",
+      "Choose": "Escolher",
+      "View": "Ver detalhes",
+      "Change": "Trocar",
+      "Menu": "Opções",
+      "Empty": "Nada disponível. Crie itens deste tipo no mundo ou em um compêndio de Itens.",
+      "NoMatch": "Nenhum resultado.",
+      "Migrated": "Raça / Classe / Subclasse: {count} personagens convertidos em itens.",
+      "Select": {
+        "race": "Seleção de Raça",
+        "class": "Seleção de Classe",
+        "subclass": "Seleção de Subclasse"
+      },
+      "Search": {
+        "race": "Buscar Raças",
+        "class": "Buscar Classes",
+        "subclass": "Buscar Subclasses"
+      },
+      "SubclassSkills": {
+        "SheetHint": "Habilidades que esta Subclasse permite: um personagem com ela pode adquiri-las na seleção de habilidades (elas não são dadas de graça). Arraste uma habilidade para cá para adicioná-la.",
+        "Empty": "Esta Subclasse ainda não permite nenhuma habilidade."
+      },
+      "Grants": {
+        "Tab": "Habilidades",
+        "Title": "Habilidades iniciais: {name}",
+        "Add": "Adicionar habilidades",
+        "Skip": "Agora não",
+        "Hint": "A {type} {name} vem com estas habilidades. Escolha as que serão adicionadas ao personagem:",
+        "ChooseOne": "Escolha uma",
+        "Fixed": "Habilidade",
+        "Owned": "já possui",
+        "RemoveStale": "Remover as habilidades concedidas pela {type} anterior:",
+        "SheetHint": "Habilidades que um personagem recebe ao escolher este item. Arraste uma habilidade sobre uma linha para torná-la uma escolha entre várias, ou para a área abaixo para adicionar uma nova.",
+        "Drop": "Solte uma habilidade aqui",
+        "OnlySkills": "Só itens de Habilidade de um compêndio ou do mundo podem ser habilidades iniciais."
+      }
+    },
+    "Combat": {
+      "HitCheck": "Teste de Acerto",
+      "AutoHit": "Acerto automático",
+      "Critical": "Crítico!",
+      "Fumble": "Falha Crítica!",
+      "Dodge": "Esquiva",
+      "Hit": "Acertou",
+      "Miss": "Esquivou",
+      "Pending": "Pendente",
+      "HateUnder": "Abaixo no Ódio +2",
+      "DamageRoll": "Dano",
+      "DodgeFailed": "Esquiva falhou",
+      "Selected": "Tokens selecionados",
+      "Undo": "Desfazer",
+      "Undone": "Desfeito",
+      "Type": {
+        "physical": "Físico",
+        "magical": "Mágico",
+        "penetrating": "Penetrante",
+        "direct": "Direto",
+        "recovery": "Recuperação"
+      },
+      "Mode": {
+        "damage": "Dano",
+        "half": "Metade",
+        "double": "Dobro",
+        "direct": "Direto",
+        "heal": "Curar"
+      },
+      "Hint": {
+        "damage": "Aplicar o dano: Defesa conforme o tipo, Anulação e depois Barreira",
+        "half": "Aplicar metade do dano (arredondado para baixo)",
+        "double": "Aplicar o dobro do dano",
+        "direct": "Aplicar como Dano Direto: ignora Defesa e Anulação, mas não Barreira",
+        "heal": "Curar esta quantidade de PV",
+        "dodgeFailed": "Falhou no Teste de Esquiva: Dano de Ódio, Perseguição e Fraqueza também se aplicam",
+        "reveal": "Mostrar este detalhamento aos jogadores"
+      },
+      "Applied": {
+        "Damage": "Dano",
+        "Heal": "Cura",
+        "PDef": "Def.F",
+        "MDef": "Def.M",
+        "Hate": "Dano de Ódio",
+        "HateDown": "Ódio −1 (falhou no Teste de Esquiva)"
+      },
+      "Notif": {
+        "NoTokens": "Selecione os tokens em que aplicar.",
+        "OutOfRange": "Fora de alcance ({range}): {names}. O ataque não foi feito.",
+        "NotYourTurn": "Só o Mestre ou o dono do combatente atual pode avançar o combate."
+      },
+      "Reveal": "Revelar",
+      "Close": "Corpo a corpo",
+      "Phase": {
+        "briefing": "Briefing",
+        "setup": "Abertura",
+        "main": "Principal",
+        "cleanup": "Encerramento"
+      },
+      "PhaseHint": {
+        "briefing": "Antes do combate: perguntas sobre os inimigos, Reconhecimento e habilidades de [Preparação]. Não se ganha Ódio.",
+        "setup": "Processo de Abertura: todos voltam à Pré-Ação. Use ações de [Momento: Abertura].",
+        "main": "Iniciativa / Processo Principal: quem tem a maior Iniciativa age primeiro (PJs vencem empates). Ações de [Momento: Iniciativa] entre os turnos.",
+        "cleanup": "Processo de Encerramento: Regeneração/Deterioração, ações de [Momento: Encerramento], efeitos sustentados e, por fim, expiram os efeitos que duram até o fim da rodada."
+      },
+      "Setting": {
+        "AnnouncePhases": "Anunciar as fases do combate no chat",
+        "AnnouncePhasesHint": "Publica uma mensagem no chat quando começam o Processo de Abertura e o de Encerramento de cada rodada."
+      },
+      "AttackTags": "Tags de ataque",
+      "Standby": "Espera",
+      "StandbyHint": "Espera: pule o seu Processo Principal por enquanto e aja depois de todos que não estão em Espera (a menor Iniciativa primeiro). Uma vez por rodada, antes de realizar qualquer ação.",
+      "StandbyDeclared": "Entra em <strong>Espera</strong>.",
+      "ActionState": {
+        "pre": "Pré",
+        "post": "Pós",
+        "standby": "Espera"
+      },
+      "ActionStateHint": {
+        "pre": "Pré-Ação: ainda não realizou o seu Processo Principal nesta rodada.",
+        "post": "Pós-Ação: já realizou o seu Processo Principal nesta rodada.",
+        "standby": "Em Espera: age depois de todos os outros, a menor Iniciativa primeiro."
+      }
+    },
+    "Tag": {
+      "Placeholder": "Adicionar tag…",
+      "Migrated": "Tags normalizadas em {count} documentos."
+    },
+    "TagGroup": {
+      "Equipment": "Equipamento",
+      "Item": "Item",
+      "Skill": "Habilidade",
+      "Attack": "Ataque",
+      "Element": "Elemento",
+      "Creature": "Criatura",
+      "Other": "Outros"
+    },
+    "PlayerSheet": "Ficha de Personagem Jogador",
+    "MonsterSheet": "Ficha de Monstro",
+    "Macro": {
+      "Notif": {
+        "OwnedOnly": "Você só pode criar botões de macro para itens que pertencem a um ator.",
+        "NoItem": "O seu ator controlado não tem um item chamado {item}."
+      }
+    },
+    "Migration": {
+      "Running": "Log Horizon TRPG: atualizando os dados do mundo… Não feche o mundo até terminar.",
+      "Done": "Log Horizon TRPG: dados do mundo atualizados.",
+      "Pending": "Log Horizon TRPG: algumas atualizações do mundo não puderam ser concluídas ({list}). Elas serão tentadas de novo na próxima vez que o mundo for carregado; veja o console (F12) para detalhes."
+    },
+    "TagDesc": {
+      "Blade": "Espadas e facas. Classes que podem equipar [Lâmina] podem usá-la; um ataque com esta tag exige uma [Lâmina] equipada.",
+      "Katana": "Katanas. Classes que podem equipar [Katana] podem usá-la; um ataque com esta tag exige uma [Katana] equipada.",
+      "Spear": "Lanças e armas de haste longa. Classes que podem equipar [Lança] podem usá-la; um ataque com esta tag exige uma [Lança] equipada.",
+      "Hafted": "Machados, maças e martelos. Classes que podem equipar [Haste] podem usá-la.",
+      "Staff": "Cajados e varinhas. Classes que podem equipar [Cajado] podem usá-lo. O Poder Mágico dele não se combina com o de uma [Pedra Mágica].",
+      "Bow": "Arcos. Classes que podem equipar [Arco] podem usá-lo; um ataque com esta tag exige um [Arco] equipado.",
+      "Crossbow": "Bestas. Classes que podem equipar [Besta] podem usá-la.",
+      "Throwing": "Armas de arremesso. Classes que podem equipar [Arremesso] podem usá-la.",
+      "Whip": "Chicotes. Classes que podem equipar [Chicote] podem usá-lo.",
+      "MartialArts": "Armas de punho e técnicas desarmadas. Classes que podem equipar [Artes Marciais] podem usá-la.",
+      "Instrument": "Instrumentos musicais, usados por Bardos.",
+      "MagicStone": "Pedras catalisadoras. O Poder Mágico dela não se combina com o de um [Cajado].",
+      "Light": "Armas leves. Classes que podem equipar [Leve] podem usá-la (ex.: Feiticeiros podem usar Espadas Curtas, mas não outros itens de [Lâmina]).",
+      "LightArmor": "Armadura leve. Classes que podem equipar [Armadura Leve] podem usá-la.",
+      "MediumArmor": "Armadura média. Classes que podem equipar [Armadura Média] podem usá-la.",
+      "HeavyArmor": "Armadura pesada. Classes que podem equipar [Armadura Pesada] podem usá-la.",
+      "Shield": "Escudos. Classes que podem equipar [Escudo] podem usá-lo.",
+      "Helm": "Proteção para a cabeça.",
+      "Gloves": "Luvas e manoplas.",
+      "Boots": "Calçados.",
+      "Cloak": "Capas e mantos.",
+      "Bag": "Acrescenta Espaços de Inventário. Uma Bolsa com [Uma Mão] ou [Acessório] também pode ser equipada nesses espaços.",
+      "OneHanded": "Ocupa um espaço de mão.",
+      "TwoHanded": "Ocupa os dois espaços de mão.",
+      "Accessory": "Equipado em um espaço de acessório.",
+      "Head": "Usado na cabeça.",
+      "Arms": "Usado nos braços.",
+      "Legs": "Usado nas pernas.",
+      "DualWield": "Exige uma arma em cada mão.",
+      "Consumable": "O item é perdido ao ser usado. Diferente de outras ações, vários itens Consumíveis podem ser usados no mesmo Processo ou durante o Briefing.",
+      "Preparation": "Também pode ser usada com [Momento: Briefing] antes do combate sem gastar a ação do Briefing (ainda assim, só uma vez).",
+      "NotForSale": "Não pode ser comprado nem vendido em lojas.",
+      "Untradeable": "Não pode ser trocado com outros personagens.",
+      "Rare": "Item raro, normalmente um prêmio ou fabricado.",
+      "Potion": "Poção que se bebe.",
+      "Scroll": "Pergaminho mágico.",
+      "Toxin": "Item de veneno ou toxina.",
+      "Food": "Item de comida.",
+      "Gem": "Gema ou pedra valiosa.",
+      "Charm": "Amuleto ou talismã.",
+      "Medicine": "Item de medicamento.",
+      "MagicTool": "Ferramenta mágica.",
+      "MagicRing": "Anel mágico.",
+      "Embroidery": "Item de bordado.",
+      "SummoningWhistle": "Apito que chama uma montaria ou companheiro.",
+      "Flag": "Bandeira ou estandarte.",
+      "Tame": "Item ligado a domar criaturas.",
+      "M1": "Item de Grau Mágico 1.",
+      "M2": "Item de Grau Mágico 2.",
+      "M3": "Item de Grau Mágico 3.",
+      "M4": "Item de Grau Mágico 4.",
+      "M5": "Item de Grau Mágico 5.",
+      "M6": "Item de Grau Mágico 6.",
+      "Training": "Condicionamento ou treinamento. No máximo 2 habilidades de Treinamento no NP 1, 3 no NP 11 e 4 no NP 21 (o Nível de Habilidade não conta).",
+      "Style": "Estilo de luta. Só uma habilidade de [Estilo] beneficia o personagem por vez; troque-a como a ação do Processo de Abertura.",
+      "Stance": "Só uma [Postura] beneficia o personagem por vez; usar outra encerra a anterior.",
+      "Harmony": "Canções de Bardo. Duram até o fim da Cena; por padrão só uma Harmonia ativa por vez, e cada alvo só recebe uma do mesmo tipo.",
+      "ServantSummon": "Servos de Druida/Invocador. Duram até o fim da Cena; por padrão só um ativo por vez.",
+      "Enchantment": "Habilidades de Encantador. Duram até o fim da Cena; por padrão só DUAS ativas por vez.",
+      "Swift": "Concede ações extras. No máximo uma ação [Veloz] durante o Briefing e durante cada Processo.",
+      "Scout": "Reúne informações sobre a próxima Cena quando usada durante o Briefing (só a situação inicial dela).",
+      "Summon": "Invoca uma criatura.",
+      "Combat": "Habilidade de combate.",
+      "General": "Habilidade geral.",
+      "Movement": "Ação que move o personagem.",
+      "Auto": "Efeito automático, sem teste.",
+      "Constant": "Sempre ativa.",
+      "Support": "Ação de suporte.",
+      "Standby": "Ligada a declarar Espera.",
+      "EXPower": "Poder EX do Mestre.",
+      "GM": "Usada pelo Mestre.",
+      "WeaponAttack": "Ataque feito com a arma equipada (as tags dela se aplicam ao dano).",
+      "MeleeAttack": "Exige uma arma corpo a corpo; as tags dela se aplicam ao dano.",
+      "RangedAttack": "Exige uma arma de ataque à distância; as tags dela se aplicam ao dano.",
+      "MagicAttack": "Ataque mágico.",
+      "PhysicalAttack": "Ataque físico.",
+      "SpecialAttack": "Ataque especial.",
+      "SwordAttack": "Ataque com espada.",
+      "Flame": "Elemento fogo. Interage com Fraqueza/Anulação (Chama).",
+      "Cold": "Elemento gelo. Interage com Fraqueza/Anulação (Frio).",
+      "Shock": "Elemento raio. Interage com Fraqueza/Anulação (Choque).",
+      "Radiance": "Elemento luz. Interage com Fraqueza/Anulação (Radiância).",
+      "Blight": "Elemento trevas/corrupção. Interage com Fraqueza/Anulação (Corrupção).",
+      "Holy": "Elemento sagrado. Interage com Fraqueza/Anulação (Sagrado).",
+      "Poison": "Veneno. Interage com Fraqueza/Anulação (Veneno).",
+      "Psychic": "Efeito psíquico.",
+      "Mental": "Efeito mental.",
+      "Human": "Qualquer uma das Oito Boas Raças.",
+      "Humanoid": "Criatura humanoide.",
+      "Adventurer": "Um Aventureiro (raça de jogador).",
+      "Lander": "Um nativo do mundo (Povo da Terra).",
+      "Gimmick": "Inimigo cenário ou mecanismo.",
+      "Mob": "Inimigo lacaio.",
+      "Boss": "Inimigo chefe.",
+      "NightVision": "Não é atrapalhado pela escuridão."
+    },
+    "Condition": {
+      "Title": "Condições",
+      "Add": "Adicionar condição",
+      "Delete": "Excluir condição",
+      "TagPlaceholder": "Tag",
+      "HintSkill": "Os efeitos desta habilidade só valem enquanto todas as condições forem atendidas (ex.: um Estilo que exige as mãos vazias).",
+      "HintEffect": "Este efeito só vale enquanto todas as condições forem atendidas (ex.: níveis \"(NH2): …\"). Efeitos aplicados ao usar conferem as condições em quem usa.",
+      "Type": {
+        "srAtLeast": "NH no mínimo",
+        "srAtMost": "NH no máximo",
+        "crAtLeast": "NP no mínimo",
+        "crAtMost": "NP no máximo",
+        "equipped": "Equipado com a tag",
+        "notEquipped": "Não equipado com a tag",
+        "handsEmpty": "Os dois espaços de mão vazios",
+        "handFree": "Ao menos um espaço de mão vazio",
+        "oneWeapon": "Só uma arma em mãos",
+        "twoWeapons": "Duas armas em mãos",
+        "armorEmpty": "Espaço de armadura vazio",
+        "status": "Tem o estado",
+        "notStatus": "Não tem o estado",
+        "hateTop": "Topo de Ódio",
+        "hateUnder": "Abaixo no Ódio",
+        "inCombat": "Em combate",
+        "firstRound": "Primeira rodada do combate",
+        "preAction": "Pré-Ação (ainda não agiu nesta rodada)",
+        "standby": "Declarou Espera nesta rodada"
+      },
+      "Summary": {
+        "srAtLeast": "NH ≥ {value}",
+        "srAtMost": "NH ≤ {value}",
+        "crAtLeast": "NP ≥ {value}",
+        "crAtMost": "NP ≤ {value}",
+        "equipped": "Equipado com [{value}]",
+        "notEquipped": "Não equipado com [{value}]",
+        "handsEmpty": "Mãos vazias",
+        "handFree": "Uma mão vazia",
+        "oneWeapon": "Só uma arma [{value}]",
+        "oneWeaponAny": "Só uma arma",
+        "twoWeapons": "Duas armas [{value}]",
+        "twoWeaponsAny": "Duas armas",
+        "armorEmpty": "Sem armadura",
+        "status": "Enquanto [{value}]",
+        "notStatus": "Sem [{value}]",
+        "hateTop": "[Topo de Ódio]",
+        "hateUnder": "[Abaixo no Ódio]",
+        "inCombat": "Em combate",
+        "firstRound": "Primeira rodada",
+        "preAction": "[Pré-Ação]",
+        "standby": "[Espera]"
+      }
+    },
+    "RollFilter": {
+      "Title": "Filtro de habilidades",
+      "Hint": "Para bônus de rolagem e modificadores de habilidade (custo de Ódio, alcance, nota): a quais habilidades se aplicam. Campos vazios não filtram; os preenchidos precisam ser todos atendidos.",
+      "Skills": "Habilidades",
+      "DropHint": "Solte habilidades aqui",
+      "ByName": "Associada pelo nome",
+      "Remove": "Remover",
+      "AddByName": "Adicionar uma habilidade pelo nome",
+      "SkillTags": "Tags da habilidade",
+      "WeaponTags": "Tags da arma",
+      "TargetTags": "Tags do alvo",
+      "SelfStatuses": "Só enquanto",
+      "Exclusive": "Grupo exclusivo",
+      "ExclusiveHint": "Só o maior bônus do mesmo grupo se aplica a uma rolagem (ex.: Maestria com Armas).",
+      "Summary": {
+        "Weapon": "arma {tags}",
+        "Target": "contra {tags}",
+        "Status": "enquanto {statuses}",
+        "Exclusive": "um de {group} por rolagem"
+      },
+      "CardBonuses": "Bônus de efeitos",
+      "DamageTypes": "Tipos de dano"
+    },
+    "SkillRefresh": {
+      "Title": "Atualizar habilidades a partir do compêndio",
+      "TitleActor": "Atualizar habilidades: {name}",
+      "SheetControl": "Atualizar habilidades a partir do compêndio",
+      "MenuLabel": "Atualizar as habilidades dos personagens",
+      "MenuHint": "Atualiza as habilidades que os personagens já têm com o compêndio atual do sistema (efeitos, condições, Teste/Dano). Mostra as mudanças antes de aplicá-las.",
+      "Hint": "Cada habilidade é atualizada no lugar a partir da entrada dela no compêndio do sistema. Mantidos: NH atual, a própria macro, imagens personalizadas e, se marcado, a descrição. A versão anterior é guardada e pode ser restaurada com Desfazer.",
+      "Summary": "{pending} habilidade(s) com mudanças, {upToDate} já atualizada(s).",
+      "ByName": "pelo nome",
+      "ByNameHint": "Associada pelo nome (a habilidade não tem vínculo com o compêndio do sistema). A partir de agora ela ficará vinculada.",
+      "LinkOnly": "só o vínculo com o compêndio",
+      "KeepDescription": "Manter a descrição atual",
+      "WasDisabled": "Efeitos desligados à mão serão substituídos: {names}",
+      "UpToDate": "{count} atualizada(s)",
+      "Unmatched": "Não estão no compêndio (intocadas): {names}",
+      "UnmatchedHint": "Habilidades caseiras ou renomeadas: não existe habilidade do sistema com este nome.",
+      "Backups": "{count} com versão anterior",
+      "Apply": "Atualizar as selecionadas",
+      "Undo": "Desfazer a última atualização ({count})",
+      "UndoConfirm": "Restaurar a versão anterior de {count} habilidade(s)?",
+      "Done": "{count} habilidade(s) atualizada(s) a partir do compêndio.",
+      "Undone": "{count} habilidade(s) restaurada(s).",
+      "Field": {
+        "description": "descrição",
+        "tags": "tags",
+        "timing": "momento",
+        "checkType": "tipo de teste",
+        "range": "alcance",
+        "target": "alvo",
+        "subtype": "tipo",
+        "cost": "custo",
+        "limit": "limite",
+        "check": "Teste",
+        "damage": "Dano",
+        "conditions": "condições",
+        "skillRank": "NH máx.",
+        "macroeffect": "macro",
+        "name": "nome",
+        "img": "imagem",
+        "effects": "efeitos"
+      }
+    }
+  },
+  "Cancel": "Cancelar"
+}

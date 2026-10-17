@@ -1,0 +1,126 @@
+=== 8YWfE8WLGNkbuYjC/items.lF7krg9w71FHZ3SM.description
+# Rakshasa Wicked Thorn Knight (Neirity Evilspike) › Disputing Cry Charm
+<p>Este inimigo tem redução 10 contra ataques de personagens com menos de 5 de Ódio e vulnerabilidade 6 contra ataques de frio.</p>
+
+=== 8YWfE8WLGNkbuYjC/items.SwkNSdxKnapro6v9.description
+# Rakshasa Wicked Thorn Knight (Neirity Evilspike) › Flame Prison's Evil Spear
+<p>55+2D de dano físico. Com 18 ou mais, o alvo sofre 10 de Fraqueza</p>
+
+=== mssosmqii8rnjkxT/description
+# Grizzly Bear
+<table ⟦a1⟧><colgroup><col ⟦a2⟧> </colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>Itens Deixados</td>
+</tr>
+<tr ⟦a5⟧>
+<td ⟦a6⟧>1~4</td>
+<td ⟦a7⟧>Pele de Urso Cinzenta (valioso, 60 G)</td>
+</tr>
+<tr ⟦a8⟧>
+<td ⟦a9⟧>5~6</td>
+<td ⟦a10⟧>Garra Resistente de Urso (valioso, 35 G)x3</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<hr>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+=== mssosmqii8rnjkxT/items.Flb03qhbbVGy4wUx.description
+# Grizzly Bear › Brown Bear Ambush
+<p>33+2D de dano físico; o alvo sofre [Atordoado]. <br>Menor: o alvo também sofre [Fraqueza: (Ódio do alvo)x4]</p>
+
+=== mssosmqii8rnjkxT/items.M6L5C8K17GxL46fy.description
+# Grizzly Bear › Dignified Bear
+<p>Este inimigo não pode usar Deslocar-se. <br>Quando este inimigo é obrigado a se mover, o [movimento forçado] é reduzido em 1 quadrado.</p>
+
+=== mssosmqii8rnjkxT/items.zXvNJo6M53Fqb539.description
+# Grizzly Bear › Wild Attack
+<p>Um inimigo no quadrado deste inimigo que tenha as tags [Rigidez] ou [Atordoado] sofre 9 pontos de dano direto.&nbsp;</p>
+
+=== mssosmqii8rnjkxT/items.0cRlMKtjPgAOr3wc.description
+# Grizzly Bear › Wild Smell Sense
+<p>O alvo recebe Ódio igual ao número de itens de comida que estiver carregando no momento. <br>Se o alvo tiver a tag [Natureza], ele também sofre [Cambaleante].</p>
+
+=== Bffo1qi1Z6Uih7t3/description
+# Goblin Beastmaster
+<table ⟦a1⟧><colgroup><col ⟦a2⟧> </colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>Itens Deixados</td>
+</tr>
+<tr ⟦a5⟧>
+<td ⟦a6⟧>1~5</td>
+<td ⟦a7⟧>Trompa de Caça de Cabra-Montesa (Flauta de Chifre de Cabra-Montesa. Catalisador Mágico 8, 70G)</td>
+</tr>
+<tr ⟦a8⟧>
+<td ⟦a9⟧>6</td>
+<td ⟦a10⟧>Pele Sinistra (valioso 60G) x3</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<hr>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+=== Bffo1qi1Z6Uih7t3/items.l7CCQPr09MEatnup.description
+# Goblin Beastmaster › Beast Puppet
+<p>Tem como alvo inimigos com as tags [Natureza] ou [Criptídeo].&nbsp;O alvo passa imediatamente para [Pré-Ação]. Esta habilidade pode ser usada quando os PV deste inimigo caem abaixo de 40.&nbsp;</p>
+
+=== Bffo1qi1Z6Uih7t3/items.V2WmnIYiQCg0ZwgG.description
+# Goblin Beastmaster › Gobhorn
+<p>10 pts de dano [Penetrante]. <br>Como Ação Menor: o alvo sofre [Perseguição] 15.&nbsp;</p>
+
+=== Bffo1qi1Z6Uih7t3/items.1QeKDiLrAGbUlHfb.description
+# Goblin Beastmaster › Goblin Rage
+<p>Logo após o cálculo do dano, se este inimigo tiver sofrido dano de [Espírito], ele pode usar imediatamente &lt;Marionete de Feras&gt;. Se o requisito de PV for cumprido, a restrição de frequência pode ser ignorada.&nbsp;</p>
+
+=== MjxyM9s3cpUV1o5Y/description
+# Goblin Deathcaller
+<table ⟦a1⟧><colgroup><col ⟦a2⟧> </colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>Itens Deixados</td>
+</tr>
+<tr ⟦a5⟧>
+<td ⟦a6⟧>1~3</td>
+<td ⟦a7⟧>Cajado Extremamente Retorcido (valioso 50G)</td>
+</tr>
+<tr ⟦a8⟧>
+<td ⟦a9⟧>4~5</td>
+<td ⟦a10⟧>Bálsamo do Corpo de Ferro (baixo nível)(consumível)(90G)</td>
+</tr>
+<tr ⟦a11⟧>
+<td ⟦a12⟧>6</td>
+<td ⟦a13⟧>Colar de Rubi (valioso 200G)</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<hr>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+=== MjxyM9s3cpUV1o5Y/items.1hYnGG0e6DHHdI4t.description
+# Goblin Deathcaller › Curse of the Blood Tomb
+<p>⟦r1⟧{[3D+5]} /Resistência</p>
+<hr>
+<p>⟦r2⟧{[60+2D]}&nbsp; de dano mágico. Resultado 19: o alvo sofre [Atordoado] e [Aflito].</p>
+<p>Se o ataque falhar, o alvo sofre [Perseguição] 10.</p>
+
+=== MjxyM9s3cpUV1o5Y/items.thnU2p0jSmZGTyIk.description
+# Goblin Deathcaller › Death Cry
+<ul>
+<li>Se o Ódio do alvo for maior que 2: o alvo sofre [Atordoado].</li>
+<li>Se o Ódio for maior que 4, o alvo também sofre [Cambaleante].</li>
+<li>Se o Ódio for maior que 6, o alvo também sofre [Aflito].</li>
+<li>Se o alvo tiver Ódio 8&lt; e mais de 20 PV, seus PV passam a ser 20.&nbsp;</li>
+<li>Em seguida, este inimigo fica [Morto].</li>
+</ul>
+
+=== MjxyM9s3cpUV1o5Y/items.WnwjpV0DeLko3oR7.description
+# Goblin Deathcaller › Goblin Rage
+<p>Logo após o cálculo do dano, se este inimigo tiver sofrido dano de [Espírito], ele pode usar imediatamente &lt;Maldição do Fio da Navalha&gt;. Se o requisito de PV for cumprido, a restrição de frequência pode ser ignorada.&nbsp;</p>

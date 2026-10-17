@@ -1,0 +1,547 @@
+=== 4n45u0yOoXOoFqIs/description
+# Guarda de Amuletos
+<p>+7 no seu [Poder Mágico]. Luvas costuradas com amuletos mágicos.</p>
+
+=== CFcyM6cEKBrLbBQh/description
+# Amuleto de Akane (Amuleto da Flor Vermelha)
+<p>Um talismã com um motivo de flores e folhas de garança.</p>
+
+=== hNaEcDM0pK4vLbfs/description
+# Amuleto de Bush (Talismã do Cardo)
+<p>Um talismã adornado com um cardo vistoso, que se protege com espinhos afiados.</p>
+
+=== OMHtZqTbRj8geiqw/description
+# Amuleto de Shion (Amuleto do Áster)
+<p>Um talismã que afasta o mal com o poder da flor de shion, há muito conhecida por suas propriedades medicinais.</p>
+
+=== k0e4KeC0MdRB6XKh/description
+# Amuleto de Violeta (Talismã da Violeta)
+<p>Um pequeno talismã inspirado na força das violetas, que conseguem criar raízes até nas frestas entre rochas sólidas e suportar o vento e a neve.</p>
+
+=== ljtZsRDs65p47iQ0/description
+# Grevas Anabashis
+<p>Armadura de metal que cobre desde abaixo do joelho até o peito do pé.</p>
+
+=== kQUqPoCQv3TncRaN/description
+# Talismã Aoi (Amuleto da Flor Azul)
+<p>Um talismã com um motivo de folha de aoi.</p>
+
+=== 3H3w0N27Gv4VtURX/description
+# Braçadeira
+<p>+2 no seu [Poder de Ataque]. Permite atacar sem se preocupar com as mãos.</p>
+
+=== Yq95H3bP9t9QGGTa/description
+# Óculos do Artesão
+<p>+1 de bônus em Análise. Um monóculo que amplia bastante o trabalho minucioso que se tem em mãos.</p>
+
+=== SMjybBQmyWPDlJFQ/description
+# Anel Cinzento
+<p>Um anel com uma joia acinzentada. Imbuído de magia.</p>
+
+=== HUoF9jip6gQmcgKj/description
+# Casaco de Barreira
+<p>Apenas &lt;Maquinista&gt;. Quando você recebe [Barreira], acrescente 3 ao valor dela. Um casaco mecânico com um dispositivo embutido que amplifica barreiras mágicas.</p>
+
+=== tTC5L8SfRWLQBriT/description
+# Bacinete
+<p>Apenas &lt;Guardião&gt; &lt;Monge&gt;. Cobre a cabeça inteira.</p>
+
+=== WnUmffBMBgRrtdLL/description
+# Cinto de Veneno Maligno
+<p>Você recebe [Anulação (Veneno): 60] no início da Cena.</p>
+
+=== PX6SOmXTP7IdYhGf/description
+# Cinto de Relâmpago
+<p>Você recebe [Anulação (Choque): 60] no início da Cena.</p>
+
+=== Ds88LKrNl6gII4AC/description
+# Kabuto Negro
+<p>Apenas &lt;Guardião&gt; &lt;Samurai&gt;. Um elmo feito martelando um aço negro, grosso e lustroso.</p>
+
+=== 9KrKH2SZOsHr6liy/description
+# Anel Negro
+<p>Um anel com uma joia negra e brilhante. Imbuído de magia.</p>
+
+=== RRrFPDbC6B2ECZwO/description
+# Anel Azul
+<p>Um anel com uma joia de um azul vívido, que parece atrair você para dentro dela. Possui um poder mágico muito forte.</p>
+
+=== FdIjwZJZX5s2v8ez/description
+# Botas de Vigor
+<p>+1 no seu [Vigor]. Botas que aumentam a resistência física de quem as calça.</p>
+
+=== k2FuVMXk32lgxl6R/description
+# Bracelete
+<p>+1 no seu [Poder de Ataque]. Uma manopla que protege o braço.</p>
+
+=== v2p7TIkGxcOXV0Lt/description
+# Broche de Veneno Maligno
+<p>Você recebe [Anulação (Veneno): 15] no início da Cena.</p>
+
+=== PgtMFMB1nJDF7byp/description
+# Broche de Relâmpago
+<p>Você recebe [Anulação (Choque): 15] no início da Cena.</p>
+
+=== ObqpkEUoa2BnR21H/description
+# Capa
+<p>Um manto curto. Não atrapalha os movimentos.</p>
+
+=== S81ZOtpoL8qLAayK/description
+# Capa da Agilidade
+<p>+1 de bônus em Atletismo. Uma capa que faz você se sentir mais leve ao vesti-la.</p>
+
+=== Nwqg4yg3AArQlKTw/description
+# Manto
+<p>Um manto longo que envolve o corpo como um sino. Também retém bem o calor.</p>
+
+=== GUpACtC030IHPtne/description
+# Cinto de Frio
+<p>Você recebe [Anulação (Frio): 60] no início da Cena.</p>
+
+=== 3sRmHFkYe27A9R9r/description
+# Broche de Frio
+<p>Você recebe [Anulação (Frio): 15] no início da Cena.</p>
+
+=== QsEYbocVjYuNpWmE/description
+# Brincos de Frio
+<p>Você recebe [Anulação (Frio): 30] no início da Cena.</p>
+
+=== xeL0vu2FYTUCloh7/description
+# Medalhão de Frio
+<p>Você recebe [Anulação (Frio): 80] no início da Cena.</p>
+
+=== NbTtIaKs3NXZ37fs/description
+# Brinco de Frio
+<p>Você recebe [Anulação (Frio): 10] no início da Cena.</p>
+
+=== 4BJPA75vjmpeDBuO/description
+# Talismã de Frio
+<p>Você recebe [Anulação (Frio): 45] no início da Cena.</p>
+
+=== C3j7UuGjUSehtDR2/description
+# Chapéu de Algodão
+<p>Um chapéu costurado com algodão grosso e resistente, para absorver impactos.</p>
+
+=== tvFukMGwbrn6m9rx/description
+# Anel de Cristal
+<p>Um anel com uma joia profunda e transparente. Imbuído de magia.</p>
+
+=== BckuZCq7tZCPK5PA/description
+# Visor de Dados
+<p>Apenas &lt;Maquinista&gt;. +1 em [Percepção] e [Análise]. Um visor mecânico que exibe diversas informações no campo de visão.</p>
+
+=== rtV8HUhe7O1FqYts/description
+# Escudo-Baralho
+<p>Você tem 8 Espaços de Inventário exclusivos para itens [Amuleto]. Acrescente +2 à sua Iniciativa.</p>
+
+=== t8vRMQUv1Dy2RSiY/description
+# Dicionário do Sábio
+<p>+2 em [Conhecimento]. Um livro que permite dominar os conhecimentos mais profundos de Theldesia.</p>
+
+=== DbjTBoMasNYv3DLE/description
+# Brincos de Veneno Maligno
+<p>Você recebe [Anulação (Veneno): 30] no início da Cena.</p>
+
+=== gEQX8Y48MWpZjNjy/description
+# Brincos de Relâmpago
+<p>Você recebe [Anulação (Choque): 30] no início da Cena.</p>
+
+=== fhSV76LBNPniJlT4/description
+# Enciclopédia
+<p>+1 em [Conhecimento]. Um dicionário abrangente que cobre uma grande variedade de assuntos.</p>
+
+=== f08w2V9JWakYelrv/description
+# Capa de Penas
+<p>+2 de bônus em Atletismo. Uma capa que se veste leve como uma pena.</p>
+
+=== rHGHrQme1fsgypFT/description
+# Chapéu de Penas
+<p>Um chapéu com penas. Existe em muitas variações.</p>
+
+=== zZYoeMuUvYvnHI6T/description
+# Guarda Refinada
+<p>+10 no seu [Poder de Ataque]. Braçadeiras de alta qualidade feitas de metal refinado.</p>
+
+=== ev9uD9gv2cQtck3I/description
+# Cinto de Chama
+<p>Você recebe [Anulação (Chama): 60] no início da Cena.</p>
+
+=== 6mxjmlXRkKylbnaf/description
+# Broche de Chama
+<p>Você recebe [Anulação (Chama): 15] no início da Cena.</p>
+
+=== ohrtpMKAIpGmkeFJ/description
+# Brincos de Chama
+<p>Você recebe [Anulação (Chama): 30] no início da Cena.</p>
+
+=== 2G0NfJMtTVZZZyje/description
+# Medalhão de Chama
+<p>Você recebe [Anulação (Chama): 80] no início da Cena.</p>
+
+=== nqTmamFcKumJJW3L/description
+# Brinco de Chama
+<p>Você recebe [Anulação (Chama): 10] no início da Cena.</p>
+
+=== 8yssZULVB4QUKcCa/description
+# Talismã de Chama
+<p>Você recebe [Anulação (Chama): 45] no início da Cena.</p>
+
+=== Mf3DyId1I2Jfnemi/description
+# Bracelete de Força
+<p>+10 no seu [Poder Mágico]. Um bracelete incrustado com uma pedra preciosa que amplifica o poder mágico.</p>
+
+=== pgoqieVmf1YKvgSZ/description
+# Gabardine
+<p>Uma veste de tecido grosso e acolchoado, usada junto com a armadura.</p>
+
+=== UFrJLV09aiwcmBdJ/description
+# Manopla
+<p>+14 no seu Poder de Ataque. Manoplas pesadas, cobertas de chapas de metal até as articulações.</p>
+
+=== arlXUvL59fG7Krdw/description
+# Óculos do Vidreiro
+<p>+2 de bônus em Análise. Uma lente de trabalho que permite enxergar até os menores detalhes.</p>
+
+=== gT9rM6LqAgyIAMhc/description
+# Cálice Dourado dos Mortos-Vivos
+<p>Ao lançar magias que causam dano de [Deterioração], aumente esse dano em +5.</p>
+<hr>
+<p>Um cálice dourado adornado com runas antigas e incrustado de gemas escuras. Dizem que necromantes o usavam em rituais para comungar com os mortos e dominar o poder deles. Ele emite um brilho sinistro e parece vibrar com uma energia inquietante quando empunhado.</p>
+
+=== AgwYLpd5V6WVliKU/description
+# Amuleto da Fênix Dourada
+<p>Um talismã que tem como símbolo contra o mal o botão-de-ouro, uma flor bela, porém venenosa.</p>
+
+=== Cxp116Lf2bCQ5Fqi/description
+# Anel Dourado
+<p>Um anel com uma joia que brilha suavemente em amarelo. Imbuído de magia.</p>
+
+=== RyP6bwPQC1yQWUVn/description
+# Elmo Grande
+<p>Apenas &lt;Guardião&gt; &lt;Samurai&gt;. Um elmo robusto decorado com luas crescentes e chifres de boi.</p>
+
+=== 1soGjFgFQcASDKPY/description
+# Grevas
+<p>Armadura que protege da canela para baixo. Com ela, dá para avançar mais um passo.</p>
+
+=== Am2gqzWe87NlEt8H/description
+# Faixa Guardiã
+<p>Apenas &lt;Samurai&gt; &lt;Monge&gt;. Uma faixa de cabeça com um brasão inscrito na superfície para rogar por diversas bênçãos.</p>
+
+=== Q2TN1w2soaXyp7Mg/description
+# Hachigane
+<p>Apenas &lt;Samurai&gt; &lt;Monge&gt;. Uma faixa de cabeça com uma placa de ferro.</p>
+
+=== ZMyHiRvj1hZrnocj/description
+# Tiara de Chifres
+<p>Apenas &lt;Lorde Demônio&gt;. +1 em [Negociação]. Uma tiara com chifres como os de um lorde demônio.</p>
+
+=== lD2T2FvY2j6NWkpb/description
+# Capuz de Caçador
+<p>Um capuz usado por caçadores. Muito resistente.</p>
+
+=== Rj0uInmIxhcMLZKD/description
+# Inverness
+<p>Um manto que combina um casaco longo com uma capa que cobre os ombros.</p>
+
+=== atm1J3ZaDCHaMDj9/description
+# Grevas Invisíveis
+<p>Caneleiras de metal que demonstram alto poder defensivo mesmo quando usadas sozinhas.</p>
+
+=== 9zL3uiQjnQyhcRBA/description
+# Botas de Ferro
+<p>+2 de bônus em Vigor. Um calçado que dá a você a robustez do aço.</p>
+
+=== 8QGxr47hnuQdahgA/description
+# Elmo de Ferro
+<p>Apenas &lt;Guardião&gt; &lt;Samurai&gt;. Bem pesado.</p>
+
+=== sC1SOMZ5K3DGdXtv/description
+# Botas de Couro
+<p>Botas de couro. Permitem caminhar com facilidade mesmo em estradas acidentadas.</p>
+
+=== HjiCTMumfsFNIhpr/description
+# Caneleira
+<p>A chamada caneleira. Proteção concentrada abaixo dos joelhos.</p>
+
+=== v126HYRXfmqMsi1f/description
+# Perneiras
+<p>Armadura de metal que protege do tornozelo ao joelho, com foco na canela.</p>
+
+=== zboLZwKQUWlgzXcx/description
+# Luva de Magíster
+<p>+4 no seu [Poder Mágico]. Luvas de amplificação mágica para magos.</p>
+
+=== 0UKZ8Pg5dhMs26aV/description
+# Colar da Majestade
+<p>+2 de bônus em Negociação. <span ⟦a1⟧>Um colar que confere a você uma dignidade irresistível.</span></p>
+
+=== c5fIbdKA2xF7QMTZ/description
+# Bracelete de Mana
+<p>+2 no seu [Poder Mágico]. Luvas gravadas com padrões mágicos.</p>
+
+=== ZO10UjcVQgWKIf3x/description
+# Cristal de Mana
+<p>+14 no seu [Poder Mágico]. Acessório feito com cristais que emanam um forte poder mágico.</p>
+
+=== 6Anr6pLeo8bAlKQG/description
+# Mantelete
+<p>Seja de modo casual ou extravagante, ele faz você e suas roupas se destacarem.</p>
+
+=== EUUzM5U0vRKAd2td/description
+# Máscara
+<p>Use-a como lembrança quando viajar para longe. As versões luxuosas são usadas em bailes. Usá-la na cidade levanta suspeitas, então é melhor não.</p>
+
+=== mMRktnpkR87vvq75/description
+# Brincos do Mestre
+<p>+2 de bônus em Operação. Um acessório que permite a você se mover como um especialista.</p>
+
+=== 4i4XSzDDsWmS5tIW/description
+# Medalhão de Veneno Maligno
+<p>Você recebe [Anulação (Veneno): 80] no início da Cena.</p>
+
+=== gB7KiHU0IJRSKR0y/description
+# Medalhão de Relâmpago
+<p>Você recebe [Anulação (Choque): 80] no início da Cena.</p>
+
+=== 5iwCdc9svrFMzEnk/description
+# Livro dos Monstros (Avançado)
+<p>Acrescente +4 ao resultado dos testes que você faz contra [Dificuldade de Identificação]. Uma enciclopédia com informações sobre monstros raros.</p>
+
+=== Q8hntqCDJvO6jbm0/description
+# Livro Ilustrado dos Monstros (Iniciante)
+<p>+2 no resultado dos testes que você faz contra [Dificuldade de Identificação]. Uma coletânea de monstros comuns.</p>
+
+=== 5spmNZdfbBUOFt2V/description
+# Colar da Empatia
+<p>+1 de bônus em Negociação. Um colar que facilita compreender os sentimentos dos outros.</p>
+
+=== eniJOIEtEBYFQOfR/description
+# Anel Laranja
+<p>Um anel com uma joia que guarda o laranja profundo do crepúsculo. Possui um forte poder mágico.</p>
+
+=== eVwDr6ZxJQZagIi2/description
+# Luvas do Ladrão Fantasma
+<p>+2 de bônus em Desarme. Luvas que permitem um trabalho ainda mais preciso.</p>
+
+=== HEXaNZQ6lzzQUfKL/description
+# Brinco da Acuidade
+<p>+1 em Percepção. Brincos que aguçam os cinco sentidos, inclusive a audição.</p>
+
+=== Yc1SGji6snhhuprf/description
+# Brinco de Veneno Maligno
+<p>Você recebe [Anulação (Veneno): 10] no início da Cena.</p>
+
+=== VTmyqDSOmSfPpK22/description
+# Brinco de Relâmpago
+<p>Você recebe [Anulação (Choque): 10] no início da Cena.</p>
+
+=== ZU0oLfw56FxUhGVA/description
+# Luva de Placas
+<p>+7 no seu [Poder de Ataque]. Proteção feita de luvas de cota de malha reforçadas com chapas de metal.</p>
+
+=== XfaaAORGDvEOFhaz/description
+# Anel Púrpura
+<p>Um anel com uma joia púrpura que evoca o relâmpago que rasga as nuvens escuras. Possui um poder mágico extremamente forte.</p>
+
+=== ZjDM0BoiSjbpJ2CK/description
+# R1 Botas da Terra
+<p ⟦a1⟧><span ⟦a2⟧>[Momento: Ver texto] Use quando você declarar [Espera]. Acrescente +5 à sua [Recuperação]. Este efeito dura até o fim da Rodada. </span></p>
+<hr>
+<p ⟦a3⟧><span ⟦a4⟧>Botas que absorvem o poder mágico que flui pela terra e o transformam em força para quem as calça. Ao parar de andar, você recebe a força vital da terra; ao se pôr em movimento, recebe a bênção dos passos leves.</span></p>
+<hr>
+<p>Cilindro Mágico [Material-Base] (30G) +</p>
+<p>Botas de Couro (60G) +</p>
+<p>[Catalisador Mágico 1] (15G) x 3 +</p>
+<p>Custo de Fabricação (45G)</p>
+
+=== T5VBqbvzlUpCvWpr/description
+# R1 Vestido-Avental da Recém-Casada
+<p><span ⟦a1⟧><span ⟦a2⟧>[Momento: Abertura] Sua Subclasse passa a ser &lt;Chef&gt;.</span></span> <span ⟦a3⟧><span ⟦a4⟧>Este efeito dura até o fim da Cena.</span></span> <span ⟦a5⟧><span ⟦a6⟧>1/Cena.</span></span></p>
+<hr>
+<p><span ⟦a7⟧><span ⟦a8⟧>Um adorável avental de babados.</span></span> <span ⟦a9⟧><span ⟦a10⟧>Está repleto dos sentimentos da recém-casada por seu amado.</span></span> <span ⟦a11⟧><span ⟦a12⟧>Pode conceder temporariamente habilidades culinárias a quem o veste.</span></span> <span ⟦a13⟧><span ⟦a14⟧>Depois da Catástrofe, seu valor disparou.</span></span> <span ⟦a15⟧><span ⟦a16⟧>Além disso, mesmo que um homem o equipe, os babados continuam fofinhos.</span></span></p>
+<hr>
+<p>[Material-Base](30G)+ (60G)+[ 1](15G)&times;3+Custo de Fabricação(45G)</p>
+
+=== RYwM38AYjWxMcikt/description
+# R10 Corrente da Bruxa dos Sonhos
+<p>[Momento: Ação] Use quando você realizar um [Ataque Mágico]. Se o [Ataque Mágico] infligir [Atordoado][Rigidez][Cambaleante], ele também inflige [Aflito]. Você sofre [Perseguição:20].
+Um anel de design intrincado, numa coloração profunda em que sangue e escuridão se fundiram. O poder mágico que transborda deste anel intensifica muito os efeitos das magias de interferência mental.</p><hr><p>Estilhaço Negro-Azeviche [Material-Base] (180G) + Anel Dourado (360G) + Veneno Convulsivo II (140G) ×2 + [Catalisador Mágico 10] (110G) ×2 + Custo de Fabricação (420G)</p>
+
+=== totzlxfLzsepLf4Q/description
+# R10 Pena da Amizade
+<p>No início da Cena, você recebe [Anulação (Dragão, Gigante, Fada): 20]. Suas habilidades "Luz de Cura", "Vento de Cura" e "Prece da Recuperação" são tratadas como tendo NH +1 (podem ultrapassar o NH Máximo).
+Um adorno de cabeça criado infundindo magia numa pena, símbolo de uma alma livre. Fortalece o laço entre companheiros e intensifica a magia de cura.</p><hr><p>Pluma Vistosa [Material-Base] (220G) + Chapéu de Penas (50G) ×2 (100G) + Hachigane (80G) ×2 + [Catalisador Mágico 10] (110G) ×3 + Custo de Fabricação (330G)</p>
+
+=== n6Ni3G9VowznvGNK/description
+# R10 Guarda da Ventania
+<p>[Poder Mágico]+3. [Recuperação]+5. [Momento: Iniciativa] Você usa "Cura" imediatamente. Uma vez por Cena.
+Manoplas bordadas com padrões de vento em redemoinho. Quando um companheiro está em perigo, aceleram temporariamente a recitação de quem as equipa.</p><hr><p>Parafuso Transparente de Sete Cores [Material-Base] (180G) + Braçadeira (120G) ×2 + Pergaminho de Aceleração I (45G) ×2 + [Catalisador Mágico 10] (110G) ×5 + Custo de Fabricação (570G)</p>
+
+=== ofi5YL29W54frjp7/description
+# R10 Hikari no kōshi
+<p>[Momento: Iniciativa] Você recebe [Barreira:60]. Uma vez por Cenário.〔NP21〕O efeito deste item não pode ser usado.
+Símbolo da Proteção Radiante. Um talismã imbuído de uma poderosa magia de proteção. Quando um encantamento específico é recitado, ele envolve quem o usa numa barreira luminosa em forma de treliça, protegendo-o de diversos perigos.</p><hr><p>Cristal Laminado [Material-Base] (180G) + Amuleto de Akane (Amuleto da Flor Vermelha) (140G) + Escudo Pipa (220G) + [Catalisador Mágico 10] (110G) ×4 + Custo de Fabricação (420G)</p>
+
+=== dUJhNgOrYeV8ASBM/description
+# R12 Anel de Ouro Misterioso
+<p>O NH da sua "Bateria Robusta" aumenta em +1 (pode ultrapassar o NH Máximo).
+Anel de Classe Artefato Anel Artefato Um anel de classe Artefato que, segundo dizem, cristaliza por meio de um ritual o conceito de mistério. Tem a aparência de um grande anel em forma de losango. Amplifica seu mistério em resposta ao poder mágico, aumentando muito o dano das magias de quem o usa. No entanto, enquanto está ativo, o Ódio aumenta continuamente. 0 0 0 0 0 0 0 0 0 0 10 0 0 Amplificação do Mistério Aumenta consideravelmente o dano das magias de quem o usa. No entanto, enquanto está ativo, o Ódio aumenta continuamente. 2.0 5 1 rodada</p><hr><p>[Material-Base](300G)+ (360G)+[ 12](150G)×3+Custo de Fabricação(570G)</p>
+
+=== MU2To5eXEwnWclYR/description
+# R13 Manto do Jaguar das Neves
+<p>Você sempre recebe [Anulação (Frio, Lacaio):20].
+É um item de classe Fabricação feito principalmente de pele de leopardo-das-neves, combinada a diversos materiais mágicos. Como se pode imaginar pela pelagem fofa, tem excelente isolamento térmico. Além disso, possui a capacidade de reduzir o frio externo, o que lhe permite um desempenho excepcional em ambientes gelados. Atualmente, na região de Ezzo, começou a circular em vários estilos, pensados para se adaptar a diferentes ocasiões.</p><hr><p>Pele de Leopardo-das-Neves [Material-Base] (340G) + Inverness (470G) + Brincos de Frio (330G) + [Catalisador Mágico 13] (170G) ×2 + Custo de Fabricação (690G)</p>
+
+=== eehFSLc13d6kH3Ck/description
+# R14 Bracelete de Apeiron
+<p>Poder Mágico +6. [Momento: Imediatamente Após o Teste] Use quando você tirar um 6 no seu [Teste de Acerto]. Você recebe tags [Arma Fantasma] em número igual à quantidade de 6 obtidos.
+Um bracelete de cristal que guarda o poder de criar algo do nada. Quando o usuário lança uma magia, ele solidifica a magia que se dissipa em uma lâmina ou escudo ilusório que pode ser manipulado. Atualmente só é possível fabricar cópias limitadas, ao passo que se dizia que o original perdido era capaz de criar infinitas armas ilusórias. Ao lançar uma magia, solidifica a magia que se dissipa em uma lâmina ou escudo ilusório Fragmento de Cristal Essência Mágica Fragmento de Cristal Essência Mágica</p><hr><p>Pétalas Retorcidas [Material-Base] (380G) + Luva de Magíster (370G) + Anel Laranja (640G) + [Catalisador Mágico 14] (190G) ×2 + Custo de Fabricação (310G)</p>
+
+=== QP86vTiFlogNIIRK/description
+# R14 Botas de Middle Pine
+<p>[Anulação(Frio):20]。[Momento: Ver texto] Use na Etapa de Declaração de Ataque, quando você for escolhido como alvo de um ataque com "Alvo: Amplo, Linha". Você pode realizar imediatamente um [Movimento Instantâneo] de 1Qd. Depois desse movimento, você pode refazer a Etapa de Declaração de Ataque. Uma vez por Cena.
+Uma bota multifuncional desenvolvida por certo alquimista. Possui diversas funções, como um mecanismo de aquecimento para resistir ao frio, rodinhas que permitem movimento em alta velocidade e um foguete de salto para esquivas repentinas.</p><hr><p>Fóssil Estranho[Material-Base](380G)+Caneleira(390G)+[Catalisador Mágico 14](190G)×3+Custo de Fabricação(690G)</p>
+
+=== RMjlpbcEKFUcwwIz/description
+# R14 Tabuleiro Ouija do Ladrão Mágico Adder
+<p>+1D em "Analisar Objeto de Cena" e "Desarmar Objeto de Cena" contra Objetos de cena com a tag [Mágico]. Ao usar "Carapaça Elemental", você pode mudar os alvos dela para "[seu Ódio] ÷2 alvos (mínimo 1)". Além do efeito normalmente escolhido, sua "Carapaça Elemental" também concede [Anulação] contra [Fada].
+Tabuleiro da Bruxa. O Tabuleiro da Bruxa favorito do lendário ladrão Adera, que desbravou muitas ruínas dos Alv. É composto de uma placa de prata com runas secretas gravadas, de cerca de 20 centímetros de diâmetro, e de uma pequena peça de marfim em forma de coração. Concede a quem o usa a sabedoria para superar dificuldades mágicas.</p><hr><p>Disco de Prata [Material-Base] (380G) + Amuleto da Fênix Dourada (410G) + Anel Laranja (640G) + [Catalisador Mágico 14] (190G) ×2 + Custo de Fabricação (820G)</p>
+
+=== pMfQjiEMcGQp5gXQ/description
+# R16 Manto Protetor
+<p>Você tem a tag [Alta Proteção]. [Momento: Ver texto] Use quando o seu Processo Principal terminar. Se o seu [Ódio] for 6 ou mais, você entra no estado [Oculto]. Uma vez por Cena.
+Um manto usado para proteger figuras importantes, como membros da realeza, de maldições e venenos. Ele bloqueia a forte malícia dirigida a quem o veste e, temporariamente, faz com que o usuário não seja reconhecido pelos inimigos.</p><hr><p>Juba Dourada [Material-Base] (500G) + Inverness (470G) + Pergaminho de Alta Proteção I (250G) ×2 + Pergaminho de Furtividade II (460G) + [Catalisador Mágico 16] (250G) ×3 + Custo de Fabricação (1000G)</p>
+
+=== zO9uSW1rfaUTnwTV/description
+# R18 Amuleto de Yulara
+<p>Você recebe [Anulação (Voador, Aquático): 50]. Sua [Recuperação] aumenta em +5.
+Amuleto da Bênção da Terra. Um talismã adorado em toda a Celdecia, abençoado pela donzela da terra Yurara. Concede tanto a bênção de uma terra fértil quanto proteção contra as criaturas que não habitam sobre a terra. Como não é algo que o Povo da Terra consiga obter com facilidade, muitos viajantes carregam como talismã réplicas que apenas imitam sua aparência.</p><hr><p>Tubo de Sucção Infinita [Material-Base] (620G) + Amuleto de Bush (Talismã do Cardo) (760G) + Pergaminho de Voo em Massa II (570G) + Pergaminho do Peixe II (320G) + [Catalisador Mágico 18] (310G) ×2 + Custo de Fabricação (440G)</p>
+
+=== UsBH87ymVqrUXQHU/description
+# R19 Elmo Cabeça de Demônio
+<p>Exclusivo de Samurai e Monge. No início do combate, seu [Ódio] aumenta em +2. Seu [Teste de Negociação] sofre -1D. Se você vencer um Confronto de [Teste de Negociação], o oponente fica [Cambaleante].
+Um elmo que cobre completamente a cabeça, com a forma da cabeça de um demônio. Tem um rosto aterrorizante de dentes à mostra, que faz até animais e monstros se encolherem de medo. Por ser assustador demais, não é recomendável usá-lo na cidade.</p><hr><p>Placa de Sigilo Refinada[Material-Base](680G)+Faixa Guardiã (830G)+Kabuto Negro (440G)×2+[Catalisador Mágico 19](340G)×3+Custo de Fabricação(1470G)</p>
+
+=== w80v6mSZH93PRvJX/description
+# R19 Anel de Da Squeuin
+<p>Exclusivo de Invocador. [Momento: Abertura] Você pode usar "Invocação de Servo: Slime". Nesse caso, ela é tratada como se tivesse NH 8 e pode ser usada mesmo que você não tenha a habilidade. Uma vez por Cenário.
+Um anel criado por Da Skuwin, um alquimista dos antigos Alv. Pode invocar um slime excepcionalmente grande, de tamanho anormal. Segundo um relato, ele o usava para limpar o quarto, por causa da sua extrema preguiça. Invoca um slime gigantesco, de tamanho anormal, numa área escolhida por quem o usa. Custo de Fabricação: 100</p><hr><p>Nefrita Cor da Aurora [Material-Base] (680G) + Anel Vermelho (1100G) + [Catalisador Mágico 19] (340G) ×4 + Custo de Fabricação (1360G)</p>
+
+=== JsXTa2nxXkskleBl/description
+# R19 Sapatos da Fada Subterrânea
+<p>Você não sofre dano de Objetos de cena com a tag [Espacial]. No entanto, este efeito não funciona enquanto você estiver no estado [Voando].
+Um sapato de madeira pontudo, de formato peculiar, apreciado por fadas travessas. Quem os calça recebe a proteção dos espíritos da terra e não sofre a malícia que vem de sob os pés enquanto permanecer no chão. Porém, essa proteção só vale enquanto se está em contato com a terra, então tome cuidado. Basta o menor voo para que a bênção da terra deixe de alcançar quem os usa.</p><hr><p>Raiz da Árvore Espiritual [Material-Base] (680G) + Perneiras (730G) + Pergaminho de Alta Proteção II (520G) + [Catalisador Mágico 19] (340G) ×2 + Custo de Fabricação (1000G)</p>
+
+=== x1jJC7GLEme1T9vF/description
+# R2 Insígnia da Força de Assalto
+<p ⟦a1⟧><span ⟦a2⟧>As habilidades Assassinar, Gambito de Abertura e Eco do Maestro que você adquiriu são tratadas como tendo NH +1 (podem ultrapassar o NH Máximo). Não é possível equipar dois ou mais deste item ao mesmo tempo. [NP12] O efeito de aumentar o NH em 1 é anulado.</span></p>
+<hr>
+<p ⟦a3⟧><span ⟦a4⟧>Um talismã usado por soldados que lutam na linha de frente. Contém uma magia que alivia o medo da batalha e permite demonstrar mais poder que o normal.</span></p>
+<hr>
+<p>Pequeno Fragmento de Prata Apodrecida [Material-Base] (30G) +&nbsp;</p>
+<p>Talismã Aoi (Amuleto da Flor Azul) (60G) +</p>
+<p>[Catalisador Mágico 2] (20G) x 3 +</p>
+<p>Custo de Fabricação (80G)</p>
+
+=== K9Bozrl3M9P6V7Vv/description
+# R2 Anel Duplo do Brasão
+<p>[Momento: Ação] Use ao mesmo tempo que o seu [Ataque Mágico] com "Alcance: 2Qd" ou mais. O alcance desse ataque recebe +1Qd. Pode ser usado uma vez por Cena.</p>
+<hr>
+<p>Um anel com a forma de dois anéis entrelaçados e unidos. A própria forma dele representa um brasão que amplifica o poder mágico.</p>
+<hr>
+<p>Medalha do Vínculo [Material-Base] (30G) + Anel Cinzento (70G) x 2 + [Catalisador Mágico 2] (20G) x 2 + Custo de Fabricação (70G)</p>
+
+=== Z336F1mVOV2Fw5tG/description
+# R2 Bandeira da Revolução
+<p>Segundo-Tenente: (Momento: Iniciativa / Alvo: Individual / Alcance: 4): O alvo pode reduzir o próprio (Ódio) em -2 e aumentar o seu (Ódio) em +2. Limite NP/Cena</p>
+<p>&nbsp;</p>
+<p>(Topo de Ódio): Você recupera 8 PV</p>
+
+=== MJvKKU1GCZO79HCa/description
+# R2 Manto do Espírito do Bosque
+<p>Enquanto você estiver tocando um Objeto de cena que tenha tanto uma tag Natural quanto uma tag Terreno, você recebe +1 em todos os testes, exceto testes de defesa. [NP11] Os modificadores no teste deixam de valer.</p>
+<hr>
+<p>Um manto imbuído das bênçãos de um espírito das árvores. Ao vesti-lo, as plantas e o vento lhe concedem uma pequena ajuda.</p>
+<hr>
+<p>Brotos Verdes Novos [Material-Base] (30G) + Mantelete (60G) + Talismã Aoi (Amuleto da Flor Azul) (60G) + [Catalisador Mágico 2] (20G) x 3 + Custo de Fabricação (100G)</p>
+
+=== wPEQyko1wRaJ7fs7/description
+# R20 Manoplas de Daidoushi
+<p>+8 em [Poder Mágico]. Acrescente +2 ao NH do seu "Código Amplificador" (pode ultrapassar o NH Máximo). Acrescente a tag [Radiância] aos seus "Projéteis Mágicos".
+Uma manopla que só pode ser usada por quem dominou todas as formas de magia e conquistou o título de Grão-Mago. Na verdade, é uma versão refinada de um item para iniciantes, a Manopla do Feiticeiro, e traz gravadas, como advertência, as palavras "Mesmo um mestre não deve esquecer o seu começo".</p><hr><p>Pó de Diamante [Material-Base] (740G) + Manopla do Feiticeiro (380G) + Anel Vermelho (1100G) + [Catalisador Mágico 20] (370G) ×4 + Custo de Fabricação (1740G)</p>
+
+=== uMjQ5mOLR50fPAwN/description
+# R3 Manopla do Feiticeiro
+<p>Você recebe +3 de [Poder Mágico].</p>
+<p>Quando você usa Código Amplificador, mude o efeito de +(NHx3) para +(NHx5).</p>
+<hr>
+<p>Uma manopla incrustada com uma joia que acumula o poder mágico do elemento controlado por quem a usa. Tem o efeito de aumentar o poder mental do dono, permitindo que ele concentre seu poder mágico de forma mais profunda em pouco tempo.</p>
+<hr>
+<p>Pedra Mágica Carmesim [Material-Base] (40G) + Guarda de Sigilos (60G) x 2 + [Catalisador Mágico 3] (25G) x 4 + Custo de Fabricação (120G)</p>
+
+=== UCKz1ezlAw35TlVk/description
+# R4 Cinturão do Espírito da Terra
+<p>[Momento: Ver texto] Use quando você receber o efeito de um Objeto de cena com a tag [Terreno]. Esse efeito é anulado. Uma vez por Cena.
+Calçado fabricado com as técnicas dos nômades fadas da terra. Com a bênção da terra, permite atravessar com facilidade terrenos instáveis.</p><hr><p>Barba de Gigante [Material-Base] (50G) + Botas de Couro (60G) + Botas de Vigor (40G) + [Catalisador Mágico 4] (30G) ×4 + Custo de Fabricação (120G)</p>
+
+=== L6adNruJGfV6aaV0/description
+# R4 Shito no bōshi
+<p><span ⟦a1⟧><span ⟦a2⟧>Você não fica [Confuso].</span></span> <span ⟦a3⟧><span ⟦a4⟧>[Momento: Ação] Use ao mesmo tempo que a sua "Cura".</span></span> <span ⟦a5⟧><span ⟦a6⟧>Acrescente +[seu Poder de Recuperação] à próxima rolagem de dano feita pelo alvo de "Cura" (este efeito é tratado como Estado de Combate e é cancelado assim que for ativado).</span></span> <span ⟦a7⟧><span ⟦a8⟧>Pode ser usado uma vez por Cena.</span></span></p>
+<hr>
+<p><span ⟦a9⟧><span ⟦a10⟧>Um chapéu cerimonial que, dizem, era usado pelos apóstolos de Deus.</span></span> <span ⟦a11⟧><span ⟦a12⟧>Seu poder mágico, símbolo de uma fé profunda, faz com que o poder de cura exercido por quem o usa também eleve o espírito de quem o recebe.</span></span></p>
+<hr>
+<p>Cristal Radiante [Material-Base] (50G) + Faixa de Salgueiro (60G) + Anel Negro (90G) + [Catalisador Mágico 4] (30G) x 4 + Custo de Fabricação (120G)</p>
+
+=== DbXYFOxr7l5l4PrC/description
+# R4 Luvas de Truque
+<p>Exclusivo dos Atacantes com Arma. Acrescente +2 ao seu [Poder de Ataque].</p>
+<p>[Momento: Menor] Você realiza imediatamente Analisar Objeto de Cena ou Desarmar Objeto de Cena.</p>
+<p>[Momento: Instantânea] Você realiza imediatamente Analisar Objeto de Cena ou Desarmar Objeto de Cena. Se você tiver adquirido Caminhada Ligeira, este efeito só pode ser usado uma vez por Cena.</p>
+<hr>
+<p>O dorso da mão é feito de peças delicadas, projetadas para auxiliar movimentos como agarrar e segurar. Mostra seu verdadeiro valor em situações como desarmar e inspecionar armadilhas.</p>
+<hr>
+<table ⟦a1⟧><colgroup><col ⟦a2⟧> </colgroup>
+<tbody>
+<tr ⟦a3⟧>
+<td ⟦a4⟧>Engrenagem de Precisão [Material-Base] (60G)</td>
+</tr>
+<tr ⟦a5⟧>
+<td ⟦a6⟧>Bracelete (60G)</td>
+</tr>
+<tr ⟦a7⟧>
+<td ⟦a8⟧>Luvas do Ladrão (40G)</td>
+</tr>
+<tr ⟦a9⟧>
+<td ⟦a10⟧>[Catalisador Mágico 4] (30G) x3</td>
+</tr>
+<tr ⟦a11⟧>
+<td ⟦a12⟧>Custo de Fabricação (90G)</td>
+</tr>
+</tbody>
+</table>
+
+=== 5DBZb2V2QMYsDine/description
+# R4 Apito de Weser
+<p>O NH das habilidades com a tag [Invocação de Servo] que você adquiriu é tratado como +1 (pode ultrapassar o NH Máximo). Não é possível equipar dois ou mais deste item ao mesmo tempo. [NP14] O efeito de aumentar o NH em 1 é anulado.</p>
+<hr>
+<p>Uma flauta transversal que, segundo dizem, era a favorita de Weser, um invocador da Era dos Deuses. Seu som tem o efeito de inspirar seus seguidores e amplificar o poder deles.</p>
+<hr>
+<p>Pétala Carmesim Brilhante [Material-Base] (60G) + Varinha de Pinho (140G) + [Catalisador Mágico 4] (30G) x 3 + Custo de Fabricação (100G)</p>
+
+=== Vb2uvSDDYk6JXkXp/description
+# R5 Anel da Pulsação
+<p>Sua habilidade Escrituras Sagradas, se adquirida, é tratada como tendo NH +1 (mesmo que ultrapasse o NH Máximo). <br>Se você não a tiver adquirido, ela é tratada como tendo NH 1. <br>Você não pode equipar mais de um deste item ao mesmo tempo. <br>[Momento: Ação] Use ao mesmo tempo que a sua Ressurreição. Remova um Estado Negativo do alvo da Ressurreição.</p>
+<hr>
+<p>Um anel que, dizem, era usado por um grupo de curandeiros famosos da antiga dinastia. As preces depositadas nele fortalecem o poder de cura usado por quem o veste.</p>
+<hr>
+<p>Frasco Catalisador [Material-Base] (60G) + Anel de Cristal (110G) + [Catalisador Mágico 5] (40G) x 4 + Custo de Fabricação (210G)</p>
+
+=== L0UJsxuadkP53t8d/description
+# R5 Elmo Weissen de Fio Vermelho
+<p>Você recebe "Pose Intimidadora" com "Alvo: Amplo 2 (Escolha)". Se você não tiver "Pose Intimidadora", ela é tratada como adquirida com NH1, mas, nesse caso, você não recebe a ampliação de alvo.
+Um elmo deslumbrante, de um vermelho vibrante e acabamento elaborado. Sua presença é tão marcante que atrai a atenção de todos ao redor, mesmo no meio de um campo de batalha.</p><hr><p>々 [Material-Base](80G)+ (80G)+ (110G)+[ 5](40G)×3+Custo de Fabricação(140G)</p>
+
+=== M3bHoD01TUCCMXy6/description
+# R6 Manto do Horror
+<p>Apenas &lt;Lorde Demônio&gt;. Um manto sinistro, perfeito para soltar gargalhadas.</p>

@@ -1,0 +1,14 @@
+# Release build (attached to GitHub Releases, not committed)
+dist/
+
+# Regenerable work files: node tools/extract.mjs, tools/names-src.mjs, tools/refs.mjs, tools/blocks.mjs export
+work/en/
+work/names-src/
+work/*.txt
+
+# OS / editor
+node_modules/
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/

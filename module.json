@@ -1,0 +1,125 @@
+{
+  "id": "lhtrpg-pt-br",
+  "title": "Log Horizon TRPG — Português (Brasil)",
+  "description": "Tradução completa do sistema Log Horizon TRPG para o português do Brasil: interface, fichas, cartões de chat, compêndios (raças, classes, habilidades, itens, bestiário e regras) e os termos de jogo (tags, momento, alcance, alvo, custo, limite e teste), sem alterar os dados que a automação do sistema lê.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "rezendesjoao",
+      "url": "https://github.com/rezendesjoao"
+    }
+  ],
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14.369"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "lhtrpg",
+        "type": "system",
+        "manifest": "https://github.com/DeadlyPoisonK/LHTTRPG/releases/latest/download/system.json",
+        "compatibility": {
+          "minimum": "2.1.0"
+        }
+      }
+    ],
+    "recommends": [
+      {
+        "id": "pt-BR",
+        "type": "module",
+        "reason": "Tradução da interface do próprio Foundry VTT para o português do Brasil."
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/main.mjs"
+  ],
+  "languages": [
+    {
+      "lang": "pt-BR",
+      "name": "Português (Brasil)",
+      "path": "lang/pt-BR.json",
+      "system": "lhtrpg"
+    },
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json",
+      "system": "lhtrpg"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Português (Brasil)",
+      "path": "lang/compendium/races-classes.json",
+      "system": "lhtrpg"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Português (Brasil)",
+      "path": "lang/compendium/skills-basic.json",
+      "system": "lhtrpg"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Português (Brasil)",
+      "path": "lang/compendium/skills-common.json",
+      "system": "lhtrpg"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Português (Brasil)",
+      "path": "lang/compendium/skills-racial.json",
+      "system": "lhtrpg"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Português (Brasil)",
+      "path": "lang/compendium/skills-archetype.json",
+      "system": "lhtrpg"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Português (Brasil)",
+      "path": "lang/compendium/skills-class.json",
+      "system": "lhtrpg"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Português (Brasil)",
+      "path": "lang/compendium/skills-mounts.json",
+      "system": "lhtrpg"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Português (Brasil)",
+      "path": "lang/compendium/gm-ex-powers.json",
+      "system": "lhtrpg"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Português (Brasil)",
+      "path": "lang/compendium/items.json",
+      "system": "lhtrpg"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Português (Brasil)",
+      "path": "lang/compendium/bestiary.json",
+      "system": "lhtrpg"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Português (Brasil)",
+      "path": "lang/compendium/rules.json",
+      "system": "lhtrpg"
+    }
+  ],
+  "url": "https://github.com/rezendesjoao/lhttrpg-br",
+  "manifest": "https://github.com/rezendesjoao/lhttrpg-br/releases/latest/download/module.json",
+  "download": "https://github.com/rezendesjoao/lhttrpg-br/releases/download/v1.0.0/lhtrpg-pt-br.zip",
+  "bugs": "https://github.com/rezendesjoao/lhttrpg-br/issues",
+  "readme": "https://github.com/rezendesjoao/lhttrpg-br/blob/main/README.md",
+  "changelog": "https://github.com/rezendesjoao/lhttrpg-br/blob/main/CHANGELOG.md",
+  "license": "https://github.com/rezendesjoao/lhttrpg-br/blob/main/LICENSE.txt"
+}
