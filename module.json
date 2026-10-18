@@ -2,7 +2,7 @@
   "id": "lhtrpg-pt-br",
   "title": "Log Horizon TRPG — Português (Brasil)",
   "description": "Tradução completa do sistema Log Horizon TRPG para o português do Brasil: interface, fichas, cartões de chat, compêndios (raças, classes, habilidades, itens, bestiário e regras) e os termos de jogo (tags, momento, alcance, alvo, custo, limite e teste), sem alterar os dados que a automação do sistema lê.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "authors": [
     {
       "name": "rezendesjoao",
@@ -117,7 +117,7 @@
   ],
   "url": "https://github.com/rezendesjoao/lhttrpg-br",
   "manifest": "https://github.com/rezendesjoao/lhttrpg-br/releases/latest/download/module.json",
-  "download": "https://github.com/rezendesjoao/lhttrpg-br/releases/download/v1.0.0/lhtrpg-pt-br.zip",
+  "download": "https://github.com/rezendesjoao/lhttrpg-br/releases/download/v1.0.1/lhtrpg-pt-br.zip",
   "bugs": "https://github.com/rezendesjoao/lhttrpg-br/issues",
   "readme": "https://github.com/rezendesjoao/lhttrpg-br/blob/main/README.md",
   "changelog": "https://github.com/rezendesjoao/lhttrpg-br/blob/main/CHANGELOG.md",

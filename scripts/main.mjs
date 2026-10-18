@@ -8,7 +8,7 @@
 import {
   hasTranslations, loadTranslations, translatePackMetadata, translateWorldPackFolders, wrapDatabaseBackend
 } from "./compendium.mjs";
-import { addTagAliases, registerDisplay, translateTicketPresets } from "./display.mjs";
+import { addTagAliases, attempt, registerDisplay, translateTicketPresets } from "./display.mjs";
 import { registerWorldTool } from "./world.mjs";
 
 const MODULE_ID = "lhtrpg-pt-br";
@@ -44,22 +44,22 @@ Hooks.once("init", () => {
     default: true,
     requiresReload: true
   });
-  registerWorldTool();
+  attempt("World tool", registerWorldTool);
 
   // Compendium reads go through the backend from the start; it does nothing until data is loaded.
-  if (setting("compendiums")) wrapDatabaseBackend();
+  if (setting("compendiums")) attempt("Compendium backend", wrapDatabaseBackend);
 });
 
 Hooks.once("i18nInit", () => {
   if ((game.system.id !== SYSTEM_ID) || (game.i18n.lang !== "pt-BR")) return;
 
   // The compendium data travels as language data: take it out of game.i18n in any case.
-  const loaded = loadTranslations();
-  if (loaded && setting("compendiums")) translatePackMetadata();
+  const loaded = attempt("Compendium translations", loadTranslations);
+  if (loaded && setting("compendiums")) attempt("Compendium labels", translatePackMetadata);
 
   if (setting("display")) {
-    addTagAliases();
-    translateTicketPresets();
+    attempt("Tag aliases", addTagAliases);
+    attempt("Ticket names", translateTicketPresets);
     registerDisplay();
   }
 });

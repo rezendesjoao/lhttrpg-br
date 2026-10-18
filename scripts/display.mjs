@@ -249,8 +249,7 @@ function wrapFormat() {
   const i18n = game.i18n;
   if (!i18n || i18n._lhtrpgPtBr) return;
   const original = i18n.format;
-  i18n._lhtrpgPtBr = true;
-  i18n.format = function (key, data = {}) {
+  const format = function (key, data) {
     const fields = FORMAT_VALUES[key];
     if (fields && data && (typeof data === "object")) {
       data = { ...data };
@@ -260,17 +259,38 @@ function wrapFormat() {
     }
     return original.call(this, key, data);
   };
+  // Foundry 14.367 defines `format` on the Localization prototype as a read-only alias of `localize`:
+  // assigning it throws, but an own property of the instance still takes precedence.
+  Object.defineProperty(i18n, "format", { value: format, writable: true, configurable: true });
+  i18n._lhtrpgPtBr = true;
 }
 
-/** Call at `i18nInit`, after the system registered its helpers. */
-export function registerDisplay() {
-  registerHelperWrappers();
-  wrapFormat();
+function registerRenderHooks() {
   Hooks.on("renderApplicationV2", (app, element) => {
     if (isSystemApplication(app, element)) translateElement(element);
   });
   Hooks.on("renderChatMessageHTML", (message, html) => translateElement(html));
-  watchSuggestionMenus();
+}
+
+/**
+ * Run one setup step: a failure is reported and the other steps still run, so a change in Foundry
+ * or in the system costs one part of the translation, not all of it.
+ */
+export function attempt(label, step) {
+  try {
+    return step();
+  }
+  catch (err) {
+    console.warn(`lhtrpg-pt-br | ${label}: setup failed, the rest of the translation still applies.`, err);
+  }
+}
+
+/** Call at `i18nInit`, after the system registered its helpers. */
+export function registerDisplay() {
+  attempt("Handlebars helpers", registerHelperWrappers);
+  attempt("game.i18n.format", wrapFormat);
+  attempt("Render hooks", registerRenderHooks);
+  attempt("Tag suggestion menus", watchSuggestionMenus);
 }
 
 /**

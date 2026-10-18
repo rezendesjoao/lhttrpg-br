@@ -78,6 +78,9 @@ para que nenhuma tradução seja gravada nele por engano.
 - No diário de regras, a folha de consulta (PDF) e as imagens de referência são as originais, em inglês.
 - As pastas de arquétipo (Warrior, Weapon Master, Healer, Mage) e a pasta "Common" das habilidades comuns
   mantêm o nome em inglês: o navegador de habilidades do sistema as procura por esses nomes.
+- Se uma atualização do Foundry ou do sistema quebrar uma parte da tradução, o resto continua funcionando e o
+  console (F12) mostra um aviso que começa com `lhtrpg-pt-br |`. Mande esse aviso ao
+  [relatar o problema](https://github.com/rezendesjoao/lhttrpg-br/issues).
 
 ## Desenvolvimento
 
